@@ -1,2 +1,15 @@
-# mas-russlate
-Unofficial open-source russian translation of Monika After Story.
+# Открытое хранилище перевода - Monika After Story
+Перевод выполнен творческим объединением [«Команда Солицена»](https://github.com/SolicenTEAM) а также энтузиастами переводчиками.
+
+## Привествуем энтузиасты!
+Если вы попали сюда, то вероятно вы хотите внести свой вклад в перевод.
+1. Для этого зарегистрируйтесь на GitHub и вернитесь на эту страницу.
+2. После регистрации, зайдите в папку `Monika After Story` и просмотрите файлы.
+3. Найдите файл с пустой строкой после знака `=`, и добавьте перевод.
+4. Внесите изменения в выбранный файл и подтвердите отправку через `Pull request`.
+
+> Все изменения проходят отбор и проверку на корректность и смысл.
+
+<a href="https://github.com/SolicenTEAM/mas-russlate/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=SolicenTEAM/mas-russlate" />
+</a>
