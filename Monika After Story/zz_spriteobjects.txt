@@ -1,0 +1,414 @@
+
+# "monika_ribbon_select", "EVE"
+= 
+
+# "monika_hair_select", "EVE"
+= 
+
+# "mas_compliment_outfit", "CMP"
+= 
+
+# "mas_compliment_outfit", "CMP"
+= 
+
+# "monika_plushie", "EVE"
+= 
+
+# "monika_plushie", "EVE"
+= 
+
+# "Ponytail"
+= 
+
+# "Do you like my ponytail, [player]?"
+= 
+
+# "Down"
+= 
+
+# "Feels nice to let my hair down..."
+= 
+
+# "Down (Tied strand)"
+= 
+
+# "Feels nice to let my hair down..."
+= 
+
+# "Looks cute, don't you think?"
+= 
+
+# "Braided"
+= 
+
+# "Looks cute, don't you think?"
+= 
+
+# "Thermos (Just Monika)"
+= 
+
+# "Rose"
+= 
+
+# "Golden Music Note"
+= 
+
+# "Pink Diamond"
+= 
+
+# "Witch Hat"
+= 
+
+# "Ze~"
+= 
+
+# "Tea time, tea time. Even if we have coffee, it's tea time. Ehehe~"
+= 
+
+# "Eye of newt, toe of frog..."
+= 
+
+# "Now where did I leave that broom..."
+= 
+
+# "Hairclip (Gray hearts)"
+= 
+
+# "My heart beats for you, [player]~"
+= 
+
+# "Full of love, just like you~"
+= 
+
+# "Hairclip (Pink diamonds)"
+= 
+
+# "Cute!"
+= 
+
+# "Hairclip (Holly)"
+= 
+
+# "Ready to deck the halls, [player]?"
+= 
+
+# "Ribbon (Black)"
+= 
+
+# "That's pretty formal, [player]."
+= 
+
+# "Are we going somewhere special, [player]?"
+= 
+
+# "Ribbon (Black/gray)"
+= 
+
+# "Very versatile."
+= 
+
+# "This goes with so many different outfits!"
+= 
+
+# "Ribbon (Black/pink)"
+= 
+
+# "So cute!"
+= 
+
+# "Ribbon (Blue)"
+= 
+
+# "Like the ocean..."
+= 
+
+# "Great choice, [player]!"
+= 
+
+# "Ribbon (Dark Purple)"
+= 
+
+# "I love that color!"
+= 
+
+# "Lavender is a nice change of pace."
+= 
+
+# "Ribbon (Emerald)"
+= 
+
+# "I've always loved this color..."
+= 
+
+# "It's just like my eyes!"
+= 
+
+# "Ribbon (White)"
+= 
+
+# "Do you miss my old ribbon, [player]?"
+= 
+
+# "Back to the classics!"
+= 
+
+# "Ribbon (Gray)"
+= 
+
+# "Like a warm, rainy day..."
+= 
+
+# "That's a really unique color, [player]."
+= 
+
+# "Ribbon (Green)"
+= 
+
+# "That's a lovely color!"
+= 
+
+# "Green, just like my eyes!"
+= 
+
+# "Ribbon (Light Purple)"
+= 
+
+# "This purple looks pretty nice, right [player]?"
+= 
+
+# "Really has a spring feel to it."
+= 
+
+# "Ribbon (Peach)"
+= 
+
+# "That's beautiful!"
+= 
+
+# "Just like autumn leaves..."
+= 
+
+# "Ribbon (Pink)"
+= 
+
+# "Looks cute, right?"
+= 
+
+# "Good choice!"
+= 
+
+# "Ribbon (Platinum)"
+= 
+
+# "That's an interesting color, [player]."
+= 
+
+# "I'm quite fond of it, actually."
+= 
+
+# "Ribbon (Red)"
+= 
+
+# "Red is a beautiful color!"
+= 
+
+# "Just like roses~"
+= 
+
+# "Ribbon (Ruby)"
+= 
+
+# "That's a beautiful shade of red."
+= 
+
+# "Doesn't it look pretty?"
+= 
+
+# "Ribbon (Sapphire)"
+= 
+
+# "Like a clear summer sky..."
+= 
+
+# "Nice choice, [player]!"
+= 
+
+# "Ribbon (Silver)"
+= 
+
+# "I like the look of this one."
+= 
+
+# "I've always loved silver."
+= 
+
+# "Nice choice, [player]."
+= 
+
+# "Ribbon (Teal)"
+= 
+
+# "Looks really summer-y, right?"
+= 
+
+# "Just like a summer sky."
+= 
+
+# "Ribbon (Wine)"
+= 
+
+# "That's a great color!"
+= 
+
+# "Formal! Are you taking me somewhere special, [player]?"
+= 
+
+# "Ribbon (Yellow)"
+= 
+
+# "This color reminds me of a nice summer day!"
+= 
+
+# "Great choice, [player]!"
+= 
+
+# "True"
+= 
+
+# "Earrings (Pink Diamond)"
+= 
+
+# "Pretty in pink!"
+= 
+
+# "I'm shining like a diamond~"
+= 
+
+# "School Uniform"
+= 
+
+# "Ready for school!"
+= 
+
+# "Black Dress"
+= 
+
+# "Are we going somewhere special, [player]?"
+= 
+
+# "Black and Pink Dress"
+= 
+
+# "Are we going somewhere special, [player]?"
+= 
+
+# "School Uniform (Blazerless)"
+= 
+
+# "Ah, feels nice without the blazer!"
+= 
+
+# "Witch Costume"
+= 
+
+# "Just an ordinary costume, ~ze."
+= 
+
+# "Neko Costume"
+= 
+
+# "n-nya..."
+= 
+
+# "Nya!"
+= 
+
+# "Lingerie (Spider)"
+= 
+
+# "Caught you in my web~"
+= 
+
+# "Don't be scared~"
+= 
+
+# "Don't worry, I don't bite..."
+= 
+
+# "Santa Costume"
+= 
+
+# "Merry Christmas!"
+= 
+
+# "What kind of {i}presents{/i} do you want?"
+= 
+
+# "Happy holidays!"
+= 
+
+# "Lingerie (Santa)"
+= 
+
+# "Would you like to open your present?~"
+= 
+
+# "What kind of {i}presents{/i} do you want?"
+= 
+
+# "Open your present, ehehe~"
+= 
+
+# "All I want for Christmas is you~"
+= 
+
+# "Santa baby~"
+= 
+
+# "What {i}else{/i} do you want to unwrap?~"
+= 
+
+# "Dress (New Years)"
+= 
+
+# "Are we going somewhere special, [player]?"
+= 
+
+# "Very formal!"
+= 
+
+# "Any special occasion, [player]?"
+= 
+
+# "Sundress (White)"
+= 
+
+# "Are we going anywhere special today, [player]?"
+= 
+
+# "I've always loved this outfit..."
+= 
+
+# "Lingerie (Pink Lace)"
+= 
+
+# "Ehehe~"
+= 
+
+# "Do you like what you see, [player]?"
+= 
+
+# "Shirt (NOU)"
+= 
+
+# "No U! Ehehe~"
+= 
+
+# "Ready to draw some more cards?~"
+= 
+
+# "Colorful!"
+= 
+
+# "Up for a game, [player]?"
+= 

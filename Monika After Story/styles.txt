@@ -1,0 +1,51 @@
+
+# "#8C8C8C"
+= 
+
+# "#8C8C8C"
+= 
+
+# "#000000B2"
+= 
+
+# "mod_assets/buttons/checkbox/selected_fancy_check.png"
+= 
+
+# "generic_fancy_check_button_fg_selected"
+= 
+
+# "generic_fancy_check_button_fg_selected_insensitive"
+= 
+
+# "gui/font/Halogen.ttf"
+= 
+
+# "#BFBFBF"
+= 
+
+# "gui/font/Halogen.ttf"
+= 
+
+# "#BFBFBF"
+= 
+
+# "gui/font/Halogen.ttf"
+= 
+
+# "#8C8C8C"
+= 
+
+# "mod_assets/font/SourceHanSansK-Regular.otf"
+= 
+
+# "mod_assets/font/SourceHanSansSC-Regular.otf"
+= 
+
+# "gui/font/Aller_Rg.ttf"
+= 
+
+# "mod_assets/font/SourceHanSansK-Regular.otf"
+= 
+
+# "mod_assets/font/SourceHanSansSC-Regular.otf"
+= 

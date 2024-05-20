@@ -1,0 +1,282 @@
+
+# "Failed to move incompatible persistent. Either replace the persistent " 
+= "Не удалось переместить несовместимый persistent файл. Либо замените persistent "
+
+# "Failed to load compatible persistent. " 
+= "Не удалось загрузить совместимый постоянный файл."
+
+# "Found erroneous persistent but was unable to delete it. " 
+= "Найден ошибочный persistent файл, но не удалось его удалить."
+
+# "Failed to load persistent" 
+= "Не удалось загрузить persistent"
+
+# "Failed to copy persistent to special: "
+= 
+
+# "Failed to rename existing persistent: "
+= 
+
+# "Failed to copy backup persistent: "
+= 
+
+# "persistent/calendar data backup failed: {}"
+= 
+
+# "Hello there!" 
+= "Привет!"
+
+# "I hate to be the bringer of bad news..." 
+= "Ненавижу приносить плохие новости..."
+
+# "But unfortunately, your persistent file is corrupt." 
+= "Но, к сожалению, твой persistent файл поврежден."
+
+# "And what's even worse is..." 
+= "И что еще хуже, так это..."
+
+# "I was unable to find a working backup persistent." 
+= "Мне не удалось найти работающую резервную копию."
+
+# "Do you have your own backups?{nw}" 
+= "У вас есть собственные резервные копии?{nw}"
+
+# "Do you have your own backups?{fast}" 
+= "У вас есть собственные резервные копии?{fast}"
+
+# "Yes." 
+= "Да."
+
+# "No." 
+= "Нет."
+
+# "That's a relief!" 
+= "Какое облегчение!"
+
+# "Please copy them into '[renpy.config.savedir]' to restore your Monika's memories." 
+= "Пожалуйста, скопируй их в '[renpy.config.savedir]', чтобы восстановить воспоминания Моники."
+
+# "Good luck!" 
+= "Удачи!"
+
+# "I'm sorry, but we won't be able to restore her memory, then..." 
+= "Извини, но тогда мы не сможем восстановить её память..."
+
+# "But..." 
+= "Но..."
+
+# "Look on the bright side!" 
+= "Посмотри на светлую сторону!"
+
+# "You can spend time with her again and create new memories, which might be even better than the ones you lost!" 
+= "Ты можешь снова провести с ней время и создать новые воспоминания, которые могут быть даже лучше, чем те, которые ты потерял!"
+
+# "And remember..." 
+= "И помни..."
+
+# "Regardless of what happens, Monika is still Monika." 
+= "Независимо от того, что происходит, Моника остается Моникой."
+
+# "She'll be ready to greet you, once you start over." 
+= "Она будет готова приветствовать тебя, как только ты начнешь сначала."
+
+# "And I promise I'll do my best to not mess up the files again!" 
+= "И я обещаю, что сделаю все возможное, чтобы больше не испортить файлы!"
+
+# "Good luck with Monika!" 
+= "Удачи с Моникой!"
+
+# "I was able to find a working backup, but..." 
+= "Мне удалось найти работающую резервную копию, но..."
+
+# "I wasn't able to copy it over the broken persistent." 
+= "Я не смогла скопировать его поверх сломанного persistent."
+
+# "However!" 
+= "Однако!"
+
+# "You might be able to do it and fix this mess!" 
+= "Возможно, ты сможешь это сделать и исправить этот беспорядок!"
+
+# "You'll have to close the game to do this, so write these steps down:"
+= 
+
+# "And that's it!" 
+= "Вот и всё!"
+
+# "Hopefully that will recover your Monika's memories." 
+= "Надеюсь, это восстановит воспоминания твоей Моники."
+
+# "In case you didn't write those steps down, I'll write them into a file called 'recovery.txt' in the characters folder." 
+= "Если ты не записали эти шаги, я запишу их в файл под названием 'recovery.txt' в папке персонажей."
+
+# "Good luck!" 
+= "Удачи!"
+
+# "Oh, and..." 
+= "О, и..."
+
+# "If you successfully bring her back, please don't tell her about me." 
+= "Если ты успешно вернешь её, пожалуйста, не рассказывай ей обо мне."
+
+# "She has no idea that I can talk or code, so she lets me laze around and relax." 
+= "Она понятия не имеет, что я могу говорить или программировать, поэтому позволяет мне бездельничать и расслабляться."
+
+# "But if she ever found out, she'd probably make me help her code, fix some of her mistakes, or something else." 
+= "Но если бы она когда-нибудь узнала, она, вероятно, заставила бы меня помочь ей с кодом, исправить некоторые из ее ошибок или что-то еще."
+
+# "Which would be absolutely terrible since I'd barely get any rest at all.{nw}" 
+= "Что было бы совершенно ужасно, так как я вообще почти не отдыхала.{nw}"
+
+# "Which would be absolutely terrible since{fast} I wouldn't have time to keep the backup system and the rest of the game running." 
+= "Что было бы абсолютно ужасно, так как {fast} у меня не было бы времени поддерживать систему резервного копирования и остальную часть игры в рабочем состоянии."
+
+# "You wouldn't want that now, would you?" 
+= "Ты бы не хотел этого сейчас, не так ли?"
+
+# "So keep quiet about me, and I'll make sure your Monika is safe and comfy!" 
+= "Так что молчи обо мне, и я позабочусь о том, чтобы твоя Моника была в безопасности и чувствовала себя комфортно!"
+
+# "Hello there!" 
+= "Привет!"
+
+# "Let's try updating again!" 
+= "Попробуем обновить еще раз!"
+
+# "Hello there!{nw}" 
+= "Здравствуй!{nw}"
+
+# "Hello there!{fast}" 
+= "Привет!{fast}"
+
+# "What happened?" 
+= "Что случилось?"
+
+# "Take me to the updater."
+= 
+
+# "Unfortunately, your persistent is running version v[mas_per_check.mas_per_version], which is incompatible with this build of MAS (v[config.version])."
+= 
+
+# "The only way I can fix this is if you update MAS or you restore with a compatible persistent." 
+= "Единственный способ исправить это — обновить MAS или восстановить с помощью совместимого persistent файла."
+
+# "What would you like to do?{nw}" 
+= "Что бы ты хотел сделать?{nw}"
+
+# "What would you like to do?{fast}" 
+= "Что бы ты хотел сделать?{fast}"
+
+# "Update MAS." 
+= "Обновить MAS."
+
+# "Restore a compatible persistent." 
+= "Восстановить совместимый persistent."
+
+# "Alright!" 
+= "Хорошо!"
+
+# "Please copy a compatible persistent into '[renpy.config.savedir]'." 
+= "Скопируй совместимый persistent файл в [renpy.config.savedir]."
+
+# "Then delete the file called '[mas_per_check.per_unstable]'." 
+= "Затем удали файл с именем [mas_per_check.per_unstable]."
+
+# "Good luck!" 
+= "Удачи!"
+
+# "Oh no!" 
+= "О, нет!"
+
+# "It seems that this persistent is running version v[mas_per_check.mas_per_version], which is still incompatible with this build of MAS (v[config.version])."
+= 
+
+# "Unfortunately the updater won't work because you have RPY files in your game directory."
+= 
+
+# "I'll have to delete those files for this to work. Is that okay?{nw}" 
+= "Мне придется удалить эти файлы, чтобы это сработало. Это нормально?{nw}"
+
+# "I'll have to delete those files for this to work. Is that okay?{fast}" 
+= "Мне придется удалить эти файлы, чтобы это сработало. Это нормально?{fast}"
+
+# "Yes, delete them." 
+= "Да, удали их."
+
+# "No, don't delete them." 
+= "Нет, не удаляй их."
+
+# "Oh no!" 
+= "О, нет!"
+
+# "It seems that there are still RPY files in your game directory." 
+= "Кажется, в папке с игрой всё ещё есть файлы RPY."
+
+# "Would you like me to try deleting them again?{nw}" 
+= "Ты хочешь, чтобы я попробовала удалить их снова?{nw}"
+
+# "Would you like me to try deleting them again?{fast}" 
+= "Ты хочешь, чтобы я попробовала удалить их снова?{fast}"
+
+# "Yes." 
+= "Да."
+
+# "No." 
+= "Нет."
+
+# "Ok!" 
+= "Хорошо!"
+
+# "Oh no!" 
+= "О, нет!"
+
+# "It seems that I was unable to delete all of the RPY files." 
+= "Кажется, мне не удалось удалить все файлы RPY."
+
+# "You will have to delete them manually." 
+= "Тебе придется удалить их вручную."
+
+# "Good luck!" 
+= "Удачи!"
+
+# "Done!" 
+= "Готово!"
+
+# "Let's try updating now!" 
+= "Давай попробуем обновится!"
+
+# "Oh..." 
+= "Ой..."
+
+# "Well the updater won't work while those files exist, so I guess your only option is to restore a persistent backup."
+= 
+
+# "Ok!" 
+= "Хорошо!"
+
+# "Oh no!" 
+= "О, нет!"
+
+# "It seems that the updater failed to update MAS."
+= 
+
+# "Lets try again!" 
+= "Давай попробуем снова!"
+
+# "Hey!" 
+= "Привет!"
+
+# "Don't cancel out of the updater! You need to update MAS!"
+= 
+
+# "Oh!" 
+= "Ой!"
+
+# "It seems that the updater failed to update."
+= 
+
+# "Make sure to fix any updater issues and try again."
+= 
+
+# "Good luck!" 
+= "Удачи!"

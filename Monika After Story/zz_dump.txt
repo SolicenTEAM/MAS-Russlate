@@ -1,0 +1,42 @@
+
+# "N/A"
+= 
+
+# "\n[MOST]: "
+= 
+
+# "N/A"
+= 
+
+# "N/A"
+= 
+
+# "No session data found."
+= 
+
+# "first_session", "N/A"
+= 
+
+# "current_session_start", "N/A"
+= 
+
+# "last_session_end", "N/A"
+= 
+
+# "N/A"
+= 
+
+# "N/A"
+= 
+
+# "N/A"
+= 
+
+# "N/A"
+= 
+
+# "EATEN" if consumable.consumable_type == store.mas_consumables.TYPE_FOOD else "DRANK"
+= 
+
+# "EATEN" if consumable.consumable_type == store.mas_consumables.TYPE_FOOD else "DRANK"
+= 

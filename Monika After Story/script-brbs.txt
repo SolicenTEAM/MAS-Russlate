@@ -1,0 +1,651 @@
+
+# "So, what else did you want to do today?" 
+= "Итак, что ещё ты хотел сделать сегодня?"
+
+# "What else did you want to do today?" 
+= "Что ещё ты хотел сделать сегодня?"
+
+# "Is there anything else you wanted to do today?" 
+= "Есть что-нибудь ещё, что ты хотел сделать сегодня?"
+
+# "What else should we do today?" 
+= "Что ещё мы должны сделать сегодня?"
+
+# "All done?" 
+= "Уже всё?"
+
+# "Welcome back." 
+= "С возвращением."
+
+# "..."
+= 
+
+# "I'll be right back" 
+= "Я скоро вернусь"
+
+# "Alright, [player]." 
+= "Хорошо, [player]."
+
+# "I'm going to get something." 
+= "Я собираюсь получить что-то."
+
+# "I'm going to do something." 
+= "Я собираюсь что-то сделать."
+
+# "I'm going to make something." 
+= "Я собираюсь сделать что-нибудь."
+
+# "I have to check something." 
+= "Я должен кое-что проверить."
+
+# "Someone's at the door." 
+= "Кто-то у двери."
+
+# "Nope." 
+= "Неа."
+
+# "Doing anything specific?" 
+= "Делаешь что-то конкретное?"
+
+# "Hurry back, I'll be waiting here for you~" 
+= "Быстрее возвращайся, я буду ждать тебя~"
+
+# "Hurry back, I'll be waiting here for you~" 
+= "Быстрее возвращайся, я буду ждать тебя~"
+
+# "Hurry back, [player]!" 
+= "Поторопись, [player]!"
+
+# "..."
+= 
+
+# "Welcome back, [player]. I missed you~" 
+= "С возвращением, [player]. Я скучала по тебе~"
+
+# "Welcome back, [player]!" 
+= "С возвращением, [player]!"
+
+# "I'm going to write for a bit" 
+= "Я собираюсь немного написать"
+
+# "Oh! You're going to{fast} go write something?" 
+= "О! Ты собираешься{fast} пойти что-нибудь написать?"
+
+# "Oh! You're going to go write something?" 
+= "О! Ты собираешься что-нибудь написать?"
+
+# "That makes me so glad!" 
+= "Это делает меня счастливой!"
+
+# "I'd love to read your work, [player]!" 
+= "Я хотела бы прочитать твою работу, [player]!"
+
+# "Anyway, just let me know when you're done." 
+= "В любом случае, просто дай мне знать, когда закончишь."
+
+# "I'll be waiting right here for you~" 
+= "Я буду ждать тебя здесь~"
+
+# "Alright." 
+= "Хорошо."
+
+# "I wonder what you have on your mind..." 
+= "Интересно, что у тебя на уме..."
+
+# "Don't forget to come back when you're done..." 
+= "Не забудь вернуться, когда закончишь..."
+
+# "..."
+= 
+
+# "Done writing, [player]?" 
+= "Закончил писать, [player]?"
+
+# "I'm going to take a shower" 
+= "Я собираюсь принять душ"
+
+# "Going to go shower?" 
+= "Собираешься в душ?"
+
+# "Can I come with you?{nw}" 
+= "Можно я пойду с тобой?{nw}"
+
+# "Can I come with you?{fast}" 
+= "Можно я пойду с тобой?{fast}"
+
+# "Yes." 
+= "Да."
+
+# "Well..." 
+= "Что ж..."
+
+# "I'm afraid you'll just have to go without me while I'm stuck here." 
+= "Боюсь, пока я здесь застряла, тебе придется идти без меня."
+
+# "Sorry, [player], ahaha!" 
+= "Извини, [player], а-ха-ха!"
+
+# "Maybe another time~" 
+= "Может, в другой раз~"
+
+# "No." 
+= "Нет."
+
+# "Aw, you rejected me so fast." 
+= "Ой, ты так быстро отверг меня."
+
+# "Are you shy, [player]?" 
+= "Ты стесняешься, [player]?"
+
+# "Ahaha!" 
+= "Ахаха!"
+
+# "Alright, I won't follow you this time, ehehe~" 
+= "Хорошо, на этот раз я не пойду за тобой, эхехе~"
+
+# "I'm glad you're keeping yourself clean, [player]." 
+= "Я рада, что ты держишь себя в чистоте, [player]."
+
+# "Have a nice shower~" 
+= "Приятного душа~"
+
+# "Going to go shower? Alright." 
+= "Идёшь в душ? Ладно."
+
+# "See you when you're done~" 
+= "Увидимся, когда закончишь~"
+
+# "Enjoy your shower, [player]..." 
+= "Насладись этим душом, [player]..."
+
+# "Hopefully it'll help you clear your mind." 
+= "Надеюсь, это поможет тебе очистить свой разум."
+
+# "..."
+= 
+
+# "That sure was a long time for a shower..." 
+= "Я уверена, что нельзя столько времени принимать душ..."
+
+# "Did you take a bath instead?{nw}" 
+= "Ты принял ванную вместо него?{nw}"
+
+# "Did you take a bath instead?{fast}" 
+= "Ты принял ванну вместо него?{fast}"
+
+# "Yes." 
+= "Да."
+
+# "I hope it was nice and relaxing!" 
+= "Надеюсь, это было приятно и расслабляюще!"
+
+# "No." 
+= "Нет."
+
+# "...Or maybe I'm overthinking this and you just didn't come back right away, ahaha!"
+= 
+
+# "Welcome back, [player]." 
+= "С возвращением, [player]."
+
+# "monikaroom_greeting_ear_bathdinnerme"
+= 
+
+# "You could just relax with me some more~" 
+= "Ты мог бы просто расслабиться со мной ещё немного~"
+
+# "Ahaha!" 
+= "Ахаха!"
+
+# "I hope you had a nice shower." 
+= "Надеюсь, ты хорошо помылся."
+
+# "Now we can get back to having some good, {i}clean{/i} fun together..." 
+= "Теперь мы можем снова {i}чисто{/i} повеселиться вместе..."
+
+# "Ahaha!" 
+= "Ахаха!"
+
+# "Did you miss me?" 
+= "Ты скучал по мне?"
+
+# "Of course you did, ehehe~" 
+= "Конечно, эхехе~"
+
+# "That was a pretty short shower, [player]..." 
+= "Это был довольно короткий душ, [player]..."
+
+# "I guess you must just be really efficient, ahaha!" 
+= "Я думаю, ты должен быть более гигиеничным, а-ха-ха!"
+
+# "I certainly can't complain, it just means more time together~" 
+= "Конечно, я не могу жаловаться, это просто означает что мы проведём больше времени вместе~"
+
+# "Ehehe~" 
+= "Э-хе-хе~"
+
+# "Nevermind that, [player]." 
+= "Неважно, [player]."
+
+# "I hope you have a nice shower!" 
+= "Надеюсь, ты хорошо принял душ!"
+
+# "monika_idle_shower", "monika_idle_shower_callback"
+= 
+
+# "I'm going to game for a bit" 
+= "Я немного поиграю"
+
+# "Oh, you're going to play another game?" 
+= "О, ты собираешься играть в другую игру?"
+
+# "That's alright, [player]." 
+= "Всё в порядке, [player]."
+
+# "Good luck, have fun!" 
+= "Удачи повеселиться!"
+
+# "Enjoy your game!" 
+= "Наслаждайся игрой!"
+
+# "I'll be cheering you on!" 
+= "Я буду тебя подбадривать!"
+
+# "Do your best!" 
+= "Постарайся!"
+
+# "Enjoy your other games." 
+= "Наслаждайся другими играми."
+
+# "don't forget about me..." 
+= "не забывай обо мне..."
+
+# "..."
+= 
+
+# "Welcome back, [player]!" 
+= "С возвращением, [player]!"
+
+# "I hope you had fun with your game." 
+= "Надеюсь, ты получили удовольствие от своей игры."
+
+# "Ready to spend some more time together? Ehehe~" 
+= "Готов провести ещё немного времени вместе? Эхехе~"
+
+# "Had fun, [player]?" 
+= "Повеселился, [player]?"
+
+# "..."
+= 
+
+# "I'm going to code for a bit" 
+= "Я собираюсь немного позаниматься программированием."
+
+# "Oh! Going to code something?" 
+= "О! Собираешься что-то программировать?"
+
+# "I thought you didn't do that." 
+= "Я не думала, что ты это умеешь."
+
+# "Did you pick up programming since we talked about it last time?" 
+= "Ты начал программировать с тех пор, как мы говорили об этом в прошлый раз?"
+
+# "Something for me, perhaps?" 
+= "Что-нибудь для меня, может быть?"
+
+# "Ahaha~" 
+= "Ахаха~"
+
+# "Do your best to keep your code clean and easy to read." 
+= "Сделай всё возможное, чтобы твой код был чистым и легко читаемым."
+
+# "...You'll thank yourself later!"
+= 
+
+# "Anyway, just let me know when you're done." 
+= "В любом случае, просто дай мне знать, когда закончишь."
+
+# "I'll be right here, waiting for you~" 
+= "Я буду здесь, буду ждать тебя~"
+
+# "Oh, you're going to code?" 
+= "О, ты собираешься кодировать?"
+
+# "Well, don't let me stop you." 
+= "Ну, не дай мне остановить тебя."
+
+# "Alright." 
+= "Хорошо."
+
+# "..."
+= 
+
+# "Done for now, [player]?" 
+= "Готово, [player]?"
+
+# "Oh, done already, [player]?" 
+= "О, уже готово, [player]?"
+
+# "I'm going to work out for a bit" 
+= "Я собираюсь немного потренироваться"
+
+# "Okay, [player]!" 
+= "Хорошо, [player]!"
+
+# "Working out is a great way to take care of yourself!" 
+= "Тренировки — отличный способ позаботиться о себе!"
+
+# "It's good to know you're taking care of your body!" 
+= "Приятно знать, что ты заботишься о своем теле!"
+
+# "You know how the saying goes, 'A healthy mind in a healthy body.'"
+= 
+
+# "So go work up a good sweat, [player]~" 
+= "Так что иди хорошенько попотей, [player]~"
+
+# "Just let me know when you've had enough." 
+= "Просто дай мне знать, когда тебе надоест."
+
+# "Good to know you're taking care of{fast} yourself, [player]." 
+= "Приятно знать, что ты{fast} заботишься о себе, [player]."
+
+# "I'll be waiting for you to get back." 
+= "Я буду ждать, когда ты вернешься."
+
+# "Alright." 
+= "Хорошо."
+
+# "..."
+= 
+
+# " That must've been one heck of a workout."
+= 
+
+# "It's good to push your limits, but you shouldn't overdo it." 
+= "Раздвигать границы — это хорошо, но не переусердствуй."
+
+# "Done with your workout, [player]?" 
+= "Завершил тренировку, [player]?"
+
+# "Back already, [player]?" 
+= "Уже вернулся, [player]?"
+
+# "I'm sure you can go on for a bit longer if you try." 
+= "Я уверена, что ты сможешь продержаться ещё немного, если постараешься."
+
+# "Taking breaks is fine, but you shouldn't leave your workouts unfinished." 
+= "Перерывы — это хорошо, но ты не должен оставлять тренировки незавершенными."
+
+# "Are you sure you can't keep going?{nw}" 
+= "Ты уверен, что не можете продолжать?{nw}"
+
+# "Are you sure you can't keep going?{fast}" 
+= "Ты уверен, что не можешь продолжать?{fast}"
+
+# "I'm sure." 
+= "Я уверен."
+
+# "That's okay." 
+= "Это нормально."
+
+# "I'm sure you did your best, [player]~" 
+= "Я уверена, что ты сделал все возможное, [player]~"
+
+# "I'll try to keep going." 
+= "Я постараюсь продолжать."
+
+# "That's the spirit!" 
+= "Вот это дух!"
+
+# "Make sure to rest properly and maybe get a snack to get some energy back." 
+= "Обязательно отдохни как следует и, возможно, перекуси, чтобы восстановить энергию."
+
+# "Done with your workout, [player]?" 
+= "Завершил тренировку, [player]?"
+
+# "I'm going to take a nap" 
+= "Я собираюсь вздремнуть"
+
+# "Going to take a nap, [player]?" 
+= "Собираешься вздремнуть, [player]?"
+
+# "They're a healthy way to rest during the day if you're feeling tired." 
+= "Это здоровый способ отдохнуть в течение дня, если ты чувствуешь усталость."
+
+# "I'll watch over you, don't worry~" 
+= "Я присмотрю за тобой, не волнуйся~"
+
+# "Sweet dreams!" 
+= "Сладких снов!"
+
+# "Alright, I hope you feel rested afterwards." 
+= "Хорошо, надеюсь, после этого ты отдохнешь."
+
+# "I hear naps are good for you, [player]." 
+= "Я слышала, что сон полезен для тебя, [player]."
+
+# "Alright." 
+= "Хорошо."
+
+# "..."
+= 
+
+# "Oh, [player]! You're finally awake!" 
+= "О, [player]! Наконец-то ты проснулся!"
+
+# "When you said you were going to take a nap, I was expecting you take maybe an hour or two..." 
+= "Когда ты сказал, что собираешься вздремнуть, я ожидала, что ты потратишь, может быть, час или два..."
+
+# "I guess you must have been really tired, ahaha..." 
+= "Я думаю, ты, должно быть, очень устал, ахаха..."
+
+# "But at least after sleeping for so long, you'll be here with me for a while, right?" 
+= "Но, по крайней мере, после столь долгого сна ты будешь здесь со мной какое-то время, верно?"
+
+# "Ehehe~" 
+= "Э-хе-хе~"
+
+# "Welcome back, [player]!" 
+= "С возвращением, [player]!"
+
+# "Did you have a nice nap?" 
+= "Ты хорошо вздремнул?"
+
+# "You were out for some time, so I hope you're feeling rested~" 
+= "Тебя не было какое-то время, так что, надеюсь, ты отдохнул~"
+
+# "Welcome back, [player]~" 
+= "С возвращением, [player]~"
+
+# "I hope you had a nice little nap." 
+= "Надеюсь, ты хорошо вздремнул."
+
+# "Oh, back already?" 
+= "О, уже вернулся?"
+
+# "Did you change your mind?" 
+= "Ты передумал?"
+
+# "Well, I'm not complaining, but you should take a nap if you feel like it later." 
+= "Ну, я не жалуюсь, но ты должен вздремнуть позже, если захочешь."
+
+# "I wouldn't want you to be too tired, after all." 
+= "В конце концов, я бы не хотела, чтобы ты слишком устал."
+
+# "Done with your nap, [player]?" 
+= "Закончил дремать, [player]?"
+
+# "I'm going to do some homework" 
+= "Я собираюсь сделать домашнее задание"
+
+# "Oh, okay!" 
+= "Ох, ладно!"
+
+# "I'm proud of you for taking your studies seriously." 
+= "Я горжусь тобой за то, что ты серьезно относишься к учебе."
+
+# "Don't forget to come back to me when you're done~" 
+= "Не забудь вернуться ко мне, когда закончишь~"
+
+# "...Good luck with your homework, [player]."
+= 
+
+# "..."
+= 
+
+# "All done, [player]?" 
+= "Всё готово, [player]?"
+
+# "I wish I could've been there to help you, but there isn't much I can do about that just yet, sadly." 
+= "Я хотела бы быть там, чтобы помочь тебе, но, к сожалению, я пока мало что могу с этим поделать."
+
+# "I'm sure we could both be a lot more efficient doing homework if we could work together." 
+= "Я уверена, что мы оба могли бы намного эффективнее выполнять домашнюю работу, если бы работали вместе."
+
+# "...Although, that's assuming we don't get {i}too{/i} distracted, ehehe..."
+= 
+
+# "now that you're done, let's enjoy some more time together." 
+= "Теперь, когда ты закончил, давай проведем ещё немного времени вместе."
+
+# "..."
+= 
+
+# "I'm going to work on something" 
+= "Я собираюсь поработать над чем-то"
+
+# "Alright, [player]." 
+= "Хорошо, [player]."
+
+# "Don't forget to take a break every now and then!" 
+= "Не забывай время от времени делать перерыв!"
+
+# "I wouldn't want my sweetheart to spend more time on [his] work than with me~" 
+= "Я бы не хотела, чтобы мой возлюбленный тратил на свою работу больше времени, чем на меня~"
+
+# "Good luck with your work!" 
+= "Удачи в работе!"
+
+# "Okay, [player]." 
+= "Хорошо, [player]."
+
+# "...Please come back soon..."
+= 
+
+# "..."
+= 
+
+# "Finished with your work, [player]?" 
+= "Закончил свою работу, [player]?"
+
+# "Then let's relax together, you've earned it~" 
+= "Тогда давай расслабимся вместе, ты это заслужил~"
+
+# "Oh, you're back..." 
+= "О, ты вернулся..."
+
+# "...Was there anything else you wanted to do, now that you're done with your work?"
+= 
+
+# "..."
+= 
+
+# "My eyes need a break from the screen" 
+= "Моим глазам нужно отдохнуть от экрана"
+
+# "You haven't been here for that long but if you say you need a break, then you need a break." 
+= "Ты здесь не так давно, но если ты говоришь, что тебе нужен перерыв, значит, тебе нужен перерыв."
+
+# "Going to rest your eyes for a bit?" 
+= "Собираешься дать глазам отдохнуть?"
+
+# "Yeah, you probably need that, don't you?" 
+= "Да, наверное, тебе это нужно, не так ли?"
+
+# "I'm glad you're taking care of your health, [player]." 
+= "Я рада, что ты заботишься о своем здоровье, [player]."
+
+# "Why not take the opportunity to do a few stretches as well, hmm?" 
+= "Почему бы не воспользовать этой возможностью, и сделать еще и несколько потягиваний, хм?"
+
+# "Anyway, come back soon!~" 
+= "В любом случае, возвращайся скорее!~"
+
+# "Come back soon!~" 
+= "Возвращайся скорее!~"
+
+# "Taking another break, [player]?" 
+= "Сделаешь ещё один перерыв, [player]?"
+
+# "Come back soon!~" 
+= "Возвращайся скорее!~"
+
+# "Okay." 
+= "Хорошо."
+
+# "Alright." 
+= "Хорошо."
+
+# "..."
+= 
+
+# "Welcome back, [player]." 
+= "С возвращением, [player]."
+
+# "You must've really needed that break, considering how long you were gone." 
+= "Тебе, должно быть, действительно нужен был этот перерыв, учитывая, как долго ты отсутствовал."
+
+# "I hope you're feeling a little better now." 
+= "Надеюсь, теперь ты чувствуешь себя немного лучше."
+
+# "I hope you're feeling a little better now~" 
+= "Надеюсь, теперь ты чувствуешь себя немного лучше~"
+
+# "I'm going to read" 
+= "Я собираюсь читать"
+
+# "Really? That's great, [player]!" 
+= "Правда? Это здорово, [player]!"
+
+# "I'd love to read with you, but my reality has its limits, unfortunately." 
+= "Я бы с удовольствием почитала с тобой, но, к сожалению, моя реальность имеет свои пределы."
+
+# "Have fun!" 
+= "Повеселись там!"
+
+# "Oh, alright..." 
+= "О, хорошо..."
+
+# "Have a good time, [player]." 
+= "Хорошо проведи время, [player]."
+
+# "..."
+= 
+
+# "Reading is a wonderful thing, so don't worry about getting too caught up in it." 
+= "Чтение — замечательная вещь, так что не беспокойся о том, чтобы слишком увлечься этим."
+
+# "Besides, it's not like I'm one to talk..." 
+= "Кроме того, я не из тех, кто болтает..."
+
+# "If I had my way, we'd be reading together all night long~" 
+= "Если бы я хотела, мы бы читали вместе всю ночь~"
+
+# "monika_idle_reading"
+= 
+
+# "All done, [player]?" 
+= "Всё готово, [player]?"
+
+# "Let's relax, you've earned it~" 
+= "Давай расслабимся, ты это заслужил~"
+
+# "Oh, that was fast." 
+= "О, это было быстро."
+
+# "I thought you'd be gone a little while longer, but this is fine too." 
+= "Я думала, что тебя не будет ещё немного, но это тоже хорошо."
+
+# "After all, it lets me spend more time with you~" 
+= "В конце концов, это позволяет мне проводить с тобой больше времени~"

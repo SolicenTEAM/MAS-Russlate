@@ -1,0 +1,195 @@
+
+# "Hi, [player],\n" 
+= "Привет, [player],\n"
+
+# "Just letting you know I'm running low on a couple of things.\n" 
+= "Просто сообщаю, что у меня заканчиваются кое-какие вещи.\n"
+
+# "You wouldn't mind getting some more for me, would you?\n\n" 
+= "Не мог бы вы принести мне ещё?\n\n"
+
+# "Here's a list of what I'm running out of:\n"
+= 
+
+# "Thanks, [player]~" 
+= "Спасибо, [player]~"
+
+# "mas_consumables_candycane_finish_having"
+= 
+
+# "Christmas cookie" 
+= "Рождественское печенье"
+
+# "mas_finished_eating"
+= 
+
+# "s" if dlg_props.get(mas_consumables.PROP_PLUR, False) else ""
+= 
+
+# "I'm going to get [mas_a_an_str(container)] of [consumable.disp_name][plur]." 
+= "Я собираюсь получить [mas_a_an_str(container)] из [consumable.disp_name][plur]."
+
+# "I'm going to get [mas_a_an_str(obj_ref)] of [consumable.disp_name][plur]." 
+= "Я собираюсь получить [mas_a_an_str(obj_ref)] из [consumable.disp_name][plur]."
+
+# "I'm going to get [a_an] [consumable.disp_name][plur]." 
+= "Я собираюсь получить [a_an] [consumable.disp_name][plur]."
+
+# "Hold on a moment." 
+= "Задержись на секундочку."
+
+# "Okay, what else should we do today?" 
+= "Хорошо, что ещё мы должны сделать сегодня?"
+
+# "s" if dlg_props.get(mas_consumables.PROP_PLUR, False) else ""
+= 
+
+# "I'm going to put this [container] away." 
+= "Я собираюсь убрать этот [container]."
+
+# "I'm going to get another [container]." 
+= "Я собираюсь получить ещё один [container]."
+
+# "I'm going to put this away." 
+= "Я собираюсь убрать это."
+
+# "I'm going to get another [obj_ref]." 
+= "Я собираюсь получить ещё один [obj_ref]."
+
+# "I'm going to put this away." 
+= "Я собираюсь убрать это."
+
+# "I'm going to get another one." 
+= "Я собираюсь получить ещё один."
+
+# "Hold on a moment." 
+= "Задержись на секундочку."
+
+# "mas_consumables_generic_queued_running_out"
+= 
+
+# "Hey, [player]...",), "Topic Alerts" 
+= "Эй, [player]...",), "Оповещёния по темам"
+
+# "Okay, what else should we do today?" 
+= "Хорошо, что ещё мы должны сделать сегодня?"
+
+# "s" if dlg_props.get(mas_consumables.PROP_PLUR, False) else ""
+= 
+
+# "Oh, my [consumable.disp_name][plur] [is_are] ready." 
+= "О, мой [consumable.disp_name][plur] готов."
+
+# "Hold on a moment." 
+= "Задержись на секундочку."
+
+# "Okay, what else should we do today?" 
+= "Хорошо, что ещё мы должны сделать сегодня?"
+
+# "I'd duplicate what I have now...but when I tried before, it just wasn't the same..." 
+= "Я бы продублировала то, что у меня есть сейчас... но когда я пыталась раньше, это было не то же самое..."
+
+# "I guess I must be missing something because I just can't seem to replicate the taste." 
+= "Думаю, я что-то упускаю, потому что я просто не могу воспроизвести вкус."
+
+# "...Or maybe it's your everlasting love that makes it special~"
+= 
+
+# "By the way, [player]..." 
+= "Кстати, [player]..."
+
+# "s" if dlg_props.get(mas_consumables.PROP_PLUR, False) else ""
+= 
+
+# "I just wanted to let you know I only have [about][amt_left] [line_ender]" 
+= "Я просто хотела, чтобы ты знал, что у меня есть только [about][amt_left] [line_ender]"
+
+# "I just wanted to let you know that I'm out of [consumable.disp_name][plur]." 
+= "Я просто хотела сообщить тебе, что у меня закончился [consumable.disp_name][plur]."
+
+# "You wouldn't mind getting some more for me, would you?" 
+= "Не мог бы ты принести мне ещё, не так ли?"
+
+# "s" if dlg_props.get(mas_consumables.PROP_PLUR, False) else ""
+= 
+
+# "Hey, [player]...",), "Topic Alerts" 
+= "Эй, [player]...",), "Оповещёния по темам"
+
+# "I only have one [line_ender]" 
+= "У меня есть только один [line_ender]"
+
+# "Would you mind getting me some more sometime?" 
+= "Не мог бы ты как-нибудь принести мне ещё?"
+
+# "Thanks~" 
+= "Спасибо~"
+
+# "By the way, [player]..." 
+= "Кстати, [player]..."
+
+# "I've been running out of a few things in here..." 
+= "У меня тут кое-что кончилось..."
+
+# "So I hope you don't mind, but I left you a list of things in the characters folder." 
+= "Надеюсь, ты не возражаешь, но я оставила тебе список вещёй в папке с персонажами."
+
+# "I'm running out of [items_running_out_of]." 
+= "У меня заканчиваются [items_running_out_of]."
+
+# "You wouldn't mind getting [them] for me, would you?" 
+= "Вы бы не возражали получить [them] для меня, не так ли?"
+
+# "Give me a second [player], I'm going to put this thermos away." 
+= "Дай мне секунду [player], я уберу этот термос."
+
+# "Okay, what else should we do today?" 
+= "Хорошо, что ещё мы должны сделать сегодня?"
+
+# "mas_consumables_candycane_finish_having"
+= 
+
+# "I'm going to get some more candy canes." 
+= "Я собираюсь взять ещё несколько леденцов."
+
+# "Hold on a moment." 
+= "Задержись на секундочку."
+
+# "Okay, what else should we do today?" 
+= "Хорошо, что ещё мы должны сделать сегодня?"
+
+# "Are you running out of anything?"
+= 
+
+# "MASConsumable._getEnabledConsumables()"
+= 
+
+# "but I'll be sure to let you know if I do~"
+= 
+
+# "I've been running out of [items_running_out_of]."
+= 
+
+# "I'd appreciate if you could get some for me~"
+= 
+
+# "Back!"
+= 
+
+# "I'm actually running out of a few things..."
+= 
+
+# "I hope you don't mind, but I left you a list of things in the characters folder."
+= 
+
+# "You wouldn't mind getting them for me, would you?"
+= 
+
+# "I'm running out of [items_running_out_of]." 
+= "У меня заканчиваются [items_running_out_of]."
+
+# "You wouldn't mind getting some more for me, would you?" 
+= "Не мог бы ты принести мне ещё, не так ли?"
+
+# "but I'll be sure to let you know if I do~"
+= 

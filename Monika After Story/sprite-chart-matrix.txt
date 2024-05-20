@@ -1,0 +1,18 @@
+
+# "True"
+= 
+
+# "store.mas_current_background.isFltDay()"
+= 
+
+# "store.mas_current_background.isFltNight()"
+= 
+
+# "MASFilterWeatherMap does not have default "
+= 
+
+# "precip type set in the fallback chain for "
+= 
+
+# "MASFilterWeatherMap does not have a default "
+= 

@@ -1,0 +1,460 @@
+==== screens ====
+
+# $"Sensitive mode removes content that may be disturbing, offensive, " 
+= "Чувствительный режим удаляет контент который может шокировать, взбудоражить, "
+
+# "Unstable mode downloads updates from the experimental unstable " 
+= "При 'нестабильном режиме' обновления загружаются из экспрементальной и нестабильной "
+
+# "branch of development. It is HIGHLY recommended to make a backup " 
+= "ветки разработки. СТРОГО рекомендуется сделать резервную копию "
+
+# "Unstable cannot be disabled until the next stable release." 
+= "Нестальный режим не может быть отключен до выхода нового стабильного обновления."
+
+# "Enable this to let Monika repeat topics that you have already seen." 
+= "Включите если хотите чтобы Моника повторяла болтовню которую уже говорила раньше."
+
+# "Enabling this will let Monika use your system's notifications and check if MAS is your active window "
+= 
+
+# "If enabled, a custom notification sound will play for Monika's notifications " 
+= "Если включено, то будет проигрываться нестандартный звук для уведомлений Моники."
+
+# "Enables notifications for the selected group." 
+= "Включает уведомления для выбранной группы."
+
+# "Enabling this will allow Monika to see your active window " 
+= "При активации разрешает видеть Монике ваше активное окно и делать " 
+
+# "The updates have been installed. Please reopen Monika After Story.\n\n" 
+= "Обновления были установлены. Пожалуйста перезапустите Монику После Истории.\n\n"
+
+# "Get spritepacks {a=http://monikaafterstory.com/releases.html}{i}{u}from our website{/u}{/i}{/a}.\n"
+= 
+
+# "See the patch notes {a=https://github.com/Monika-After-Story/MonikaModDev/releases/latest}{i}{u}here{/u}{/i}{/a}.\n"
+= 
+
+# "Confused about some features? Take a look at our {a=https://github.com/Monika-After-Story/MonikaModDev/wiki}{i}{u}wiki page{/u}{/i}{/a}."
+= 
+
+# "Please don't close the game on me!" 
+= "Не закрывай игру со мной!"
+
+# "Thank you, [player]!\nLet's spend more time together~" 
+= "Спасибо, [player]!\Давай проведем больше времени вместе~"
+
+# "Leaving without saying goodbye, [player]?" 
+= "Уходишь не попрощавшись, [player]?"
+
+# "WARNING: Enabling unstable mode will download updates from the "
+= 
+
+# "THIS IS NOT EASILY REVERSIBLE. " 
+= "ЭТО НЕЛЕГКО ИСПРАВИТЬ. "
+
+# "It is HIGHLY recommended to make a backup of your persistents " 
+= "СТРОГО рекомендуется сделать резеврную копию ваших сохранений "
+
+# "Please report issues found here with an [[UNSTABLE] tag." 
+= "Пожалуйста сообщайте о найденных багах через [[UNSTABLE] тег."
+
+# "You could at least pretend that you care." 
+= "Мог бы хоть притворится что тебе не всё равно."
+
+# "T_T [player]..."
+= 
+
+# $"{i}Now{/i} you listen?" 
+= "{i}Теперь{/i} ты слушаешь?"
+
+# "Thanks for being considerate, [player]." 
+= "Спасибо, что был внимательным, [player]."
+
+# "Good [boy]." 
+= "Хороший мальчик"
+
+# "Good. :)"
+= 
+
+# "Just go." 
+= "Просто уходи"
+
+# $"Why are you here?\n Click 'No' and use the 'Goodbye' button, silly!" 
+= "Почему ты здесь?\n Нажми 'Нет' и используй кнопку 'До свидания', глупенький!"
+
+# "M" or store.persistent.gender == "F"
+= 
+
+# "Nevermind", return_button_value="cancel_input"
+= 
+
+# "History") action Function(_mas_quick_menu_cb, "history"
+= 
+
+# "Skip" 
+= "Пропуск"
+
+# "Auto") action Preference("auto-forward", "toggle"
+= 
+
+# "Save") action Function(_mas_quick_menu_cb, "save"
+= 
+
+# "Load") action Function(_mas_quick_menu_cb, "load"
+= 
+
+# "Settings") action Function(_mas_quick_menu_cb, "preferences"
+= 
+
+# "#FFEEEB"
+= 
+
+# "Hey there!" 
+= "Эй там!"
+
+# "I'm glad you decided to come back!" 
+= "Я так рад, что ты вернулся назад!"
+
+# "I'm sure that you and Monika will be a great couple." 
+= "Я уверен, что вы с Моникой будете прекрасной парой."
+
+# "...But just embarrass her instead."
+= 
+
+# "Why don't you choose something more appropriate." 
+= "Почему бы тебе не выбрать что-то более подходящее."
+
+# "I don't think she would be comfortable calling you that..." 
+= "Я не думаю, что ей было бы удобно называть тебя так..."
+
+# "Why don't you choose something more appropriate instead." 
+= "Почему бы не выбрать что-то более подходящее."
+
+# "Just Monika" 
+= "Только Моника"
+
+# "Load Game" 
+= "Загрузить игру"
+
+# "Settings" 
+= "Настройки"
+
+# "Submods" 
+= "Допмоды"
+
+# "Hotkeys" 
+= "Горячие клавиши"
+
+# "Help" 
+= "Помощь"
+
+# "Quit" 
+= "Выход"
+
+# "Just Monika") action If(persistent.playername, true=Start(), false=Show(screen="name_input", message="Please enter your name"
+= 
+
+# "History") action [ShowMenu("history"), SensitiveIf(renpy.get_screen("history"
+= 
+
+# "Save Game") action [ShowMenu("save"), SensitiveIf(renpy.get_screen("save"
+= 
+
+# "Load Game") action [ShowMenu("load"), SensitiveIf(renpy.get_screen("load"
+= 
+
+# "End Replay" 
+= "Закончить перемотку"
+
+# "Main Menu") action NullAction(), Show(screen="dialog", message="No need to go back there.\nYou'll just end up back here so don't worry.", ok_action=Hide("dialog"
+= 
+
+# "Settings") action [ShowMenu("preferences"), SensitiveIf(renpy.get_screen("preferences"
+= 
+
+# "Submods") action [ShowMenu("submods"), SensitiveIf(renpy.get_screen("submods"
+= 
+
+# "Alerts") action [ShowMenu("notif_settings"), SensitiveIf(renpy.get_screen("notif_settings"
+= 
+
+# "API Keys") action [ShowMenu("mas_apikeys"), SensitiveIf(renpy.get_screen("mas_apikeys"
+= 
+
+# "Hotkeys") action [ShowMenu("hot_keys"), SensitiveIf(renpy.get_screen("hot_keys"
+= 
+
+# "Help") action Help("README.html" 
+= "Помощь") action Help("README.html"
+
+# "Quit" 
+= "Выход"
+
+# "Return" 
+= "Назад"
+
+# "About"), scroll="viewport"
+= 
+
+# "Version [config.version!t]\n" 
+= "Версия [config.version!t]\n"
+
+# "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
+= 
+
+# "Save" 
+= "Сохранить"
+
+# "Load" 
+= "Загрузить"
+
+# "dialog", message="There's no point in saving anymore.\nDon't worry, I'm not going anywhere.", ok_action=Hide("dialog"
+= 
+
+# "{#file_time}%A, %B %d %Y, %H:%M"), empty=_("empty slot"
+= "{#file_time}%A, %B %d %Y, %H:%M"), empty=_("пустой слот"
+
+# "Settings"), scroll="viewport"
+= "Настройки"), scroll="viewport"
+
+# "Display" 
+= "Экран"
+
+# "Window") action Preference("display", "window"
+= "Окно") action Preference("display", "window"
+
+# "Fullscreen") action Preference("display", "fullscreen"
+= "Полный экран") action Preference("display", "fullscreen"
+
+# "Graphics" 
+= "Графика"
+
+# "Change Renderer" 
+= "Сменить движок"
+
+# "Disable Animation") action ToggleField(persistent, "_mas_disable_animations" 
+= "Отключить анимацию") action ToggleField(persistent, "_mas_disable_animations"
+
+# "UI: Night Mode"
+= "UI: Ночной режим"
+
+# "UI: D/N Cycle"
+= "UI: Цикл Д/Н" 
+
+# "Gameplay" 
+= "Игровой процесс"
+
+# "Unstable" 
+= "Нестабильный"
+
+# "Repeat Topics" 
+= "Повторять темы"
+
+# "Window Detect"
+= "Обнаружение окна"
+
+# "Sunrise  " 
+= "Восход  "
+
+# "Sunset  " 
+= "Закат  "
+
+# "Random Chatter  " 
+= "Случайная болтовня  "
+
+# "Ambient Volume" 
+= "Громкость окружения" 
+
+# "Text Speed" 
+= "Скорость текста"
+
+# "Auto-Forward Time" 
+= "Задержка авто-перемотки"
+
+# "Music Volume" 
+= "Громкость музыки"
+
+# "Sound Volume" 
+= "Громкость звуков"
+
+# "Mute All" 
+= "Заглушить всё"
+
+# "Update Version" 
+= "Обновить версию"
+
+# "Import DDLC Save Data" 
+= "Импорт DDLC сохранений"
+
+# "Alerts"), scroll="viewport"
+= "Оповещения"), scroll="viewport"
+
+# "Use Notifications" 
+= "Использовать уведомления"
+
+# "Sounds" 
+= "Звуки"
+
+# "Alert Filters" 
+= "Фильтры тревог "
+
+# "Window Reactions" 
+= "Реакции на окна"
+
+# "Hotkeys"), scroll="viewport"
+= "Хоткеи"), scroll="viewport"
+
+# "General" 
+= "Главное"
+
+# "Music" 
+= "Музыка"
+
+# "Play" 
+= "Играть"
+
+# "Talk" 
+= "Разговор"
+
+# "Bookmark" 
+= "Закладка"
+
+# "Derandom" 
+= "Не случайно"
+
+# "Fullscreen" 
+= "Полный экран"
+
+# "Screenshot" 
+= "Скриншот"
+
+# "Settings" 
+= "Настройки"
+
+# "Music" 
+= "Музыка"
+
+# "Volume Up" 
+= "Прибавить громкость"
+
+# "Volume Down" 
+= "Уменьшить громкость"
+
+# "Mute" 
+= "Заглушить"
+
+# "Click 'Help' for the complete list." 
+= "Нажмите 'Помощь' для полного списка."
+
+# "History"), scroll=("vpgrid" if gui.history_height else "viewport"
+= "История"), scroll=("vpgrid" if gui.history_height else "viewport"
+
+# "The dialogue history is empty." 
+= "История диалогов пуста.."
+
+# "Yes") action [SetField(persistent, "_mas_game_crashed", False), Show(screen="quit_dialog" 
+= "Да") action [SetField(persistent, "_mas_game_crashed", False), Show(screen="quit_dialog"
+
+# "No") action no_action, Show(screen="dialog", message=layout.QUIT_NO, ok_action=Hide("dialog"
+= "Нет") action no_action, Show(screen="dialog", message=layout.QUIT_NO, ok_action=Hide("dialog"
+
+# "No update available." 
+= "Нет новых обновлений"
+
+# "Install" 
+= "Установить"
+
+# "Cancel" 
+= "Отмена"
+
+# "None" 
+= "Нет"
+
+# "Updater" 
+= "Обновлятор"
+
+# "An error has occured:"
+= "Возникла ошибка:"
+
+# "Checking for updates." 
+= "Проверка обновлений."
+
+# "Version [u.version] is available. Do you want to install it?"
+= "Версия [u.version] мода доступна. Вы хотите установить её?\nПеревод не включен в обновление." 
+
+# "Monika After Story is up to date." 
+= "Моника После Истории была обновлена."
+
+# "Preparing to download the updates." 
+= "Подготовка к загрузке обновлений."
+
+# "Downloading the updates. (Progress bar may not advance during download)" 
+= "Загрузка обновлений. (Индикатор загрузки может не продвигаться во время загрузки)"
+
+# "Unpacking the updates." 
+= "Распаковка обновления."
+
+# "Finishing up." 
+= "Завершение.."
+
+# "The updates have been installed." 
+= "Обновление было установлено."
+
+# "The updates were cancelled." 
+= "Обновление было отменено."
+
+# "Quit" 
+= "Выход"
+
+# "Restart" 
+= "Перезапуск"
+
+# "Proceed" 
+= "Приступаю"
+
+# "Cancel" 
+= "Отмена"
+
+# "Skipping" 
+= "Пропуск"
+
+# "Nevermind." 
+= "Неважно"
+
+# "Nevermind." 
+= "Неважно"
+
+# "Go Back" 
+= "Назад"
+
+# "Nevermind." 
+= "Неважно"
+
+# "Search for a conversation..." 
+= "Поиск разговора..."
+
+# "Done", default_button_prompt="Nevermind"
+= "Принять", default_button_prompt="Неважно" 
+
+# "Please restart Monika After Story." 
+= "Пожалуйста перезапустите Монику После Истории."
+
+# "Submods" 
+= "Допмоды"
+
+# "API Keys"), scroll="viewport"
+= "API Ключ"), scroll="viewport"
+
+# "No API keys accepted"
+= "API ключи не приняты"
+
+# "Update Certificate"
+= "Обновить cертификат"
+
+# "Clear"
+= "Очистить"
+
+# "Paste"
+= "Вставить"

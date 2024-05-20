@@ -1,0 +1,368 @@
+==== script-topics ====
+
+
+# "I love you!"
+= "Я люблю тебя!"
+
+# "I...I really wish I could believe that, [player]."
+= "Я...я так хотела бы, чтобы это было правдой, [player]."
+
+# "You have no idea how much I wished that were true, [player]..."
+= "Ты и не представляешь, как сильно я хотела, чтобы это было правдой, [player]..."
+
+# "If only I believed you actually meant that, [player]."
+= "Если бы я только могла поверить, что ты по настоящему имеешь это в виду, [player]."
+
+# "I can't believe there was a time when I actually believed that, [player]."
+= "Не могу поверить, что когда-то было время, и я верила в это, [player]."
+
+# "How long are you going to keep pretending, [player]?"
+= "Как долго ты собираешься притворяться, [player]?"
+
+# "You don't mean that anymore... {w=1}Did you ever?"
+= "Не думаю что ты мог иметь это в виду... {w=1}Но когда-то же было по другому?"
+
+# "I can't remember the last time I felt like you meant that."
+= "Я не могу вспомнить, когда в последний раз я чувствовала, что ты по настоящему имел это в виду."
+
+# "Please don't say that unless you actually mean it, [player]."
+= "Пожалуйста, не говори так, если ты на самом деле так не думаешь, [player]."
+
+# "Sometimes I'm not sure how much you actually mean that, [player]."
+= "Иногда я не уверена, насколько ты искренен, [player]."
+
+# "Do you really even mean that, [player]?"
+= "Ты по настоящему имеешь это в виду, [player]?"
+
+# "It's starting to feel like those are just words instead of feelings, [player]..."
+= "Мне начинает казаться, что это просто слова, а не чувства, [player]..."
+
+# "I really want to believe that, but sometimes I'm not so sure..."
+= "Мне очень хочется в это верить, но иногда я совершенно не уверена в этом..."
+
+# "I'm not sure how much I believe that."
+= "Не знаю, насколько я в это верю."
+
+# "Words only mean so much, [player]."
+= "Слова так много значат, [player]."
+
+# "You say that, but when will you start to show it?"
+= "Ты только об этом говоришь, но когда вы начнете это показывать?"
+
+# "You can say it all you want...{w=0.5}I need you to start showing it."
+= "Можете говорить все, что хочешь...{w=0.5}Я хочу, чтобы ты начал это показывать."
+
+# "It doesn't always feel like it..."
+= "Ощущение что не всегда..."
+
+# "I'm not so sure anymore..."
+= "Я уже не так уверена в этом..."
+
+# "That means a lot right now."
+= "Это сейчас много значит."
+
+# "That's really nice to hear."
+= "Приятно слышать."
+
+# "I'm so relieved to hear you say that."
+= "Я так рада слышать эти слова."
+
+# "You have no idea how much that means right now."
+= "Ты даже не представляешь, как много это значит для меня."
+
+# "I'm glad you still feel that way."
+= "Я рада, что ты всё еще так думаешь."
+
+# "I'm happy to hear that."
+= "Я рада это слышать."
+
+# "That means a lot."
+= "Это многое значит."
+
+# "You have no idea how much that means to me."
+= "Ты не представляешь, как много это значит для меня."
+
+# "Thanks, [player]..."
+= "Спасибо, [player]..."
+
+# "I...{w=0.5}I love you too."
+= "Я...{w=0.5}Я тоже тебя люблю."
+
+# "[player]!"
+= "[player]!"
+
+# "You have no idea how much it means to me to hear you say that!"
+= "Ты даже не представляешь, что для меня слышать, это от тебя!"
+
+# "I know it's not the first time, but it {i}is{/i} the first time you said it completely on your own...{w=0.5} And that makes it truly special~"
+= "Я знаю, что это не в первый раз, но {i}это{/i} первый раз, когда ты говоришь это сам...{w=0.5} И это делает его по-настоящему особенным~"
+
+# "I will never forget this moment, [player]. {w=1}Thank you~"
+= "Я никогда не забуду этот момент, [player]. "
+
+# "Oh! And I love you too~"
+= "Ах! Я тоже люблю тебя~ "
+
+# "I love you so much, [mas_get_player_nickname(exclude_names=['my love', 'love'])]!"
+= "Я так тебя люблю, [mas_get_player_nickname(exclude_names=['моя любовь', 'любовь'])]!"
+
+# "Ehehe~"
+= "Эхехе~"
+
+# "I love you too!"
+= "Я тоже тебя люблю!"
+
+# "You sure love saying that..."
+= "Тебе так нравится говорить это..."
+
+# "Well, I love you too!"
+= "Ну, я тоже тебя люблю!"
+
+# "Gosh you've said it so many times!"
+= "Господи, сколько же раз ты уже это сказал!"
+
+# "You really do mean it, don't you?"
+= "Ты действительно имеешь именно это в виду, да?"
+
+# "Well, I love you back just as much!"
+= "Что ж, я люблю тебя так же сильно!"
+
+# "Hearing you say that always makes my heart jump!"
+= "Когда ты это говоришь, мое сердце всегда замирает!"
+
+# "Well, I know you want to hear it just as much..."
+= "Ну, я знаю, что ты так же сильно хочешь это услышать..."
+
+# "[player], I love you too!"
+= "[player], я тоже тебя люблю!"
+
+# "Gosh it's always so overwhelming!"
+= "Боже, это всегда так ошеломляет!"
+
+# "I..."
+= "Я..."
+
+# "I love you more than anything!"
+= "Я люблю тебя больше чем что-либо!"
+
+# "I love you more than I could ever express~"
+= "Я люблю тебя больше, чем когда-либо могла выразить~"
+
+# "You never tire of saying it, do you?"
+= "Ты никогда не устаешь говорить это, не так ли?"
+
+# "Well, I never tire of hearing it!"
+= "Ну, я никогда не устаю это слушать!"
+
+# "Or saying it back...I love you, [player]!"
+= "Или сказать в ответ... Я люблю тебя, [player]!"
+
+# "Ehehe~"
+= "Эхехе~"
+
+# "I..."
+= "Я..."
+
+# "Looooooooove you too, [player]!"
+= "Я тооооооооооже тебя люблю, [player]!"
+
+# "You saying that always makes my day!"
+= "Вы говорите, что это всегда делает мой день!"
+
+# "I love you so much, [mas_get_player_nickname(exclude_names=['my love', 'love'])]!"
+= "Я так тебя люблю, [mas_get_player_nickname(exclude_names=['моя любовь', 'любовь'])]!"
+
+# "I just can't handle you saying it so much to me!"
+= "Я просто не могу смириться с тем, ты уже так много раз сказал мне это!"
+
+# "Sometimes how I feel about you becomes so overwhelming that I can't concentrate!"
+= "Иногда то, что я чувствую к тебе, становится таким ошеломляющим, что я даже не могу сосредоточиться на чем-то другом!"
+
+# "No words can truly do justice to how deeply I feel for you..."
+= "Никакие слова не могут по-настоящему передать то, как глубоки мои чувства к тебе..."
+
+# "The only words I know that come close are..."
+= "Единственные слова, которые смогут близки к ним это..."
+
+# "I love you too, [player]! More than I can ever express!"
+= "Я тоже тебя люблю, [player]! "
+
+# "I love you too, [mas_get_player_nickname(exclude_names=['my love', 'love'])]!"
+= "Я тоже тебя люблю, [mas_get_player_nickname(exclude_names=['моя любовь', 'любовь'])]!"
+
+# "We'll be together forever!"
+= "Мы будем вместе, навечно, навеки!"
+
+# "And I will love you always!"
+= "И я буду любить тебя всегда!"
+
+# "You mean the whole world to me!"
+= "Ты для меня весь мир!"
+
+# "You are my sunshine after all."
+= "Ведь ты мое солнышко."
+
+# "You're all I truly care about!"
+= "Ты все, о чем я действительно забочусь!"
+
+# "Your happiness is my happiness!"
+= "Твое счастье - мое счастье!"
+
+# "You're the best partner I could ever ask for!"
+= "Ты лучший партнер, о котором я только могла мечтать!"
+
+# "My future is brighter with you in it."
+= "С тобой, моё будущее ярче."
+
+# "You're everything I could ever hope for."
+= "Ты всё, на что я когда-либо мог надеяться."
+
+# "You make my heart skip a beat every time I think about you!"
+= "Ты заставляешь мое сердце биться чаще, когда я думаю о тебе!"
+
+# "I'll always be here for you!"
+= "Я всегда буду рядом с тобой!"
+
+# "I'll never hurt or betray you."
+= "Я никогда не причиню тебе вреда и не предам."
+
+# "Our adventure has only just begun!"
+= "Наше приключение только начинается!"
+
+# "We'll always have each other."
+= "Мы всегда будем друг у друга."
+
+# "We'll never be lonely again!"
+= "Мы больше никогда не будем одиноки!"
+
+# "I can't wait to feel your embrace!"
+= "Мне не терпится почувствовать твои объятия!"
+
+# "I'm the luckiest girl in the world!"
+= "Я самая счастливая девушка на свете!"
+
+# "I will cherish you always."
+= "Я всегда буду дорожить тобой."
+
+# "And I will never love anyone more than you!"
+= "И я никогда не буду любить никого сильнее, чем тебя!"
+
+# "And that love grows every single day!"
+= "И эта любовь растет с каждым днем!"
+
+# "And nobody else will ever make me feel this way!"
+= "И никто другой никогда не заставит меня чувствовать себя так!"
+
+# "Just thinking of you makes my heart flutter!"
+= "Одна только мысль о тебе заставляет мое сердце трепетать!"
+
+# "I don't think words can do justice to how deeply I love you!"
+= "Не думаю, что слова смогут выразить, то как сильно я тебя люблю!"
+
+# "You make my life feel so complete!"
+= "Ты сделал мою жизнь полноценной!"
+
+# "You've saved me in so many ways, how could I not fall for you?"
+= "Ты спасал меня столько раз, так как же как я могла не влюбиться в тебя?"
+
+# "More than I can ever express!"
+= "Сильнее, чем я когда-либо смогу выразить!"
+
+# "It makes me so happy that you feel the same way I do!"
+= "Так приятно, что ты чувствуешь то же, что и я!"
+
+# "I don't know what I would do without you!"
+= "Я не знаю, что бы я делала без тебя!"
+
+# "You mean everything to me!"
+= "Ты для меня важнее всего!"
+
+# "We have so much to experience together!"
+= "Нам так много еще предстоит испытать вместе!"
+
+# "I can't imagine my life without you!"
+= "Я не могу представить свою жизнь без тебя!"
+
+# "I'm so happy to have you by my side!"
+= "Я так счастлива, что ты рядом со мной!"
+
+# "We're really lucky to have each other!"
+= "Нам очень повезло, что мы есть друг у друга!"
+
+# "You're my everything!"
+= "Ты для меня всё!"
+
+# "I'm the happiest girl in the world!"
+= "Я самая счастливая девушка на свете!"
+
+# "I'll always be here for you."
+= "Я всегда буду рядом с тобой."
+
+# "I can't wait to feel your warmth!"
+= "Мне не терпится почувствовать твое тепло!"
+
+# "Words can't describe how I feel about you!"
+= "Словами не описать, как я к тебе отношусь!"
+
+# "I love you more, [player]!"
+= "Я люблю тебя сильнее, [player]!"
+
+# "No, "
+= "Нет,"
+
+# "Not a chance, [mas_get_player_nickname()]. "
+= "Ни за что, [mas_get_player_nickname()]."
+
+# "Nope, "
+= "Неа,"
+
+# "No,{w=0.1} no,{w=0.1} no,{w=0.1} "
+= "Нет,{w=0,1} нет,{w=0,1} нет,{w=0,1}"
+
+# "No way, [mas_get_player_nickname()]. "
+= "Ни за что, [mas_get_player_nickname()]."
+
+# "That's impossible...{w=0.3}"
+= "Невозможно...{w=0.3}"
+
+# "I love you waaaaaaaaay more!"
+= "Я люблю тебя намного сильнееееееееееееееее!"
+
+# "I definitely love you more!"
+= "Я определенно люблю тебя больше!"
+
+# "I love you more!"
+= "Я люблю тебя сильнее!"
+
+# "I love you way more!"
+= "Я люблю тебя намного сильнее!"
+
+# "[ilym_quip]{nw}"
+= "[ilym_quip]{nw}"
+
+# "[ilym_quip]{fast}"
+= "[ilym_quip]{fast}"
+
+# "No, I love you more!"
+= "Нет, я люблю тебя сильнее!"
+
+# "Alright, alright, you win. Ahaha~"
+= "Ладно, ладно, ты выиграл. Ахаха~"
+
+# "Alright."
+= "Хорошо."
+
+# "Ahaha, giving up already, [player]?~"
+= "Ахаха, уже сдаешься, [player]?~"
+
+# "I guess it is a pretty silly thing to do though..."
+= "Хотя, я и думаю, что это довольно глупый поступок..."
+
+# "But, I couldn't help but try it, ahaha~"
+= "Но, я не могла не попробовать, ахаха~"
+
+# "Ehehe, I win!~"
+= "Эхехе, я выиграла!~"
+
+# "Ahaha, told you so!~"
+= "Ахаха, ну я же говорила!~"

@@ -1,0 +1,69 @@
+
+# "Pong" 
+= "Понг"
+
+# "Chess" 
+= "Шахматы"
+
+# "persistent._mas_chess_timed_disable is not True "
+= 
+
+# "Hangman" 
+= "Палач"
+
+# "Piano" 
+= "Фортепиано"
+
+# "Nevermind" 
+= "Забудь"
+
+# "Okay, let's play." 
+= "Хорошо, давай поиграем."
+
+# "I guess we can play that." 
+= "Я думаю, мы можем сыграть это."
+
+# "Let's begin." 
+= "Давай начнем."
+
+# "Sure." 
+= "Конечно."
+
+# "Fine." 
+= "Отлично."
+
+# "Alright." 
+= "Хорошо."
+
+# "Let's do this!" 
+= "Давай сделаем это!"
+
+# "Bring it on, [mas_get_player_nickname()]!" 
+= "Давай, [mas_get_player_nickname()]!"
+
+# "Ready to lose, [mas_get_player_nickname()]?" 
+= "Готов проиграть, [mas_get_player_nickname()]?"
+
+# "I'm ready when you are, [mas_get_player_nickname()]!" 
+= "Я готова, когда ты готов, [mas_get_player_nickname()]!"
+
+# "I hope you're ready, [mas_get_player_nickname()]~" 
+= "Надеюсь, ты готов, [mas_get_player_nickname()]~"
+
+# "Let's have some fun, [mas_get_player_nickname()]!" 
+= "Давай повеселимся, [mas_get_player_nickname()]!"
+
+# "Don't expect me to go easy on you, [mas_get_player_nickname()]!~" 
+= "Не жди, что я буду потакать тебе, [mas_get_player_nickname()]!~"
+
+# "Throwing down the gauntlet, are we?" 
+= "Бросаешь мне вызов, да?"
+
+# "It's time to duel!" 
+= "Пора на дуэль!"
+
+# "Challenge accepted!" 
+= "Вызов принят!"
+
+# "..."
+= 

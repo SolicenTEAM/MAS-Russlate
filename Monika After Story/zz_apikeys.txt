@@ -1,0 +1,30 @@
+
+# "Retry"
+= 
+
+# "Ok"
+= 
+
+# "Cancel"
+= 
+
+# "ERROR: failed to write cert to disk. Try again later "
+= 
+
+# "ERROR: SSL is not available. Cannot update cert"
+= 
+
+# "ERROR: failed to update cert. Try again later or "
+= 
+
+# "ERROR: certifi not available. Cannot update cert"
+= 
+
+# "Cert already up to date!"
+= 
+
+# "Cert updated!"
+= 
+
+# "..."
+= 

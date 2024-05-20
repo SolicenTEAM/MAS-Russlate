@@ -1,0 +1,15 @@
+
+# "mod_assets/MASpoemwords.txt"
+= 
+
+# "I", say="Sayori", nat="Natsuki", yur="Yuri"
+= 
+
+# "It's time to write a poem!\n\nPick words you think your favorite club member\nwill like. Something good might happen with\nwhoever likes your poem the most!"
+= 
+
+# "Monika"
+= 
+
+# "Monika"
+= 

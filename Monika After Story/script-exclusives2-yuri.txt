@@ -1,0 +1,1467 @@
+
+# "I'm really curious to talk to Yuri a little bit more..."
+= 
+
+# "But at the same time, I would feel bad for distracting her from reading."
+= 
+
+# "I catch a glimpse of the cover of her book."
+= 
+
+# "It looks like the same book that she lent to me..."
+= 
+
+# "More than that, she seems to be on the first few pages."
+= 
+
+# "Ah..."
+= 
+
+# "Crap--"
+= 
+
+# "I think she noticed me looking at her..."
+= 
+
+# "She sneaks another glance at me, and our eyes meet for a split second."
+= 
+
+# "..."
+= 
+
+# "But that only makes her hide her face deeper in her book."
+= 
+
+# "Sorry..."
+= 
+
+# "I was just spacing out..."
+= 
+
+# "I mutter this, sensing I made her uncomfortable."
+= 
+
+# "Oh..."
+= 
+
+# "It's fine..."
+= 
+
+# "If I was focused, then I probably wouldn't have noticed in the first place."
+= 
+
+# "But I'm just re-reading a bit of this, so..."
+= 
+
+# "That's the book that you gave me, right?"
+= 
+
+# "Mhm."
+= 
+
+# "I wanted to re-read some of it."
+= 
+
+# "Not for any particular reason...!"
+= 
+
+# "Just curious, how come you have two copies of the same book?"
+= 
+
+# "Ah..."
+= 
+
+# "Well, when I stopped at the bookstore yesterday--"
+= 
+
+# "Ah, that's not what I meant..."
+= 
+
+# "I mean--"
+= 
+
+# "I...just happened to buy two of them."
+= 
+
+# "Ah, I see."
+= 
+
+# "There's something fairly obvious here that Yuri isn't telling me, but I decide to let it go."
+= 
+
+# "I'll definitely start reading it soon!"
+= 
+
+# "I'm glad to hear..."
+= 
+
+# "Once it starts to pick up, you might have a hard time putting it down."
+= 
+
+# "It's a very engaging and relatable story."
+= 
+
+# "Is that so...?"
+= 
+
+# "What's the story about, anyway?"
+= 
+
+# "Well..."
+= 
+
+# "Mmm..."
+= 
+
+# "I look at the cover of the book."
+= 
+
+# "The book is titled \"Portrait of Markov\"."
+= 
+
+# "There's an ominous-looking eye symbol on the front cover."
+= 
+
+# "Basically, it's about this religious camp that was turned into a human experiment prison..."
+= 
+
+# "And the people trapped there have this trait that turns them into killing machines that lust for blood."
+= 
+
+# "But the facility gets even worse, and they start selectively breeding people by cutting off their limbs and affixing them to--"
+= 
+
+# "O-Oh, that might be a little bit of a spoiler..."
+= 
+
+# "But anyway, I-I'm really into it!"
+= 
+
+# "...The book, I mean!"
+= 
+
+# "N-Not the thing about the limbs..."
+= 
+
+# "That's kind of--!"
+= 
+
+# "That's kind of dark, isn't it?"
+= 
+
+# "Yuri made it sound like it was going to be a nice story, so that dark turn came from nowhere."
+= 
+
+# "Ah..."
+= 
+
+# "Are you not a fan of that sort of thing, [player]?"
+= 
+
+# "No, it's not that..."
+= 
+
+# "I mean, I can definitely enjoy those kinds of stories, so don't worry."
+= 
+
+# "I hope so..."
+= 
+
+# "Yeah... I totally forgot that Yuri is into those things."
+= 
+
+# "She's so shy and reclusive on the outside, but her mind seems to be completely different."
+= 
+
+# "It's just that this kind of story..."
+= 
+
+# "It's the kind that challenges you to look at life from a strange new perspective."
+= 
+
+# "When horrible things happen not just because someone wants to be evil..."
+= 
+
+# "But because the world is full of horrible people, and we're all worthless anyway."
+= 
+
+# "Then, suddenlyyyyyyyyyyyyyyyyyyyyyy yyyyyyyyyyyyyyyyyyyy{nw}"
+= 
+
+# "I'm...I'm rambling, aren't I...?"
+= 
+
+# "Not again..."
+= 
+
+# "I'm sorry..."
+= 
+
+# "Hey, don't apologize...!"
+= 
+
+# "I haven't lost interest or anything."
+= 
+
+# "Well..."
+= 
+
+# "I guess it's alright, then..."
+= 
+
+# "But I feel like I should let you know that I have this problem..."
+= 
+
+# "When I let things like books and writing fill my thoughts..."
+= 
+
+# "I kind of forget to pay attention to other people..."
+= 
+
+# "So I'm sorry if I end up saying something strange!"
+= 
+
+# "And please stop me if I start talking too much!"
+= 
+
+# "That's--"
+= 
+
+# "I really don't think you need to worry..."
+= 
+
+# "That just means you're passionate about reading."
+= 
+
+# "The least I can do is listen."
+= 
+
+# "It's a literature club, after all..."
+= 
+
+# "Ah--"
+= 
+
+# "That's..."
+= 
+
+# "Well, that's true..."
+= 
+
+# "In fact..."
+= 
+
+# "I might as well get started reading it, right?"
+= 
+
+# "Y-Yes!"
+= 
+
+# "I-I mean, you don't have to, but...!"
+= 
+
+# "Ahaha, what are you saying?"
+= 
+
+# "..."
+= 
+
+# "Let me just get the book..."
+= 
+
+# "I quickly retrieve the book that I had put into my bag."
+= 
+
+# "Alright...it's fine if I sit here, right?"
+= 
+
+# "I slip into the seat next to Yuri's."
+= 
+
+# "Ah...!"
+= 
+
+# "Yeah..."
+= 
+
+# "Are you sure?"
+= 
+
+# "You seem a little apprehensive..."
+= 
+
+# "That's..."
+= 
+
+# "I'm sorry..."
+= 
+
+# "It's not that I don't want you to!"
+= 
+
+# "It's just something I'm not very used to..."
+= 
+
+# "That is, reading in company with someone."
+= 
+
+# "I see..."
+= 
+
+# "Well, just tell me if I end up distracting you or anything."
+= 
+
+# "A-Alright..."
+= 
+
+# "I open the book and start the prologue."
+= 
+
+# "I soon understand what Yuri means about reading in company."
+= 
+
+# "It's as if I can feel her presence over my shoulder as I read."
+= 
+
+# "It's not a particularly bad thing."
+= 
+
+# "Maybe a little distracting, but the feeling is somewhat comforting."
+= 
+
+# "Yuri is in the corner of my eye."
+= 
+
+# "I realize that she's not actually looking at her own book."
+= 
+
+# "I glance over."
+= 
+
+# "It looks like she's reading from my book instead--"
+= 
+
+# "S-Sorry!"
+= 
+
+# "I was just--!{nw}"
+= 
+
+# "I was just{fast} bathing in the feeling of your body heat tttttttttttttheat eattttttt{nw}"
+= 
+
+# "Yuri, you really apologize a lot, don't you?"
+= 
+
+# "I...I do?"
+= 
+
+# "I don't really mean to..."
+= 
+
+# "Sorry..."
+= 
+
+# "I mean--!"
+= 
+
+# "Ahaha."
+= 
+
+# "Here, this should work, right?"
+= 
+
+# "I slide my desk until it's up against Yuri's, then hold my book more between the two of them."
+= 
+
+# "Ah..."
+= 
+
+# "I-I suppose so..."
+= 
+
+# "Yuri timidly closes her own copy."
+= 
+
+# "Once we each lean in a little bit, our shoulders are almost touching."
+= 
+
+# "It feels like my left arm is in the way, so instead I use my right hand to hold the book open."
+= 
+
+# "Ah, I guess that makes it kind of difficult to turn the page..."
+= 
+
+# "Here..."
+= 
+
+# "Yuri takes her left arm and holds the left side of the book between her thumb and forefinger."
+= 
+
+# "Ah..."
+= 
+
+# "I do the same with my right arm, on the right side of the book."
+= 
+
+# "That way, I turn a page, and Yuri slides it under her thumb after it flips to her side."
+= 
+
+# "But in holding it like this..."
+= 
+
+# "We're huddled even closer together than before."
+= 
+
+# "It's actually kind of distracting me...!"
+= 
+
+# "It's as if I can feel the warmth of Yuri's face, and she's in the corner of my vision..."
+= 
+
+# "...Are you ready?"
+= 
+
+# "Eh?"
+= 
+
+# "To turn the page..."
+= 
+
+# "Ah...sorry!"
+= 
+
+# "I think I got a bit distracted for a second..."
+= 
+
+# "I glance over at Yuri's face again, and our eyes meet."
+= 
+
+# "I don't know how I'll be able to keep up with her..."
+= 
+
+# "Ah..."
+= 
+
+# "That's okay."
+= 
+
+# "You're not as used to reading, right?"
+= 
+
+# "I don't mind being patient if it takes you a bit longer..."
+= 
+
+# "It's probably the least I can do..."
+= 
+
+# "Since you've been so patient with me..."
+= 
+
+# "Y-Yeah..."
+= 
+
+# "Thanks."
+= 
+
+# "We continue reading."
+= 
+
+# "Yuri no longer asks me if I'm ready to turn the page."
+= 
+
+# "Instead, I just assume that she finishes the page before me, so I turn it by my own volition."
+= 
+
+# "We continue the first chapter in silence."
+= 
+
+# "Even so, turning each page almost feels like an intimate exchange..."
+= 
+
+# "My thumb gently letting go of the page, letting it flutter over to her side as she catches it under her own thumb."
+= 
+
+# "Hey, Yuri..."
+= 
+
+# "This might be a silly thought, but..."
+= 
+
+# "The main character kind of reminds me of you a little bit."
+= 
+
+# "E-Eh??"
+= 
+
+# "N-No, I don't relate to this character at all!"
+= 
+
+# "Definitely not!"
+= 
+
+# "Really...?"
+= 
+
+# "I was just thinking the way she second-guesses things she says, and all that..."
+= 
+
+# "A-Ah..."
+= 
+
+# "That's what you were talking about..."
+= 
+
+# "Sorry..."
+= 
+
+# "I thought you meant...something else about her."
+= 
+
+# "Something else...?"
+= 
+
+# "N-Never mind!"
+= 
+
+# "We didn't even get that far yet..."
+= 
+
+# "So I don't know why that came into my head..."
+= 
+
+# "Ahaha!"
+= 
+
+# "Yuri, are you feeling alright?"
+= 
+
+# "Eh--?"
+= 
+
+# "Yuri's been a little fidgety ever since we started reading..."
+= 
+
+# "You can rest if you're feeling sick or something."
+= 
+
+# "Your breathing is a little..."
+= 
+
+# "My breathing...?"
+= 
+
+# "Yuri puts her hands on her chest, as if to feel her heartbeat."
+= 
+
+# "I-I didn't...even notice..."
+= 
+
+# "...Anyway, I'm fine!"
+= 
+
+# "I just need some water...!"
+= 
+
+# "Alright...don't push yourself."
+= 
+
+# "Yuri stands up and practically rushes out of the classroom."
+= 
+
+# "What on Earth was that about...?"
+= 
+
+# "Did something happen just now?"
+= 
+
+# "Eh?"
+= 
+
+# "I have no idea..."
+= 
+
+# "Yuri was acting a little strange, I guess..."
+= 
+
+# "So you don't know anything..."
+= 
+
+# "Sorry, I can't say I do."
+= 
+
+# "Are you worried about her?"
+= 
+
+# "Oh...no, not really."
+= 
+
+# "I was just making sure that you didn't do anything to her."
+= 
+
+# "N-No, nothing!"
+= 
+
+# "Ahaha, don't worry...I believe you, silly."
+= 
+
+# "Yuri just does this sometimes, so it's nothing alarming."
+= 
+
+# "Alright...if you say so."
+= 
+
+# "Anyway, why don't we start with sharing our poems with each other?"
+= 
+
+# "Eh?"
+= 
+
+# "Shouldn't we wait for Yuri?"
+= 
+
+# "Well, she might be a while, so I just figured we'd get started without her."
+= 
+
+# "Is that okay?"
+= 
+
+# "Yeah, I was just asking..."
+= 
+
+# "I stand up."
+= 
+
+# "I make a mental note of where I left off in the book, then slip it back into my bag."
+= 
+
+# "Hey, Yuri."
+= 
+
+# "Eh?"
+= 
+
+# "Ah..."
+= 
+
+# "I suddenly notice that Yuri is reading a different book from the one we've been reading together."
+= 
+
+# "Sorry! I didn't mean to interrupt..."
+= 
+
+# "Ah, no..."
+= 
+
+# "I was kind of just waiting for you..."
+= 
+
+# "Ah, if that's the case..."
+= 
+
+# "Why don't we go ahead and get started?"
+= 
+
+# "Yes, let's!"
+= 
+
+# "Actually, I have a request..."
+= 
+
+# "...Do you mind if I make some tea first?"
+= 
+
+# "Not at all."
+= 
+
+# "Thanks very much."
+= 
+
+# "If there's one thing that can make my reading time here any better, it's a nice cup of tea."
+= 
+
+# "Not to mention for yourself, as well."
+= 
+
+# "Yuri stands up and makes her way to the closet."
+= 
+
+# "I follow and watch as she retrieves a small water pitcher from the shelf - the kind with a filter inside."
+= 
+
+# "Can you hold this for a second?"
+= 
+
+# "Sure..."
+= 
+
+# "Yuri hands me the water pitcher and also fetches an electric kettle."
+= 
+
+# "I'm going to plug this in at the teacher's desk, and then I'll go get some water."
+= 
+
+# "She walks past me and sets the kettle down on the teacher's desk."
+= 
+
+# "I simply watch her movements."
+= 
+
+# "To my surprise, the way she moves really contrasts her speaking mannerisms."
+= 
+
+# "Especially because of her long legs, Yuri appears elegant and methodical."
+= 
+
+# "Okay, may I have the water pitcher?"
+= 
+
+# "Thanks. I'll be right back."
+= 
+
+# "Ah, I might as well walk with you..."
+= 
+
+# "T-That's okay!"
+= 
+
+# "You stay here..."
+= 
+
+# "It won't take long."
+= 
+
+# "Pitcher in hand, Yuri hurries out of the classroom."
+= 
+
+# "Ah..."
+= 
+
+# "Did Yuri leave you again?"
+= 
+
+# "No, it's not like that this time."
+= 
+
+# "She's just filling up the water pitcher to make tea."
+= 
+
+# "Oh, okay!"
+= 
+
+# "Sorry for misunderstanding~"
+= 
+
+# "..."
+= 
+
+# "Ten minutes pass."
+= 
+
+# "Yuri said it wouldn't take long..."
+= 
+
+# "Is something holding her up?"
+= 
+
+# "I'm bored just waiting here, so I decide to go look for her."
+= 
+
+# "Let's see..."
+= 
+
+# "The most logical place for Yuri to be would be the nearest water fountain..."
+= 
+
+# "Yuri"
+= 
+
+# "I start heading down the hallway."
+= 
+
+# "Haah.....haah...."
+= 
+
+# "....Haah.....haah...."
+= 
+
+# "...What's that noise?"
+= 
+
+# "It's coming from around the corner..."
+= 
+
+# "It sounds like breathing."
+= 
+
+# "Khhhhh--"
+= 
+
+# "A sharp inhale, like someone is sucking the air through their teeth."
+= 
+
+# "Are they in pain...?"
+= 
+
+# "I reach the corner and peer around it."
+= 
+
+# "Yuri...?"
+= 
+
+# "Yuri"
+= 
+
+# "Kya--!"
+= 
+
+# "Yuri"
+= 
+
+# "I'm back."
+= 
+
+# "Thanks for waiting patiently."
+= 
+
+# "Ah, yeah."
+= 
+
+# "Anything is fine."
+= 
+
+# "Very well."
+= 
+
+# "Now it's time to get the teapot."
+= 
+
+# "You really do this properly, don't you?"
+= 
+
+# "Of course..."
+= 
+
+# "I shouldn't do any less when I'm making tea for others."
+= 
+
+# "Even if I'm not an expert on tea or anything...?"
+= 
+
+# "Huhu."
+= 
+
+# "In that case, you'll only be even more impressed."
+= 
+
+# "Ah...perhaps I will!"
+= 
+
+# "Yuri fetches the teapot and begins measuring the tea leaves."
+= 
+
+# "To my surprise, she even starts humming a little to herself."
+= 
+
+# "You must be in a good mood now..."
+= 
+
+# "Is that so?"
+= 
+
+# "I was letting it show..."
+= 
+
+# "And you noticed."
+= 
+
+# "I was doing a bit of thinking..."
+= 
+
+# "And I decided that I would try expressing myself a little bit more."
+= 
+
+# "It turns out it's not very hard for me to do..."
+= 
+
+# "When it's you who's around, anyway."
+= 
+
+# "Ah..."
+= 
+
+# "That's great, Yuri!"
+= 
+
+# "Just don't push yourself too much."
+= 
+
+# "You're always worrying about me, [player]..."
+= 
+
+# "It's very endearing."
+= 
+
+# "That's..."
+= 
+
+# "Yuri wasn't kidding..."
+= 
+
+# "I don't even know if I can keep up with this...!"
+= 
+
+# "I watch Yuri pour a cup of tea for each of us."
+= 
+
+# "[player], I have another request."
+= 
+
+# "Do you mind if we sit on the floor today?"
+= 
+
+# "Eh? Why's that?"
+= 
+
+# "It's a little bit easier on my back..."
+= 
+
+# "I can read with my back against the wall rather than bending over at my desk."
+= 
+
+# "Ah, sorry, I didn't realize."
+= 
+
+# "No worries."
+= 
+
+# "I just have back pain fairly regularly, so I do my best to manage it."
+= 
+
+# "Is that so?"
+= 
+
+# "I wonder why that is..."
+= 
+
+# "It's most likely because my--"
+= 
+
+# "Ah--"
+= 
+
+# "M-My..."
+= 
+
+# "Your posture, right?"
+= 
+
+# "Always hunched over like that while reading..."
+= 
+
+# "Yes!"
+= 
+
+# "I have terrible reading posture!"
+= 
+
+# "So that's why we should sit on the floor."
+= 
+
+# "Fair enough."
+= 
+
+# "I'll go ahead and get the book."
+= 
+
+# "I retrieve the book from my bag."
+= 
+
+# "Ah, I have some chocolate as well..."
+= 
+
+# "It's a bag of small chocolate candies."
+= 
+
+# "I take it, since it'll go well with the tea."
+= 
+
+# "Yuri and I then sit against the wall, teacups at our sides."
+= 
+
+# "As if in sync, we assume the same reading position as last time, each holding one half of the book."
+= 
+
+# "Except this time..."
+= 
+
+# "Our bodies are even closer to each other."
+= 
+
+# "I can't see too well..."
+= 
+
+# "Yuri slides closer until our shoulders are touching."
+= 
+
+# "How am I supposed to focus on reading like this...?!"
+= 
+
+# "Yuri was always kind of cute, but..."
+= 
+
+# "When she's being less apprehensive, it's almost more than I can handle!"
+= 
+
+# "Your teacup..."
+= 
+
+# "Yuri hands me my teacup."
+= 
+
+# "Holding it with my hand that's not holding the book, I end up in a position that makes it even harder to focus."
+= 
+
+# "Because now I need to worry about making sure I don't accidentally touch her chest...!"
+= 
+
+# "Meanwhile, Yuri hasn't noticed a single thing."
+= 
+
+# "She wears her intense reading expression, and I can only presume the world around her has faded away."
+= 
+
+# "I use all of my willpower to focus on reading."
+= 
+
+# "..."
+= 
+
+# "After a few minutes, I finally manage to relax a little."
+= 
+
+# "I put the teacup between my legs and fumble with the chocolate wrapper."
+= 
+
+# "Ah, sorry..."
+= 
+
+# "I briefly let go of the book to finish opening the wrapper."
+= 
+
+# "You can have as much as you want."
+= 
+
+# "Ah, that's..."
+= 
+
+# "That's okay, I won't take any..."
+= 
+
+# "Eh? Are you sure?"
+= 
+
+# "Well..."
+= 
+
+# "If I touch it, then it might get smudges on the pages..."
+= 
+
+# "Ah, you're right..."
+= 
+
+# "I didn't even think about that."
+= 
+
+# "My bad..."
+= 
+
+# "No need to apologize."
+= 
+
+# "I'll hold the book, okay?"
+= 
+
+# "Are you sure...?"
+= 
+
+# "Of course."
+= 
+
+# "Yuri opens the book with both hands."
+= 
+
+# "She holds it so that I don't have any harder of a time reading from it."
+= 
+
+# "But as a result, her left arm is practically resting on top of my leg."
+= 
+
+# "Well, in that case..."
+= 
+
+# "Yuri is already totally focused on reading again."
+= 
+
+# "I take a chocolate candy and pop it into my mouth."
+= 
+
+# "Then, I take another chocolate..."
+= 
+
+# "And I hold it up to Yuri."
+= 
+
+# "She doesn't even look away from the book."
+= 
+
+# "She simply parts her lips, as if this situation was completely natural."
+= 
+
+# "But that means I can't stop here!"
+= 
+
+# "I apprehensively place the chocolate in her mouth."
+= 
+
+# "Just like that, Yuri closes her lips over it."
+= 
+
+# "Eh...?"
+= 
+
+# "Yuri's expression suddenly breaks."
+= 
+
+# "Did..."
+= 
+
+# "Did I just..."
+= 
+
+# "Yuri looks at me like she needs to confirm what just happened."
+= 
+
+# "U-Um..."
+= 
+
+# "[player]..."
+= 
+
+# "S-Sorry!"
+= 
+
+# "I guess I shouldn't have done that..."
+= 
+
+# "A-Ah..."
+= 
+
+# "Yuri starts to breathe heavily."
+= 
+
+# "I..."
+= 
+
+# "I can't..."
+= 
+
+# "[player]..."
+= 
+
+# "Suddenly, Yuri forcefully grabs my arm and jerks me to my feet."
+= 
+
+# "My teacup gets knocked over."
+= 
+
+# "[player]..."
+= 
+
+# "My heart..."
+= 
+
+# "My heart won't stop pounding, [player]..."
+= 
+
+# "I can't calm down."
+= 
+
+# "I can't focus on anything anymore...!"
+= 
+
+# "Can you feel it, [player]?"
+= 
+
+# "Yuri suddenly presses my hand against her chest."
+= 
+
+# "Why is this happening to me?"
+= 
+
+# "I feel like I'm losing my mind..."
+= 
+
+# "I can't make it stop."
+= 
+
+# "It even makes me not want to read..."
+= 
+
+# "I just want..."
+= 
+
+# "...to look..."
+= 
+
+# "...at you."
+= 
+
+# "...Haah..."
+= 
+
+# "...Haah..."
+= 
+
+# "...Haah..."
+= 
+
+# "U-Um..."
+= 
+
+# "It's...time to share poems..."
+= 
+
+# "Um..."
+= 
+
+# "Wait..."
+= 
+
+# "How did I..."
+= 
+
+# "...Sorry, I just had a really weird déjà vu..."
+= 
+
+# "This hasn't happened before or anything...right?"
+= 
+
+# "My head has been a little fuzzy lately..."
+= 
+
+# "I hope it hasn't really been showing or anything!"
+= 
+
+# "I would hate for you to think I'm weird just after we started spending time together..."
+= 
+
+# "I mean..."
+= 
+
+# "Everyone has a few unusual things about them."
+= 
+
+# "But expressing those things so soon after meeting someone is usually seen as inappropriate...or unlikable."
+= 
+
+# "At least, that's what I've discovered."
+= 
+
+# "When I was a bit younger, I think I would come on really strongly and get a little too intense..."
+= 
+
+# "It made people not want to be around me."
+= 
+
+# "So...I started hating those things about myself."
+= 
+
+# "My obsession with certain hobbies."
+= 
+
+# "And the way I can't control myself when I get too excited about something."
+= 
+
+# "So..."
+= 
+
+# "I eventually stopped trying to talk to people."
+= 
+
+# "If nobody could ever like me for the things that matter most to me..."
+= 
+
+# "...Then it's just easier if I close myself off."
+= 
+
+# "But recently, something's been wrong."
+= 
+
+# "I don't know what it is."
+= 
+
+# "But every time we come to the club, my heart starts to go crazy."
+= 
+
+# "Like it's going to rip out of my chest."
+= 
+
+# "It overwhelms me with energy and emotions that I can't let out."
+= 
+
+# "It's been making me do weird things."
+= 
+
+# "I don't know why it's happening!"
+= 
+
+# "[player]..."
+= 
+
+# "Is it just me, or has Monika been acting a little off lately?"
+= 
+
+# "She's always been a sweetheart ever since I joined the club..."
+= 
+
+# "But recently, I've been feeling something sharp whenever she's around."
+= 
+
+# "I'm not crazy, right?"
+= 
+
+# "Please tell me I'm not!"
+= 
+
+# "I couldn't say anything before, because she's always listening!"
+= 
+
+# "But finally, we're alone..."
+= 
+
+# "Can we just stay here for a while?"
+= 
+
+# "Yeah..."
+= 
+
+# "..."
+= 
+
+# "I just want to stay here."
+= 
+
+# "Just the two of us."
+= 
+
+# "We can stay here until the club ends."
+= 
+
+# "And then we'll have the clubroom all to ourselves."
+= 
+
+# "Nobody to interfere with our reading time."
+= 
+
+# "Nobody to make me feel like stabbing myself in the throat."
+= 
+
+# "Ahaha..."
+= 
+
+# "That was a joke!"
+= 
+
+# "Just a joke."
+= 
+
+# "I do like knives, though..."
+= 
+
+# "It sounds strange, but you wouldn't understand if you've never seen how beautiful they can be."
+= 
+
+# "I have an idea."
+= 
+
+# "Why don't you come to my house sometime?"
+= 
+
+# "I can show you my collection."
+= 
+
+# "I've gotten them all from various artisans."
+= 
+
+# "I make sure to give them all their fair share of use."
+= 
+
+# "I don't want them to get lonely or anything..."
+= 
+
+# "Nobody deserves to be lonely."
+= 
+
+# "Nobody."
+= 
+
+# "And that's why I'm so happy you joined the Literature Club, [player]."
+= 
+
+# "Now we don't need to be lonely anymore."
+= 
+
+# "Because we have each other."
+= 
+
+# "Every day."
+= 
+
+# "That's all we need."
+= 
+
+# "You know what?"
+= 
+
+# "Let's quit the Literature Club."
+= 
+
+# "There's no need for us to be around Monika's slimy tongue anymore."
+= 
+
+# "Not to mention that other pathetic child."
+= 
+
+# "We can walk home together every day after school."
+= 
+
+# "And read together."
+= 
+
+# "Eat together."
+= 
+
+# "Sleep together."
+= 
+
+# "Doesn't that sound perfect?"
+= 
+
+# "It's everything we could ever want."
+= 
+
+# "Isn't that why you joined the club in the first place?"
+= 
+
+# "It's almost like it was fate."
+= 
+
+# "Fate that we would meet each other."
+= 
+
+# "And now we get the happy ending that I've patiently waited years for."
+= 
+
+# "Will you do that with me, [player]?"
+= 

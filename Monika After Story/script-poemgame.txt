@@ -1,0 +1,12 @@
+
+# "It's time to write a poem!\n\nPick words you think your favorite club member\nwill like. Something good might happen with\nwhoever likes your poem the most!"
+= 
+
+# "/" + str(numWords), style="poemgame_text"
+= 
+
+# "Monika" 
+= "Моника"
+
+# "sayori": sPointTotal, "natsuki": nPointTotal, "yuri"
+= 

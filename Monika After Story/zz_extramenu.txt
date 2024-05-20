@@ -1,0 +1,65 @@
+==== zz_extrasmenu ====
+
+
+# "Can you explain the Extras menu?"
+= "Можешь ли ты объяснить меню 'Дополнительно'?"
+
+# "misc"
+= "разное"
+
+# "Welcome to the Extras menu, [player]!"
+= "Добро пожаловать в меню 'Дополнительно', [player]!"
+
+# "This is where I'll add things that aren't games, like special interactions you can do with your mouse."
+= "Здесь я добавлю вещи, которые не являются играми, например специальные взаимодействия, которые ты можешь выполнять с помощью мыши."
+
+# "You can also open this menu by pressing the 'e' key."
+= "Ты также можешь открыть это меню, нажав клавишу 'e'."
+
+# "Look forward to some neat things in this menu!"
+= "Жди каких-нибудь приятных мелочей в этом меню!"
+
+# "One thing I added is a way for you to adjust your field of view, so now you can sit closer or farther away from me."
+= "Одна вещь, которую я добавила, — это способ настроить поле зрения, так что теперь ты можешь сидеть ближе или дальше от меня."
+
+# "You can adjust this using the slider in the 'Zoom' section of the Extras menu."
+= "Ты можешь настроить это с помощью ползунка в разделе 'Масштаб' в меню 'Дополнительно'."
+
+# "Can't sit up straight for long?"
+= "Не можешь долго сидеть прямо?"
+
+# "Or maybe you just want to see the top of my head?"
+= "Или, может быть, ты просто хочешь увидеть мою макушку?"
+
+# "Ehehe~"
+= "Эхехе~"
+
+# "Sitting a bit closer?"
+= "Сидишь поближе?"
+
+# "I don't mind."
+= "Я не против."
+
+# "[player]!"
+= "[player]!"
+
+# "When your face is this close..."
+= "Когда твое лицо так близко..."
+
+# "I feel..."
+= "Я чувствую..."
+
+# "Warm..."
+= "Тепло..."
+
+# "boop intro"
+= "буп интро"
+
+# "Close"
+= "Закрыть"
+
+# "Zoom"
+= "Увеличить"
+
+# "Reset"
+= "Перезагрузить"

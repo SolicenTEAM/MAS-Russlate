@@ -1,0 +1,12 @@
+
+# "parameter 'args' in 'registerFunction'"
+= 
+
+# "Wrap your callable in '{use_instead}' to provide it args/kwargs."
+= 
+
+# "Wrap your callable in '{use_instead}' to provide it args/kwargs."
+= 
+
+# "Wrap your callable in '{use_instead}' to provide it args/kwargs."
+= 

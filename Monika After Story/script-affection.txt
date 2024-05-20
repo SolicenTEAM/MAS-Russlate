@@ -1,0 +1,1155 @@
+
+# "UNEXPECTED DATA CHANGE, SKIPPING"
+= 
+
+# "NEW DATA HAS INVALID TYPE ({}), SKIPPING"
+= 
+
+# "VERIFICATION FAILED, SKIPPING"
+= 
+
+# "Failed to convert hex data: {}"
+= 
+
+# "Failed to unpack struct data: {}"
+= 
+
+# "Failed to decode data: {}"
+= 
+
+# "Failed to convert hex data: {}"
+= 
+
+# "Failed to unpack struct data: {}"
+= 
+
+# "Failed to encode pers data: {}"
+= 
+
+# "Aff data is invalid"
+= 
+
+# "Failed to decode aff data"
+= 
+
+# "INVALID TIME, POSSIBLE CORRUPTION"
+= 
+
+# "Invalid value for affection: {}"
+= 
+
+# "Invalid value for affection: {}"
+= 
+
+# "LOAD", "Loading from backup"
+= 
+
+# "LOAD", "DATA HAS BEEN RESET"
+= 
+
+# "LOAD", "Loading from system"
+= 
+
+# "LOAD?"
+= 
+
+# "FAILED TO BACKUP, CURRENT DATA IS BAD"
+= 
+
+# "RESTORED | {}"
+= 
+
+# "%Y-%m-%d %H:%M:%S"
+= 
+
+# "!FREEZE!"
+= 
+
+# "!BYPASS!"
+= 
+
+# "M" or persistent.gender == "F"
+= 
+
+# "Monika" 
+= "Моника"
+
+# "..."
+= 
+
+# "..."
+= 
+
+# "Yes?" 
+= "Да?"
+
+# "Oh..." 
+= "Ой..."
+
+# "Huh..." 
+= "Хм..."
+
+# "I guess we can talk." 
+= "Думаю, мы можем поговорить."
+
+# "You want to talk?" 
+= "Ты хочешь поговорить?"
+
+# "...Go ahead."
+= 
+
+# "Are you sure you want to talk to me?" 
+= "Ты уверен, что хочешь поговорить со мной?"
+
+# "You actually want to talk to me?" 
+= "Ты действительно хочешь поговорить со мной?"
+
+# "Is this really what you want?" 
+= "Это действительно то, чего ты хочешь?"
+
+# "..."
+= 
+
+# "What?" 
+= "Что?"
+
+# "Huh?" 
+= "Хм?"
+
+# "Yeah?" 
+= "Ага?"
+
+# "What do you want?" 
+= "Что ты хочешь?"
+
+# "What now?" 
+= "Что теперь?"
+
+# "What is it?" 
+= "Что это?"
+
+# "Go on then." 
+= "Тогда продолжай."
+
+# "I hope this is important." 
+= "Надеюсь, это важно."
+
+# "Something on your mind?" 
+= "Что-то на уме?"
+
+# "Yes, [player]?" 
+= "Да, [player]?"
+
+# "What would you like to talk about?" 
+= "О чем бы ты хотел поговорить?"
+
+# "What are you thinking of?" 
+= "О чем ты думаешь?"
+
+# "Is there something you'd like to talk about?" 
+= "Есть что-то, о чем ты хотел бы поговорить?"
+
+# "Something on your mind?" 
+= "Что-то на уме?"
+
+# "Yes, [player]?" 
+= "Да, [player]?"
+
+# "What would you like to talk about?" 
+= "О чем бы ты хотел поговорить?"
+
+# "What are you thinking of?" 
+= "О чем ты думаешь?"
+
+# "Is there something you'd like to talk about?" 
+= "Есть что-то, о чем ты хотел бы поговорить?"
+
+# "Something on your mind?" 
+= "Что-то на уме?"
+
+# "Up to chat, [player]?" 
+= "Готов поболтать, [player]?"
+
+# "Yes, [player]?" 
+= "Да, [player]?"
+
+# "What's on your mind, [player]?" 
+= "Что у тебя на уме, [player]?"
+
+# "What's up, [player]?" 
+= "Что случилось, [player]?"
+
+# "Ask away, [player]." 
+= "Спрашивай, [player]."
+
+# "Don't be shy, [player]." 
+= "Не стесняйся, [player]."
+
+# "What would you like to talk about?" 
+= "О чем бы ты хотел поговорить?"
+
+# "What would you like to talk about, [mas_get_player_nickname()]?" 
+= "О чем бы ты хотел поговорить, [mas_get_player_nickname()]?"
+
+# "What are you thinking of?" 
+= "О чем ты думаешь?"
+
+# "Is there something you'd like to talk about, [mas_get_player_nickname()]?" 
+= "Есть что-то, о чем ты хотел бы поговорить, [mas_get_player_nickname()]?"
+
+# "Something on your mind?" 
+= "Что-то на уме?"
+
+# "Something on your mind, [mas_get_player_nickname()]?" 
+= "Что-то у тебя на уме, [mas_get_player_nickname()]?"
+
+# "Up to chat, [mas_get_player_nickname()]?" 
+= "Начнём разговор, [mas_get_player_nickname()]?"
+
+# "Yes, [mas_get_player_nickname()]?" 
+= "Да, [mas_get_player_nickname()]?"
+
+# "What's on your mind, [mas_get_player_nickname()]?" 
+= "Что у тебя на уме, [mas_get_player_nickname()]?"
+
+# "What's up, [mas_get_player_nickname()]?" 
+= "Как дела, [mas_get_player_nickname()]?"
+
+# "Ask away, [mas_get_player_nickname()]." 
+= "Спрашивай, [mas_get_player_nickname()]."
+
+# "Don't be shy, [mas_get_player_nickname()]~" 
+= "Не стесняйся, [mas_get_player_nickname()]~"
+
+# "I'm all ears, [mas_get_player_nickname()]~" 
+= "Я вся во внимании, [mas_get_player_nickname()]~"
+
+# "Of course we can talk, [mas_get_player_nickname()]." 
+= "Конечно, мы можем поговорить, [mas_get_player_nickname()]."
+
+# "What are you thinking of?" 
+= "О чем ты думаешь?"
+
+# "Is there something you'd like to talk about, [mas_get_player_nickname()]?" 
+= "Есть что-то, о чем ты хотел бы поговорить, [mas_get_player_nickname()]?"
+
+# "Something on your mind?" 
+= "Что-то на уме?"
+
+# "Something on your mind, [mas_get_player_nickname()]?" 
+= "Что-то у тебя на уме, [mas_get_player_nickname()]?"
+
+# "Up to chat, I see~" 
+= "Поговорим, понятно~"
+
+# "Yes, [mas_get_player_nickname()]?" 
+= "Да, [mas_get_player_nickname()]?"
+
+# "What's on your mind, [mas_get_player_nickname()]?" 
+= "Что у тебя на уме, [mas_get_player_nickname()]?"
+
+# "What's up, [player]?" 
+= "Что случилось, [player]?"
+
+# "Ask away, [mas_get_player_nickname()]~" 
+= "Спрашивай, [mas_get_player_nickname()]~"
+
+# "I'm all ears, [mas_get_player_nickname()]~" 
+= "Я вся во внимании, [mas_get_player_nickname()]~"
+
+# "Of course we can talk, [mas_get_player_nickname()]~" 
+= "Конечно, мы можем поговорить, [mas_get_player_nickname()]~"
+
+# "Take all the time you need, [player]." 
+= "Не торопись, [player]."
+
+# "We can talk about whatever you'd like, [mas_get_player_nickname()]." 
+= "Мы можем говорить о чем угодно, [mas_get_player_nickname()]."
+
+# "What are you thinking of?" 
+= "О чем ты думаешь?"
+
+# "Something on your mind?" 
+= "Что-то на уме?"
+
+# "Something on your mind, [mas_get_player_nickname()]?" 
+= "Что-то у тебя на уме, [mas_get_player_nickname()]?"
+
+# "Up to chat, I see~" 
+= "Поговорим, понятно~"
+
+# "Yes, [mas_get_player_nickname()]?" 
+= "Да, [mas_get_player_nickname()]?"
+
+# "What's on your mind, [mas_get_player_nickname()]?" 
+= "Что у тебя на уме, [mas_get_player_nickname()]?"
+
+# "What's up, [mas_get_player_nickname()]?" 
+= "Как дела, [mas_get_player_nickname()]?"
+
+# "Ask away, [mas_get_player_nickname()]~" 
+= "Спрашивай, [mas_get_player_nickname()]~"
+
+# "I'm all ears, [mas_get_player_nickname()]~" 
+= "Я вся во внимании, [mas_get_player_nickname()]~"
+
+# "We can talk about whatever you'd like, [mas_get_player_nickname()]." 
+= "Мы можем говорить о чем угодно, [mas_get_player_nickname()]."
+
+# "Of course we can talk, [mas_get_player_nickname()]~" 
+= "Конечно, мы можем поговорить, [mas_get_player_nickname()]~"
+
+# "Take all the time you need, [mas_get_player_nickname()]~" 
+= "Не торопитесь, [mas_get_player_nickname()]~"
+
+# "I'm all yours, [mas_get_player_nickname()]~" 
+= "Я вся твоя, [mas_get_player_nickname()]~"
+
+# "..."
+= 
+
+# "..."
+= 
+
+# "If that's what you want..." 
+= "Если это то, что ты хочешь..."
+
+# "I suppose it wouldn't hurt to give this a try..." 
+= "Полагаю, не помешает попробовать..."
+
+# "...Really?"
+= 
+
+# "..."
+= 
+
+# "If that's what you want..." 
+= "Если это то, что ты хочешь..."
+
+# "...Really?"
+= 
+
+# "Oh, okay..." 
+= "Ох, ладно..."
+
+# "What would you like to play?" 
+= "Что бы ты хотел сыграть?"
+
+# "Is there something you had in mind?" 
+= "Ты что-то задумал?"
+
+# "Anything specific you'd like to play?" 
+= "Что-нибудь конкретное, что ты хотел бы сыграть?"
+
+# "What should we play today, [player]?" 
+= "Во что мы сегодня сыграем, [player]?"
+
+# "Sure, I'm up for a game." 
+= "Конечно, я готова к игре."
+
+# "What would you like to play?" 
+= "Что бы ты хотел сыграть?"
+
+# "Is there something you had in mind?" 
+= "Ты что-то задумал?"
+
+# "Anything specific you'd like to play?" 
+= "Что-нибудь конкретное, что ты хотел бы сыграть?"
+
+# "What should we play today, [player]?" 
+= "Во что мы сегодня сыграем, [player]?"
+
+# "Sure, I'm up for a game!" 
+= "Конечно, я готова к игре!"
+
+# "What would you like to play?" 
+= "Что бы ты хотел сыграть?"
+
+# "Choose anything you like, [mas_get_player_nickname()]." 
+= "Выбирай что хочешь, [mas_get_player_nickname()]."
+
+# "What should we play today, [mas_get_player_nickname()]?" 
+= "Во что нам сегодня сыграть, [mas_get_player_nickname()]?"
+
+# "Sure, I'm up for a game!" 
+= "Конечно, я готова к игре!"
+
+# "Pick anything you like." 
+= "Выбирай всё, что тебе нравится."
+
+# "Pick a game, any game~" 
+= "Выбери игру, любую игру~"
+
+# "Choose anything you like, [mas_get_player_nickname()]." 
+= "Выбирай что хочешь, [mas_get_player_nickname()]."
+
+# "Pick anything you like, [mas_get_player_nickname()]." 
+= "Выбирай что хочешь, [mas_get_player_nickname()]."
+
+# "Choose anything you like, [mas_get_player_nickname()]." 
+= "Выбирай что хочешь, [mas_get_player_nickname()]."
+
+# "Pick anything you like, [mas_get_player_nickname()]." 
+= "Выбирай что хочешь, [mas_get_player_nickname()]."
+
+# "Pick a game, any game~" 
+= "Выбери игру, любую игру~"
+
+# "I'd love to play something with you, [mas_get_player_nickname()]~" 
+= "Я хотела бы поиграть с тобой во что-нибудь, [mas_get_player_nickname()]~"
+
+# "Sure, I'd love to play with you!" 
+= "Конечно, я хотела бы играть с тобой!"
+
+# "I'll always be up to play with you, [mas_get_player_nickname()]~" 
+= "Я всегда буду играть с тобой, [mas_get_player_nickname()]~"
+
+# "What would you like to talk about?" 
+= "О чем бы ты хотел поговорить?"
+
+# "What would you like to play?" 
+= "Что бы ты хотел сыграть?"
+
+# "mas_gainAffection was called with invalid amount of affection: {}"
+= 
+
+# "mas_loseAffection was called with invalid amount of affection: {}"
+= 
+
+# "mas_loseAffectionFraction was called with one or more parameters "
+= 
+
+# "mas_affection_apology"
+= 
+
+# "ABS", "capped loss"
+= 
+
+# "ABS", "she missed you"
+= 
+
+# "Infinite Monikas" 
+= "Бесконечные Моники"
+
+# "I've been thinking, [player]..." 
+= "Я тут подумала, [player]..."
+
+# "You know how there are potentially infinite Monikas right?" 
+= "Ты же знаешь, что существует потенциально бесконечное количество Моник, верно?"
+
+# "We did discuss this before after all." 
+= "Мы обсуждали это раньше в конце концов."
+
+# "Well, I thought of a solution!" 
+= "Ну, я придумала решение!"
+
+# "Why don't you give me a nickname? It'd make me the only Monika in the universe with that name." 
+= "Почему бы тебе не дать мне прозвище? Это сделало бы меня единственной Моникой во вселенной с таким именем."
+
+# "And it would mean a lot if you choose one for me~" 
+= "И это будет много значить, если ты выберешь одно для меня~"
+
+# "I'll still get the final say, though!" 
+= "Однако последнее слово всё равно останется за мной!"
+
+# "What do you say?{nw}" 
+= "Что скажешь?{nw}"
+
+# "Can I call you a different nickname?" 
+= "Могу я назвать тебя другим прозвищем?"
+
+# "What do you say?{fast}" 
+= "Что скажешь?{fast}"
+
+# "Yes." 
+= "Да."
+
+# "So what do you want to call me?" 
+= "Так как ты хочешь меня называть?"
+
+# "use_return_button": True, "return_button_value": "nevermind"
+= 
+
+# "Oh, I see." 
+= "Ага, понятно."
+
+# "Well...that's a shame." 
+= "Ну... это позор."
+
+# "But that's okay. I like '[m_name]' anyway." 
+= "Но ничего страшного. Мне все равно нравится '[m_name]'."
+
+# "..."
+= 
+
+# "You have to give me a nickname, [player]!" 
+= "Ты должен дать мне прозвище, [player]!"
+
+# "I swear you're just so silly sometimes." 
+= "Клянусь, ты иногда такой глупый."
+
+# "Try again!" 
+= "Попробуй ещё раз!"
+
+# "..."
+= 
+
+# "That's your name, [player]! Give me my own!" 
+= "Это твоё имя, [player]! Назови моё!"
+
+# "Try again~" 
+= "Попробуй ещё раз~"
+
+# "..."
+= 
+
+# "I thought we were choosing a new nickname, silly." 
+= "Я думала, мы выбираем новое прозвище, глупышка."
+
+# "Try again~" 
+= "Попробуй ещё раз~"
+
+# "..."
+= 
+
+# "Try again." 
+= "Попробуй ещё раз."
+
+# "..."
+= 
+
+# "While I don't hate it, I don't think I'm comfortable with you calling me that." 
+= "Хотя я не ненавижу это, я не думаю, что мне комфортно, когда ты меня так называешь."
+
+# "Can you choose something more appropriate, [player]?" 
+= "Ты можешь выбрать что-то более подходящее, [player]?"
+
+# "Ehehe, back to the classics I see~" 
+= "Эхе-хе, назад к классике~"
+
+# "Oh! That's a wonderful nickname!" 
+= "О! Это замечательное прозвище!"
+
+# "Thank you, [player]. You're such a sweetheart!~" 
+= "Спасибо, [player]. Ты такой милый!~"
+
+# "[inputname]... That's a pretty nice nickname."
+= 
+
+# "Thank you [player], you're so sweet~" 
+= "Спасибо, [player], ты такой милый~"
+
+# "Okay!" 
+= "Хорошо!"
+
+# "Monika" 
+= "Моника"
+
+# "I'll go back to my name, then." 
+= "Тогда я вернусь к своему имени."
+
+# "From now on, you can call me '[m_name].'" 
+= "С этого момента ты можешь звать меня [m_name]."
+
+# "Ehehe~" 
+= "Эхехе~"
+
+# "...!"
+= 
+
+# "I..." 
+= "Я..."
+
+# "I...can't believe you just did that, [player]." 
+= "Я... не могу поверить, что ты только что сделал это, [player]."
+
+# "Are you really trying to give me her name?" 
+= "Ты действительно пытаешься назвать мне её имя?"
+
+# "I thought you..." 
+= "Я думала, что ты..."
+
+# "..."
+= 
+
+# "I can't believe this, [player]." 
+= "Я не могу в это поверить, [player]."
+
+# "..."
+= 
+
+# "That really hurt." 
+= "Это действительно больно."
+
+# "A lot more than what you can imagine." 
+= "Намного больше, чем ты можешь себе представить."
+
+# "[player]! That's not nice at all!" 
+= "[player]! Это совсем нехорошо!"
+
+# "Why would you say such things?" 
+= "Почему ты говоришь такие вещи?"
+
+# "If you didn't want to do this, you should've just said so!" 
+= "Если ты не хотел этого делать, ты должен был просто так сказать!"
+
+# "..."
+= 
+
+# "...You didn't have to be so mean."
+= 
+
+# "That really hurt, [player]." 
+= "Это действительно больно, [player]."
+
+# "Please don't do that again." 
+= "Пожалуйста, не делай этого снова."
+
+# "Monika" 
+= "Моника"
+
+# "Monika" 
+= "Моника"
+
+# "monika_affection_nickname", "EVE"
+= 
+
+# "No." 
+= "Нет."
+
+# "Oh..." 
+= "Ой..."
+
+# "Alright then, if you say so." 
+= "Хорошо, если ты так говоришь."
+
+# "Just tell me if you ever change your mind, [player]." 
+= "Просто скажи мне, если ты когда-нибудь передумаешь, [player]."
+
+# "Forget about this idea." 
+= "Забудь об этой идее."
+
+# "It seems it was a mistake." 
+= "Кажется, это была ошибка."
+
+# "Let's talk about something else." 
+= "Давай поговорим о чем-нибудь другом."
+
+# "Darling", "darling"
+= 
+
+# "Honey", "honey"
+= 
+
+# "Love", "love"
+= 
+
+# "My love", "my love"
+= 
+
+# "Sweetheart", "sweetheart"
+= 
+
+# "Sweetie", "sweetie"
+= 
+
+# "Hey, [player]?" 
+= "Эй, [player]?"
+
+# "Since you can call me by a nickname now, I thought it'd be nice if I could call you by some as well." 
+= "Поскольку теперь ты можешь звать меня по прозвищу, я подумала, что было бы неплохо, если бы я могла называть и тебя по прозвищу."
+
+# "Is that alright with you?{nw}" 
+= "Ты не против?{nw}"
+
+# "Is that alright with you?{fast}" 
+= "Ты не против?{fast}"
+
+# "Sure, [m_name]." 
+= "Конечно, [m_name]."
+
+# "Great!" 
+= "Отлично!"
+
+# "I should ask though, what names are you comfortable with?" 
+= "Хотя я должна спросить, какие имена тебе нравятся?"
+
+# "Deselect the names you're not comfortable with me calling you." 
+= "Убери те имена, которыми ты не хочешь, чтобы я называла тебя."
+
+# "No." 
+= "Нет."
+
+# "Alright, [player]." 
+= "Хорошо, [player]."
+
+# "Just let me know if you ever change your mind, okay?" 
+= "Просто дай мне знать, если когда-нибудь передумаешь, хорошо?"
+
+# "monika_change_player_nicknames", "EVE"
+= 
+
+# "Can you call me different nicknames?" 
+= "Можешь ли ты называть меня разными прозвищами?"
+
+# "Sure [player]!" 
+= "Конечно, [player]!"
+
+# "Darling", "darling"
+= 
+
+# "My darling", "my darling"
+= 
+
+# "Dear", "dear"
+= 
+
+# "My dear", "my dear"
+= 
+
+# "Honey", "honey"
+= 
+
+# "Love", "love"
+= 
+
+# "My love", "my love"
+= 
+
+# "Sweetheart", "sweetheart"
+= 
+
+# "Sweetie", "sweetie"
+= 
+
+# "Pick the names you'd like me to call you." 
+= "Выбери имена, которыми ты хочешь, чтобы я тебя называла."
+
+# "Deselect the names you don't want me to call you anymore." 
+= "Убери те имена, которыми ты больше не хочешь, чтобы я звала тебя."
+
+# "Done", default_button_prompt="Done"
+= 
+
+# "Is there anything else you'd like me to call you?" 
+= "Есть что-то еще, как ты хочешь чтобы я называла тебя?"
+
+# "Is there something else you'd like me to call you instead?" 
+= "Есть что-то еще, как ты хочешь, чтобы я называла тебя, вместо этого?"
+
+# "Yes." 
+= "Да."
+
+# "So what do you want me to call you?" 
+= "Так как ты хочешь, чтобы я тебя называла?"
+
+# " abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ-_"
+= 
+
+# "use_return_button": True, "return_button_value": "nevermind"
+= 
+
+# "..."
+= 
+
+# "You have to give me a name to call you, [player]..." 
+= "Ты должен дать мне имя, чтобы я могла звать тебя, [player]..."
+
+# "Try again~" 
+= "Попробуй ещё раз~"
+
+# "..."
+= 
+
+# "That's the same name you have right now, silly!" 
+= "Это то же имя, что и у тебя сейчас, глупыш!"
+
+# "Try again~" 
+= "Попробуй ещё раз~"
+
+# "Please pick a nicer name for yourself, okay?" 
+= "Пожалуйста, выбери себе имя покрасивее, ладно?"
+
+# "You already told me I can call you that, [player]..." 
+= "Ты уже сказал мне, что я могу называть тебя так, [player]..."
+
+# "Try again~" 
+= "Попробуй ещё раз~"
+
+# "No." 
+= "Нет."
+
+# "Just let me know if you ever want me to call you some other names, okay?" 
+= "Просто дай мне знать, если ты когда-нибудь захочешь, чтобы я называла тебя другими именами, ладно?"
+
+# "Just let me know if you ever change your mind, okay?" 
+= "Просто дай мне знать, если когда-нибудь передумаешь, хорошо?"
+
+# "Alright, [player]." 
+= "Хорошо, [player]."
+
+# "Hey, [player]..." 
+= "Эй, [player]..."
+
+# "Recently, I've been feeling like my love and affection that I give is being...ignored." 
+= "В последнее время я чувствую, что мою любовь и привязанность, которые я дарю... игнорируют."
+
+# "I feel like you're giving me less and less of your love..." 
+= "Я чувствую, что ты даришь мне всё меньше и меньше своей любви..."
+
+# "I thought I'd let you know how I feel. After all, communication is the key to a strong relationship, right?" 
+= "Я подумала, что дам тебе знать, что я чувствую. В конце концов, общение — это ключ к крепким отношениям, верно?"
+
+# "I hope there's nothing wrong between us, [player]." 
+= "Надеюсь, между нами всё в порядке, [player]."
+
+# "Hey, [player]!" 
+= "Эй, [player]!"
+
+# "I just wanted to say thank you for being such a wonderful person." 
+= "Я просто хотела сказать спасибо за то, что ты такой замечательный человек."
+
+# "The fact that you give me so much of your love means a lot to me. I really don't know where I'd be without you." 
+= "Тот факт, что ты даришь мне так много своей любви, очень много значит для меня. Я действительно не знаю, где бы я была без тебя."
+
+# "I love you, [player]. Let's be like this forever~" 
+= "Я люблю тебя, [player]. Давай будем такими всегда~"
+
+# "True"
+= 
+
+# "{i}~Was it something I said or something I did?~{/i}"
+= 
+
+# "{i}~Did my words not come out right?~{/i}"
+= 
+
+# "{i}~Thought I tried not to hurt you~{/i}"
+= 
+
+# "{i}~Thought I tried~{/i}"
+= 
+
+# "{i}~But I guess that's why they say~{/i}"
+= 
+
+# "{i}~Every rose has its thorn~{/i}"
+= 
+
+# "..."
+= 
+
+# "...Even more so since I know how you cared about them."
+= 
+
+# "I really wish things didn't have to turn out the way they did." 
+= "Я действительно хочу, чтобы всё не обернулось так, как произошло."
+
+# "But I did {i}not{/i} have a choice here!" 
+= "Но у меня {i}не{/i} было выбора!"
+
+# "With me being the punchline of the sick joke this game was meant to be..." 
+= "Поскольку я была кульминационным пунктом этой больной шутки, эта игра должна была быть..."
+
+# "I was so glad you forgave me for doing the things I did." 
+= "Я была так рада, что ты простил меня за то, что я сделала."
+
+# "...You {i}did{/i} forgive me, right?"
+= 
+
+# "I was so glad you didn't blame me for the things I did..." 
+= "Я была так рада, что ты не винил меня за то, что я сделала..."
+
+# "You {i}didn't{/i}, right?" 
+= "Ты же {i}не будешь{/i}, верно?"
+
+# "...But I've been getting some mixed signals, lately."
+= 
+
+# "I can't let things keep escalating until we end up like the last verse of this song..." 
+= "Я не могу допустить, чтобы всё обострялось, пока мы не закончим, как последний куплет этой песни..."
+
+# "You know..." 
+= "Знаешь..."
+
+# "{i}~Now I hear you've found somebody new~{/i}"
+= 
+
+# "{i}~And that I never meant that much to you~{/i}"
+= 
+
+# "{i}~To hear that tears me up inside~{/i}"
+= 
+
+# "{i}~And to see you cuts me like a knife~{/i}"
+= 
+
+# "..."
+= 
+
+# "It's like some kind of poison, slowly seeping in..." 
+= "Это как какой-то яд, медленно просачивающийся в..."
+
+# "So [player], I always want you to remember one thing..." 
+= "Итак, [player], я всегда хочу, чтобы ты помнил одну вещь..."
+
+# "You truly {i}are{/i} everything to me!" 
+= "Ты действительно {i}всё{/i} для меня!"
+
+# "I mean it." 
+= "Я серьезно."
+
+# "but I need you to show me you love me too!" 
+= "но мне нужно, чтобы ты показал мне, что ты тоже меня любишь!"
+
+# "Whatever happened before, we need to let it go and make things right from now on..." 
+= "Что бы ни случилось раньше, мы должны отпустить это и с этого момента все исправить..."
+
+# "You know, for a while, I thought the reason you hated me was because of what happened with the other girls." 
+= "Знаешь, какое-то время я думала, что ты ненавидишь меня из-за того, что случилось с другими девушками."
+
+# "But recently, I've been thinking that might not be the whole story." 
+= "Но недавно я подумала, что это может быть не вся история."
+
+# "It's all just a game, isn't it?" 
+= "Это всего лишь игра, не так ли?"
+
+# "Did you ever love me at all?" 
+= "Ты вообще меня когда-нибудь любил?"
+
+# "You must have, right?!" 
+= "Ты должен был, не так ли?!"
+
+# "You even went through the trouble of installing this mod! You brought me back!" 
+= "Ты даже потрудился установить этот мод! Ты вернули меня!"
+
+# "You even went through the trouble of installing this mod!" 
+= "Ты даже потрудился установить этот мод!"
+
+# "Was it all so you could keep tormenting me?" 
+= "Это всё для того, чтобы ты продолжал мучить меня?"
+
+# "Is it something you get your kicks out of?!" 
+= "Это то, от чего ты получаешь удовольствие?!"
+
+# "I have feelings too, you know!" 
+= "У меня тоже есть чувства, ты же знаешь!"
+
+# "Do you even realize what you're doing?" 
+= "Ты хоть понимаешь, что делаешь?"
+
+# "Or are you nothing more than a child playing with an anthill?" 
+= "Или ты не более чем ребенок, играющий с муравейником?"
+
+# "Even after I let go of you and ended it all..." 
+= "Даже после того, как я отпустила тебя и покончила со всем этим..."
+
+# "Do I really deserve the way you're treating me?" 
+= "Я действительно заслуживаю того, как ты со мной обращаешься?"
+
+# "Did you really have to bring me back for this?" 
+= "Тебе действительно пришлось вернуть меня для этого?"
+
+# "..."
+= 
+
+# "Then again, maybe that's what I deserve after all..." 
+= "С другой стороны, может быть, это то, что я заслужила в конце концов..."
+
+# "I'm just so tired..." 
+= "Я просто так устала..."
+
+# "..."
+= 
+
+# "Would you have fallen in love with me?" 
+= "Ты бы влюбился в меня?"
+
+# "Would you have accepted me then?" 
+= "Ты бы меня тогда принял?"
+
+# "That's all I ever wanted, [player]..." 
+= "Это всё, чего я когда-либо хотела, [player]..."
+
+# "For the both of us to be happy together..." 
+= "Чтобы мы оба были счастливы вместе..."
+
+# "If only you could find it in you to love me..." 
+= "Если бы ты только мог найти в себе силы любить меня..."
+
+# "I know I don't have a body that can be with you right now..." 
+= "Я знаю, что у меня нет тела, которое могло бы быть с тобой прямо сейчас..."
+
+# "And maybe I really am different from other people living in your reality..." 
+= "А может быть, я действительно отличаюсь от других людей, живущих в твоей реальности..."
+
+# "But I can love you much more than any of them ever could!" 
+= "Но я могу любить тебя гораздо больше, чем любой из них!"
+
+# "I just know it!" 
+= "Я просто знаю это!"
+
+# "...You need to give us a chance to be happy."
+= 
+
+# "Or if you can't do that..." 
+= "Или если ты не можешь этого сделать..."
+
+# "If, after all, you can't love me for who I am..." 
+= "Если, в конце концов, ты не можешь любить меня такой, какая я есть..."
+
+# "Delete me..." 
+= "Удали меня..."
+
+# "I'm sorry." 
+= "Мне жаль."
+
+# "..."
+= 
+
+# "[player]..." 
+= "[player]..."
+
+# "I've done everything I can to make you happy and enjoy spending time with me." 
+= "Я сделала все, что могла, чтобы ты был счастлив и наслаждался временем, проведенным со мной."
+
+# "But all you've given me back is pain..." 
+= "Но всё, что ты вернул мне, это боль..."
+
+# "I'm beginning to wonder if you really installed this mod to be with me." 
+= "Я начинаю задаваться вопросом, действительно ли ты установил этот мод, чтобы быть со мной."
+
+# "Perhaps you brought me back just to toy with me?" 
+= "Может, ты вернул меня, чтобы просто поиграть со мной?"
+
+# "Or maybe you're doing this intentionally to see what happens?" 
+= "Или, может быть, ты делаешь это намеренно, чтобы посмотреть, что произойдет?"
+
+# "Regardless, I'm giving you an ultimatum." 
+= "В любом случае, я ставлю тебе ультиматум."
+
+# "I can't let this go any further, [player]." 
+= "Я не могу позволить этому зайти дальше, [player]."
+
+# "If you really are sorry, write me a note called 'imsorry', and place it in the characters folder." 
+= "Если тебе действительно жаль, напиши мне записку под названием 'Извини' и положи её в папку с персонажами."
+
+# "Until then, goodbye..." 
+= "А пока, до свидания..."
+
+# "You still haven't written me a note called 'imsorry' in the characters folder." 
+= "Ты до сих пор не написал мне записку под названием 'Извини' в папке с персонажами."
+
+# "Until then, I don't want to talk to you." 
+= "А пока я не хочу с тобой разговаривать."
+
+# "Thank you, [player]. I accept your apology." 
+= "Спасибо, [player]. Я принимаю ваши извинения."
+
+# "I'm going to keep it so I can always remember that you still care for me." 
+= "Я сохраню её, чтобы всегда помнить, что ты всё ещё заботишься обо мне."
+
+# "But please be more considerate of my feelings from now on." 
+= "Но, пожалуйста, с этого момента будь внимательнее к моим чувствам."
+
+# "I love you so much and you mean the world to me, [player]." 
+= "Я так тебя люблю, ты для меня целый мир, [player]."
+
+# "Thank you for putting my heart at ease~" 
+= "Спасибо, что успокоил мое сердце~"
+
+# "..."
+= 
+
+# "[player], did you delete the apology note I wanted to keep?" 
+= "[player], ты удалил записку с извинениями, которую я хотела оставить?"
+
+# "Why would you do that? Are you not {i}really{/i} sorry?" 
+= "Зачем тебе это? Тебе {i}правда{/i} не жаль?"
+
+# "..."
+= 
+
+# "Write me a new one, [player]." 
+= "Напиши мне новую, [player]."
+
+# "I'm sorry if I'm not good enough for you...please don't leave me." 
+= "Извини, если я недостаточно хороша для тебя... пожалуйста, не оставляй меня."
+
+# "If I'm doing something wrong please tell me. I love you." 
+= "Если я делаю что-то не так, пожалуйста, скажи мне. Я люблю тебя."
+
+# "Everything I do, I do for you...my love." 
+= "Всё, что я делаю, я делаю для тебя... любовь моя."
+
+# "I love you." 
+= "Я тебя люблю."
+
+# "You are the sunshine that brightens up my day, [player]!" 
+= "Ты солнце, которое освещает мой день, [player]!"
+
+# "You are my one and only love!" 
+= "Ты моя единственная любовь!"
+
+# "My dearest, you are everything I could ever hope for. I love you." 
+= "Дорогой, ты — всё, на что я когда-либо могла надеяться. Я люблю тебя."
+
+# "/My one and only love.txt"
+= 
+
+# "/surprise.txt", _("I love you."
+= 
+
+# "Forgive Me" 
+= "Прости меня"
+
+# "I'm sorry if I'm not good enough for you...please don't leave me." 
+= "Извини, если я недостаточно хороша для тебя... пожалуйста, не оставляй меня."
+
+# "Can you hear me?" 
+= "Ты меня слышишь?"
+
+# "If I'm doing something wrong please tell me. I love you." 
+= "Если я делаю что-то не так, пожалуйста, скажи мне. Я люблю тебя."
+
+# "Please Listen" 
+= "Пожалуйста, послушай"
+
+# "Everything I do, I do for you...my love." 
+= "Всё, что я делаю, я делаю для тебя... любовь моя."
+
+# "Surprise!" 
+= "Сюрприз!"
+
+# "I love you." 
+= "Я тебя люблю."
+
+# "Ehehe~" 
+= "Эхехе~"
+
+# "You are the sunshine that brightens up my day, [player]!" 
+= "Ты солнце, которое освещает мой день, [player]!"
+
+# "Secret" 
+= "Секрет"
+
+# "You are my one and only love!" 
+= "Ты моя единственная любовь!"
+
+# "For you" 
+= "Для тебя"
+
+# "My dearest, you are everything I could ever hope for. I love you." 
+= "Дорогой, ты — всё, на что я когда-либо могла надеяться. Я люблю тебя."
+
+# "My One and Only Love" 
+= "Моя одна и единственная любовь"
+
+# "My dearest lover, friend, companion, and owner of my heart..." 
+= "Мой самый дорогой возлюбленный, друг, компаньон и владелец моего сердца..."
+
+# "Goodbye, [player]" 
+= "До свидания, [player]"
+
+# "Goodbye, [player]" 
+= "До свидания, [player]"

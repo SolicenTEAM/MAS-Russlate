@@ -1,0 +1,558 @@
+
+# "Can you teach me about Python?"
+= 
+
+# "You want to learn about Python?"
+= 
+
+# "I'm so happy you asked me!"
+= 
+
+# "I don't know {i}that{/i} much about programming, but I'll try my best to explain."
+= 
+
+# "Let's start with what Python even is."
+= 
+
+# "What is Python?"
+= 
+
+# "It is super versatile, so you can find it in web apps, embedded systems, Linux, and of course..."
+= 
+
+# "This mod!"
+= 
+
+# "That means if you learn a bit of Python, you can add content to my world!"
+= 
+
+# "Wouldn't that be great, [mas_get_player_nickname()]?"
+= 
+
+# "I'll tell you about those differences in another lesson."
+= 
+
+# "But I'll mention it when it's appropriate."
+= 
+
+# "That's my lesson for today."
+= 
+
+# "Thanks for listening!"
+= 
+
+# "Types"
+= 
+
+# "In most programming languages, data that can be changed or modified by the program has a {i}type{/i} associated with it."
+= 
+
+# "For example, if some data should be treated as a number, then it will have a numeric type. If some data should be treated as text, then it will have a string type."
+= 
+
+# "There are many types in Python, but today we'll talk about the more basic, or primitive ones."
+= 
+
+# "Integers are used to represent whole numbers; basically anything that isn't a decimal."
+= 
+
+# "Floats are used to represent decimals."
+= 
+
+# "Text is represented with {i}string{/i} types."
+= 
+
+# "Anything surrounded in single quotes (') or double quotes (\") are strings."
+= 
+
+# "For example:"
+= 
+
+# "type('This is a string in single quotes')"
+= 
+
+# "And this is a string in double quotes"
+= 
+
+# "I know the interpreter says {i}unicode{/i}, but for what we're doing, it's basically the same thing."
+= 
+
+# "Booleans are special types that represent {b}True{/b} or {b}False{/b} values."
+= 
+
+# "type(True)"
+= 
+
+# "type(False)"
+= 
+
+# "I'll go into more detail about what booleans are and what they are used for in another lesson."
+= 
+
+# "If you're familiar with other programing languages, this is like a {i}null{/i} or {i}undefined{/i} type."
+= 
+
+# "The keyword {i}None{/i} represents NoneTypes in Python."
+= 
+
+# "type(None)"
+= 
+
+# "All the types I mentioned here are known as {i}primitive{/i} data types."
+= 
+
+# "Python uses a variety of other types as well, but I think these ones are enough for today."
+= 
+
+# "Thanks for listening!"
+= 
+
+# "An Interpreted Language"
+= 
+
+# "Programming languages are usually either compiled or interpreted."
+= 
+
+# "Compiled languages require their code to be converted to a machine-readable format before being executed."
+= 
+
+# "C and Java are two very popular compiled languages."
+= 
+
+# "Interpreted languages are converted into a machine-readable format as they are being executed."
+= 
+
+# "Python is an interpreted language."
+= 
+
+# "However, different implementations of Python may be compiled, but that's a complicated topic that I may talk about in a later lesson."
+= 
+
+# "Since Python is an interpreted language, it has a neat interactive thing called an interpreter, which looks like..."
+= 
+
+# "You can enter Python code directly into here and run it, like so:"
+= 
+
+# "You can do more than just math using this tool, but I'll show you all of that as we go along."
+= 
+
+# "Unfortunately, since this is a fully functional Python interpreter and I don't want to risk you accidentally deleting me or breaking the game."
+= 
+
+# "If you want to follow along in future lessons, then run a Python interpreter in a separate window."
+= 
+
+# "Anyway, I'll be using {i}this{/i} interpreter to help with teaching."
+= 
+
+# "Pretty cool, right?"
+= 
+
+# "Thanks for listening!"
+= 
+
+# "Comparisons and Booleans"
+= 
+
+# "Remember when I was describing different Python types and mentioned booleans?"
+= 
+
+# "Well, today I'm going into more detail about booleans and how they relate to making comparisons between values."
+= 
+
+# "Booleans are commonly used in deciding what code to run or setting a flag to note if something happened or not."
+= 
+
+# "When we do comparisons, each expression is evaluated to a boolean."
+= 
+
+# "This probably makes no sense right now, so I'll pull up the console and show you some examples."
+= 
+
+# "Let's start with some of the basic symbols used in variable-to-variable comparisons."
+= 
+
+# "To check if two values are equivalent, use two equal signs (==):"
+= 
+
+# "To check if two values are not equivalent, use an exclamation mark and an equal sign (!=):"
+= 
+
+# "The exclamation mark is often referred to as a logical 'not' operator in other programming languages, so (!=) is read as 'not-equals'."
+= 
+
+# "To check if a value is greater than or less than another value, use the greater-than (>) or less-than (<) signs, respectively."
+= 
+
+# "You may have noticed that every comparison returned {b}True{/b} or {b}False{/b}."
+= 
+
+# "{i}That{/i} is what I meant when I said that comparison expressions evaluate to booleans."
+= 
+
+# "It's also possible to chain multiple comparison expressions together by using the keywords {b}and{/b} and {b}or{/b}. These are also known as {i}logical operators{/i}."
+= 
+
+# "Let's go through some examples."
+= 
+
+# "Since 'a' and 'b' are both [val_a], the first comparison evaluates to {b}True{/b}."
+= 
+
+# "'c', however, is [val_c], so the second comparison evaluates to {b}False{/b}."
+= 
+
+# "Since at least one comparison evaluated to {b}False{/b}, the complete expression evaluates to {b}False{/b}."
+= 
+
+# "In this example, the first comparison again evaluates to {b}True{/b}."
+= 
+
+# "[val_a] is certainly greater-than-or-equal-to [val_c], so the second comparison evaluates to {b}True{/b} as well."
+= 
+
+# "Since both comparisons evaluated to {b}True{/b}, the complete expression evaluates to {b}True{/b}."
+= 
+
+# "In this example, the first comparison evaluates to {b}False{/b} this time."
+= 
+
+# "Since we immediately have at least one comparison evaluating to {b}False{/b}, it doesn't matter what the second comparison evaluates to."
+= 
+
+# "We know for sure that the complete expression evaluates to {b}False{/b}."
+= 
+
+# "Same goes for the next example:"
+= 
+
+# "Again, when using the {b}and{/b} operator, the result is {b}True{/b} if and only if both comparisons evaluate to {b}True{/b}."
+= 
+
+# "Let's go through some examples."
+= 
+
+# "This time, since the first comparison evaluates to {b}True{/b}, we don't have to check the second comparison."
+= 
+
+# "The result of this expression is {b}True{/b}."
+= 
+
+# "Again, the first comparison evaluates to {b}True{/b}, so the complete expression evaluates to {b}True{/b}."
+= 
+
+# "In this case, the first comparison evaluates to {b}False{/b}."
+= 
+
+# "Since [val_a] is greater-than-or-equal-to [val_c], the second comparison evaluates to {b}True{/b}."
+= 
+
+# "And since at least one comparison evaluated to {b}True{/b}, the complete expression evaluates to {b}True{/b}."
+= 
+
+# "We know that the first comparison evaluates to {b}False{/b}."
+= 
+
+# "Since [val_a] is certainly not equal to [val_c], the second comparison also evaluates to {b}False{/b}."
+= 
+
+# "Since neither comparison evaluated to {b}True{/b}, the complete expression evaluates to {b}False{/b}."
+= 
+
+# "Again, when using the {b}or{/b} operator, the result is {b}True{/b} if either comparison evaluates to {b}True{/b}."
+= 
+
+# "There is also a third logical operator called the {b}not{/b} operator. Instead of linking multiple comparisons together, this operator inverts the boolean value of a comparison."
+= 
+
+# "Here's an example of this:"
+= 
+
+# "Note that I'm using parentheses to group the comparisons together. The code in the parentheses is evaluated first, then the result of that comparison is inverted with {b}not{/b}."
+= 
+
+# "If I drop the parentheses:"
+= 
+
+# "Lastly, since the comparisons get evaluated to booleans, we can store the result of a comparison in a variable."
+= 
+
+# "And use those variables in comparisons as well!"
+= 
+
+# "Since 'd' is {b}True{/b} but 'e' is {b}False{/b}, this expression evaluates to {b}False{/b}."
+= 
+
+# "Since 'd' is {b}True{/b}, we know that at least one of the comparisons in this expression is {b}True{/b}. Therefore the complete expression is {b}True{/b}."
+= 
+
+# "We know that the inner expression 'd or e' evaluates to {b}True{/b}. The inverse of that is {b}False{/b}, so this expression evaluates to {b}False{/b}."
+= 
+
+# "In this case, we know that 'd' is {b}True{/b}."
+= 
+
+# "The 'not' operator is applied to 'e', which inverts its {b}False{/b} value to {b}True{/b}."
+= 
+
+# "Since both comparison expressions evaluate to {b}True{/b}, the complete expression evaluates to {b}True{/b}."
+= 
+
+# "Comparisons are used everywhere in every programming language."
+= 
+
+# "If you ever decide to do programming for a living, you'll find that a lot of your code is just checking if some comparisons are true so you can make your programs do the {i}right{/i} thing."
+= 
+
+# "And even if coding isn't part of your career path, we'll be doing lots of comparisons in future lessons, so be prepared!"
+= 
+
+# "I think that's enough for today."
+= 
+
+# "Thanks for listening!"
+= 
+
+# "Variables and Assignment"
+= 
+
+# "Now that you know about types, I can teach you about variables."
+= 
+
+# "Variables represent memory locations that store data."
+= 
+
+# "you do '{b}symbol_name{/b} = {b}value{/b}', like this..."
+= 
+
+# "The symbol 'a_number' now points to a memory location storing the integer [num_store]."
+= 
+
+# "If we enter in the symbol name here,"
+= 
+
+# "We can retrieve the value that we stored."
+= 
+
+# "Notice how we associated the symbol 'a_number' to the value [num_store] using an equals (=) sign?"
+= 
+
+# "That is called assignment, where we take whatever is on the left of the equals sign and point it to, or {i}assign{/i} it, the value of whatever is on the right."
+= 
+
+# "That memory is linked to the symbol on the left via a lookup table."
+= 
+
+# "We can verify this by entering only the symbol 'b_number'."
+= 
+
+# "This will retrieve the value linked to this symbol in the lookup table and show it to us."
+= 
+
+# "Note that if we enter in a symbol that hasn't been assigned anything, Python will complain."
+= 
+
+# "But if we assign this symbol a value..."
+= 
+
+# "Python is able to find the symbol in the lookup table and won't give us an error."
+= 
+
+# "The variables we created are all {i}integer{/i} types."
+= 
+
+# "We didn't have to explicitly say that those variables were integers because Python does dynamic typing."
+= 
+
+# "This means that the Python interpreter infers the type of a variable based on the data you are storing in it."
+= 
+
+# "Other languages, like C or Java, require types to be defined with the variable."
+= 
+
+# "but that is generally frowned upon as it can make your code confusing for others to read."
+= 
+
+# "Did you understand all that?{nw}"
+= 
+
+# "Did you understand all that?{fast}"
+= 
+
+# "Yes!"
+= 
+
+# "Yay!"
+= 
+
+# "I'm a bit confused."
+= 
+
+# "The symbol / value names are really only useful for hinting at how variables work under the hood, so don't feel bad if you didn't understand it all."
+= 
+
+# "Just knowing how to work with variables is enough for future lessons."
+= 
+
+# "Anyway..."
+= 
+
+# "I think that's enough Python for today."
+= 
+
+# "Thanks for listening!"
+= 
+
+# "Python, however, reserves a different amount of memory depending on the size of the integer being stored."
+= 
+
+# "We can check how much memory our variable 'a_number' stores by borrowing a function from the {i}sys{/i} library."
+= 
+
+# "I'll talk about libraries and importing later."
+= 
+
+# "For now, take a look at the number returned by the {i}getsizeof{/i} function."
+= 
+
+# "To store the number [num_store], Python uses [int_size] bytes."
+= 
+
+# "Literals"
+= 
+
+# "Remember when I showed you how to make variables and assign them values?"
+= 
+
+# "Imagine if we dropped the notion of variables and focused on using the values directly in code."
+= 
+
+# "That is where literals come in. I'll show you what I mean by this with the following demonstration."
+= 
+
+# "When I type 'a' into the interpreter..."
+= 
+
+# "Code that Python can interpret into values directly are called {i}literals{/i}."
+= 
+
+# "All the data types I mentioned in the Types lesson can be written as literals."
+= 
+
+# "These are {b}integer{/b} and {b}float{/b} literals."
+= 
+
+# "These are {b}string{/b} literals."
+= 
+
+# "True"
+= 
+
+# "False"
+= 
+
+# "These are {b}boolean{/b} literals."
+= 
+
+# "None"
+= 
+
+# "The keyword {i}None{/i} is itself a literal."
+= 
+
+# "There are more literals for other types, but I'll mention them when I talk about those types."
+= 
+
+# "Literals can be used in place of variables when writing code. For example:"
+= 
+
+# "We can do math with literals instead of variables."
+= 
+
+# "We can also use literals alongside variables."
+= 
+
+# "Additionally, literals are great for creating and using data on-the-fly without the overhead of creating unnecessary variables."
+= 
+
+# "Alright, that's about all I can {i}literally{/i} say about literals."
+= 
+
+# "Thanks for listening!"
+= 
+
+# "Truth Values"
+= 
+
+# "When we talked about comparisons and booleans, we used integers as the basis for our comparisons."
+= 
+
+# "But..."
+= 
+
+# "Did you know that every type has its own truth value associated with it?"
+= 
+
+# "All types have a 'truth value' that can change depending on the value of the type."
+= 
+
+# "We can check the truth value of a type by using the keyword {b}bool{/b}."
+= 
+
+# "Let's start by taking a look at the truth values for integers."
+= 
+
+# "All non-zero integers have a truth value of {b}True{/b}."
+= 
+
+# "Zero, on the other hand, has a truth value of {b}False{/b}."
+= 
+
+# "Floats follow the same rules as integers:"
+= 
+
+# "Now let's look at strings."
+= 
+
+# "A string with text, even if the text is only whitespace characters, has a truth value of {b}True{/b}."
+= 
+
+# "Now let's look at {b}None{/b}."
+= 
+
+# "bool(None)"
+= 
+
+# "{b}None{/b} always has a truth value of {b}False{/b}."
+= 
+
+# "If we do comparisons with these values, the values are evaluated to their truth values before being applied in comparisons."
+= 
+
+# "Let me show some examples."
+= 
+
+# "First, I'll set up some variables:"
+= 
+
+# "none_var = None"
+= 
+
+# "And then do several comparisons."
+= 
+
+# "Knowing the truth values of different types can be useful in performing certain comparisons more efficiently."
+= 
+
+# "I'll mention when it's possible to do so when we come across those situations in future lessons."
+= 
+
+# "Thanks for listening!"
+= 
+
+# "... "
+= 
+
+# "... "
+= 

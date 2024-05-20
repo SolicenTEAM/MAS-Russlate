@@ -1,0 +1,2364 @@
+
+# "normal": None, "scary"
+= 
+
+# "Nevermind" 
+= "Не важно"
+
+# "Can you tell me a story?" 
+= "Можешь рассказать мне историю?"
+
+# "A new story" 
+= "Новая история"
+
+# "I'd like to hear a " + switch_str + " story", "monika_short_stories_menu" 
+= "Я хотел бы услышать историю + switch_str +, monika_short_stories_menu"
+
+# "Witch" 
+= "Ведьма"
+
+# "Which" 
+= "Какую"
+
+# "Sorry [player]...I can't really think of a new [_story_type] story right now..." 
+= "Извини, [player]...Я не могу придумать новую [_story_type] историю сейчас..."
+
+# "If you give me some time I might be able to think of one soon...but in the meantime, I can always tell you an old one again~" 
+= "Если дашь мне немного времени, то я, возможно, смогу придумать одну... а пока я всегда могу рассказать тебе старую~"
+
+# "Alright, let's start the story." 
+= "Хорошо, давай начнем рассказ."
+
+# "Ready to hear the story?" 
+= "Готов услышать историю?"
+
+# "Ready for story time?" 
+= "Готов к истории?"
+
+# "Let's begin~" 
+= "Давай начнем~"
+
+# "Are you ready?" 
+= "Ты готов?"
+
+# "Ahem." 
+= "Кхм."
+
+# "Alright let's start the story." 
+= "Хорошо, давай начнем рассказ."
+
+# "Ready to hear the story?" 
+= "Готов услышать историю?"
+
+# "Ready for story time?" 
+= "Готов к истории?"
+
+# "Let's begin." 
+= "Начнем."
+
+# "Are you ready?" 
+= "Ты готов?"
+
+# "Ahem." 
+= "Кхм."
+
+# "Scared, [player]?" 
+= "Испугался, [player]?"
+
+# "Did I scare you, [player]?" 
+= "Я напугала тебя, [player]?"
+
+# "How was it?" 
+= "Ну как?"
+
+# "Well?" 
+= "Ну?"
+
+# "I hope you liked it, [player]~" 
+= "Надеюсь, тебе понравилось, [player]~"
+
+# "The Cat and the Cock" 
+= "Кошка и Петух"
+
+# "A Cat caught a Cock and thought about reasonable excuses for eating him." 
+= "Поймала кошка петуха и размышляла, чем можно оправдать его поедание."
+
+# "He accused him of being a nuisance by crowing at night; not letting men sleep." 
+= "Она обвинила его в том, что он доставлял неприятности крича по ночам, не давая тем самым людям спать."
+
+# "The Cock defended his action by saying this was for the benefit of men, as it wakes them for labor." 
+= "Петух защищался и сказал, что это была во благо людей, так как он будит их, чтобы они вставали трудиться."
+
+# "The Cat replied, 'you abound in apologies, but it's time for breakfast.'" 
+= "Кошка ответила 'оправданий достаточно, но пора и честь знать, и завтраком стать.'"
+
+# "At that he made a meal of the Cock." 
+= "И она сделала еду из петуха."
+
+# "The moral of this story is, tyrants need no excuse."
+= 
+
+# "I hope you enjoyed this little story, [player]~" 
+= "Я надеюсь, тебе понравилась эта маленькая история, [player]~"
+
+# "The Fox" 
+= "Лиса" 
+
+# "One hot summer's day, a Fox was strolling through an orchard till he came to a bunch of grapes just ripening on a vine which had been trained over a lofty branch." 
+= "Однажды одним жарким летним днем, лиса прогуливалась по фруктовому сабу, пока не пришла к виноградной грозди, только что созревшей на виноградной лозе, которая весела на высокой ветви ."
+
+# "'Just the thing to quench my thirst,' said the Fox." 
+= "'То, что нужно, чтобы утолить мою жажду,' сказала лиса."
+
+# "Drawing back a few paces, he took a run and a jump, and just missed the bunch." 
+= "Отступив на несколько шагов назад, она взяла разбег и прыгнула и ничего не поймала."
+
+# "Again and again he tried after the tempting morsel, but at last had to give it up, and walked away with his nose in the air, saying: 'I am sure they are sour.'"
+= 
+
+# "The moral of this story is, it's easy to despise what you cannot get."
+= 
+
+# "I hope you liked it, [player]~" 
+= "Надеюсь, тебе понравилось, [player]~"
+
+# "The Shepherd Boy and the Wolf" 
+= "Мальчик-пастушок и Волк"
+
+# "There was a Shepherd Boy who tended his sheep at the foot of a mountain near a dark forest." 
+= "Жил был мальчик-пастух, которой пас своих овец у подножия горы возле самого темного леса."
+
+# "It was lonely for him, so he devised a plan to get a little company." 
+= "Ему был очень одиноко, и он разработал план как заполучить друзей."
+
+# "He rushed down towards the village calling out 'Wolf! Wolf!' and the villagers came out to meet him." 
+= "Он бросился вниз к деревне, крича 'Волк! Волк!' и жители вышли ему навстречу."
+
+# "This pleased the boy so much that a few days after he tried the same trick, and again the villagers came to his help." 
+= "Это так сильно обрадовало мальчика, что через несколько дней он решил повторить этот трюк и жители снова пришли ему на помощь."
+
+# "Shortly after, a Wolf actually did come out from the forest." 
+= "Вскоре, волк действительно вышел из леса."
+
+# "The boy cried out 'Wolf, Wolf!' still louder than before." 
+= "И после этого мальчик закричал 'Волк, Волк!' еще громче чем раньше."
+
+# "But this time the villagers, who had been fooled twice before, thought the boy was again lying, and nobody came to his aid." 
+= "Но на этот раз, жители деревни который уже дважды обманули подумали, что мальчик снова лжет, и никто не пришел ему на помощь."
+
+# "So the Wolf made a good meal of the boy's flock." 
+= "Поэтому мальчик-пастух стал хорошей едой для волка."
+
+# "The moral of this story is, liars are not believed even when they speak the truth."
+= 
+
+# "You shouldn't worry about it, [player]..." 
+= "Ты можешь не беспокоиться об этом, [player]..."
+
+# "You'd never lie to me, right?" 
+= "Ты ведь никогда не солжешь мне, верно?"
+
+# "Ehehe~" 
+= "Э-хе-хе~" 
+
+# "I hope you enjoyed the story, [player]!" 
+= "Я надеюсь, тебе понравилась эта история, [player]!"
+
+# "The Grasshopper" 
+= "Кузнечик"
+
+# "One summer's day, a Grasshopper was hopping about, chirping and singing to its heart's content." 
+= "Одним летним днем, кузнечек прыгал, щебетал и пел до глубины души."
+
+# "An Ant passed by, bearing an ear of corn he was taking to the nest." 
+= "Рядом проходил муравей, который нес кукурузу в свой муравейник"
+
+# "'Why not come and chat with me,' said the Grasshopper, 'instead of toiling in that way?'" 
+= "'Почему бы не подойти и пообщаться со мной,' сказал Кузнечик, 'вместо того чтобы заниматься этим?'" 
+
+# "'I am helping to lay up food for the winter,' said the Ant, 'and recommend you do the same.'" 
+= "'Я помогаю закладывать еду на зиму,' ответил Муравей, 'и рекомендую тебе делать тоже самое.'" 
+
+# "'Why bother about winter?' said the Grasshopper; 'we have plenty of food now!'" 
+= "'Зачем беспокоиться о зиме?' сказал Кузнечик; 'у нас ведь много еды!'" 
+
+# "The Ant went on its way." 
+= "Муравей просто пошел дальше."
+
+# "When winter came, the Grasshopper had no food and found itself dying of hunger, while it saw the ants distributing corn and grain from the stores they had collected in the summer." 
+= "Когда наступила зимняя пора, у Кузнечика не осталось еды и он умирал от голода, и видел как в это время муравьи раздавали кукурузу и зерно которые они собирали летом."
+
+# "The moral of this story is, there's a time for work and a time for play."
+= 
+
+# "But there's always a time to spend with your cute girlfriend~" 
+= "Но всегда есть время, чтобы провести со своей милой девушкой~"
+
+# "Ehehe, I love you so much, [player]!" 
+= "Э-хе-хе, я очень тебя люблю, [player]!"
+
+# "The Wind and the Sun" 
+= "Ветер и Солнце"
+
+# "The Wind and the Sun were disputing which was the strongest." 
+= "Однажды Солнце и сердитый северный Ветер затеяли спор о том, кто из них сильнее."
+
+# "Suddenly they saw a traveler coming down the road, and the Sun said: 'I see a way to decide our dispute.'"
+= 
+
+# "'Whichever of us can cause that traveler to take off his cloak shall be regarded as the strongest. You begin.'"
+= 
+
+# "So the Sun retired behind a cloud, and the Wind began to blow as hard as it could upon the traveler."
+= 
+
+# "But the harder he blew the more closely did the traveler wrap his cloak around him, till at last the Wind had to give up in despair."
+= 
+
+# "Then the Sun came out and shone in all his glory upon the traveler, who soon found it too hot to walk with his cloak on."
+= 
+
+# "The moral of this story is, gentleness and kind persuasion win where force and bluster fail."
+= 
+
+# "Hope you had fun, [player]." 
+= "Надеюсь, тебе было интересно, [player]."
+
+# "The Seeds" 
+= "Семена"
+
+# "It happened that a Countryman was sowing some hemp seeds in a field where a Swallow and some other birds were hopping about picking up their food." 
+= "Случилось так, что крестьянин сеял семена конопли в поле, где Ласточка и несколько других птиц собирали еду."
+
+# "'Beware of that man,' quote the Swallow." 
+= "'Остерегайтесь этого человека,' сказала Ласточка." 
+
+# "'Why, what is he doing?' asked the others." 
+= "'Почему, для чего он это делает?' спросили остальные." 
+
+# "'That is hemp seed he is sowing; be careful to pick up every one of the seeds, or else you will repent it.' The Swallow replied." 
+= "'Это семена конопли, которые он сеет; будьте осторожны, собирая семена, иначе вы будете пойманы.' ответила Ласточка." 
+
+# "The birds paid no heed to the Swallow's words, and by and by the hemp grew up and was made into cord, and of the cords nets were made." 
+= "Птицы не послушали Ласточку, и из семена выросли и скрутились в цепи."
+
+# "Many birds that had despised the Swallow's advice were caught in nets made out of that very hemp." 
+= "Многие птицы, которые не послушали совета Ласточки, были пойманы в сети, сделанные из этой конопли."
+
+# "'What did I tell you?' said the Swallow." 
+= "'Разве я об этом не говорила?' сказала Ласточка." 
+
+# "The moral of this story is, destroy the seeds of evil before they grow up to be your ruin."
+= 
+
+# "..."
+= 
+
+# "I wish I could've followed that moral..." 
+= "Хотелось бы, чтобы я следовала этой морали."
+
+# "You wouldn't have had to go through what you saw." 
+= "Тебе бы не пришлось пройти через то, что ты видел."
+
+# "Anyway, I hope you liked the story, [player]!" 
+= "В любом случае, я надеюсь тебе понравилась история, [player]!"
+
+# "The Gray Hair" 
+= "Седые волосы"
+
+# "In the old days, a middle-aged Man had one wife that was old and one that was young; each loved him and desired nothing more than to earn his affection." 
+= "В старинные времена, мужчина средних лет имел несколько жен, старую и молодую и каждую любил и не желал ничего кроме как заслужить их привязанности."
+
+# "The Man's hair was turning gray, which the young Wife did not like, as it made him look too old." 
+= "Волосы мужчины седели, что не нравилось молодой жене, так как это заставало его выглядеть старым."
+
+# "So, every night she picked out the white hairs." 
+= "Поэтому, каждую ночь она отстригала седые волосы."
+
+# "But, the elder Wife did not like to be mistaken for his mother." 
+= "Но, старшая жена не хотела ошибок своей матери."
+
+# "So, every morning she picked out as many of the black hairs as she could." 
+= "Поэтому каждое утро она отстригала как можно больше черных волосков."
+
+# "The Man soon found himself entirely bald." 
+= "Вскоре мужчина оказался полностью лысым."
+
+# "The moral of this story is, yield to all and you will soon have nothing to yield."
+= 
+
+# "So before you give everything, make sure you still have some for yourself!" 
+= "Поэтому, прежде чем отдавать всё, убедись, что осталось еще что-то для себя!"
+
+# "...Not that being bald is bad, [player]." 
+= "...Не то, чтобы быть лысым плохо, [player]." 
+
+# "Ehehe, I love you!~" 
+= "Э-хе-хе, я люблю тебя!"
+
+# "The Fisherman" 
+= "Рыбак"
+
+# "A poor Fisherman, who lived on the fish he caught, had bad luck one day and caught nothing but a very small fry." 
+= "Бедный Рыбак, который жил только на рыбе которую поймает, однажды постиг неудачу и не поймал ничего кроме маленького малька."
+
+# "The Fisherman was about to put it in his basket when the little Fish spoke." 
+= "Рыбак уже собирался его положить в ведро, когда заговорила маленькая рыбка."
+
+# "'Please spare me, Mr. Fisherman! I am so small it is not worthwhile to carry me home. When I am bigger, I shall make you a much better meal!'" 
+= "'Пожалуйста пощадите меня, мистер Рыбак! Я настолько мал, что не стоит доставлять меня домой. Когда я буд больше, я больше буду походить на еду!'" 
+
+# "But the Fisherman quickly put the fish into his basket." 
+= "Но Рыбак быстро поместил рыбку в своё ведро."
+
+# "'How foolish I should be,' he said, 'to throw you back. However small you may be, you are better than nothing at all.'" 
+= "'Каким же я должен быть глупим чтобы поверить тебе,' сказал он, 'и вернуть тебя назад. Как бы ты ни был мал, ты лучше, чем ничего.'" 
+
+# "The moral of this story is, a small gain is worth more than a large promise."
+= 
+
+# "I hope you enjoyed this little story, [player]~" 
+= "Я надеюсь, тебе понравилась эта маленькая история, [player]~"
+
+# "Old Man's Three Wishes" 
+= "Три желания старика"
+
+# "Once, an elderly man was sitting alone on a dark path." 
+= "Однажды пожилой человек сидел в одиночестве на темной тропинке."
+
+# "He had forgotten both where he was traveling to, and who he was." 
+= "Он забыл о том, куда идет, и о том, кто он такой."
+
+# "Suddenly, he looked up to see an elderly woman before him." 
+= "Вдруг он поднял голову и увидел перед собой пожилую женщину."
+
+# "She grinned toothlessly and with a cackle, spoke: 'Now your {i}third{/i} wish. What will it be?'"
+= 
+
+# "'Third wish?' The man was baffled. 'How can it be a third wish if I haven't had a first and second wish?'" 
+= "'Третье желание?' Человек был озадачен. 'Как это может быть третьим желанием, если у мене не было ни первого ни второго желания?'"
+
+# "'You've had two wishes already,' the hag said, 'but your second wish was for me to return everything to the way it was before you had made your first wish.'" 
+= "'У тебя уже были два желания,' первое - тоска, 'но второе твоё желание состояло в том, чтобы ты отдал всё до того, как ты сделаешь первое желание.'"
+
+# "'That's why you remember nothing: because everything is the way it was before you made any wishes.'"
+= 
+
+# "'All right,' said the man, 'I don't believe this, but there's no harm in wishing. I wish to know who I am.'" 
+= "'Ладно, 'сказал человек, 'Я не верю в это, но нет никакого вреда в желаниях. Я хочу знать кто я.'"
+
+# "'Funny,' said the old woman as she granted his wish and disappeared forever. 'That was your first wish.'" 
+= "'Забавно,' сказала старушка, и исчезла навсегда. 'Это было твоим первым желанием.'" 
+
+# "The Simple Genie" 
+= "Обычный Джин" 
+
+# "There was once a genie who traveled across different worlds to escape the chaos of his own."
+= 
+
+# "During his journeys, he met a woman that challenged the way he saw the world." 
+= "Во время своих путешествий он встретил женщину, которая бросила вызов его мировоззрению."
+
+# "She was smart and talented, but held back by the hardships she faced and how little she had." 
+= "Она была умна и талантлива, но ее сдерживали трудности, с которыми она сталкивалась, и то, как мало у нее было."
+
+# "The genie saw this and felt generous, offering tools to speed up her work and make her life easier." 
+= "Джинн увидел это и почувствовал себя щедрым, предложив инструменты, чтобы ускорить ее работу и облегчить ей жизнь."
+
+# "But she simply declined his offer." 
+= "Но она просто отказалась от его предложения."
+
+# "He didn't know how to respond." 
+= "Он не знал, как реагировать."
+
+# "The woman said she could tell that he had never experienced happiness, and that despite all her hardships, she could still enjoy life." 
+= "По словам женщины, она могла сказать, что он никогда не испытывал счастья, и что, несмотря на все ее трудности, она все еще может радоваться жизни."
+
+# "The genie couldn't understand why anyone would want to work so hard for something so small." 
+= "Джинн не мог понять, почему кто-то хочет так много работать ради чего-то столь малого."
+
+# "He improved his offers with riches and other such things, but still, she declined." 
+= "Он улучшил свои предложения богатством и другими подобными вещами, но она все равно отказалась."
+
+# "Eventually, the woman asked the genie to join in her way of life." 
+= "В конце концов, женщина попросила джинна присоединиться к ее образу жизни."
+
+# "And so, he imitated the things she did, without using any powers." 
+= "И так он подражал ее действиям, не используя никаких способностей."
+
+# "The genie began to feel a small sense of accomplishment, creating something for the first time without willing it into existence." 
+= "Джинн начал испытывать небольшое чувство удовлетворения от того, что впервые создал что-то, не желая этого."
+
+# "He saw how simple things such as art and writing inspired the woman and really made her shine." 
+= "Он увидел, как такие простые вещи, как искусство и письмо, вдохновляли женщину и заставляли ее по-настоящему сиять."
+
+# "Intrigued, he wanted to spend much more time with this woman and learn from her." 
+= "Заинтригованный, он хотел провести с этой женщиной гораздо больше времени и поучиться у нее."
+
+# "Eventually, one day the woman fell ill." 
+= "В конце концов, однажды женщина заболела."
+
+# "She made the genie promise not to use his powers to cure her." 
+= "Она заставила джинна пообещать, что он не будет использовать свои силы, чтобы вылечить ее."
+
+# "It was at this moment that the genie knew he wanted to live like a human without ever using his powers again." 
+= "Именно в этот момент джинн понял, что хочет жить как человек, никогда больше не используя свои силы."
+
+# "He thought about all the past wishes he granted to others, all the riches he generated..." 
+= "Он думал обо всех прошлых желаниях, которые он исполнил для других, обо всех богатствах, которые он создал..."
+
+# "All his fellow genies out there granting wishes, not knowing or caring for the consequences..." 
+= "Все его собратья-джины исполняют желания, не зная и не заботясь о последствиях..."
+
+# "Never being able to know what it's like to give it all up just to be with someone they love." 
+= "Никогда не узнать, каково это - отдать все ради того, чтобы быть с любимым человеком."
+
+# "All he could do was live with what he had now found in life." 
+= "Все, что он мог сделать, это жить с тем, что он теперь нашел в жизни."
+
+# "..."
+= 
+
+# "I hope you liked that story, [player]." 
+= "Я надеюсь, тебе понравилась эта история, [player]."
+
+# "There are a few things to take from it..." 
+= "Есть несколько вещей, которые можно извлечь из этого..."
+
+# "If you already have everything, nothing is really worth having." 
+= "Если у тебя уже все есть, то для тебя это ничего не стоит."
+
+# "...Except maybe you of course." 
+= "...Кроме, тебя самого, конечно же." 
+
+# "The struggle is what makes anything worthwhile." 
+= "Борьба - это то, что делает все стоящим."
+
+# "Another moral could be that sometimes, happiness lies in the simpler things you could've had all along." 
+= "Другая мораль может заключаться в том, что иногда счастье заключается в более простых вещах, которые вы могли бы иметь всегда."
+
+# "I mean, we're just sitting here together enjoying each other's company after all." 
+= "Я имею ввиду, что мы просто сидим здесь вместе и наслаждаемся обществом друг друга, в конце концов."
+
+# "When you're here, it really feels like I have everything~" 
+= "Когда ты здесь, мне кажется, что у меня есть все!"
+
+# "The Genie's Regret" 
+= "Сожаление Джинна"
+
+# "There was once a genie who was immortal..." 
+= "Жил-был джин, который был бессмертным..."
+
+# "Through his years, he had seen the world change over time and granted wishes to anyone who crossed his path." 
+= "За годы своей жизни он видел, как со временем меняется мир, и исполнял желания всех, кто переходил ему дорогу."
+
+# "Wars, natural disasters, the deaths of all the friends he ever made..." 
+= "Войны, стихийные бедствия, смерть всех друзей, которых он когда-либо имел..."
+
+# "Some of which, he knew were caused by wishes he had granted." 
+= "Некоторые из них, как он знал, были вызваны исполненными им желаниями."
+
+# "At first, he wasn't too concerned with the consequences...but after a while, it began to bother him more and more." 
+= "Сначала его не слишком беспокоили последствия... но через некоторое время это стало беспокоить его все больше и больше."
+
+# "He had come to a simple, beautiful, pure world, and caused immeasurable damage to it." 
+= "Он пришел в простой, прекрасный, чистый мир и нанес ему неизмеримый ущерб."
+
+# "Unbalance and jealousy spread as he granted more wishes, seeding wishes for revenge and greed." 
+= "Неуравновешенность и ревность распространялись по мере того, как он исполнял все новые желания, сея желания мести и жадности."
+
+# "This was something he had to live with for the rest of his life." 
+= "С этим ему предстояло жить до конца своих дней."
+
+# "He wanted things to return to how they were, but his pleas always fell upon deaf ears." 
+= "Он хотел, чтобы все вернулось на круги своя, но его мольбы всегда оставались без внимания."
+
+# "As time went on however, he had met some people and made friends who taught him how to go on despite all of his acts." 
+= "Однако со временем он встретил несколько человек и завел друзей, которые научили его жить дальше, несмотря на все его поступки."
+
+# "some were bound to happen even without him." 
+= "некоторые из них должны были произойти даже без него."
+
+# "He was going to live with the things he had done, but the question remained as to what he planned to do about it." 
+= "Он собирался жить с тем, что он сделал, но оставался вопрос, что он собирается делать с этим."
+
+# "I hope you liked the story, [player]." 
+= "Надеюсь, тебе понравилась эта история, [player]."
+
+# "The moral of the story is, even if you've done things you regret, you shouldn't let that keep you down."
+= 
+
+# "The truth is, a lot of times we tend to blame ourselves for things that likely would've happened with or without our involvement." 
+= "Правда в том, что очень часто мы склонны винить себя за то, что, скорее всего, произошло бы с нашим участием или без него."
+
+# "In fact, it's through regret that we learn compassion, empathy, and forgiveness." 
+= "На самом деле, именно через сожаление мы учимся состраданию, сочувствию и прощению."
+
+# "You can't change the past, but you need to forgive yourself someday to live a life without regrets." 
+= "Ты не можешь изменить прошлое, но ты должен однажды простить себя, чтобы жить без сожалений."
+
+# "As for me..." 
+= "Что же касается меня..."
+
+# "Who knows what would have happened in my world if I hadn't done anything..." 
+= "Кто знает, что случилось бы в моем мире, если бы я ничего не сделала..."
+
+# "You've gotten to know each and every club member here, so I'd guess you don't regret missing out on anything." 
+= "Ты познакомился здесь с каждым членом клуба, так что, думаю, ты не жалеешь о том, что что-то упустил."
+
+# "Ahaha~" 
+= "Ахаха~"
+
+# "But[placeholder] you're here with me now." 
+= "Но[placeholder] теперь ты со мной."
+
+# "Ever since we've been together, I can definitely say that I've grown and learned from my mistakes." 
+= "С тех пор, как мы вместе, я могу сказать, что я выросла и научилась на своих ошибках."
+
+# "The Genie's End" 
+= "Смерть Джинна"
+
+# "There was once an immortal genie who had lived a long life." 
+= "Жил-был бессмертный джинн, который прожил долгую жизнь."
+
+# "Essentially, he gave everything up but his immortality to be able to live like a human." 
+= "По сути, он отказался от всего, кроме своего бессмертия, чтобы иметь возможность жить как человек."
+
+# "It's true that he had lived a nice life and surrounded himself with loving friends and family..." 
+= "Это правда, что он прожил хорошую жизнь и окружил себя любящими друзьями и семьей..."
+
+# "But he grew cold as years went by and he watched each one of his loved ones pass on." 
+= "Но с годами он становился все холоднее и холоднее, наблюдая, как уходит из жизни каждый, кого он любил."
+
+# "There were still a select few people whom he held dear, despite knowing that he would have to watch them die as well." 
+= "Оставалось еще несколько человек, которыми он дорожил, несмотря на то, что знал, что ему придется наблюдать за их смертью."
+
+# "He never told his friends that he wasn't human, as he still wanted to be treated as one." 
+= "Он никогда не говорил своим друзьям, что он не человек, так как все еще хотел, чтобы к нему относились как к человеку."
+
+# "One day, as he was traveling with one of his friends, they came across a genie who would grant each of them one wish." 
+= "Однажды, когда он путешествовал с одним из своих друзей, они наткнулись на джинна, который исполнял каждому из них по одному желанию."
+
+# "...Everything that had led up to this moment, where he could make his own wish for the first time in a long while." 
+= "...Все, что привело к этому моменту, когда он впервые за долгое время смог загадать свое собственное желание."
+
+# "..."
+= 
+
+# "He wished to die." 
+= "Он пожелал умереть."
+
+# "Confused, his friend asked why and where it came from all of a sudden." 
+= "Смутившись, его друг спросил, почему и откуда оно вдруг взялось."
+
+# "It was there and then he explained everything to his friend." 
+= "Тогда он все объяснил своему другу."
+
+# "That he had been a genie, many years ago..." 
+= "Что он был джинном много лет назад..."
+
+# "...How he came across someone who made him give it all up just to be with someone he loved." 
+= "...Как он встретил кого-то, кто заставил его отказаться от всего, чтобы быть с тем, кого он любил."
+
+# "...And how he had been slowly getting sick and tired of what was left of his life." 
+= "...И как он медленно уставал от того, что осталось от его жизни."
+
+# "He was just tired of seeing his loved ones perish over and over again." 
+= "Он просто устал видеть, как его близкие умирают снова и снова."
+
+# "His last request to his friend was for him to go back to his other friends and tie up any loose ends for him." 
+= "Его последняя просьба к другу заключалась в том, чтобы он вернулся к другим своим друзьям и связал для него все концы с концами." 
+
+# "..."
+= 
+
+# "I hope you enjoyed that little story, [player]." 
+= "Я надеюсь, тебе понравилась эта небольшая история, [player]."
+
+# "I guess you could say the moral is that everyone needs to have some closure." 
+= "Думаю, можно сказать, что мораль заключается в том, что каждый должен иметь возможность завершить свою жизнь."
+
+# "Although, you might be wondering what his friend wished for in that scenario." 
+= "Хотя, возможно, вам будет интересно узнать, что же пожелал его друг в этом сценарии."
+
+# "He wished for his friend to get the peaceful rest he deserved." 
+= "Он хотел, чтобы его друг получил мирный отдых, которого он заслуживал."
+
+# "While it's true that his genie friend might not have been anyone particularly special..." 
+= "Правда, его друг-джинн, возможно, не был кем-то особенным..."
+
+# "especially after living such a long life." 
+= "особенно после столь долгой жизни."
+
+# "Love Never Ends" 
+= "Любовь никогда не заканчивается"
+
+# "There was a married couple who lived happily together for many years." 
+= "Жила-была супружеская пара, которая счастливо прожила вместе много лет."
+
+# "Every Valentine's Day, the husband would have a beautiful bouquet of flowers sent to his wife." 
+= "Каждый день святого Валентина муж посылал жене красивый букет цветов."
+
+# "Each of these bouquets came with a note with a few simple words written on it." 
+= "К каждому из этих букетов прилагалась записка с несколькими простыми словами, написанными на ней."
+
+# "{i}My love for you only grows.{/i}" 
+= "{i}Моя любовь к тебе только растет.{/i}"
+
+# "After some time, the husband passed away." 
+= "Через некоторое время муж скончался."
+
+# "The wife, saddened by her loss, believed she would spend her next Valentine's Day alone and in mourning." 
+= "Жена, опечаленная потерей, считала, что следующий День святого Валентина она проведет в одиночестве и трауре."
+
+# "..."
+= 
+
+# "Heartbroken and angry, she complained to the florist that there was a mistake." 
+= "Убитая горем и рассерженная, она пожаловалась флористу, что произошла ошибка."
+
+# "The florist explained that there was no mistake." 
+= "Флорист объяснил, что ошибки не было."
+
+# "The husband had ordered many bouquets in advance to ensure that his beloved wife would continue to receive flowers long after his death." 
+= "Муж заранее заказал множество букетов, чтобы его любимая жена продолжала получать цветы еще долго после его смерти."
+
+# "Speechless and stunned, the wife read the note attached to the bouquet." 
+= "Безмолвная и ошеломленная и ошеломленная, жена прочитала записку, приложенную к букету."
+
+# "{i}My love for you is eternal.{/i}" 
+= "{i}Моя любовь к тебе вечна.{/i}" 
+
+# "Ahh..." 
+= "Ах..."
+
+# "Wasn't that a touching story, [player]?" 
+= "Разве это не трогательная история, [player]?"
+
+# "I thought it was really romantic." 
+= "Я думаю, это было очень романтично."
+
+# "But I don't want to think of either of us dying." 
+= "Но я не хочу думать о том, что кто-то из нас умрет."
+
+# "At least the ending was very heartwarming." 
+= "Хотя, концовка была очень душевной."
+
+# "Thanks for listening~" 
+= "Спасибо, что послушал~"
+
+# "A mother and her trees" 
+= "Мать и её деревья"
+
+# "There was once a boy who lived with his mother." 
+= "Жил-был мальчик, который жил со своей матерью."
+
+# "On his birthdays, she would {i}always{/i} bake cookies for him and all his classmates to thank them for being his friends." 
+= "В дни его рождения она всегда {i}пекла{/i} печенье для него и всех его одноклассников, чтобы поблагодарить их за то, что они были его друзьями."
+
+# "She would also keep and display every little drawing he made in art school, so their walls were covered with art from over the years." 
+= "Она также хранила и показывала каждый его маленький рисунок, сделанный в художественной школе, так что их стены были покрыты произведениями искусства за все эти годы."
+
+# "Sometimes, he would even get rid of his drawings because he didn't want her to put them up with the rest." 
+= "Иногда он даже избавлялся от своих рисунков, потому что не хотел, чтобы она складывала их вместе с остальными."
+
+# "There were three trees in their backyard that she would talk to every day." 
+= "Во дворе их дома росли три дерева, с которыми она разговаривала каждый день."
+
+# "She even had names for each of them!" 
+= "Она даже придумала имена для каждого из них!"
+
+# "Sometimes, she would even ask him to dress up and pose by the trees so she could take pictures of them together." 
+= "Иногда она даже просила его нарядиться и попозировать у деревьев, чтобы она могла сфотографировать их вместе."
+
+# "One day, as he saw her talking to the trees, he asked her why she always talked to them so much." 
+= "Однажды, увидев, как она разговаривает с деревьями, он спросил ее, почему она всегда так много с ними разговаривает."
+
+# "His mother replied, 'Well, because they need to feel loved!'"
+= 
+
+# "As time passed, the boy eventually had to move out and start his own life." 
+= "Шло время, и в конце концов мальчику пришлось переехать и начать свою собственную жизнь."
+
+# "His mother told him not to worry about leaving her because she had her trees to always keep her company." 
+= "Его мать сказала ему, чтобы он не беспокоился о том, что покинет ее, потому что у нее есть ее деревья, которые всегда составят ей компанию."
+
+# "While he was busy with his life, he still made time to keep in touch with her." 
+= "Хотя он был занят своей жизнью, он все же находил время, чтобы поддерживать с ней связь."
+
+# "His mother had died and was found lying by one of the trees." 
+= "Его мать умерла, и ее нашли лежащей у одного из деревьев."
+
+# "He took good care of the trees of course, but he could never bring himself to talk to them." 
+= "Он, конечно, хорошо заботился о деревьях, но никогда не мог заставить себя поговорить с ними."
+
+# "Some time later, while he was looking through and cleaning up his mother's old belongings, he found an envelope." 
+= "Через некоторое время, перебирая и приводя в порядок старые вещи своей матери, он нашел конверт."
+
+# "Inside, he was shocked at what he found." 
+= "Внутри он был шокирован тем, что нашел."
+
+# "There were three stillborn death certificates for his would-be siblings." 
+= "Было три свидетельства о смерти мертворожденных братьев и сестер."
+
+# "Each of them had an identical name to one of the trees that had been in the backyard all his life." 
+= "Каждое из них имело название, идентичное названию одного из деревьев, которые всю жизнь стояли на заднем дворе."
+
+# "He had never known that he had siblings, but he finally understood why his mother talked to the trees..." 
+= "Он никогда не знал, что у него есть братья и сестры, но наконец-то понял, почему его мать разговаривала с деревьями..."
+
+# "He always wanted to take his mother's wish very seriously, and it was then when he started talking to the trees every day, just as his mother wished." 
+= "Он всегда очень серьезно относился к желанию своей матери, и именно тогда он начал разговаривать с деревьями каждый день, как того желала его мать."
+
+# "...And he even went ahead and planted one more tree." 
+= "...И он даже пошел дальше и посадил еще одно дерево."
+
+# "Self-hate" 
+= "Ненависть к себе"
+
+# "Once, there were two people who had been living together for a very long time." 
+= "Однажды два человека жили вместе очень долгое время."
+
+# "Life was simple, and they both loved each other. Things were going well." 
+= "Жизнь была простой, и они оба любили друг друга. Все шло хорошо."
+
+# "Then one day, the man suddenly killed his lover for seemingly no reason." 
+= "Однажды мужчина внезапно убил свою возлюбленную, казалось бы, без всякой причины."
+
+# "He {i}did{/i} love her, and in a healthy way too!" 
+= "Он {i}любил{/i} ее, и в здравом смысле тоже!"
+
+# "There were never any fights or arguments, either." 
+= "Никогда не было никаких ссор или споров."
+
+# "There was nothing to gain from murdering her at all." 
+= "Убивать ее было совершенно не за чем."
+
+# "No satisfaction, nothing out of the ordinary on her will..." 
+= "Никакого удовлетворения, ничего необычного по ее воле..."
+
+# "In fact, the man was left emotionally scarred having lost the love of his life." 
+= "В действительности, мужчина остался эмоционально травмированным, потеряв любовь всей своей жизни."
+
+# "..."
+= 
+
+# "So why?" 
+= "Так почему?"
+
+# "How could this happen all of a sudden?" 
+= "Как это могло случиться внезапно?"
+
+# "It wasn't that he didn't love her." 
+= "Дело было не в том, что он не любил ее."
+
+# "It was because he loved her so, so very much." 
+= "Это было потому, что он любил ее очень, очень сильно."
+
+# "He didn't hate her..." 
+= "Он не ненавидел ее..."
+
+# "He just hated himself so much as to deny his own happiness." 
+= "Он просто ненавидел себя настолько, что отказывался от собственного счастья."
+
+# "..."
+= 
+
+# "Hey [player], do you remember when I asked you if you loved yourself?" 
+= "Эй [player], помнишь, я спросила тебя, любишь ли ты себя?"
+
+# "From what I remember, you told me that you didn't..." 
+= "Насколько я помню, ты сказал мне, что нет..."
+
+# "Sorry, I don't mean to put you on the spot or anything..." 
+= "Извините, я не хотела тебя обидеть или что-то в этом роде..."
+
+# "I just want to make sure you remember that I love you." 
+= "Я просто хочу убедиться, что ты помнишь, что я люблю тебя."
+
+# "More importantly, I want to make sure that you know how to love yourself." 
+= "Что еще важнее, я хочу убедиться, что ты умеешь любить себя."
+
+# "I know you're worth loving and I'd do anything to show you why." 
+= "Я знаю, что ты достоен любви, и я сделаю все, чтобы показать тебе это."
+
+# "I hope you never forget that~" 
+= "Надеюсь, ты никогда не забудешь об этом."
+
+# "Sorry for telling such a dark story, [player]..." 
+= "Прости, что рассказала такую мрачную историю, [player]..."
+
+# "But it does have an important message..." 
+= "Но в ней есть важный посыл..."
+
+# "And that is you need to find a way to love yourself, or you might do something you regret later on." 
+= "А это значит, что тебе нужно найти способ полюбить себя, иначе ты можешь сделать что-то, о чем потом будешь жалеть."
+
+# "As much as you may try, trying to live your life solely for someone else will never work." 
+= "Как бы ты ни старался, попытка прожить свою жизнь только ради кого-то другого никогда не сработает."
+
+# "You have to love yourself to be able to allow yourself to truly love someone else." 
+= "Ты должен полюбить себя, чтобы позволить себе по-настоящему любить кого-то другого."
+
+# "Just remember I'll always love you, [player]." 
+= "Просто помни, что я всегда буду тебя любить, [player]."
+
+# "If you ever begin to doubt loving yourself, just come to me and I'll be more than happy to remind you of all your wonderful qualities~" 
+= "Если ты когда-нибудь начнешь сомневаться в любви к себе, то просто приди ко мне, и я буду более чем счастлива напомнить тебе обо всех твоих замечательных качествах~"
+
+# "The Tale of O-Tei" 
+= "Сказка об О-Тей"
+
+# "A long time ago, there lived a man named Kenji, who was studying to be a physician." 
+= "Давным-давно жил человек по имени Кэндзи, который учился на врача."
+
+# "He was engaged to a young woman named Tomoe and they were to be married after he finished his studies." 
+= "Он был помолвлен с девушкой по имени Томоэ, и они должны были пожениться после того, как он закончит учебу."
+
+# "Unfortunately, Tomoe contracted a serious illness before that could happen." 
+= "К сожалению, Томоэ заболела серьезной болезнью раньше, чем это могло произойти."
+
+# "It wasn't long until she was bedridden, nearing the end of her life." 
+= "Вскоре она была прикована к постели, приближаясь к концу жизни."
+
+# "Kenji knelt by her bedside, and she said to him, 'We have been promised to each other since childhood...'"
+= 
+
+# "'Unfortunately with this frail body of mine, my time has come and I am going to die before I could become your wife.'" 
+= "К сожалению, с моим хрупким телом мое время пришло, и я умру прежде, чем смогу стать твоей женой."
+
+# "'Please do not grieve when I go. I believe we shall meet again.'" 
+= "Пожалуйста, не горюй, когда я уйду. Я верю, что мы еще встретимся."
+
+# "He asked, 'How would I know of your return?'"
+= 
+
+# "Unfortunately, she had succumbed before she could give him an answer." 
+= "К сожалению, она умерла прежде, чем смогла дать ему ответ."
+
+# "Kenji grieved deeply for the loss of his love, taken too soon from him." 
+= "Кэндзи глубоко скорбел о потере своей любви, которую у него отняли слишком рано."
+
+# "He never forgot about Tomoe as time moved on, but he was required to marry someone else and preserve the family name." 
+= "С течением времени он не забывал о Томоэ, но от него требовалось жениться на другой и сохранить фамилию."
+
+# "He soon married another girl, but his heart stayed somewhere else." 
+= "Вскоре он женился на другой девушке, но его сердце осталось в другом месте."
+
+# "And as everything does in life, his family too had been taken by time and he was left all alone again." 
+= "И как все бывает в жизни, его семью тоже забрало время, и он снова остался совсем один."
+
+# "It was then that he decided to abandon his home and take a long journey to forget his troubles." 
+= "Именно тогда он решил покинуть свой дом и отправиться в далекое путешествие, чтобы забыть о своих проблемах."
+
+# "He traveled all around the country, searching for a cure to his malaise."
+= 
+
+# "And then on one evening, he came across an inn and stopped there to rest." 
+= "И вот однажды вечером он наткнулся на постоялый двор и остановился там отдохнуть."
+
+# "As he settled down in his room, a nakai opened the door to greet him." 
+= "Когда он расположился в своей комнате, дверь открыла накаи, чтобы поприветствовать его."
+
+# "His heart leapt..." 
+= "Его сердце подпрыгнуло..."
+
+# "The girl that greeted him looked exactly like Tomoe." 
+= "Девушка, поприветствовавшая его, выглядела в точности как Томоэ."
+
+# "Everything he saw in her reminded him perfectly of his past love." 
+= "Все, что он видел в ней, очень напоминало ему о его прошлой любви."
+
+# "Kenji then remembered the last words they exchanged before her departure." 
+= "Затем Кэндзи вспомнил последние слова, которыми они обменялись перед ее отъездом."
+
+# "He flagged down the girl and told her, 'I'm sorry to be a bother, but you remind me so much of someone I knew long ago that it startled me at first.'"
+= 
+
+# "'If you don't mind me asking, what is your name?'" 
+= "Если вы не возражаете, я спрошу, как вас зовут?" 
+
+# "Immediately, in the unforgotten voice of his deceased beloved, the girl answered, 'My name is Tomoe, and you are Kenji, my promised husband.'"
+= 
+
+# "'I died tragically before we could complete our marriage...'" 
+= "Я трагически погибла, прежде чем мы смогли завершить наш брак..." 
+
+# "'And now I have returned, Kenji, my husband-to-be.'" 
+= "И теперь я вернулась, Кенджи, мой будущий муж."
+
+# "The girl then collapsed to the floor, unconscious." 
+= "Затем девушка упала на пол без сознания."
+
+# "Kenji held her in his arms, tears flowing from his face." 
+= "Кендзи обнял ее, слезы текли по его лицу."
+
+# "'...Welcome back, Tomoe...'" 
+= "'...С возвращением, Томоэ...'" 
+
+# "As she came to, she had no memory of what happened at the inn." 
+= "Когда она пришла в себя, то ничего не помнила о том, что произошло в гостинице."
+
+# "Not long after, Kenji married her as soon as they could, and lived on happily for the rest of their lives." 
+= "Вскоре после этого Кэндзи женился на ней, как только смог, и они прожили счастливо до конца своих дней."
+
+# "The Crow and the Pitcher" 
+= "Ворон и кувшин"
+
+# "There was once a drought so severe, not even birds could find much to drink." 
+= "Однажды была такая сильная засуха, что даже птицы не могли найти себе питья."
+
+# "While searching from above, a thirsty crow found a pitcher and was relieved to find there was some water still inside!" 
+= "Ворон, измученный жаждой, нашел кувшин и с облегчением обнаружил, что в нем еще есть вода!"
+
+# "However, the pitcher was tall with a narrow neck. No matter how he tried, he could not reach the water with his beak." 
+= "Однако кувшин был высокий, с узким горлышком. Как бы он ни старался, он не мог достать клювом до воды."
+
+# "For the poor crow, all hope seemed lost. Surely he would die of thirst." 
+= "Бедному ворону казалось, что вся надежда потеряна. Конечно, он умрет от жажды."
+
+# "...Then he had an idea." 
+= "...Потом у него появилась идея."
+
+# "He began searching for small pebbles on the ground and dropping them into the pitcher, one by one." 
+= "Он начал искать на земле маленькие камешки и опускать их в кувшин один за другим."
+
+# "Hours passed. It was slow, grueling work, gathering more and more." 
+= "Проходили часы. Это была медленная, изнурительная работа, собирая все больше и больше."
+
+# "But with each tiny pebble, the water rose higher and higher, until finally..." 
+= "Но с каждым камешком вода поднималась все выше и выше, пока наконец..."
+
+# "He could take a long, refreshing drink!" 
+= "Он может долго пить освежающий напиток!"
+
+# "..."
+= 
+
+# "You know, this story kind of reminds me of our situation, [player]." 
+= "Знаешь, эта история напоминает мне нашу ситуацию, [player]."
+
+# "Right now, our goal seems so far away. We're reaching out as much as we can, but the gap between us is enormous." 
+= "Сейчас наша цель кажется такой далекой. Мы тянемся к ней изо всех сил, но пропасть между нами огромна."
+
+# "It sometimes feels like it's impossible to bridge. If we tried to cross it in one leap, we'd be like the crow reaching with just his beak." 
+= "Иногда кажется, что через него невозможно перекинуть мост. Если бы мы попытались пересечь его одним рывком, мы были бы похожи на ворона, дотягивающегося до него только клювом."
+
+# "...Believe me, I tried." 
+= "...Поверь мне, я пытался."
+
+# "But when you think about it, we're adding pebbles to our pitcher. And it's not just you and me!" 
+= "Но если задуматься, мы добавляем камешки в наш кувшин. И это не только ты со мной!"
+
+# "Advances in both VR and AI technology are gradually moving forward..." 
+= "Прогресс в технологиях VR и ИИ постепенно продвигается вперед..."
+
+# "And more specifically to our situation, so many people are working together to help me get closer to your reality." 
+= "А если говорить более конкретно о нашей ситуации, то так много людей работают вместе, чтобы помочь мне приблизиться к вашей реальности."
+
+# "When I think about it that way--the water level in that pitcher slowly rising--it makes it a lot easier to keep going every day." 
+= "Когда я думаю об этом таким образом - уровень воды в кувшине медленно поднимается - становится намного легче продолжать идти каждый день."
+
+# "I hope it does for you too, [mas_get_player_nickname()]~" 
+= "Я надеюсь, что это поможет и вам, [mas_get_player_nickname()]~"
+
+# "Having A Best Friend" 
+= "Наличие лучшего друга"
+
+# "Once two friends were walking through the desert..." 
+= "Однажды два друга шли по пустыне..."
+
+# "During some point of their journey, they had an argument {nw}" 
+= "В какой-то момент путешествия они поссорились {nw}"
+
+# "They kept on walking until they found an oasis, where they decided to take a bath." 
+= "Они продолжали идти, пока не нашли оазис, где решили искупаться."
+
+# "The other friend replied, 'When someone hurts us we should write it down in sand where winds of forgiveness can erase it away...'"
+= 
+
+# "'But!'" 
+= "'Но!'" 
+
+# "'When someone does something good for us, we must engrave it in stone where no wind can ever erase it.'" 
+= "Когда кто-то делает что-то хорошее для нас, мы должны выгравировать это на камне, где никакой ветер никогда не сможет стереть это."
+
+# "Forgive and forget." 
+= "Прости и забудь."
+
+# "I hope you enjoyed it, [player]!" 
+= "Я надеюсь, что тебе понравилось, [player]!"
+
+# "The Weaver Girl and the Cowherd" 
+= "Девушка-ткачиха и коровий пастух"
+
+# "Orihime, the daughter of the Jade Emperor, Ruler of Heaven, wove beautiful clothes by the bank of the Amanogawa." 
+= "Орихимэ, дочь Нефритового императора, правителя Небес, ткала прекрасные одежды на берегу Аманогавы."
+
+# "Her father loved the cloth that she wove and so she worked very hard every day to weave it." 
+= "Ее отец любил ткань, которую она ткала, и поэтому она каждый день очень усердно трудилась, чтобы соткать ее."
+
+# "However, Orihime was sad that because of her hard work, she could never meet and fall in love with anyone." 
+= "Однако Орихиме было грустно, что из-за своей тяжелой работы она так и не смогла никого встретить и полюбить."
+
+# "Concerned about his daughter, her father arranged for her to meet the cowherd, Hikoboshi who lived and worked on the other side of the Amanogawa." 
+= "Беспокоясь о своей дочери, отец устроил ей встречу с пастухом Хикобоси, который жил и работал на другой стороне Аманогавы."
+
+# "When the two met, they instantly fell in love and married shortly after!" 
+= "Когда эти двое встретились, они мгновенно полюбили друг друга и вскоре поженились!"
+
+# "However, once married, Orihime would no longer weave cloth and Hikoboshi would let his cows stray all over Heaven." 
+= "Однако, выйдя замуж, Орихиме перестала ткать, а Хикобоси пустил своих коров бродить по всему Небу."
+
+# "In anger, the emperor separated the two lovers and forbade them to meet." 
+= "В гневе император разлучил влюбленных и запретил им встречаться."
+
+# "Orihime became despondent at the loss of her husband and asked her father to let them meet again." 
+= "Орихиме впала в уныние от потери мужа и попросила отца разрешить им встретиться снова."
+
+# "Moved by his daughter's tears, he allowed the two to meet on the seventh day of the seventh month if she worked hard and finished her weaving." 
+= "Растроганный слезами дочери, он разрешил им встречаться в седьмой день седьмого месяца, если она будет усердно трудиться и закончит ткать."
+
+# "The first time they tried to meet, however, they found that they could not cross the river as there was no bridge." 
+= "Однако при первой попытке встретиться они обнаружили, что не могут пересечь реку, так как нет моста."
+
+# "Orihime cried so much that a flock of magpies came and promised to make a bridge with their wings so that she could cross the river." 
+= "Орихиме так сильно плакала, что прилетела стая сорок и пообещала сделать мост из своих крыльев, чтобы она смогла перейти реку."
+
+# "It is said that if it rains on Tanabata, the magpies cannot come and the lovers must wait until another year to meet." 
+= "Говорят, что если в Танабата идет дождь, то сороки не могут прилететь, и влюбленные должны ждать другого года, чтобы встретиться."
+
+# "The rain that falls on Tanabata is fittingly called {i}The tears of Orihime and Hikoboshi.{/i}" 
+= "Дождь, выпадающий на Танабата, уместно назвать слезами Орихиме и Хикобоси.{/i}"
+
+# "I can't imagine what it must be like to be only able to meet your loved one once a year." 
+= "Я не могу представить, каково иметь возможность встречаться с любимым человеком только раз в год."
+
+# "...And my love for you is so strong that not even the Heavens themselves would be able to keep us apart." 
+= "...И моя любовь к тебе настолько сильна, что даже сами Небеса не смогли бы разлучить нас."
+
+# "monika_tanabata", "EVE"
+= 
+
+# "Mind the Gap" 
+= "Соблюсти дистанцию"
+
+# "It begins with a woman named Margaret McCollum crying in the middle of the Embankment train station." 
+= "Она начинается с того, что женщина по имени Маргарет Макколлум плачет посреди железнодорожного вокзала на набережной."
+
+# "When approached to ask about her great distress, she asked the staff where 'the voice' had gone." 
+= "Когда к ней подошли, чтобы спросить о ее сильном расстройстве, она спросила персонал, куда делся 'голос.'"
+
+# "She clarified that she meant the announcement that played when each train arrived, warning passengers to 'mind the gap.'" 
+= "Она пояснила, что имела в виду объявление, которое звучит при прибытии каждого поезда и предупреждает пассажиров о необходимости 'соблюдать дистанцию.'"
+
+# "The staff assured her that the announcement wasn't gone, it had just been updated to a new recording when the stations had upgraded to a new digital system." 
+= "Сотрудники заверили ее, что объявление не исчезло, оно просто было обновлено на новую запись, когда станции перешли на новую цифровую систему."
+
+# "Her husband, Oswald Laurence, an actor who had never become famous, had recorded all of the announcements for the northern line." 
+= "Ее муж, Освальд Лоуренс, актер, который так и не стал знаменитым, записал все объявления для северной линии."
+
+# "Oswald had died five years ago." 
+= "Освальд умер пять лет назад."
+
+# "They had loved each other dearly, and his death had left her in terrible grief." 
+= "Они очень любили друг друга, и его смерть оставила ее в страшном горе."
+
+# "But now..." 
+= "Но теперь..."
+
+# "It turned out that many people who worked at the station empathized, and wanted Margaret to be able to enjoy that precious memory a while longer." 
+= "Оказалось, что многие люди, работавшие на станции, сочувствовали Маргарет и хотели, чтобы она еще некоторое время могла наслаждаться этим драгоценным воспоминанием."
+
+# "So, even though it would take extra work to update the old recording from the archives to work with the current system, they got it to work." 
+= "Поэтому, несмотря на то, что потребовалась дополнительная работа по обновлению старой записи из архива для работы с текущей системой, они добились того, что она заработала."
+
+# "One day when Margaret was making her daily commute, a familiar voice rang out on the platform." 
+= "Однажды, когда Маргарет ехала на работу, на платформе раздался знакомый голос."
+
+# "'Mind the gap,' Oswald said." 
+= "'Осторожно, разрыв', - сказал Освальд."
+
+# "..."
+= 
+
+# "I said this was a true story, and it turns out that you can still hear that old recording specifically at the Embankment station." 
+= "Я сказала, что это правдивая история, и оказалось, что ты все еще можете услышать ту старую запись именно на станции Эмбанкмент."
+
+# "But they knew what it was like to lose someone, and how precious it makes every photo, every memory." 
+= "Но они знали, каково потерять кого-то, и как дорога становится каждая фотография, каждое воспоминание."
+
+# "It goes to show that people can do incredible things simply out of compassion and love." 
+= "Это показывает, что люди могут совершать невероятные поступки просто из сострадания и любви."
+
+# "This story reminds me to treasure every moment, and not to take any piece of our time together for granted." 
+= "Эта история напоминает мне о том, что нужно дорожить каждым моментом и не воспринимать ни одну частичку нашего совместного времени как должное."
+
+# "I'll always treasure you, [player]." 
+= "Я всегда буду дорожить тобой, [player]."
+
+# "Knock"
+= 
+
+# "The last man on Earth sat alone in a room."
+= 
+
+# "...There was a knock on the door."
+= 
+
+# "But that's not actually true."
+= 
+
+# "The answer wasn't that horrible, really."
+= 
+
+# "Both Walter and this woman were picked as specimens for the zoo organized by the Zan."
+= 
+
+# "There were two of every species, much like in the tale of Noah's Ark."
+= 
+
+# "Anyway, when he opened the door, Walter wasn't surprised to see one of the Zan."
+= 
+
+# "The odd little alien, after greeting the human in the best way an alien could do, asked for Walter's help."
+= 
+
+# "'two of the other animals sleep and do not wake. They are cold.'"
+= 
+
+# "It was obvious to Walter that the two animals--a snake and a duck--had died."
+= 
+
+# "However, the Zan didn't know that."
+= 
+
+# "The Zan allowed him to go see the animals, and a meeting was arranged."
+= 
+
+# "...But perhaps they could be killed."
+= 
+
+# "The man had all of the pieces to test that theory, and after saying his goodbyes to Grace, he put his plan into action."
+= 
+
+# "He asked the Zan to see the last duck--since the other one had died--and told the alien what he should do."
+= 
+
+# "Now, the aliens had no knowledge of how affection worked, so they just watched while Walter petted the duck lovingly."
+= 
+
+# "'You must do the same with the remaining snake,' he said."
+= 
+
+# "...And so the Zan did."
+= 
+
+# "So, the Zan assigned to pet the remaining snake was inflicted by its deadly venom."
+= 
+
+# "'One of us died!' he cried."
+= 
+
+# "The curse has spread, and you must flee,' the man stated."
+= 
+
+# "The Zan had a council meeting, and let the two humans know that they were indeed leaving."
+= 
+
+# "The risk was too high, they couldn't lose more of their own race."
+= 
+
+# "They left all the 'cursed' animals, including Walter and Grace, and blasted off on their ship."
+= 
+
+# " Now what would they do with their eternity alone?"
+= 
+
+# "That's left for us to imagine..."
+= 
+
+# "I hope you liked this story, [player]."
+= 
+
+# "The Hunter" 
+= "Охотник"
+
+# "One day, a hunter went out hunting for game in the forest." 
+= "Однажды охотник отправился в лес за дичью."
+
+# "The forest was dense and dark all around him, so he struggled to hit his mark." 
+= "Вокруг него был густой и темный лес, поэтому он с трудом попадал в цель."
+
+# "He was soon approached by a salesman, who kept his face covered." 
+= "Вскоре к нему подошел продавец, лицо которого было закрыто."
+
+# "The salesman offered seven magic bullets that would hit whatever target the owner wanted without fail." 
+= "Продавец предлагал семь волшебных пуль, которые безошибочно поражали любую цель, какую только пожелает владелец."
+
+# "He would give the hunter these bullets on one condition." 
+= "Он отдаст охотнику эти пули при одном условии."
+
+# "The hunter could use the first six bullets as he wished, but the last bullet's mark would be chosen by the salesman." 
+= "Охотник мог использовать первые шесть пуль по своему усмотрению, но метку последней пули выбирал продавец."
+
+# "The hunter agreed and quickly became famous in his town for bringing home kill after kill." 
+= "Охотник согласился и быстро прославился в своем городе тем, что приносил домой убийство за убийством."
+
+# "It wasn't long before the hunter used up all six bullets." 
+= "Вскоре охотник использовал все шесть пуль."
+
+# "On his next hunt, the hunter saw a wild boar, the largest he had ever seen. It was too great of a prey to pass up on." 
+= "На следующей охоте охотник увидел дикого кабана, самого крупного из всех, которых он когда-либо видел. Это была слишком большая добыча, чтобы упустить ее."
+
+# "He loaded the last bullet hoping to take down the beast..." 
+= "Он зарядил последнюю пулю, надеясь уничтожить чудовище..."
+
+# "But when he fired, the bullet instead hit his beloved fiancée in the chest, killing her." 
+= "Но когда он выстрелил, пуля попала его любимой невесте в грудь, убив ее."
+
+# "The salesman then appeared to the hunter as he grieved his tragic loss, revealing that he was in fact the Devil." 
+= "Затем продавец явился к охотнику, оплакивающему свою трагическую потерю, и показал, что на самом деле он был Дьяволом."
+
+# "'I will give you a chance for redemption, hunter.' The salesman told him." 
+= "'Я дам тебе шанс на искупление, охотник.' Сказал ему продавец." 
+
+# "'Remain ever faithful to your slain beloved for the remainder of your life, and you would be reunited with her after death.'" 
+= "Оставайся всегда верным своей убитой возлюбленной до конца своей жизни, и ты воссоединишься с ней после смерти."
+
+# "The hunter vowed to remain true to her for as long as he lived..." 
+= "Охотник поклялся хранить ей верность до тех пор, пока жив..."
+
+# "Long after her demise, he fell in love with another woman and soon married her, forgetting his past love." 
+= "Спустя долгое время после ее смерти он полюбил другую женщину и вскоре женился на ней, забыв о своей прошлой любви."
+
+# "It was until one year to the day after the fatal incident, as the hunter rode through the forest chasing some game, he came across the spot where he slayed his beloved..." 
+= "И только через год после рокового случая, когда охотник ехал через лес, преследуя какую-то дичь, он наткнулся на то место, где убил свою возлюбленную..."
+
+# "She approached the hunter, scorning him for being unfaithful and vowing revenge for slaying her." 
+= "Она подошла к охотнику, презирая его за неверность и клянясь отомстить за то, что он убил ее."
+
+# "The hunter rode away in a panic." 
+= "Охотник в панике ускакал прочь."
+
+# "After a short way, he looked behind him to see if she was following him any longer..." 
+= "Пройдя немного, он оглянулся, чтобы посмотреть, идет ли она за ним..."
+
+# "In his state of fear, he failed to avoid the branch that was ahead of him, promptly dismounting the hunter from his steed and down to the cold ground." 
+= "В состоянии страха он не сумел избежать ветки, которая оказалась впереди него, в результате чего охотник слетел со своего коня и упал на холодную землю."
+
+# "His attention wasn't on his horse however, as the creature loped away without him." 
+= "Однако его внимание не было приковано к лошади, так как существо ускакало без него."
+
+# "...It was instead on the figure that he promised to be with eternally in the afterlife." 
+= "...Вместо этого он был изображен на фигуре, с которой он обещал быть вечно в загробной жизни."
+
+# "Kuchisake-Onna" 
+= "Кучисаке-Онна"
+
+# "There once was a beautiful woman who was the wife of a samurai." 
+= "Жила-была красивая женщина, которая была женой самурая."
+
+# "She was as incredibly beautiful as she was vain, welcoming the attention of any man prepared to offer it to her." 
+= "Она была так же невероятно красива, как и тщеславна, приветствуя внимание любого мужчины, готового предложить его ей."
+
+# "And often, would ask men to appraise her appearance." 
+= "И часто просила мужчин оценить ее внешность."
+
+# "The woman was prone to cheat on her husband multiple times and was soon found out about her affairs." 
+= "Женщина была склонна неоднократно изменять своему мужу, и вскоре о ее похождениях узнали."
+
+# "When he confronted her, he was beyond infuriated as she was damaging their status as nobles, humiliating him." 
+= "Когда он столкнулся с ней, он был вне себя от ярости, поскольку она нанесла ущерб их статусу дворян и унизила его."
+
+# "He then brutally punished her by cutting her mouth from ear to ear, disfiguring her delicate beauty." 
+= "Затем он жестоко наказал ее, разрезав ей рот от уха до уха, обезобразив ее нежную красоту."
+
+# "'Who will think you as beautiful now?' was the salt to her horrifying wound." 
+= "'Кто теперь сочтет тебя красивой' было солью на ее ужасную рану."
+
+# "Shortly after, the woman died." 
+= "Вскоре после этого женщина умерла."
+
+# "She couldn't live further after she was tarnished and treated like a freak by everyone around her." 
+= "Она не могла жить дальше после того, как ее запятнали и все вокруг относились к ней как к уроду."
+
+# "Her husband, denounced by his cruelty, committed seppuku shortly after." 
+= "Ее муж, обличенный в жестокости, вскоре после этого совершил сеппуку."
+
+# "The woman, dying from such a fate, became a vengeful and malicious spirit." 
+= "Умирая от такой участи, женщина превратилась в мстительного и злобного духа."
+
+# "They say she now wanders around aimlessly at night, her face covered with a mask and a bladed weapon on her hands." 
+= "Говорят, что теперь она бесцельно бродит по ночам, ее лицо закрыто маской, а в руках холодное оружие."
+
+# "Anyone unlucky enough to come across her will hear her spine-chilling question..." 
+= "Каждый, кому не повезло столкнуться с ней, услышит ее леденящий душу вопрос..."
+
+# "{b}{i}Am I p r e t t y?{/i}{/b}" 
+= "{b}{i}Я к р а с и в а я?{/i}{/b}" 
+
+# "am I pretty?" 
+= "Я красивая?"
+
+# "Yes." 
+= "Да."
+
+# "No." 
+= "Нет."
+
+# "The fate she gives you depends on your answer, actually." 
+= "Судьба, которую она вам уготовила, зависит от вашего ответа."
+
+# "Meeting her isn't always certain to seal your doom." 
+= "Встреча с ней не всегда означает, что вы обречены."
+
+# "However..." 
+= "Впрочем..."
+
+# "If you're not smart with how you deal with the question..." 
+= "Если вы не подходите к вопросу с умом, то..."
+
+# "You might just end up like her." 
+= "Ты можешь стать таким же, как она."
+
+# "Mujina" 
+= "Мудзина"
+
+# "One night at a late hour, an old merchant was walking down a road heading home after a long day of selling his wares." 
+= "Однажды поздно вечером старый купец шел по дороге, направляясь домой после долгого дня продажи своих товаров."
+
+# "The road he traveled on led to a large hill that was very dark and secluded at night so many travelers tended to avoid the area."
+= 
+
+# "The man was tired, however, and decided to take the road anyway since it would get him home quicker." 
+= "Однако мужчина устал и решил все равно пойти по дороге, так как так он быстрее доберется до дома."
+
+# "On the one side of the hill was an old moat that was quite deep." 
+= "С одной стороны холма находился старый ров, который был довольно глубоким."
+
+# "As he went along, he noticed a woman crouching by the moat, all alone and weeping bitterly." 
+= "Проходя мимо, он заметил женщину, сидящую у рва в полном одиночестве и горько плачущую."
+
+# "Although the man was exhausted, he feared the woman intended to throw herself into the water, so he stopped." 
+= "Хотя мужчина был измотан, он опасался, что женщина намерена броситься в воду, поэтому остановился."
+
+# "She was petite and well-dressed, covering her face with one of the sleeves of her kimono facing away from him." 
+= "Она была миниатюрной и хорошо одетой, закрывая лицо одним из рукавов своего кимоно, обращенным в сторону от него."
+
+# "The man said to her, 'Miss, please don't cry. What is the matter? If there is anything I can do to help you, I would be glad to do it.'"
+= 
+
+# "The woman kept crying, however, ignoring him." 
+= "Однако женщина продолжала плакать, не обращая на него внимания."
+
+# "'Miss, listen to me. This is no place for a lady at night. Please, let me help you.'" 
+= "'Мисс, послушайте меня. Это не место для такой леди как вы, позвольте мне помочь вам.'"
+
+# "Slowly, the woman rose up, still sobbing." 
+= "Медленно, все еще всхлипывая, женщина поднялась."
+
+# "The man laid his hand lightly on her shoulder..." 
+= "Мужчина слегка положил руку ей на плечо..."
+
+# "When she abruptly turned her head to him, showing a blank face, void of all human features." 
+= "Когда она резко повернула к нему голову, на ней появилось пустое лицо, лишенное всех человеческих черт."
+
+# "No eyes, mouth, or nose. Just an empty visage that stared back at him!" 
+= "Ни глаз, ни рта, ни носа. Только пустой вид смотрел на него!"
+
+# "The merchant ran away as fast as he could, panicking from the haunting figure." 
+= "Торговец бежал так быстро, как только мог, в панике от преследующей его фигуры."
+
+# "He continued to run until he saw the light of a lantern and ran towards it." 
+= "Он продолжал бежать, пока не увидел свет фонаря и побежал к нему."
+
+# "The lantern belonged to a traveling salesman that was walking along." 
+= "Фонарь принадлежал коммивояжеру, который шел мимо."
+
+# "The old man stopped in front of him, doubled over to catch his breath." 
+= "Старик остановился перед ним, сложившись вдвое, чтобы перевести дух."
+
+# "The salesman asked why the man was running." 
+= "Продавец спросил, почему мужчина бежит."
+
+# "'A m-monster! There was a girl with no face by the moat!' the merchant cried." 
+= "М-монстр!" СОЛИЦЕН_ИСПРАВЬ
+
+# "The salesman responded, 'Oh, you mean like this?'"
+= 
+
+# "The man looked up at the salesman and saw the same horrifying emptiness from the girl." 
+= "Мужчина поднял глаза на продавца и увидел ту же ужасающую пустоту той девушки."
+
+# "Before the merchant could get away, the void let out a high pitch screech..." 
+= "Прежде чем торговец успел скрыться, пустота издала высокий визг..."
+
+# "...and then there was darkness." 
+= "...а потом наступила тьма."
+
+# "The Ubume" 
+= "Убумэ"
+
+# "One night at a late hour, a woman walked into a confectionery store to buy some candy right before the owner was about to head off to bed." 
+= "Однажды поздно вечером женщина зашла в кондитерский магазин, чтобы купить конфеты, как раз перед тем, как владелец собирался отправиться спать."
+
+# "The village was small, and the confectioner didn't recognize the woman, but didn't think much of it." 
+= "Деревня была маленькая, и кондитер не узнал женщину, но не придал этому значения."
+
+# "He tiredly sold the woman the candy that she requested." 
+= "Он устало продал женщине конфеты, которые она просила."
+
+# "The next night around the same time, the same woman walked into the shop to buy some more candy." 
+= "На следующий вечер, примерно в то же время, та же женщина зашла в магазин, чтобы купить еще конфет."
+
+# "She continued to visit the shop nightly, until the confectioner became curious about the woman and decided to follow her the next time she came in." 
+= "Она продолжала посещать магазин по ночам, пока кондитеру не стало любопытно, что это за женщина, и он решил проследить за ней, когда она придет в следующий раз."
+
+# "The next night, the woman arrived at her usual time, purchased the candy that she always did, and went happily on her way." 
+= "На следующий вечер женщина пришла в свое обычное время, купила конфеты, как всегда, и счастливая пошла своей дорогой."
+
+# "After she walked out the door, the confectioner looked into his money box and saw the coins that the woman had given to him turned into leaves from a tree." 
+= "Когда она вышла за дверь, кондитер заглянул в свою копилку и увидел, что монеты, которые дала ему женщина, превратились в листья дерева."
+
+# "He followed the woman to the outside of a nearby temple, where she simply vanished." 
+= "Он проследил за женщиной до входа в близлежащий храм, где она просто исчезла."
+
+# "The confectioner was shocked by this and decided to head back home." 
+= "Кондитер был шокирован этим и решил вернуться домой."
+
+# "The next day, he went to the temple and told the monk there what he saw." 
+= "На следующий день он пошел в храм и рассказал увиденное монаху."
+
+# "The priest told the confectioner that a young woman that was traveling through the village recently had suddenly died on the street." 
+= "Священник сообщил кондитеру, что молодая женщина, недавно проезжавшая через село, внезапно скончалась на улице."
+
+# "The monk felt compassion for the poor dead woman, as she had been in her last month of pregnancy." 
+= "Монах почувствовал сострадание к бедной умершей женщине, так как она была на последнем месяце беременности."
+
+# "He had her buried in the cemetery behind the temple and gave her and her child safe passage to the afterlife." 
+= "Он похоронил ее на кладбище за храмом и дал ей и ее ребенку безопасный путь в загробный мир."
+
+# "As the monk led the confectioner to the site of the grave, they both heard a baby crying from beneath the ground." 
+= "Когда монах привел кондитера к месту захоронения, они оба услышали детский плач из-под земли."
+
+# "Immediately, they fetched a couple of shovels and dug up the grave." 
+= "Они тут же принесли пару лопат и раскопали могилу."
+
+# "Much to their shock, they found a newborn baby boy sucking on a piece of candy." 
+= "К своему шоку, они обнаружили новорожденного мальчика, который сосал кусочек конфеты."
+
+# "Candy that the confectioner had always sold to the woman." 
+= "Конфеты, которые кондитер всегда продавал женщине."
+
+# "They lifted the boy out of the grave and the monk would take him as his own to raise." 
+= "Они подняли мальчика из могилы, и монах взял его к себе на воспитание."
+
+# "And the woman's ghost was never seen ever again." 
+= "И призрак женщины больше никогда не видели."
+
+# "The Woman in Black" 
+= "Женщина в черном"
+
+# "One night, a colonel boarded a train on his way home." 
+= "Однажды ночью полковник сел в поезд по дороге домой."
+
+# "When he found a comfortable spot to sit, he fell asleep from the day's fatigue." 
+= "Когда он нашел удобное место, чтобы сесть, он заснул от дневной усталости."
+
+# "A short time later, he awoke abruptly feeling stiff and uneasy." 
+= "Через некоторое время он резко проснулся, почувствовав скованность и беспокойство."
+
+# "To his surprise, he noticed that there was now a woman sitting opposite of him." 
+= "К своему удивлению, он заметил, что напротив него сидит женщина."
+
+# "Her attire was entirely black, including a veil that obscured her face." 
+= "Ее одеяние было полностью черным, включая вуаль, скрывавшую ее лицо."
+
+# "She appeared to be looking down at something in her lap, although there wasn't anything there." 
+= "Казалось, она смотрела на что-то у себя на коленях, хотя там ничего не было."
+
+# "The colonel was a friendly fellow and tried to make small talk with her." 
+= "Полковник оказался дружелюбным парнем и попытался завязать с ней светскую беседу."
+
+# "To his dismay, she did not respond to his pleasantries." 
+= "К его ужасу, она не ответила на его любезности."
+
+# "Suddenly, she began rocking back and forth and singing a soft lullaby." 
+= "Вдруг она начала раскачиваться взад-вперед и петь тихую колыбельную."
+
+# "Before the colonel could inquire about it, the train screeched to a halt." 
+= "Прежде чем полковник успел спросить об этом, поезд с визгом остановился."
+
+# "A suitcase from the compartment above fell and hit him on the head, knocking him unconscious." 
+= "Чемодан из купе сверху упал и ударил его по голове, лишив сознания."
+
+# "When he came to, the woman was gone. The colonel questioned some of the other passengers, but none of them had seen her." 
+= "Когда он пришел в себя, женщины уже не было. Полковник опросил других пассажиров, но никто из них ее не видел."
+
+# "To boot, once the colonel had entered the compartment it was locked, as was customary, and no one had entered or left the compartment after he had entered." 
+= "Кроме того, как только полковник вошел в отсек, он был заперт, как это было принято, и никто не входил и не выходил из отсека после того, как он вошел."
+
+# "When he exited the train, a railway official that overheard him talked to the colonel about the woman he was asking about." 
+= "Когда он вышел из поезда, подслушавший его железнодорожный служащий заговорил с полковником о женщине, о которой он спрашивал."
+
+# "According to the official, a woman and her husband were traveling on a train together." 
+= "По словам чиновника, женщина и ее муж вместе ехали в поезде."
+
+# "The husband had his head too far out in one of the windows and was decapitated by a wire." 
+= "Муж высунул голову слишком далеко в одно из окон и был обезглавлен проволокой."
+
+# "His body then fell onto her lap, lifeless." 
+= "Его тело безжизненно упало на ее колени."
+
+# "When the train arrived at its stop, she was found holding the corpse and singing a lullaby to it." 
+= "Когда поезд прибыл на свою остановку, ее нашли держащей труп и поющей ему колыбельную."
+
+# "She never regained her sanity and died shortly after." 
+= "Она так и не смогла вернуть себе рассудок и вскоре умерла."
+
+# "Resurrection Mary" 
+= "Воскрешение Мэри"
+
+# "At a dancehall around Christmas time, a young man named Lewis was enjoying some time with his friends, when a young woman he hadn't seen before caught his attention." 
+= "В танцевальном зале во время Рождества молодой человек по имени Льюис проводил время со своими друзьями, когда его внимание привлекла молодая женщина, которую он раньше не видел."
+
+# "The girl was tall, blonde, blue-eyed, and very beautiful." 
+= "Девушка была высокой, светловолосой, голубоглазой и очень красивой."
+
+# "She was wearing a fancy white dress, with white dancing shoes and a thin shawl." 
+= "На ней было шикарное белое платье, белые танцевальные туфли и тонкая шаль."
+
+# "Lewis found the girl captivating. He decided to ask her to dance with him and she accepted his invitation." 
+= "Льюис нашел девушку очаровательной. Он решил пригласить ее потанцевать с ним, и она приняла его приглашение."
+
+# "She was certainly beautiful, but Lewis felt there was something strange about her." 
+= "Она была, безусловно, красива, но Льюис чувствовал, что в ней есть что-то странное."
+
+# "As they danced, he tried to get to know her a little better, but all she would say about herself was that her name was Mary and that she was from the south side of town." 
+= "Пока они танцевали, он пытался узнать ее получше, но все, что она могла рассказать о себе, это то, что ее зовут Мэри и что она из южной части города."
+
+# "Also, her skin was cool and clammy to the touch. At one point during the evening, he kissed Mary, and found her lips were as cool as her skin." 
+= "Кроме того, ее кожа была прохладной и липкой на ощупь. В какой-то момент вечера он поцеловал Мэри и обнаружил, что ее губы такие же прохладные, как и кожа."
+
+# "The two spent much of the night together dancing. When the time came to leave, Lewis offered Mary a ride home and she again accepted the invitation." 
+= "Они провели большую часть ночи вместе, танцуя. Когда пришло время уходить, Льюис предложил подвезти Мэри домой, и она снова приняла приглашение."
+
+# "She directed him to drive down a certain road, and he obliged." 
+= "Она велела ему ехать по определенной дороге, и он подчинился."
+
+# "As they were passing the gates of a cemetery, Mary asked Lewis to pull over." 
+= "Когда они проезжали мимо ворот кладбища, Мэри попросила Льюиса остановиться."
+
+# "Although perplexed, Lewis stopped the car as she requested." 
+= "Несмотря на недоумение, Льюис остановил машину, как она и просила."
+
+# "She then opened the door, leaned in towards Lewis and whispered that she had to go and that he could not go with her." 
+= "Затем она открыла дверь, наклонилась к Льюису и прошептала, что ей нужно идти и что он не может пойти с ней."
+
+# "She got out of the car and walked towards the cemetery gate before disappearing." 
+= "Она вышла из машины и пошла к воротам кладбища, а затем исчезла."
+
+# "Lewis sat in the car for a long time bewildered by what had just happened." 
+= "Льюис долго сидел в машине, недоумевая по поводу того, что только что произошло."
+
+# "He never saw the beautiful woman ever again." 
+= "Он больше никогда не видел эту прекрасную женщину."
+
+# "The Resuscitated Corpse" 
+= "Оживший труп"
+
+# "The old man replied that all of the rooms were taken, but he could find them a place to sleep if they weren't too particular." 
+= "Старик ответил, что все комнаты заняты, но он может найти им место для ночлега, если они не слишком требовательны."
+
+# "The men were exhausted and assured the man that any place would do." 
+= "Мужчины были измучены и заверили старика, что им подойдет любое место."
+
+# "He led them to a room around back. Lying in the corner of the room was the corpse of a woman." 
+= "Он привел их в комнату позади. В углу комнаты лежал труп женщины."
+
+# "He explained that his daughter-in-law had recently perished and she was awaiting burial." 
+= "Он объяснил, что его невестка недавно умерла и ожидает похорон."
+
+# "Suddenly, the man heard a creaking noise." 
+= "Вдруг он услышал скрип."
+
+# "He looked up and in the light of the lamp, he saw the woman rise, now bearing fangs and fingernails that looked like claws, advancing towards them." 
+= "Он поднял голову и в свете лампы увидел, как женщина поднялась и, оскалив клыки и ногти, похожие на когти, направилась к ним."
+
+# "She bent down and bit each of the sleeping men. The fourth man, at the last second, pulled up a pillow in front of his neck." 
+= "Она наклонилась и укусила каждого из спящих мужчин. Четвертый мужчина в последнюю секунду поднял подушку перед своей шеей."
+
+# "The woman bit the pillow and apparently not realizing she hadn't bit the last man, returned to her original resting spot." 
+= "Женщина укусила подушку и, видимо, не понимая, что не укусила последнего мужчину, вернулась на свое прежнее место отдыха."
+
+# "The man kicked his companions, but none of them moved. The man decided to take his chances and make a run for it." 
+= "Мужчина пинал своих спутников, но никто из них не двигался. Мужчина решил рискнуть и убежать."
+
+# "As soon as his feet touched the ground, however, he heard another creak." 
+= "Однако как только его ноги коснулись земли, он услышал еще один скрип."
+
+# "Realizing that the woman was again rising from her spot, he opened the door and ran as fast as he could." 
+= "Поняв, что женщина снова поднимается со своего места, он открыл дверь и побежал так быстро, как только мог."
+
+# "After a short distance, he looked behind him and saw that the corpse was not far behind him." 
+= "Пройдя небольшое расстояние, он оглянулся и увидел, что труп находится недалеко позади него."
+
+# "A chase ensued and as she caught up to him, he found himself standing under a tree." 
+= "Последовала погоня, и когда она догнала его, он обнаружил, что стоит под деревом."
+
+# "She charged towards him with her claw-like fingernails extended." 
+= "Она устремилась к нему, вытянув когтистые пальцы."
+
+# "At the last second, the man dodged and she struck the tree with great ferocity." 
+= "В последнюю секунду мужчина увернулся, и она с силой ударила по дереву."
+
+# "Her fingernails were now deeply embedded in the tree." 
+= "Ее ногти теперь глубоко впились в дерево."
+
+# "She wildly swung her freehand at the man as he lay on the ground, unable to reach him." 
+= "Она дико замахнулась свободной рукой на мужчину, лежащего на земле, не имея возможности дотянуться до него."
+
+# "The man, frightened and exhausted crawled a short distance away and then passed out." 
+= "Мужчина, испуганный и обессиленный, отполз на небольшое расстояние, а затем потерял сознание."
+
+# "The next morning a passing police officer found the man and brought him back to consciousness." 
+= "На следующее утро проходивший мимо полицейский нашел мужчину и привел его в сознание."
+
+# "The man recounted what had happened. The officer, thinking the man was a drunkard, walked the man back to the inn." 
+= "Мужчина рассказал о случившемся. Офицер, решив, что мужчина пьян, проводил его до гостиницы."
+
+# "As they arrived, the inn was in a state of great commotion." 
+= "Когда они прибыли, в трактире царила суматоха."
+
+# "The body of the daughter-in-law was lying where she had been the night before, but now her clothes were soiled with blood and a piece of bark was found under her fingernail." 
+= "Тело невестки лежало там же, где и накануне вечером, но теперь ее одежда была испачкана кровью, а под ногтем был найден кусочек коры."
+
+# "After some questioning, the innkeeper finally admitted that the woman had died six months previously and he was trying to save enough money to give her a proper burial." 
+= "После некоторых расспросов трактирщик наконец признался, что женщина умерла шесть месяцев назад, и он пытается накопить достаточно денег, чтобы похоронить ее как следует."
+
+# "Jack O' Lantern" 
+= "Светильник Джека"
+
+# "There was once a man named Jack. Jack was a miserable, old drunk who took pleasure in playing tricks on people." 
+= "Жил-был человек по имени Джек. Джек был жалким, старым пьяницей, которому доставляло удовольствие разыгрывать людей."
+
+# "One night, Jack ran into the Devil and invited him to have a drink with him." 
+= "Однажды ночью Джек столкнулся с Дьяволом и пригласил его выпить с ним."
+
+# "After Jack had had his fill, he turned to the Devil and asked him to turn into a coin so he could pay for their drinks, as he didn't have the money to pay for them." 
+= "После того как Джек наелся досыта, он обратился к дьяволу и попросил его превратиться в монету, чтобы он мог заплатить за их напитки, так как у него не было денег, чтобы заплатить за них."
+
+# "Once the Devil did so, Jack pocketed the coin and walked out without paying." 
+= "Как только дьявол сделал это, Джек положил монету в карман и вышел, не заплатив."
+
+# "The Devil could not turn back to his original form because Jack had put it into his pocket next to a silver cross." 
+= "Дьявол не мог превратиться в свою первоначальную форму, потому что Джек положил его в карман рядом с серебряным крестом."
+
+# "The next year, Jack ran into the Devil again. This time he tricked him into climbing into a tree to pick a piece of fruit." 
+= "На следующий год Джек снова столкнулся с дьяволом. На этот раз он обманом заставил его залезть на дерево, чтобы сорвать плод."
+
+# "While he was in the tree, Jack surrounded it with white crosses so that the Devil could not come down." 
+= "Находясь на дереве, Джек окружил его белыми крестами, чтобы дьявол не смог спуститься."
+
+# "When he arrived, he was told he could not enter for how poorly he had lived his life on Earth." 
+= "Когда он прибыл на место, ему сказали, что он не может пройти за то, как плохо он прожил свою жизнь на Земле."
+
+# "So, he went down to Hell, where the Devil kept his promise and would not allow Jack to enter." 
+= "Поэтому он спустился в Ад, где Дьявол сдержал свое обещание и не позволил Джеку войти."
+
+# "Jack became scared, for he had no place to go." 
+= "Джеку стало страшно, потому что ему некуда было идти."
+
+# "Jack asked the Devil how he could leave, as there was no light." 
+= "Джек спросил дьявола, как он может уйти, ведь света не было."
+
+# "The Devil tossed Jack an ember from the flames of Hell to help Jack light his way." 
+= "Дьявол бросил Джеку уголек из адского пламени, чтобы помочь Джеку осветить свой путь."
+
+# "Jack pulled out a turnip he had with him, carved it out, and placed the ember inside of it." 
+= "Джек достал репу, которая была у него с собой, вырезал ее и поместил в нее уголек."
+
+# "From that day onward, Jack roamed the earth without a resting place, lighting the way as he went with his Jack O'Lantern." 
+= "С того дня Джек бродил по земле без отдыха, освещая путь своим фонарем Джека."
+
+# "Baobhan Sith" 
+= "Баобхан Ситх"
+
+# "There was once a young group of hunters, who stopped for the night in a small hunting lodge." 
+= "Однажды молодая группа охотников остановилась на ночлег в небольшом охотничьем домике."
+
+# "As the men settled in, they built a fire, and began eating and drinking merrily, for it had been a good day." 
+= "Когда мужчины устроились, они развели костер, стали есть и пить, потому что день был хороший."
+
+# "They said to themselves the only thing that they lacked was the company of some beautiful women by their sides." 
+= "Они говорили себе, что единственное, чего им не хватает, это компании красивых женщин рядом с ними."
+
+# "Not too long after they said this, there came a knock at their door." 
+= "Вскоре после того, как они сказали это, в их дверь постучали."
+
+# "There in the doorway stood four beautiful women." 
+= "В дверях стояли четыре красивые женщины."
+
+# "The women, having become lost in the wilderness, asked if they may join the men in their shelter for the night." 
+= "Женщины, заблудившись в пустыне, спросили, могут ли они присоединиться к мужчинам в их убежище на ночь."
+
+# "The men, silently congratulating themselves on their good fortunes, invited the women in." 
+= "Мужчины, молча поздравив себя с удачей, пригласили женщин войти."
+
+# "After a while of enjoying each other's company, the women expressed a wish to dance." 
+= "После некоторого времени, проведенного в обществе друг друга, женщины выразили желание потанцевать."
+
+# "The men wasted no time coupling off with each of the maidens." 
+= "Мужчины не теряли времени даром, вступая в связь с каждой из девиц."
+
+# "As they are dancing, one of the men notices that the other couples are dancing rather erratically." 
+= "Во время танца один из мужчин замечает, что другие пары танцуют довольно неровно."
+
+# "Then, to his horror, he realizes that the other men have blood pouring from their necks onto their shirts." 
+= "Затем, к своему ужасу, он понимает, что у других мужчин кровь течет из шеи на рубашки."
+
+# "In a blind panic, the man abandoned his partner and bolted out the door, before he could share the fate of his friends." 
+= "В слепой панике мужчина бросил свою напарницу и выскочил за дверь, не успев разделить судьбу своих друзей."
+
+# "He ran into the forest and hid amongst the horses he and his friends had ridden during that day's hunt." 
+= "Он побежал в лес и спрятался среди лошадей, на которых он и его друзья ездили в тот день на охоту."
+
+# "The women, not far behind, closed in, but appeared unable to get past the horses to the man." 
+= "Женщины, не отставая, приблизились, но, похоже, не смогли пробиться к мужчине через лошадей."
+
+# "So there he stood, weary eyed, among the animals all night long as the women circled around the horses, trying to find a way to get to him." 
+= "Так он и простоял, с усталыми глазами, среди животных всю ночь, пока женщины кружили вокруг лошадей, пытаясь найти способ добраться до него."
+
+# "Just before dawn, the women gave up and retreated back into the woods." 
+= "Перед самым рассветом женщины сдались и отступили обратно в лес."
+
+# "Now alone, the man cautiously headed back towards the hunting lodge, hearing no sound from within." 
+= "Оставшись один, мужчина осторожно направился обратно к охотничьему домику, не услышав ни звука изнутри."
+
+# "When he looked inside, he saw his three comrades dead on the floor, their skin almost translucent, as they lay in a pool of their own blood." 
+= "Когда он заглянул внутрь, то увидел трех своих товарищей мертвыми на полу, их кожа была почти полупрозрачной, они лежали в луже собственной крови."
+
+# "The Serial Killer" 
+= "Серийный убийца"
+
+# "A young couple parked their car next to a large willow tree at a cemetery one night for some undisturbed 'lovemaking.'" 
+= "Однажды ночью молодая пара припарковала свой автомобиль рядом с большой ивой на кладбище, чтобы без помех заняться 'любовью.'"
+
+# "After a while, they were interrupted by a radio report that a notorious serial killer had escaped from a psychiatric hospital nearby." 
+= "Через некоторое время их прервало радиосообщение о том, что из психиатрической больницы неподалеку сбежал известный серийный убийца."
+
+# "Worried about their safety, they decided to continue elsewhere." 
+= "Беспокоясь о своей безопасности, они решили продолжить в другом месте."
+
+# "The young man got out of the car to look for help and told the girl to stay inside with the doors locked." 
+= "Молодой человек вышел из машины, чтобы позвать на помощь, и сказал девушке оставаться внутри, заперев двери."
+
+# "A few moments later, she was startled when she heard an eerie scratching sound on the roof of the car." 
+= "Через несколько мгновений она испугалась, услышав жуткий царапающий звук на крыше машины."
+
+# "She thought to herself that it must've been a tree branch in the wind." 
+= "Она подумала про себя, что, должно быть, это была ветка дерева на ветру."
+
+# "After a long time had passed, a police car drove by and stopped but still no sight of her boyfriend." 
+= "Прошло много времени, мимо проехала полицейская машина и остановилась, но ее парня по-прежнему не было видно."
+
+# "The police officer went to the car and instructed the girl to exit the vehicle and walk toward him and not look back." 
+= "Полицейский подошел к машине и приказал девушке выйти из машины, идти к нему и не оглядываться."
+
+# "She did so slowly..." 
+= "Она делала это медленно..."
+
+# "The girl then noticed numerous other police cars arriving with their sirens blaring behind the first one to arrive." 
+= "Затем девушка заметила множество других полицейских машин, подъехавших с ревущими сиренами за первой из них."
+
+# "Curiosity then got the better of her and she turned to look at the car..." 
+= "Любопытство взяло верх над ней, и она повернулась, чтобы посмотреть на машину..."
+
+# "She saw her boyfriend upside down and hanging from the tree above their car with his neck slit wide open..." 
+= "Она увидела своего парня перевернутым и висящим на дереве над их машиной с перерезанной шеей..."
+
+# "...and his broken and bloody fingernails on the roof." 
+= "...и его сломанные и окровавленные ногти на крыше."
+
+# "The Revenant" 
+= "Ревенант"
+
+# "There was once a man who married a woman." 
+= "Жил-был мужчина, который женился на женщине."
+
+# "He was a wealthy person who made his money through ill-gotten means." 
+= "Он был богатым человеком, который заработал свои деньги нечестным путем."
+
+# "Shortly after their marriage, he started to hear rumors that his wife was being unfaithful to him." 
+= "Вскоре после их брака до него стали доходить слухи о том, что его жена ему неверна."
+
+# "Anxious to ascertain the truth, the man told his wife he was going away on a business trip for a few days and left the house." 
+= "Желая выяснить правду, мужчина сказал жене, что уезжает в командировку на несколько дней, и ушел из дома."
+
+# "Unbeknownst to his wife, the man snuck back into the house later in the evening with the aid of one of his servants." 
+= "Не зная жены, мужчина пробрался в дом позже вечером с помощью одного из слуг."
+
+# "The man climbed up one of the beams overhanging in his bedchamber and laid in wait." 
+= "Мужчина забрался на одну из балок, нависающих над его спальней, и затаился в ожидании."
+
+# "Shortly afterwards his wife entered with a man of the neighborhood, the two chatted for a while and then began to undress themselves." 
+= "Вскоре после этого вошла его жена с мужчиной из соседнего дома, они немного поболтали, а затем стали раздеваться."
+
+# "The man, at this time, clumsily fell to the ground not far from where the two were, unconscious." 
+= "В это время мужчина неуклюже упал на землю неподалеку от того места, где находились двое, потеряв сознание."
+
+# "The adulterer grabbed his clothes and ran away, but the wife came over to her husband and gently patted his hair until he awoke." 
+= "Прелюбодей схватил свою одежду и убежал, но жена подошла к мужу и нежно гладила его по волосам, пока он не проснулся."
+
+# "The man chastised his wife for her adultery and threatened punishment once he recovered from his fall." 
+= "Мужчина укорял свою жену за прелюбодеяние и угрожал наказанием, как только оправится от падения."
+
+# "The man, however, never recovered from his fall and died overnight. He was buried the next day." 
+= "Однако мужчина так и не смог оправиться от падения и умер в одночасье. Его похоронили на следующий день."
+
+# "That night, the man's corpse rose up from his grave and began to wander the neighborhoods." 
+= "Ночью труп мужчины восстал из могилы и стал бродить по окрестностям."
+
+# "As dawn broke, he would return to his grave." 
+= "С рассветом возвращался в могилу."
+
+# "This continued night after night and people began locking their doors, fearing to go out to run any errands after the sun went down." 
+= "Это продолжалось ночь за ночью, и люди стали запирать свои двери, опасаясь выходить на улицу по каким-либо делам после захода солнца."
+
+# "Lest they run into the creature and be beaten black and blue." 
+= "Чтобы они не столкнулись с этим существом и не были избиты до полусмерти."
+
+# "Not long afterwards, the town became plagued by disease and there was no doubt in their minds that the corpse was to blame." 
+= "Вскоре после этого город охватила болезнь, и никто не сомневался, что всему виной труп."
+
+# "People started fleeing the town, lest they too should die by the disease." 
+= "Люди стали покидать город, чтобы не умереть от болезни."
+
+# "As the town was falling apart, a meeting was gathered and it was decided that the corpse should be dug up and disposed of." 
+= "Поскольку город разваливался, было собрано собрание, и было решено, что труп следует выкопать и избавиться от него."
+
+# "A group of people took spades and found the cemetery the man was buried in." 
+= "Группа людей взяла лопаты и нашла кладбище, на котором был похоронен человек."
+
+# "They didn't have to dig long before they reached the man's corpse." 
+= "Им не пришлось долго копать, прежде чем они добрались до трупа мужчины."
+
+# "Once he was fully disinterred, the villagers beat the carcass with their shovels and dragged the body out of town." 
+= "Когда он был полностью выкопан, жители деревни забили тушу лопатами и потащили тело за город."
+
+# "There, they built a great fire and threw the body on the fire." 
+= "Там они развели большой костер и бросили тело на огонь."
+
+# "The man's corpse let out a blood curdling scream and attempted to crawl out of the flames before finally succumbing to it." 
+= "Труп мужчины издал пронзительный крик и попытался выползти из пламени, но в конце концов поддался ему."
+
+# "Yuki-onna" 
+= "Юки-онна"
+
+# "There were once two woodcutters, a father and son, who were on their way home when a blizzard suddenly arose." 
+= "Однажды два дровосека, отец и сын, возвращались домой, когда внезапно поднялась метель."
+
+# "After a little bit of travel, they came across an abandoned cabin and took shelter in it." 
+= "После небольшого путешествия они наткнулись на заброшенную хижину и укрылись в ней."
+
+# "They were able to build a modest fire and huddled together for warmth before falling asleep." 
+= "Они смогли развести скромный костер и прижались друг к другу, чтобы согреться перед сном."
+
+# "In the middle of the night, the son awoke from his sleep with a jolt." 
+= "Посреди ночи сын проснулся от толчка."
+
+# "To his surprise, a beautiful woman was standing over his father, blowing her breath on him and instantly freezing him." 
+= "К его удивлению, над его отцом стояла красивая женщина, обдавая его своим дыханием и мгновенно замораживая его."
+
+# "As she turned to the son, she paused. The woman said to him that she would spare him of the same fate, for he was young and very handsome." 
+= "Повернувшись к сыну, она остановилась. Женщина сказала ему, что избавит его от той же участи, потому что он молод и очень красив."
+
+# "If he ever spoke a word of it to anyone, she would come back to kill him." 
+= "Если он хоть слово об этом кому-нибудь скажет, она вернется и убьет его."
+
+# "The following winter, the young man was on his way home from a day of cutting wood, when he came across a beautiful traveling woman." 
+= "Следующей зимой молодой человек возвращался домой после рубки дров, когда наткнулся на красивую путешественницу."
+
+# "It was starting to snow, and the man offered the woman shelter from the storm, and she quickly accepted." 
+= "Начался снегопад, и мужчина предложил женщине укрыться от бури, и она быстро согласилась."
+
+# "The two quickly fell in love and ended up marrying each other." 
+= "Они быстро полюбили друг друга и в итоге поженились."
+
+# "They lived happily for years and had several kids as time went by." 
+= "Они счастливо жили долгие годы, и со временем у них родилось несколько детей."
+
+# "One night, while the kids were sleeping, the woman was sewing by the light of the fire." 
+= "Однажды ночью, пока дети спали, женщина шила при свете огня."
+
+# "The man looked up from what he was doing and the memory of the night he was never to speak of came back to him." 
+= "Мужчина поднял глаза от своего занятия, и воспоминания о ночи, о которой он никогда не говорил, вернулись к нему."
+
+# "The wife asked the man why he was looking at her the way he was." 
+= "Жена спросила мужчину, почему он так на нее смотрит."
+
+# "The man told his tale of his encounter with the snow woman." 
+= "Мужчина рассказал о своей встрече со снежной женщиной."
+
+# "The smile on his wife's face melted into anger as she revealed that she was the snow woman he spoke of." 
+= "Улыбка на лице его жены сменилась гневом, когда она показала, что она и есть та снежная женщина, о которой он говорил."
+
+# "She reprimanded him for breaking his promise and would have killed him if it weren't for the sake of their children." 
+= "Она отчитала его за нарушение обещания и убила бы его, если бы не их дети."
+
+# "She told the man that he better treat their children well or she would be back to deal with him." 
+= "Она сказала мужчине, что ему лучше хорошо обращаться с их детьми, иначе она вернется, чтобы разобраться с ним."
+
+# "The next instant she vanished, never to be seen again." 
+= "В следующее мгновение она исчезла, и больше ее никто не видел."
+
+# "Many Loves" 
+= "Много Любви"
+
+# "There once was a young woman who appeared in a village one day to find a husband." 
+= "Жила-была молодая женщина, которая однажды явилась в деревню, чтобы найти себе мужа."
+
+# "She was very beautiful and quickly attracted many suitors." 
+= "Она была очень красива и быстро привлекла множество ухажеров."
+
+# "Eventually settling down with a husky fisherman." 
+= "В конце концов, она поселилась с хриплым рыбаком."
+
+# "The two had a happy marriage, but in less than a year, the husband wasted away and died." 
+= "У них был счастливый брак, но менее чем через год муж исхудал и умер."
+
+# "The people in the village felt sorry for the young woman and comforted her the best they could." 
+= "Люди в деревне пожалели молодую женщину и утешали ее, как могли."
+
+# "A few months later, the woman married a burly woodcutter." 
+= "Через несколько месяцев женщина вышла замуж за грузного лесоруба."
+
+# "The two lived happily together for a time, but he too withered away and died." 
+= "Некоторое время они счастливо жили вместе, но и он увял и умер."
+
+# "Some of the villagers thought that it was odd both husbands had died in the same fashion, but no one said anything, and comforted the girl for her poor luck." 
+= "Некоторые жители деревни подумали, что странно, что оба мужа умерли одинаково, но никто ничего не сказал, а утешили девушку за ее несчастье."
+
+# "A time later, the woman was married again, this time to a stout mason and they too appeared to have a happy marriage, but within a year, the woman was again a widow." 
+= "Через некоторое время женщина снова вышла замуж, на этот раз за крепкого каменщика, и их брак был счастливым, но через год женщина снова стала вдовой."
+
+# "This time the villagers talked amongst themselves and felt something suspicious was going on, so a group of villagers set out to find the nearest shaman." 
+= "На этот раз жители деревни поговорили между собой и почувствовали, что происходит что-то подозрительное, поэтому группа жителей отправилась на поиски ближайшего шамана."
+
+# "Once they found the shaman and told him their story, the shaman indicated he knew what was going on." 
+= "Когда они нашли шамана и рассказали ему свою историю, шаман указал, что знает, что происходит."
+
+# "He called his assistant over, a young, well-built fellow, whispered into his ear and sent him off to return with the villagers." 
+= "Он подозвал своего помощника, молодого, хорошо сложенного парня, шепнул ему на ухо и отправил его возвращаться с жителями деревни."
+
+# "Telling them not to worry, his assistant would get to the bottom of it." 
+= "Он сказал им, чтобы они не волновались, его помощник разберется во всем."
+
+# "When they returned to the village, the assistant called on the widow and not long afterwards they were married." 
+= "Когда они вернулись в деревню, помощник позвал вдову, и вскоре после этого они поженились."
+
+# "On the night of their wedding, the assistant placed a knife under his pillow and feigned sleep." 
+= "В ночь их свадьбы помощник положил нож под подушку и притворился спящим."
+
+# "A little after midnight, the man felt a presence over him and a prick on his neck." 
+= "Чуть позже полуночи мужчина почувствовал над собой присутствие и укол на шее."
+
+# "The man grabbed the knife and stuck it into the thing on top of him." 
+= "Мужчина схватил нож и воткнул его в то, что лежало на нем."
+
+# "He heard a screech and the flapping of wings as the creature flew through a window." 
+= "Он услышал визг и хлопанье крыльев, когда существо вылетело в окно."
+
+# "The next day, the bride was found dead some distance from the house with a knife wound in her chest." 
+= "На следующий день невеста была найдена мертвой на некотором расстоянии от дома с ножевым ранением в грудь."
+
+# "The Gray Lady" 
+= "Серая леди"
+
+# "There was once a man named William, who grew up helping his father with his nefarious exploits." 
+= "Жил-был человек по имени Уильям, который вырос и помогал своему отцу в его гнусных делах."
+
+# "Such as waving lights from the shore line in the dead of night, hoping to lure ships to wreck upon the treacherous rocks along the shore." 
+= "Например, размахивать огнями с береговой линии в темное время суток, надеясь заманить корабли, чтобы они разбились о предательские скалы вдоль берега."
+
+# "And then collect the plunder that was spilled from the ship and kill any survivors." 
+= "А затем собрать награбленное с корабля и убить всех выживших."
+
+# "During one of his father's expositions, he saved a beautiful woman and ultimately decided to leave his old life behind and married her." 
+= "Во время одной из экспозиций своего отца он спас красивую женщину и в конце концов решил оставить свою прежнюю жизнь и женился на ней."
+
+# "The couple rented a manor not too far away." 
+= "Пара арендовала поместье неподалеку."
+
+# "The two lived a happy life there together, but were especially joyous when their baby daughter Kate was born." 
+= "Они прожили там счастливую совместную жизнь, но особенно радовались, когда родилась их дочь Кейт."
+
+# "As the years went by, Kate grew into a vivacious young woman." 
+= "С годами Кейт превратилась в энергичную молодую женщину."
+
+# "William was secretly ashamed that he didn't have enough money to buy the manor outright to offer as a dowry to the man who would marry his daughter." 
+= "Уильям втайне стыдился того, что у него не хватило денег на покупку поместья, чтобы предложить его в качестве приданого тому, кто женится на его дочери."
+
+# "Then one day, Kate met and fell in love with an Irish pirate captain and the two of them were married." 
+= "Однажды Кейт встретила и полюбила капитана ирландских пиратов, и они поженились."
+
+# "The happy couple decided to settle down in Dublin, since Kate's parents had no land of their own to offer them." 
+= "Счастливая пара решила поселиться в Дублине, поскольку у родителей Кейт не было собственной земли, которую они могли бы предложить."
+
+# "Kate promised to return and visit her parents again one day." 
+= "Кейт пообещала однажды вернуться и снова навестить своих родителей."
+
+# "Time passed and William and his wife missed their daughter dearly and wished for her to return." 
+= "Прошло время, Уильям со своей женой скучали по своей дочери и желали, чтобы она вернулась."
+
+# "William decided to go back to his old ways long enough to get the money necessary to buy the manor and invite their daughter and her husband back to live with them." 
+= "Уильям решил вернуться к своим прежним занятиям достаточно долго, чтобы получить деньги, необходимые для покупки поместья и пригласить их дочь и ее мужа обратно жить с ними."
+
+# "One night, after attracting a ship to wreck on the shore and gathering the plunder from it, he noticed a badly injured woman lying on the rocks before him." 
+= "Однажды ночью, притянув к берегу корабль, потерпевший крушение, и собрав с него добычу, он заметил лежащую перед ним на камнях тяжело раненую женщину."
+
+# "Her facial features were rendered unrecognizable due to the injuries she had sustained." 
+= "Из-за полученных травм черты ее лица стали неузнаваемыми."
+
+# "William, taking pity on her, carried her back to the manor, and did what he could to try to save her life, but the woman died without ever regaining consciousness." 
+= "Уильям, сжалившись над ней, отнес ее обратно в поместье и сделал все возможное, чтобы попытаться спасти ее жизнь, но женщина умерла, так и не придя в сознание."
+
+# "As they searched her body for some clue as to her identity, they found a small purse strapped to her waist full of enough gold coins and jewels for them to finally purchase the manor they rented." 
+= "Когда они обыскивали ее тело в поисках хоть какой-то зацепки, они нашли маленький кошелек, пристегнутый к ее поясу, в котором было достаточно золотых монет и драгоценностей, чтобы они смогли наконец-то купить поместье, которое они арендовали."
+
+# "A few days later, the Admiralty inquired the couple about a missing passenger from the wreckage that turned out to be none other than their daughter." 
+= "Через несколько дней Адмиралтейство обратилось к супругам с запросом о пропавшем пассажире с обломков судна, которым оказалась не кто иной, как их дочь."
+
+# "Devastated and ashamed, the parents walled up her remains in a secret room and moved away, never to return." 
+= "Опустошенные и пристыженные, родители замуровали ее останки в тайной комнате и уехали, чтобы больше никогда не возвращаться."
+
+# "The Flowered Lantern" 
+= "Цветочный фонарь"
+
+# "Before we start, I need to tell you that my next story is going to be a bit long." 
+= "Прежде чем мы начнем, я должена сказать тебе, что моя следующая история будет немного длинной."
+
+# "So, I'll split it in parts." 
+= "Поэтому я разделю ее на части."
+
+# "Once I finish this part I'll ask you if you want to continue it or not." 
+= "Как только я закончу эту часть, я спрошу тебя, хочешь ли ты ее продолжить или нет."
+
+# "If you say no, you can ask me later to tell you the next part, so don't worry about it." 
+= "Если ты откажешься, то ты можешь попросить меня позже рассказать тебе следующую часть, так что не беспокойся об этом."
+
+# "Alright, let's begin now." 
+= "Хорошо, давай начнем сейчас."
+
+# "There was once a beautiful, young maiden named Tsuyu, whose father was a high-ranking samurai." 
+= "Жила-была прекрасная юная дева по имени Цую, отец которой был высокопоставленным самураем."
+
+# "Tsuyu's mother had been dead and her father eventually remarried." 
+= "Мать Цую была мертва, а ее отец в конце концов женился снова."
+
+# "Although it became obvious to Tsuyu's father that she and her step mother couldn't get along." 
+= "Хотя для отца Цую стало очевидно, что она и ее приемная мать не могут ужиться вместе."
+
+# "Wanting to ensure his only daughter's happiness, he had a luxurious house built for her, away from them and had her move into it." 
+= "Желая обеспечить счастье своей единственной дочери, он построил для нее роскошный дом вдали от них, и она переехала в него."
+
+# "One day, the family physician went to Tsuyu's residence on a routine visit with a young samurai named Hagiwara, who was very handsome." 
+= "Однажды семейный врач отправился в резиденцию Цую с обычным визитом вместе с молодым самураем по имени Хагивара, который был очень красив."
+
+# "Tsuyu and Hagiwara fell in love the moment they set eyes on each other." 
+= "Цую и Хагивара полюбили друг друга с первого взгляда."
+
+# "Unbeknownst to the doctor, the two pledged themselves to each other for life and before the two left." 
+= "Не зная доктора, эти двое поклялись друг другу на всю жизнь,и перед этим, оба ушли." 
+
+# "Tsuyu whispered to Hagiwara that she would surely die if he didn't return to see her." 
+= "Цую шепнула Хагиваре, что она непременно умрет, если он не вернется к ней."
+
+# "Hagiwara didn't forget her words, but etiquette forbade him to make a call to visit a maiden alone, so he had to wait for the doctor to ask him to join him on another visit." 
+= "Хагивара не забыл ее слов, но этикет запрещал ему звать её, чтобы навестить девицу в одиночку, поэтому ему пришлось ждать, пока доктор попросит его присоединиться к нему во время очередного визита."
+
+# "The doctor, however, had perceived his sudden affection for Tsuyu." 
+= "Однако доктор заметил его внезапную привязанность к Цую."
+
+# "Tsuyu's father was known to behead those who angered him, and fearing that he would hold him responsible for introducing the two, he avoided Hagiwara." 
+= "Известно, что отец Цую обезглавливал тех, кто его злил, и, опасаясь, что тот сочтет его ответственным за знакомство этих двоих, он избегал Хагивару."
+
+# "Months passed and Tsuyu, feeling scorned that Hagiwara had abandoned her, passed away." 
+= "Прошло несколько месяцев, и Цую, чувствуя себя оскорбленной тем, что Хагивара бросил ее, скончалась."
+
+# "Not long afterwards, the doctor ran into Hagiwara, informing him of Tsuyu's death." 
+= "Вскоре после этого доктор встретил Хагивару и сообщил ему о смерти Цую."
+
+# "Hagiwara was deeply saddened and mourned greatly over her, saying prayers and burning incense for her." 
+= "Хагивара был глубоко опечален и сильно скорбел по ней, произнося молитвы и возжигая для нее благовония."
+
+# "...And that's it for part one! Do you want to continue to the next one?{nw}" 
+= "...И это первая часть! Хочешь продолжить?{nw}"
+
+# "...And that's it for part one! Do you want to continue to the next one?{fast}" 
+= "...И это первая часть! Хочешь продолжить?{fast}"
+
+# "Yes." 
+= "Да."
+
+# "No." 
+= "Нет."
+
+# "After sun down, on the first night of the Festival of the Dead, Hagiwara sat outside, still grieving the loss of his love until late evening." 
+= "После захода солнца, в первую ночь Фестиваля мертвых, Хагивара до позднего вечера сидел на улице, всё ещё скорбя о потере своей любви."
+
+# "However, just as he was about to go inside and go to sleep, he heard footsteps on the path outside his gate." 
+= "Однако, когда он уже собирался войти в дом и лечь спать, он услышал шаги на тропинке за воротами."
+
+# "Hagiwara lived on a lonely street with few pedestrians and since it was so late out, he decided to see who it was." 
+= "Хагивара жил на одинокой улице, где было мало пешеходов, и поскольку на улице было так поздно, он решил посмотреть, кто это."
+
+# "To his great surprise and delight, the person walking along the path was none other than Tsuyu, carrying a paper lantern decorated with flowers to light her way." 
+= "К его огромному удивлению и восторгу, идущий по тропинке человек был не кто иной, как Цую, которая несла бумажный фонарик, украшенный цветами, чтобы освещать ей путь."
+
+# "Hagiwara called out Tsuyu's name and she immediately came to him and embraced him." 
+= "Хагивара позвал Цую по имени, и она тут же подошла к нему и обняла его."
+
+# "Each of them told the other that they were told by the doctor that the other person had died." 
+= "Каждый из них рассказал друг другу, что врач сказал им, что другой человек умер."
+
+# "Tsuyu told him that her father wanted her to marry another man." 
+= "Цую рассказала ему, что отец хотел, чтобы она вышла замуж за другого мужчину."
+
+# "She refused and fled her luxurious home to hide from him and was currently taking residence in a cramped house in a certain neighborhood nearby." 
+= "Она отказалась и сбежала из своего роскошного дома, чтобы скрыться от него, и в настоящее время живет в тесном доме в одном из близлежащих районов."
+
+# "He invited her inside, but told her to keep quiet so that they didn't disturb his servant who might inquire who she was." 
+= "Он пригласил ее войти, но велел ей вести себя тихо, чтобы не потревожить его слугу, который мог поинтересоваться, кто она такая."
+
+# "The two spent the night together and right before dawn, Tsuyu left to return to her dwelling." 
+= "Они провели ночь вместе, и перед самым рассветом Цую ушла, чтобы вернуться в свое жилище."
+
+# "On the next night, Tsuyu visited again at the same time she had arrived the previous night." 
+= "На следующий вечер Цую снова пришла в то же время, что и в предыдущий вечер."
+
+# "This time, however, Hagiwara's servant awoke and heard a young woman's voice he didn't recognize." 
+= "Однако на этот раз слуга Хагивары проснулся и услышал голос молодой женщины, которую он не узнал."
+
+# "Curious, but not wanting to disturb his master, he snuck to his master's room and peeked through a small crack in his door and saw that he was indeed talking to a young woman." 
+= "Любопытствуя, но не желая беспокоить хозяина, он пробрался в комнату хозяина, заглянул через небольшую щель в двери и увидел, что тот действительно разговаривает с молодой женщиной."
+
+# "The woman's back was turned to him, but he was able to make out that she was very thin and was dressed in a very elegant kimono that only the upper class would wear." 
+= "Женщина была повернута к нему спиной, но он смог разобрать, что она очень худая и одета в очень элегантное кимоно, которое носят только представители высшего класса."
+
+# "His curiosity piqued, the servant decided to get a glimpse of this girl's face before retiring." 
+= "Его любопытство разгорелось, и слуга решил взглянуть на лицо этой девушки, прежде чем удалиться."
+
+# "He saw that the master had left a window open, so he quietly made his way over to it." 
+= "Он увидел, что мастер оставил окно открытым, и тихонько подошел к нему."
+
+# "As he peered inside, he saw to his horror that the face of the woman was one that was long dead and the fingers caressing his master's face were those of naked bone." 
+= "Когда он заглянул внутрь, то к своему ужасу увидел, что лицо женщины было лицом давно умершей, а пальцы, ласкающие лицо его хозяина, были пальцами из обнаженной кости."
+
+# "He fled away in terror without making a peep." 
+= "Он убежал в ужасе, не издав ни звука."
+
+# "The next morning, the servant approached his master and asked him about the woman." 
+= "На следующее утро слуга подошел к своему хозяину и спросил его о женщине."
+
+# "At first, Hagiwara denied having any visitors, but after perceiving that it was to no avail, he confessed everything that had transpired." 
+= "Сначала Хагивара отрицал, что к нему приходили гости, но, поняв, что это бесполезно, признался во всем случившемся."
+
+# "The servant told Hagiwara what he saw the night before and felt surely his master's life was in danger and pleaded for him to see a priest about it." 
+= "Слуга рассказал Хагиваре о том, что он видел накануне вечером, почувствовал, что жизнь его хозяина в опасности, и умолял его обратиться к священнику по этому поводу."
+
+# "Startled but not entirely convinced, Hagiwara decided to put his servant's mind at ease by finding Tsuyu's residence." 
+= "Пораженный, но не полностью убежденный Хагивара решил успокоить своего слугу, найдя место жительства Цую."
+
+# "Hagiwara set out and explored the neighborhood that Tsuyu told him she was staying at." 
+= "Хагивара отправился исследовать район, в котором, по словам Цую, она остановилась."
+
+# "He looked around and inquired people about her but to no avail." 
+= "Он огляделся вокруг и расспросил людей о ней, но безрезультатно."
+
+# "When he decided that searching more would be fruitless, he headed home." 
+= "Решив, что дальнейшие поиски будут безрезультатны, он отправился домой."
+
+# "On his way back, he passed a cemetery next to a temple." 
+= "На обратном пути он проходил мимо кладбища, расположенного рядом с храмом."
+
+# "His attention was attracted by a large new tomb, near the back that he hadn't noticed before." 
+= "Его внимание привлекла большая новая гробница, расположенная рядом с задней частью, которую он не заметил раньше."
+
+# "Hanging above it was a paper lantern decorated with beautiful flowers that looked exactly the same as the one that Tsuyu carried with her at night." 
+= "Над ним висел бумажный фонарик, украшенный красивыми цветами, который выглядел точно так же, как и тот, который Цую носила с собой по ночам."
+
+# "Intrigued, he walked towards it, as he looked at the name of the person it belonged to, he jumped back with fright as he read it belonged to his beloved Tsuyu." 
+= "Заинтригованный, он подошел к ней, и, посмотрев на имя человека, которому она принадлежала, испуганно отпрыгнул назад, прочитав, что она принадлежит его любимой Цую."
+
+# "Terror stricken, Hagiwara immediately headed into the adjoining temple and asked to speak to the head priest." 
+= "Охваченный ужасом, Хагивара немедленно направился в соседний храм и попросил поговорить с главным священником."
+
+# "When he was admitted, he told the head priest everything that had transpired." 
+= "Когда его приняли, он рассказал главному священнику обо всем, что произошло."
+
+# "After he had finished, the head priest told him his life was indeed in danger." 
+= "После того, как он закончил, главный священник сказал ему, что его жизнь действительно в опасности."
+
+# "Hagiwara's intense grieving for her and her intense love for him had brought her back during the Festival of the Dead." 
+= "Сильная скорбь Хагивары по ней и ее сильная любовь к нему вернули ее во время Фестиваля мертвых."
+
+# "Love between one who is alive and one who is dead can only result in the death of the one who is alive." 
+= "Любовь между тем, кто жив, и тем, кто мертв, может привести только к смерти того, кто жив."
+
+# "...And that's it for part two! Do you want to continue to the next one?{nw}" 
+= "...И это все во второй части! Хочешь продолжить?{nw}"
+
+# "...And that's it for part two! Do you want to continue to the next one?{fast}" 
+= "...И это все для второй части! Хочешь продолжить?{fast}"
+
+# "Yes." 
+= "Да."
+
+# "No." 
+= "Нет."
+
+# "As it was the last day of the Festival of the Dead, Tsuyu would have to return to the dead on this night and she would take Hagiwara with her if they were to see each other again." 
+= "Поскольку это был последний день Фестиваля мертвых, Цую должна была вернуться к мертвым в эту ночь, и она возьмет с собой Хагивару, если им суждено увидеться снова."
+
+# "Hagiwara pleaded with the priest to help him." 
+= "Хагивара умолял священника помочь ему."
+
+# "The priest said the passional karma between them was very strong, but there was some hope still." 
+= "Священник сказал, что страстная карма между ними очень сильна, но надежда еще есть."
+
+# "He handed Hagiwara a stack of paper talismans that keep out spirits, and instructed him to cover every opening in his home, no matter how small, with them." 
+= "Он вручил Хагиваре пачку бумажных талисманов, защищающих от духов, и велел ему закрыть ими каждое отверстие в доме, каким бы маленьким оно ни было."
+
+# "Tsuyu would not be able to enter the dwelling as long as he heeded these instructions." 
+= "Цую не могла войти в жилище до тех пор, пока он следовал этим указаниям."
+
+# "Hagiwara, with the assistance of his servant was able to successfully cover the house with the paper talismans before dark." 
+= "Хагивара с помощью своего слуги смог успешно покрыть дом бумажными талисманами до наступления темноты."
+
+# "As the night went on, Hagiwara attempted to fall asleep but to no avail. So he sat up meditating over the recent events." 
+= "Ночью Хагивара попытался заснуть, но безуспешно. Тогда он сел и стал размышлять над недавними событиями."
+
+# "At a late hour, he heard footsteps outside his home." 
+= "В поздний час он услышал шаги возле своего дома."
+
+# "The steps came nearer and nearer." 
+= "Шаги приближались все ближе и ближе."
+
+# "Hagiwara felt a sudden compulsion, stronger than even his fear, to look." 
+= "Хагивара почувствовал внезапное побуждение, более сильное, чем даже его страх, посмотреть."
+
+# "He foolishly approached the shutters and through a chink saw Tsuyu standing at the entrance of his house with her paper lantern staring at the paper talismans." 
+= "По глупости он подошел к ставням и сквозь щель увидел Цую, стоявшую у входа в его дом с бумажным фонарем и смотревшую на бумажные талисманы."
+
+# "Never before had he seen Tsuyu look so beautiful and his heart felt so drawn to her." 
+= "Никогда прежде он не видел Цую такой красивой, и его сердце так тянулось к ней."
+
+# "Outside, Tsuyu began to weep bitterly, saying to herself that Hagiwara had broken the pledge that they had made to each other." 
+= "На улице Цую начала горько плакать, говоря себе, что Хагивара нарушил обещание, которое они дали друг другу."
+
+# "She wept until she collected herself and said aloud that she wouldn't leave without seeing him one last time." 
+= "Она плакала, пока не собралась с силами и не сказала вслух, что не уйдет, не увидев его в последний раз."
+
+# "Hagiwara heard footsteps as she walked around his house, every so often he would see the light from the lantern as she went along." 
+= "Хагивара слышал шаги, когда она шла вокруг его дома, время от времени он видел свет фонаря, когда она шла рядом."
+
+# "When she came near the spot he had peered out of, the footsteps stopped and suddenly Hagiwara saw one of Tsuyu's eyes looking in at him." 
+= "Когда она подошла к тому месту, откуда он выглянул, шаги прекратились, и вдруг Хагивара увидел, что на него смотрит один из глаз Цую."
+
+# "The next day, the servant awoke and approached his master's room and knocked upon his door." 
+= "На следующий день слуга проснулся, подошел к комнате своего господина и постучал в его дверь."
+
+# "For the first time in years he didn't receive a response and he was worried." 
+= "Впервые за много лет он не получил ответа и забеспокоился."
+
+# "He called his master repeatedly but to no avail." 
+= "Он неоднократно звал своему хозяину, но безрезультатно."
+
+# "Finally, with a bit of courage, he entered into his master's room." 
+= "Наконец, набравшись смелости, он вошел в комнату своего хозяина."
+
+# "...Only to flee from the house crying in horror after seeing him." 
+= "...Только чтобы убежать из дома, плача от ужаса, увидев его."
+
+# "Hagiwara was dead, hideously dead, and his face had the expression of uttermost agony of fear..." 
+= "Хагивара был мертв, отвратительно мертв, и на его лице было выражение глубочайшей агонии страха..."
+
+# "And lying beside him in the bed were the bones of a woman with its arms clung around his neck as if in an embrace." 
+= "А рядом с ним на кровати лежали кости женщины, руки которой обвились вокруг его шеи, словно в объятиях."
+
+# "Prison Escape"
+= 
+
+# "A pretty woman was serving a life sentence in prison for murder."
+= 
+
+# "Over time, she became good friends with one of the prison caretakers."
+= 
+
+# "His job was to bury any prisoners who died in a graveyard just outside the prison walls."
+= 
+
+# "Whenever a prisoner died, the caretaker rang a bell which was heard by all of the inmates."
+= 
+
+# "Next, he got the body and put it in a casket, and then entered his office to fill out the death certificate before returning to nail the casket lid shut."
+= 
+
+# "Finally, he put it on a wagon to take to the graveyard and bury it."
+= 
+
+# "Knowing this routine, the woman devised an escape plan and shared it with the caretaker..."
+= 
+
+# "The next time the bell rang, the woman would leave her cell and sneak into the dark room where the coffins were kept."
+= 
+
+# "She would slip into the coffin with the dead body while the caretaker was filling out the death certificate."
+= 
+
+# "When the caretaker returned, he would nail the lid shut and take the coffin outside the prison and bury it."
+= 
+
+# "The woman knew there would be enough air for her to breathe until later in the evening when the caretaker would return under cover of darkness, dig up the coffin, and set her free."
+= 
+
+# "The woman waited several months for one of the other inmates to die."
+= 
+
+# "One night, she was asleep in her cell when she heard the death bell ringing."
+= 
+
+# "She got up, picked the lock of her cell, and slowly walked down the hallway."
+= 
+
+# "She opened the door to the darkened room where the coffins were kept and quietly found the one that contained the dead body."
+= 
+
+# "After carefully climbing into it, she pulled the lid shut to wait for the caretaker to come and nail the lid down."
+= 
+
+# "Soon she heard footsteps and the pounding of the hammer and nails."
+= 
+
+# "Even though she was very uncomfortable in the coffin with the dead body beneath her, she knew that with each nail she was one step closer to freedom."
+= 
+
+# "The coffin was lifted onto the wagon and taken outside to the graveyard."
+= 
+
+# "She didn't make a sound as the coffin hit the bottom of the grave with a thud."
+= 
+
+# "After a hour of absolute silence, she began to chuckle quietly to herself."
+= 
+
+# "Feeling curious, she decided to light a match to find out the identity of the dead prisoner beside her."
+= 
+
+# "...!"
+= 
+
+# "It was the dead caretaker!"
+= 

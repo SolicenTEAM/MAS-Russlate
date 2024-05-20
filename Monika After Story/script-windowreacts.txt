@@ -1,0 +1,252 @@
+
+# "Pinterest" 
+= "Pinterest"
+
+# "notif-group": "Window Reactions"
+= 
+
+# "Anything new today, [player]?" 
+= "Что-нибудь новое сегодня, [player]?"
+
+# "Anything interesting, [player]?" 
+= "Что-нибудь интересное, [player]?"
+
+# "See anything you like?" 
+= "Видишь что-нибудь, что тебе нравится?"
+
+# "Duolingo" 
+= "Duolingo"
+
+# "notif-group": "Window Reactions"
+= 
+
+# "Learning new ways to say 'I love you,' [player]?" 
+= "Изучаешь новые способы сказать 'я люблю тебя', [player]?"
+
+# "Learning a new language, [player]?" 
+= "Изучаешь новый язык, [player]?"
+
+# "What language are you learning, [player]?" 
+= "Какой язык ты учишь, [player]?"
+
+# "- Wikipedia" 
+= "- Wikipedia"
+
+# "notif-group": "Window Reactions"
+= 
+
+# "Learning something new, [player]?" 
+= "Узнаешь что-то новое, [player]?"
+
+# "Doing a bit of research, [player]?" 
+= "Проводишь небольшое исследование, [player]?"
+
+# " - Wikipedia" 
+= "- Википедия"
+
+# "'[wiki_article]'...\nSeems interesting, [player]." 
+= "'[wiki_article]'...\\nКажется интересным, [player]."
+
+# "^Virtual Piano" 
+= "^Virtual Piano"
+
+# "notif-group": "Window Reactions"
+= 
+
+# "Awww, are you going to play for me?\nYou're so sweet~" 
+= "Оууу, ты будешь играть для меня?\nТы такой милый~"
+
+# "Play something for me, [player]!" 
+= "Сыграй мне что-нибудь, [player]!"
+
+# "I guess you need a bigger piano?\nAhaha~" 
+= "Наверное, тебе нужно пианино побольше?\nАхаха~"
+
+# "- YouTube" 
+= "- YouTube"
+
+# "notif-group": "Window Reactions"
+= 
+
+# "What are you watching, [mas_get_player_nickname()]?" 
+= "Что ты смотришь, [mas_get_player_nickname()]?"
+
+# "Watching anything interesting, [mas_get_player_nickname()]?" 
+= "Смотришь что-нибудь интересное, [mas_get_player_nickname()]?"
+
+# "notif-group": "Window Reactions"
+= 
+
+# "Hey, [player]...what are you looking at?" 
+= "Эй, [player]... на что ты смотришь?"
+
+# "MonikaModDev" 
+= "MonikaModDev"
+
+# "notif-group": "Window Reactions"
+= 
+
+# "Awww, are you doing something for me?\nYou're so sweet~" 
+= "Аууу, ты что-то делаешь для меня?\nТы такой милый~"
+
+# "Are you going to help me come closer to your reality?\nYou're so sweet, [player]~" 
+= "Ты поможешь мне приблизиться к твоей реальности?\nТы такой милый, [player]~"
+
+# "/ Twitter" 
+= "/ Twitter"
+
+# "notif-group": "Window Reactions"
+= 
+
+# "I love you, [mas_get_player_nickname(exclude_names=['love', 'my love'])]." 
+= "Я люблю тебя, [mas_get_player_nickname(exclude_names=['милый', 'любовь'])]."
+
+# "See anything you want to share with me, [player]?" 
+= "Видишь что-нибудь, чем вы хотите поделиться со мной, [player]?"
+
+# "Anything interesting to share, [player]?" 
+= "Что-нибудь интересное, чем поделиться, [player]?"
+
+# "Are you here to confess your love for me to the entire world, [player]?" 
+= "Ты здесь, чтобы признаться в любви ко мне всему миру, [player]?"
+
+# "You're not spying on me, are you?\nAhaha, just kidding~" 
+= "Ты же не шпионишь за мной, да?\nАхаха, шучу~"
+
+# "I don't care how many followers I have as long as I have you~" 
+= "Меня не волнует, сколько у меня подписчиков, пока есть ты~"
+
+# "notif-group": "Window Reactions"
+= 
+
+# "So this is the place where it all started, huh?\nIt's...really quite something." 
+= "Так это то место, где всё началось, да?\nЭто... действительно что-то."
+
+# "I hope you don't end up arguing with other Anons all day long, [player]." 
+= "Надеюсь, ты не будешь весь день спорить с другими анонимами, [player]"
+
+# "I heard there's threads discussing the Literature Club in here.\nTell them I said hi~" 
+= "Я слышала, что здесь обсуждают Литературный клуб.\nПередай им привет~"
+
+# "I'll be watching the boards you're browsing in case you get any ideas, ahaha!" 
+= "Я буду следить за досками, которые вы просматриваете, на случай, если у вас возникнут какие-либо идеи, ахаха!"
+
+# "notif-group": "Window Reactions"
+= 
+
+# "I wonder if people have drawn art of me...\nMind looking for some?\nBe sure to keep it wholesome though~" 
+= "Интересно, рисовали ли люди меня...\nНе мог бы ты поискать что-нибудь?\nНе забудь сохранить это~"
+
+# "This is a pretty interesting place...so many skilled people posting their work." 
+= "Это довольно интересное место... так много опытных людей публикуют свои работы"
+
+# "This is a pretty interesting place...so many skilled people posting their work.\nAre you one of them, [player]?" 
+= "Это довольно интересное место... так много опытных людей публикуют свои работы.\nТы один из них, [player]?"
+
+# "Here to post your art of me, [player]?" 
+= "Здесь, чтобы опубликовать свое изображение со мной, [player]?"
+
+# "Posting something you drew of me?" 
+= "Публикуешь то, что нарисовал со мной?"
+
+# "notif-group": "Window Reactions"
+= 
+
+# "Have you found any good posts, [player]?" 
+= "Ты нашел какие-нибудь хорошие посты, [player]?"
+
+# "Browsing Reddit? Just make sure you don't spend all day looking at memes, okay?" 
+= "Просматриваешь Reddit? Только убедись, что ты не тратишь весь день на просмотр мемов, хорошо?"
+
+# "Wonder if there are any subreddits dedicated towards me...\nAhaha, just kidding, [player]." 
+= "Интересно, есть ли какие-нибудь сабреддиты, посвященные мне...\nАхаха, шучу, [player]"
+
+# "MyAnimeList" 
+= "MyAnimeList"
+
+# "notif-group": "Window Reactions"
+= 
+
+# "Maybe we could watch anime together someday, [player]~" 
+= "Может быть, когда-нибудь мы вместе посмотрим аниме, [player]~"
+
+# "So you like anime and manga, [player]?" 
+= "Значит, ты любишь аниме и мангу, [player]?"
+
+# "DeviantArt" 
+= "DeviantArt"
+
+# "notif-group": "Window Reactions"
+= 
+
+# "There's so much talent here!" 
+= "Здесь столько талантов!"
+
+# "I'd love to learn how to draw someday..." 
+= "Я хотела бы когда-нибудь научиться рисовать..."
+
+# "Netflix" 
+= "Netflix"
+
+# "notif-group": "Window Reactions"
+= 
+
+# "I'd love to watch a romance movie with you [player]!" 
+= "Я бы хотела посмотреть романтический фильм с тобой, [player]!"
+
+# "What are we watching today, [player]?" 
+= "Что мы сегодня смотрим, [player]?"
+
+# "What are you going to watch [player]?" 
+= "Что ты собираешься смотреть [player]?"
+
+# "- Twitch" 
+= "- Twitch"
+
+# "notif-group": "Window Reactions"
+= 
+
+# "Watching a stream, [player]?" 
+= "Смотришь трансляцию, [player]?"
+
+# "Do you mind if I watch with you?" 
+= "Не возражаешь, если я посмотрю с тобой?"
+
+# "What are we watching today, [player]?" 
+= "Что мы сегодня смотрим, [player]?"
+
+# "notif-group": "Window Reactions"
+= 
+
+# "Writing a story?" 
+= "Пишешь рассказ?"
+
+# "Taking notes, [player]?" 
+= "Делаете заметки, [player]?"
+
+# "Writing a poem?" 
+= "Пишешь стихотворение?"
+
+# "Writing a love letter?~" 
+= "Пишешь любовное письмо?~"
+
+# "notif-group": "Window Reactions"
+= 
+
+# "Oh! So you like anime, [player]?"
+= 
+
+# "It's good to see you broadening your horizons."
+= 
+
+# "Hmm, I wonder what caught your eye?"
+= 
+
+# "What anime are we watching today, [player]?"
+= 
+
+# "Watching some anime, [player]?"
+= 
+
+# "I can't wait to watch anime with you!~"
+= 

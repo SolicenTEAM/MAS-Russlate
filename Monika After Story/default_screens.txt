@@ -1,0 +1,193 @@
+==== screens ====
+
+# "New Game"
+= "Новая игра"
+
+# "New game"
+= "Новая игра"
+
+# "Credits"
+= "Авторы"
+
+# "Exit"
+= "Выход"
+
+# "Load Game"
+= "Загрузить игру"
+
+# "Save Game"
+= "Сохранить игру"
+
+# "Help"
+= "Помощь"
+
+# "History"
+= "История"
+
+# "Skip"
+= "Перемотка"
+
+# "Save"
+= "Сохранить"
+
+# "Load"
+= "Загрузить"
+
+# "Settings"
+= "Настройки"
+
+# "End Replay"
+= "Закончить перемотку"
+
+# "Main Menu"
+= "Главное меню"
+
+# "Help"
+= "Помощь"
+
+# "Quit"
+= "Выход"
+
+# "[config.name!t]"
+= "[config.name!t]"
+
+# "[config.version]"
+= "[config.version]"
+
+# "Return"
+= "Возврат"
+
+# "[config.name!t]"
+= "[config.name!t]"
+
+# "Version [config.version!t]\n"
+= "Версия [config.version!t]\n"
+
+# "slot"
+= "slot"
+
+# "Window"
+= "Окно"
+
+# "Fullscreen"
+= "Полный экран"
+
+# "Unseen Text"
+= "Нового текста"
+
+# "After Choices"
+= "Нового выбора"
+
+# "empty slot"
+= "пустой слот"
+
+# "radio"
+= "radio"
+
+# "Display"
+= "Экран"
+
+# "Skip"
+= "Пропуск"
+
+# "Text Speed"
+= "Скорость текста"
+
+# "Text speed"
+= "Скорость текста"
+
+# "Auto-Forward Time"
+= "Время авто-перемотки"
+
+# "Auto-forward time"
+= "Время авто-перемотки"
+
+# "Music Volume"
+= "Громкость музыки"
+
+# "music Volume"
+= "Громкость музыки"
+
+# "Music volume"
+= "Громкость музыки"
+
+# "Sound Volume"
+= "Громкость звуков"
+
+# "Sound volume"
+= "Громкость звуков"
+
+# "sound Volume"
+= "Громкость звуков"
+
+# "Voice Volume"
+= "Громкость голоса"
+
+# "voice volume"
+= "voice volume"
+
+# "Mute All"
+= "Заглушить всё"
+
+# "All mute"
+= "Заглушить всё"
+
+# "Saved games"
+= "Сохраненные игры"
+
+# "Empty slot"
+= "Пустой слот"
+
+# "Menu"
+= "Меню"
+
+# "View"
+= "Вид"
+
+# "Unseen text"
+= "Нового текста"
+
+# "Decisions"
+= "Выбора"
+
+# "The dialogue history is empty."
+= "История диалогов пуста."
+
+# "No dialogue"
+= "История диалогов пуста."
+
+# "Enter your name"
+= "Введите своё имя"
+
+# "Ok"
+= "Ок"
+
+# "OK"
+= "OK"
+
+# "Yes"
+= "Да"
+
+# "No"
+= "Нет"
+
+# "Skipping"
+= "Перемотка"
+
+# "Skipping..."
+= "Перемотка..."
+
+# "Auto"
+= "Авто"
+
+# "End replay"
+= "Закончить перемотку"
+
+# "Are you sure you want to leave?"
+= "Вы уверены, что хотите выйти?"
+
+# "Are you sure you want to return to the main menu?\nThis will lose unsaved progress."
+= "Вы уверены, что хотите выйти в главное меню?\nНе сохраненный прогресс будет потерян."
+
+# "Are you sure you want to return to the main menu?\nAll unsaved progress will be deleted."
+= "Вы уверены, что хотите выйти в главное меню?\nНе сохраненный прогресс будет потерян."

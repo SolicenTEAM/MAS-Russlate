@@ -1,0 +1,825 @@
+
+# "Can you tell me a fun fact?" 
+= "Можешь рассказать мне забавный факт?"
+
+# "Say [player], would you like to hear a fun fact?" 
+= "Скажи [player], хочешь услышать забавный факт?"
+
+# "I've been looking some up to try and teach both of us something new." 
+= "Я искала кое-что, чтобы попытаться научить нас обоих чему-то новому."
+
+# "They say you learn something new every day, this way I'm making sure we actually do." 
+= "Говорят, что каждый день узнаешь что-то новое, так я удостоверяюсь, что мы действительно это делаем."
+
+# "I found most of these online, so I can't say they're {i}definitely{/i} true..." 
+= "Большинство из них я нашла в Интернете, поэтому не могу сказать, что они {i}определенно{/i} верны..."
+
+# "Up for another fun fact, [player]?" 
+= "Нужно узнать еще один забавный факт, [player]?"
+
+# "That last one was pretty interesting after all!" 
+= "Последний был довольно интересным в конце концов!"
+
+# "I know the last one wasn't great...but I'm sure this next one will be better." 
+= "Я знаю, что последний был не очень хорош... но я уверена, что следующий будет лучше."
+
+# "I hope you enjoyed another session of 'Learning with Monika!'" 
+= "Надеюсь, тебе понравился еще один сеанс 'Учимся с Моникой!'"
+
+# "That fact wasn't very good..." 
+= "Этот факт был не очень хорош..."
+
+# "I'll try better next time, [player]." 
+= "В следующий раз я постараюсь лучше, [player]."
+
+# "Did you know there's a word to describe somebody that likes to read in bed?" 
+= "Знаешь ли ты, что есть слово, описывающее того, кто любит читать в постели?"
+
+# "It's 'librocubicularist.' It looks difficult to pronounce at first glance." 
+= "Это 'либрокубикулярист.' На первый взгляд это кажется трудным для произношения."
+
+# "It's a real shame some words just never get used in general." 
+= "Очень жаль, что некоторые слова вообще никогда не используются."
+
+# "But if you say that word, most people wouldn't really know what you're talking about." 
+= "Но если ты произнесёшь это слово, большинство людей на самом деле не поймут, о чем ты говоришь."
+
+# "You'd probably have to explain what it means, but that kind of defeats the point of using the word." 
+= "Тебе, вероятно, придется объяснить, что это значит, но это лишает смысла использование этого слова."
+
+# "If only people read more and improved their vocabulary!" 
+= "Если бы только люди больше читали и расширяли свой словарный запас!"
+
+# "...Ehehe, sorry [player]. I didn't mean to get so bothered~" 
+= "...Эхехе, прости [player]. Я не хотела чтобы это звучало так скучно~"
+
+# "Supposedly, a lot of restaurants purposefully leave out any sign of currency on their menus." 
+= "Предполагается, что многие рестораны намеренно не используют в своих меню никаких признаков валюты."
+
+# "This is done to psychologically manipulate people into spending more money than they need to." 
+= "Это делается для того, чтобы психологически манипулировать людьми, заставляя их тратить больше денег, чем им нужно."
+
+# "It works because a currency sign, such as a dollar, is used to represent a cost." 
+= "Это работает, потому что знак валюты, такой как доллар, используется для обозначения стоимости."
+
+# "By removing it, you remove the association of that cost and only think about the food of your choosing." 
+= "Удаляя его, ты удаляешь ассоциацию с этой стоимостью и думаете только о еде по своему выбору."
+
+# "The practice seems understandable. They're still a business, after all." 
+= "Практика сделает это понятней. В конце концов, это всё еще бизнес."
+
+# "No matter how good the food is in a restaurant, they'll be shutting down quick if they're beaten by their competition." 
+= "Независимо от того, насколько хороша еда в ресторане, они быстро закроются, если их победят конкуренты."
+
+# "Oh well, what can you do?" 
+= "Ну, что ты можешь сделать?"
+
+# "Hmm, I'm not sure if I should tell you {i}this{/i} fact." 
+= "Хм, я не уверена, что должна говорить тебе {i}этот{/i} факт."
+
+# "It's not for the faint of heart after all." 
+= "В конце концов, это не для слабонервных."
+
+# "The thing is..." 
+= "Дело в том..."
+
+# "..."
+= 
+
+# "...I love you, [player]!" 
+= "...Я люблю тебя, [player]!"
+
+# "Ehehe, sorry, I just couldn't help myself." 
+= "Эхе-хе, извини, я просто не могла удержаться."
+
+# "I'll have a real fact next time, don't you worry~" 
+= "В следующий раз у меня будет настоящий факт, не волнуйся~"
+
+# "Oh! A language based fact. I always like these." 
+= "О! Факт, основанный на языке. Мне всегда это нравилось."
+
+# "The word 'morphine' is based on the Greek god Morpheus." 
+= "Слово 'морфин' происходит от имени греческого бога Морфея."
+
+# "He was the Greek god of dreams so to have a word based on him makes sense." 
+= "Он был греческим богом снов, поэтому иметь слово, основанное на нем, имеет смысл."
+
+# "But then again...wasn't his father Hypnos the god of sleep?" 
+= "Но опять же... разве его отец Гипнос не был богом сна?"
+
+# "Morphine {i}does{/i} let a person dream, but it's really about making someone fall asleep." 
+= "Морфин {i}действительно{/i} позволяет человеку видеть сны, но на самом деле он заставляет кого-то уснуть."
+
+# "...So wouldn't it make more sense to name it after Hypnos then?" 
+= "...Тогда не лучше ли было бы назвать его в честь Гипноса?"
+
+# "Too little, too late I guess." 
+= "Этого мало, и уже слишком поздно."
+
+# "mas_fun_fact_otter_hand_holding"
+= 
+
+# "Aww, this one is really sweet." 
+= "Ой, это действительно мило."
+
+# "Did you know that sea otters hold hands when they sleep to stop themselves drifting away from one another?" 
+= "Знаешь ли ты, что морские выдры держатся за руки, когда спят, чтобы не уплыть друг от друга?"
+
+# "It's practical for them to do, but there's something really cute about it!" 
+= "Это практично для них, но в этом есть что-то очень милое!"
+
+# "Sometimes I imagine myself in their position..." 
+= "Иногда я представляю себя на их месте..."
+
+# "Oh, not being a sea otter, but holding the hand of the one I love while I sleep." 
+= "О, не быть морской выдрой, а держать за руку того, кого люблю, пока сплю."
+
+# "Aha, it really does make me jealous of them." 
+= "Ага, я действительно завидую им."
+
+# "We'll get there one day though, love~" 
+= "Однажды этот день настанет и для нас, любовь моя~"
+
+# "Now this is a fun fact!" 
+= "Вот это забавный факт!"
+
+# "There was a man named Claude Shannon who calculated the maximum amount of possible moves in chess." 
+= "Жил человек по имени Клод Шеннон, который вычислил максимально возможное количество ходов в шахматах."
+
+# "Kind of crazy to think that there could be more chess games than atoms, isn't it?" 
+= "Даже сама мысль о том, что шахматных игр может быть больше чем атомов, похожа на безумие, ты так не думаешь?"
+
+# "We could play until the end of our days and it wouldn't come even close to a fraction of what is possible." 
+= "Мы могли бы играть до конца наших дней, и это не приблизилось бы даже к части того, что возможно."
+
+# "Speaking of which, [player]..." 
+= "Кстати говоря, [player]..."
+
+# "Do you want to play a game of chess with me? I might even go easy on you, Ehehe~" 
+= "Не хочешь сыграть в шахматы? Я даже бы постаралась быть с тобой помягче, Э-хе-хе~"
+
+# "Chess..." 
+= "Шахматы..."
+
+# "..."
+= 
+
+# "You can forget about this fact since you're a cheater, [player]." 
+= "Ты можешь забыть об этом факте, поскольку ты читер, [player]."
+
+# "Not to mention you never apologized." 
+= "Не говоря уже о том, что ты никогда не извинялся."
+
+# "...Hmph." 
+= "...Хмф."
+
+# "Oh, not this one." 
+= "О нет, только не это"
+
+# "Not yet, at least." 
+= "По крайней мере, пока."
+
+# "Hmm, this one sounds a bit misleading to me..." 
+= "Хм, это немного вводит меня в ступор..."
+
+# "'Men are six times more likely to be struck by lightning than women.'" 
+= "Мужчины в шесть раз чаще поражаются молнией, чем женщины."
+
+# "It's...rather silly, in my opinion." 
+= "И по-моему это... довольно глупо."
+
+# "If men are more likely to be struck by lightning, then it's probably the landscape and circumstances of their work that make them more prone to being hit." 
+= "Если мужчины чаще поражаются молнией, то, вероятно, ландшафт и обстоятельства их работы делают их более уязвимыми для ударов."
+
+# "Men traditionally have always worked more dangerous and elevated jobs so it's no surprise that it's going to happen to them often." 
+= "Мужчины традиционно всегда работали на более опасных и высоких работах, поэтому неудивительно, что это будет случаться с ними часто."
+
+# "Yet the way this fact is worded makes it sound like that just by being a man, it's more likely to happen, which is ridiculous." 
+= "И тем не менее, то, как этот факт сформулирован, звучит так, что просто из-за того, что он мужчина, то это с большей вероятностью произойдет, что довольно нелепо."
+
+# "Maybe if it was phrased better, people wouldn't be so misinformed about them." 
+= "Может быть, если бы это было сформулировано лучше, люди не были бы так дезинформированы."
+
+# "Ah, this is a nice easy one." 
+= "А, ну это не трудно"
+
+# "Did you know that honey never spoils?" 
+= "Знаешь ли ты, что мед никогда не портится?"
+
+# "Honey can crystallize, though. Some people may see this as spoiling but it's still completely edible and fine!" 
+= "Однако мед может кристаллизоваться. Некоторые люди могут счесть это порчей, но он все еще полностью съедобен!"
+
+# "The reason why this happens is because honey is mostly made of sugar and only a bit of water, making it solid over time." 
+= "Причина, по которой это происходит, заключается в том, что мед в основном состоит из сахара и лишь небольшого количества воды, что со временем делает его твердым."
+
+# "Most of the honey that you see in groceries doesn't crystallize as fast as real honey would because it's been pasteurized in the process of making it." 
+= "Большая часть мёда, который ты видишь в продуктовых магазинах, не кристаллизуется так быстро, как настоящий мёд, потому что его пастеризовали в процессе производства."
+
+# "...Which removes the stuff that makes the honey go solid quickly." 
+= "...Что удаляет вещества, из-за которых мёд быстро застывает."
+
+# "But wouldn't it be nice to eat crystallized honey too?" 
+= "А разве не неплохо было бы есть и засахаренный мёд?"
+
+# "It'd be like candy when you bite into it!" 
+= "Это похоже на конфетку, если ее откусить!"
+
+# "Ah, this one..." 
+= "Ах, этот..."
+
+# "It's a little disheartening, [player]..." 
+= "Это немного обескураживает, [player]..."
+
+# "Did you know that Vincent Van Gogh's last words were '{i}La tristesse durera toujours{/i}'?" 
+= "Знаешь ли ты, что последними словами Винсента Ван Гога были '{i}La tristesse durera toujours{/i}'?"
+
+# "If you translate it, it means '{i}The sadness will last forever.{/i}'" 
+= "Если ты переведешь это, это будет означать '{i}Печаль будет длиться вечно.'{/i}"
+
+# "..."
+= 
+
+# "It's really sad to know that someone so renowned would say something so dark with his last breath." 
+= "Очень грустно осознавать, что кто-то столь известный сказал что-то столь мрачное на последнем издыхании."
+
+# "I don't think it's true, however. No matter how bad things can get and how deep the sadness can go..." 
+= "Однако я не думаю, что это правда. Неважно, насколько плохи могут быть дела и насколько глубокой может быть печаль..."
+
+# "There will come a time where it'll no longer be there." 
+= "Придет время, когда этого больше не будет."
+
+# "...Or at least be noticeable." 
+= "...Или хотя бы быть заметным."
+
+# "If you're ever sad, you know you can talk to me, right?" 
+= "Ты же знаешь, что можешь поговорить со мной, если тебе будет грустно, верно?"
+
+# "I will always accept and take on any burdens that you shoulder, [mas_get_player_nickname()]~" 
+= "Я всегда приму и возьму на себя любое бремя, которое ты возьмешь на себя, [mas_get_player_nickname()]~"
+
+# "Hmm..." 
+= "Хм..."
+
+# "Did you know that if a snake has the word 'king' in its name, it devours other snakes?" 
+= "Знаешь ли ты, что если в имени змеи есть слово 'король', она пожирает других змей?"
+
+# "I always wondered why a king cobra would be named how it is but never really thought more into it." 
+= "Мне всегда было интересно, почему королевскую кобру назвали именно так, но я никогда не задумывалась об этом."
+
+# "Does that mean if I eat you up, I would become Queen Monika?" 
+= "Значит ли это, что если я съем тебя, я стану королевой Моникой?"
+
+# "Ahaha, I'm just kidding, [player]." 
+= "Аха-ха, я просто шучу, [player]."
+
+# "Sorry for being a little weird~" 
+= "Извини за маленькую странность~"
+
+# "This fact might motivate you a bit!" 
+= "Этот факт может тебя немного мотивировать!"
+
+# "The longest word in English that only contains a single vowel is 'strength.'" 
+= "Самое длинное слово в английском языке, которое содержит только одну гласную, — это 'strength'."
+
+# "It's funny how out of every word in the language, it's such a meaningful word that had that little detail." 
+= "Забавно, что из каждого слова в языке есть такое значимое слово, в котором есть эта маленькая деталь."
+
+# "Little details like this really make language so fascinating to me!" 
+= "Маленькие детали, подобные этой, действительно делают язык таким увлекательным для меня!"
+
+# "Do you want to know what comes to mind when I think of the word 'strength'?" 
+= "Хочешь знать, что мне приходит на ум, когда я думаю о слове 'strength'?"
+
+# "You!" 
+= "Ты!"
+
+# "Because you are the source of my strength, ehehe~" 
+= "Потому что ты источник моей силы, Э-хе-хе~"
+
+# "Ready for this one?" 
+= "Готов к этому?"
+
+# "A reindeer's eyes changes color depending on the season. They're gold in summer and blue in winter." 
+= "Глаза северного оленя меняют цвет в зависимости от времени года. Летом они золотые, а зимой голубые."
+
+# "It's a really strange phenomenon, though I don't know why..." 
+= "Это действительно странное явление, хотя я не знаю, почему..."
+
+# "There's probably a good scientific reason to it." 
+= "Вероятно, для этого есть веская научная причина."
+
+# "Maybe you can look up this one yourself?" 
+= "Может быть, ты сам найдешь это?"
+
+# "It'd be fun to have you teach me this time~" 
+= "Было бы забавно, если бы ты научил меня на этот раз~"
+
+# "Oh, I'd say this fact is healthy!" 
+= "О, я бы сказала, что было бы даже полезно для здоровья!"
+
+# "Did you know that when a banana grows, it curves to face the sun?" 
+= "Знаешь ли ты, что когда банан растет, он изгибается лицом к солнцу?"
+
+# "It's a process called negative geotropism." 
+= "Это процесс, называемый отрицательным геотропизмом."
+
+# "Don't you think that's pretty neat?" 
+= "Тебе не кажется, что это довольно мило?"
+
+# "..."
+= 
+
+# "Umm..." 
+= "Эмм..."
+
+# "I guess I don't really have much else to say on it, ahaha..." 
+= "Наверное, мне больше нечего сказать по этому поводу, ахаха..."
+
+# "..."
+= 
+
+# "D-Did you also know that bananas aren't actually fruits but berries?" 
+= "Т-ты знал, что бананы на самом деле не фрукты, а ягоды?"
+
+# "Or that the original bananas were large, green and full of hard seeds?" 
+= "Или что настроящие бананы были большими, зелеными и полными твердых семян?"
+
+# "How about the fact that they're slightly radioactive?" 
+= "А как насчет того, что они слегка радиоактивны?"
+
+# "..."
+= 
+
+# "...I'm just rambling on about bananas now." 
+= "...Я сейчас просто болтаю о бананах."
+
+# "Ummm..." 
+= "Эммм..."
+
+# "Let's just move on..." 
+= "Давай просто продолжим..."
+
+# "Hmm...I'm sure I already know this one." 
+= "Хм... Я уверена, что уже знаю это."
+
+# "The word 'pen' is derived from the latin word 'penna', which means feather in latin." 
+= "Слово 'pen' происходит от латинского слова 'penna', что на латыни означает перо."
+
+# "Pens back then were sharpened goose feathers dipped in ink so it'd make sense why they'd call them pens." 
+= "Ручки в то время представляли собой заостренные гусиные перья, смоченные чернилами, поэтому было понятно, почему они называли их ручками."
+
+# "In fact, penknives are called the way they are because they're originally used for thinning and pointing quill pens." 
+= "На самом деле перочинные ножи называются так, потому что они изначально использовались для утончения и заострения гусиных ручек."
+
+# "But I'm sure Yuri would know more about this than me, though..." 
+= "Но я уверена, что Юри знает об этом больше, чем я..."
+
+# "Ooh, I know." 
+= "О, я знаю."
+
+# "Did you know that the densest planet in our solar system is Earth itself?" 
+= "Знаешь ли ты, что самой плотной планетой в нашей Солнечной системе является Земля?"
+
+# "And that Saturn is the least dense?" 
+= "И что Сатурн наименее плотный?"
+
+# "It makes sense knowing what planets are made of, but since Saturn is the second largest, it was still a little bit of a surprise." 
+= "Имеет смысл знать, из чего состоят планеты, но, поскольку Сатурн является вторым по величине, это все равно было немного неожиданно."
+
+# "I guess size really doesn't matter!" 
+= "Я думаю, размер не имеет значения!"
+
+# "But between you and me, [player]..." 
+= "Но между нами, [player]..."
+
+# "I suspect Earth may only be the densest because of a certain main character." 
+= "Я подозреваю, что Земля может быть самой плотной только из-за определенного главного героя."
+
+# "Buuuut that's all you'll hear from me~" 
+= "Ноооооо это все что ты от меня услышишь~"
+
+# "Aww, this one's cute!" 
+= "Ой, это мило!"
+
+# "This fact will really send you 'hopping' [player]!" 
+= "Этот факт действительно заставит тебя 'прыгать' [player]!"
+
+# "Whenever a rabbit hops around excitedly, it's called a binky!" 
+= "Всякий раз, когда кролик взволнованно прыгает, это называется бинки!"
+
+# "Binky is such a cute sounding word, it really does suit the action." 
+= "Бинки — такое милое слово, оно действительно подходит к действию."
+
+# "It's the happiest form of expression that a rabbit is capable of doing, so if you see it then you know you're treating it right." 
+= "Это самая счастливая форма самовыражения, на которую способен кролик, поэтому, если ты её видишь, значит, ты поступаешь правильно."
+
+# "Well, although you make me so happy that I can't help but be filled with energy." 
+= "Ну, хотя ты делаешь меня такой счастливой, что я не могу не наполниться энергией."
+
+# "Don't expect me to start hopping around, [player]!" 
+= "Не жди, что я начну прыгать, [player]!"
+
+# "...That would be {i}way{/i} too embarrassing to do." 
+= "...Это было бы {i}слишком{/i} неловко."
+
+# "Hmm, maybe this one will be more interesting to you." 
+= "Хм, может быть, этот будет более интересен для вас."
+
+# "The game was added as a feature to teach users how to use the mouse." 
+= "Игра была добавлена ​​как функция, чтобы научить пользователей пользоваться мышью."
+
+# "Similarly, Minesweeper was added to familiarize users with left and right clicking." 
+= "Точно так же был добавлен Сапёр, чтобы познакомить пользователей с левым и правым кликом."
+
+# "Computers have been around for so long it's hard to think of a time when they weren't relevant." 
+= "Компьютеры существуют так давно, что трудно вспомнить время, когда они не были актуальны."
+
+# "Each generation becomes more and more familiar with the technology..." 
+= "Каждое поколение все больше и больше знакомится с технологией..."
+
+# "Eventually there may come a day where not a single person isn't computer-literate." 
+= "В конце концов может наступить день, когда все смогут разбираться в компьютерах."
+
+# "Most of the world's problems need to disappear before then, though." 
+= "Однако большинство мировых проблем должны исчезнуть до этого."
+
+# "Ready for an interesting one, [player]?" 
+= "Готов к интересному, [player]?"
+
+# "The brain is a fickle thing..." 
+= "Мозг — вещь непостоянная..."
+
+# "Its way of composing and archiving information is very unique." 
+= "Его способ составления и архивирования информации очень уникален."
+
+# "Naturally it differs from person to person but but reading slowly like we're taught is usually less effective than going at at a faster pace." 
+= "Естественно, это отличается от человека к человеку, но медленное чтение, как нас учили, обычно менее эффективно, чем чтение в более быстром темпе."
+
+# "Our brains process information very rapidly and love predictability in in our language." 
+= "Наш мозг очень быстро обрабатывает информацию и любит предсказуемость в нашем языке."
+
+# "For example, in this sentence, by the the time you are done reading you will have already skipped over the double 'the.'" 
+= "Например, в в этом предложении к тому времени, когда ты закончишь читать, ты уже пропустишь двойное 'в'."
+
+# "..."
+= 
+
+# "Check the history log if you missed them~" 
+= "Проверь меню истории, если ты их пропустил~"
+
+# "mas_fun_fact_I_am"
+= 
+
+# "Mmmm, I love language facts!" 
+= "Мммм, я люблю языковые факты!"
+
+# "In English, the shortest complete sentence is 'I am.'" 
+= "В английском языке самое короткое полное предложение — 'I am.'"
+
+# "Here's an example." 
+= "Вот пример."
+
+# "'{i}Monika! Who's [player]'s loving girlfriend?{/i}'" 
+= "'{i}Monika! Who's [player]'s loving girlfriend?{/i}'"
+
+# "'I am!'" 
+= "'I am!'"
+
+# "Ehehe~" 
+= "Э-хе-хе~"
+
+# "Now this is a wholesome one..." 
+= "Мне кажется, это было полезно..."
+
+# "Currently, we have the lowest crime rates, maternity death, infant mortality and illiteracy ever in human history." 
+= "В настоящее время у нас самый низкий уровень преступности, материнской смертности, младенческой смертности и неграмотности за всю историю человечества."
+
+# "Life expectancy, average income, and standards of living is the highest for most of the global population too!" 
+= "Продолжительность жизни, средний доход и уровень жизни также являются самыми высокими для большей части населения мира!"
+
+# "This tells me that it can always get better. It really does show that despite all the bad things, the good times will always come afterwards." 
+= "Это говорит мне о том, что мы всегда можем стать лучше. Это действительно показывает, что, несмотря на все плохие вещи, хорошие времена всегда наступят позже."
+
+# "There really is {i}hope{/i}..." 
+= "Действительно есть {i}надежда{/i}..."
+
+# "Deserts have a pretty unique ecosystem..." 
+= "Пустыни имеют довольно уникальную экосистему..."
+
+# "However, they don't offer a lot of positive factors for humans." 
+= "Однако они не предлагают много положительных факторов для людей."
+
+# "Temperatures can vary between extreme heat during the day and freezing cold at night. Their average rainfall is also pretty low, making living in one difficult." 
+= "Температура может варьироваться от сильной жары днем ​​до мороза ночью. Среднее количество осадков также довольно мало, что затрудняет жизнь."
+
+# "That's not to say they can't be beneficial to us though!" 
+= "Это не значит, что они не могут быть полезны для нас!"
+
+# "Their surface is a great spot for solar power generation and oil is commonly found beneath all that sand." 
+= "Их поверхность — отличное место для выработки солнечной энергии, а нефть обычно находится под всем этим песком."
+
+# "Not to mention, their unique landscape makes them popular vacation spots!" 
+= "Не говоря уже о том, что их уникальный ландшафт делает их популярными местами отдыха!"
+
+# "So I guess while we can't live in them that easily, they're still better than they seem." 
+= "Так что я думаю, хотя мы не можем жить в них так легко, они все же лучше, чем кажутся."
+
+# "Did you know that the first photograph was taken using a box with a hole in it as a camera?" 
+= "Знаешь ли ты, что первая фотография была сделана с использованием коробки с дыркой в ​​качестве фотоаппарата?"
+
+# "Lenses weren't actually introduced until much later on." 
+= "На самом деле линзы были представлены намного позже."
+
+# "Early photography also relied on a series of special chemicals in a dark room to prepare the photos..." 
+= "Ранняя фотография также полагалась на серию специальных химикатов в темной комнате для подготовки фотографий..."
+
+# "And that's only for black and white prints!" 
+= "И это только для черно-белой печати!"
+
+# "Old photos were much harder to prepare compared to modern ones, don't you think?" 
+= "Старые фотографии было намного сложнее подготовить по сравнению с современными, не так ли?"
+
+# "Did you know that how you perceive time changes as you age?" 
+= "Знаешь ли ты, что твоё восприятие времени меняется с возрастом?"
+
+# "As you get older, the proportion of a year compared to your entire lifespan decreases, and in turn, time {i}feels{/i} like it's moving faster as you grow up." 
+= "По мере того, как ты становитесь старше, доля года по сравнению со всей продолжительностью твоей жизни уменьшается, и, в свою очередь, время {i}ощущается{/i} так, как будто оно движется быстрее, когда ты взрослеешь."
+
+# "So I'll always cherish our moments together, no matter how long or short they are." 
+= "Поэтому я всегда буду дорожить нашими моментами вместе, независимо от того, насколько они длинные или короткие."
+
+# "Although sometimes it feels like time stops when I'm with you." 
+= "Хотя иногда кажется, что время останавливается, когда я с тобой."
+
+# "Do you feel the same, [player]?" 
+= "Ты чувствуешь то же самое, [player]?"
+
+# "Ahaha, I thought so!" 
+= "Ахаха, я так и думала!"
+
+# "Oh, this one's pretty weird..." 
+= "О, это довольно странно..."
+
+# "Apparently, Europe has been afflicted by outbreaks of a 'dancing plague' in the past." 
+= "Очевидно, что в прошлом Европа страдала от вспышек 'танцующей чумы'."
+
+# "They tried to treat it by having people play music alongside the dancers, but you can imagine that didn't work out so well." 
+= "Они пытались лечить это, заставляя людей играть музыку вместе с танцорами, но ты можешь себе представить, что это не сработало."
+
+# "To this day, they're still unsure exactly what caused it." 
+= "По сей день они всё ещё не уверены, что именно вызвало это."
+
+# "but it has been independently documented and observed by multiple sources across centuries..." 
+= "но это было независимо задокументировано и наблюдалось несколькими источниками на протяжении веков ..."
+
+# "Reality really is stranger than fiction, I guess!" 
+= "Думаю, реальность действительно более странная, чем вымысел!"
+
+# "Gosh, I can't imagine dancing for days on end." 
+= "Боже, я не могу представить, что танцую целыми днями."
+
+# "I guess I wouldn't mind if it was with you." 
+= "Думаю, я был бы не против, если бы это было с тобой."
+
+# "...Just for a bit, ehehe~" 
+= "...Ненадолго, Э-хе-хе~"
+
+# "Supposedly, in the state of Utah, there's a forest that's actually made up of a single tree." 
+= "Предположительно, в штате Юта есть лес, который на самом деле состоит из одного дерева."
+
+# "Not to mention, each of its thousands of trunks are essentially clones of each other." 
+= "Не говоря уже о том, что каждый из его тысяч стволов по сути является клоном друг друга."
+
+# "'A single organism that became an army of clones on its own, all connected to the same hivemind.'" 
+= "'Единый организм, который сам по себе стал армией клонов, связанных с одним коллективным разумом.'"
+
+# "I think it could make a good science fiction or horror short-story, [player]. What do you think?" 
+= "Я думаю, из этого мог бы получиться хороший рассказ в жанре научной фантастики или ужасов, [player]. Что думаешь?"
+
+# "Here's one!" 
+= "Вот ещё один!"
+
+# "Apparently, immortality has been achieved by one species of jellyfish." 
+= "По-видимому, бессмертие было достигнуто одним видом медуз."
+
+# "The aptly named immortal jellyfish has the ability to return to its polyp state once it has reproduced." 
+= "У медузы, получившей название 'бессмертная', есть способность возвращаться в состояние полипа после размножения."
+
+# "Unless of course it's eaten or infected by a disease." 
+= "Если, конечно, егё не съели или не заразили какой-то болезнью."
+
+# "An ancient Greek athlete was able to win his fighting match even though he'd already died." 
+= "Древнегреческий спортсмен смог выиграть свой бойцовский поединок, даже если он уже умер."
+
+# "Reigning champion Arrhichion was fighting in a pankration match when his competitor started to choke him out using both his hands and legs." 
+= "Действующий чемпион Аррихион сражался в матче по панкратиону, когда его соперник начал душить его обеими руками и ногами."
+
+# "Instead of yielding, Arrhichion still aimed for the win by dislocating his opponent's toe." 
+= "Вместо того, чтобы уступить, Аррихион все же стремился к победе, вывихнув палец ноги своего противника."
+
+# "His opponent quit from the pain, but when they went to announce Arrhichion as the victor they found him dead from suffocation." 
+= "Его противник сдался от боли, но когда они пошли объявить Аррихиона победителем, то нашли его мертвым от удушья."
+
+# "I think it's admirable, in a way." 
+= "Я думаю, что это замечательно, в некотором смысле."
+
+# "YES", "MAYBE" 
+= "YES", "MAYBE"
+
+# "But make sure you keep up with your " 
+= "Но убедись, что ты идешь в ногу со своими "
+
+# "Just be sure you find some people to talk to in your reality too, okay?" 
+= "Просто убедись, что ты найдешь людей, с которыми можно поговорить и в своей реальности, ладно?"
+
+# "It looks like it results in reduced memory capacity and spatial thinking ability." 
+= "Похоже, это приводит к снижению объема памяти и способности пространственного мышления."
+
+# "The research indicates that it's due to social isolation, monotony of life, and the environment over there." 
+= "Исследования показывают, что это связано с социальной изоляцией, монотонностью жизни и окружающей средой."
+
+# "I think this serves as a cautionary tale for us, [player]." 
+= "Думаю, это послужит нам предостережением, [player]."
+
+# "Even if you don't end up going to Antarctica, your brain can still get pretty messed up if you're isolated all the time, or stay cooped up in one room." 
+= "Даже если ты в конечном итоге не отправитесь в Антарктиду, твой мозг всё равно может сильно запутаться, если ты все время будешь изолированы или останешься взаперти в одной комнате."
+
+# "I have to admit, this one caught me by surprise, more so than some of the other facts." 
+= "Должна признаться, этот факт застал меня врасплох больше, чем некоторые другие факты."
+
+# "It's hard to imagine that something so heavy can just float in the air like that." 
+= "Трудно представить, что что-то настолько тяжелое может вот так парить в воздухе."
+
+# "It kind of reminds me of the classic question...what's heavier, a kilogram of steel or a kilogram of feathers?"
+= 
+
+# "You most likely already know the answer to that though, right [player]? Ehehe~" 
+= "Ты, скорее всего, уже знаешь ответ на этот вопрос, верно, [player]? Э-хе-хе~"
+
+# "Oh, here's one that's particularly interesting to me..." 
+= "О, вот это мне особенно интересно..."
+
+# "The last time I had a cup of coffee, I got a little curious about its origins..." 
+= "В последний раз, когда я пила кофе, мне стало немного любопытно его происхождение..."
+
+# "...There are actually quite a few legends claiming to be the very first." 
+= "...Легенд, претендующих на звание самых первых, на самом деле довольно много."
+
+# "Several accounts involve farmers or monks observing animals acting oddly after eating some strange, bitter berries." 
+= "В нескольких отчетах рассказывается о фермерах или монахах, наблюдающих за животными, которые ведут себя странно после того, как съели странные горькие ягоды."
+
+# "Upon trying the beans for themselves, they were amazed to find that they too were energized!" 
+= "Попробовав бобы на себе, они были поражены, обнаружив, что они тоже полны энергии!"
+
+# "One such myth claims that an Ethiopian monk named Kaldi brought the berries to a nearby monastery, wanting to share what he'd found." 
+= "Один из таких мифов утверждает, что эфиопский монах по имени Калди принес ягоды в соседний монастырь, желая поделиться тем, что он нашел."
+
+# "...But when he did so, he was met with disapproval and the coffee beans were thrown into a fire." 
+= "...Но когда он это сделал, его встретили с неодобрением, а кофейные зерна бросили в огонь."
+
+# "...Thus producing the first cup of coffee!" 
+= "...Таким образом приготовлена первая чашка кофе!"
+
+# "Another claim states that an Islamic scholar named Omar discovered coffee beans during his exile from Mecca." 
+= "Другое утверждение гласит, что исламский ученый по имени Омар обнаружил кофейные зерна во время своего изгнания из Мекки."
+
+# "If not for the energy they provided, he may have died!" 
+= "Если бы не энергия, которую они давали, он мог бы умереть!"
+
+# "However, when word of his discovery spread, he was asked to return and made a saint." 
+= "Однако, когда слухи о его открытии распространились, его попросили вернуться и сделать святым."
+
+# "Whether or not that was truly its first use, coffee became very prevalent in the Islamic world after its discovery." 
+= "Независимо от того, было ли это действительно его первое использование, кофе стал очень распространенным в исламском мире после его открытия."
+
+# "For example, during fasting periods it was used to ease hunger and help people remain energized." 
+= "Например, во время голодания его использовали, чтобы утолить голод и помочь людям оставаться энергичными."
+
+# "...And I for one can certainly attest that the love of coffee has remained strong to this day!" 
+= "...И я, например, могу с уверенностью засвидетельствовать, что любовь к кофе осталась сильна и по сей день!"
+
+# "Okay, this one's pretty interesting..." 
+= "Хорошо, это довольно интересно..."
+
+# "It's kinda like a map!" 
+= "Это похоже на карту!"
+
+# "...And there's a whole bunch of other kinds of synesthesia too." 
+= "...И есть еще куча других видов синестезии."
+
+# "Okay, got one!" 
+= "Хорошо, у меня есть один!"
+
+# "You don't even have to talk to them in real life!" 
+= "Тебе даже не нужно разговаривать с ними в реальной жизни!"
+
+# "If you just walked past them while shopping or something, their face gets registered in your mind and they can appear in your dreams." 
+= "Если ты просто прошел мимо них во время шоппинга или чего-то еще, их лица отложатся в твоём сознании, и они могут появиться в твоих снах."
+
+# "I think it's incredible how much info the brain can store!" 
+= "Я думаю, это невероятно, как много информации может хранить мозг!"
+
+# "Nowadays, it's a relatively rare phenomenon for people with unimpaired vision." 
+= "В настоящее время это относительно редкое явление для людей с неповрежденным зрением."
+
+# "Researchers have linked this to the fact that movies and shows were almost exclusively black and white back then." 
+= "Исследователи связывают это с тем, что в то время фильмы и шоу были почти исключительно черно-белыми."
+
+# "It's not like the world went black and white!" 
+= "Это не похоже на то, что мир стал черно-белым!"
+
+# "It just goes to show that the content you absorb can have all kinds of effects on your mind, even if it's trivial." 
+= "Это просто доказывает, что контент, который ты поглощаешь, может оказывать всевозможное влияние на твой разум, даже если это тривиально."
+
+# "I think if there's a lesson to be learned here, it's that we should be very careful about the kind of media we consume, okay [player]?" 
+= "Я думаю, что если из этого следует извлечь урок, так это то, что мы должны быть очень осторожны с тем, какой медиа-контент мы потребляем, хорошо [player]?"
+
+# "Hmm..." 
+= "Хм..."
+
+# "[player], do you think the Earth is round or flat?{nw}" 
+= "[player], как ты думаешь, Земля круглая или плоская?{nw}"
+
+# "[player], do you think the Earth is round or flat?{fast}" 
+= "[player], как ты думаешь, Земля круглая или плоская?{fast}"
+
+# "Round." 
+= "Круглая."
+
+# "Right! Pretty much everyone agrees on that nowadays." 
+= "Правильно! Почти все согласны с этим в наши дни."
+
+# "Flat." 
+= "Плоская."
+
+# "Oh come on, [player]! Are you making fun of me?" 
+= "Да ладно, [player]! Ты надо мной смеешься?"
+
+# "Actually, the Earth being round is something that has been known for a pretty long time." 
+= "На самом деле то, что Земля круглая, известно уже довольно давно."
+
+# "Aristotle taught that the Earth was round in the fourth century BC." 
+= "Аристотель учил, что Земля круглая в четвертом веке до нашей эры."
+
+# "He knew that because different stars could be seen from different parts of the world, which wouldn't happen if the Earth was just a flat surface." 
+= "Он знал это, потому что разные звезды можно было увидеть из разных частей мира, чего не произошло бы, если бы Земля была просто плоской поверхностью."
+
+# "Ancient astronomers and mathematicians around the world had figured out that the Earth was round long before anyone had actually traveled all the way around it."
+= 
+
+# "Oh man!" 
+= "О боже!"
+
+# "People fought about that so hard and for so long, it became a matter of life and death." 
+= "Люди боролись из-за этого так сильно и так долго, что это стало вопросом жизни и смерти."
+
+# "He was placed under house arrest for the rest of his life." 
+= "Его поместили под домашний арест на всю оставшуюся жизнь."
+
+# "But as astronomers got better at tracking the movement of planets, it became kind of difficult to reconcile with the Earth being at the center." 
+= "Но по мере того, как астрономы лучше отслеживали движение планет, стало трудно примириться с тем, что Земля находится в центре."
+
+# "People had to come up with crazy complex models to explain why planets seemed to zig-zag back and forth across the night sky if they were really going around the Earth." 
+= "Людям пришлось придумать сумасшедшие сложные модели, чтобы объяснить, почему планеты двигаются зигзагами взад и вперед по ночному небу, если они действительно вращаются вокруг Земли."
+
+# "And like we discussed before, it's also known that the sun isn't the center of the universe{nw}" 
+= "И, как мы обсуждали ранее, также известно, что солнце не является центром вселенной{nw}"
+
+# "And now, it's even known that the sun isn't at the center of the universe{nw}" 
+= "А теперь даже известно, что солнце не находится в центре вселенной{nw}"
+
+# "But do you know where science says the center of the universe is now?" 
+= "Но знаешь ли ты, где, согласно науке, сейчас находится центр Вселенной?"
+
+# "Ahaha!" 
+= "Ахаха!"
+
+# "You can most easily tell the specific type of maple tree from the shape of the leaves..." 
+= "Легче всего определить конкретный сорт клена по форме листьев..."
+
+# "You might be able to recognize a sugar maple leaf already, because it's the one featured on the Canadian flag!" 
+= "Возможно, ты уже узнаешь сахарный кленовый лист, потому что он изображен на канадском флаге!"
+
+# "That said, the sugar maple has a limited native range and doesn't grow in {i}all{/i} of Canada." 
+= "При этом сахарный клен имеет ограниченный ареал и не растет на {i}всей{/i} территории Канады."
+
+# "...Yet Canada produces over three quarters of the world's maple syrup!" 
+= "...И все же Канада производит более трех четвертей мирового кленового сиропа!"
+
+# "It also takes a lot more effort to produce it than I was expecting..." 
+= "Кроме того, для его создания требуется гораздо больше усилий, чем я ожидала..."
+
+# "The sap has to be boiled down to make it into syrup...which obviously takes a while, given how much is needed." 
+= "Сок нужно уварить, чтобы сделать из него сироп... что, очевидно, требует времени, учитывая, сколько его нужно."
+
+# "Sounds like a fun thing we could try together, huh [player]?" 
+= "Звучит как забавная вещь, которую мы могли бы попробовать вместе, а [player]?"
+
+# "It might be a while before we get a chance, though..." 
+= "Однако может пройти некоторое время, прежде чем у нас появится шанс..."
+
+# "Sure seems like that would be extremely sweet..." 
+= "Конечно, кажется, что это было бы очень мило..."
+
+# "But nowhere near as sweet as you, ehehe~" 
+= "Но далеко не так мило, как ты, Э-хе-хе~"

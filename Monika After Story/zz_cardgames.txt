@@ -1,0 +1,1545 @@
+
+# "Skip", "Draw Two", "Reverse"
+= 
+
+# "Wild", "Wild Draw Four"
+= 
+
+# "Oh, it's my turn."
+= 
+
+# "My turn~"
+= 
+
+# "I'm playing first~"
+= 
+
+# "Oh, I have to skip my turn."
+= 
+
+# "Lucky you, I'll have to skip this turn."
+= 
+
+# "Aww, I'll have to skip my turn."
+= 
+
+# "Oh, I must draw some more."
+= 
+
+# "Lucky you, I'll give you a handicap with these cards."
+= 
+
+# "Gosh, even more cards for me..."
+= 
+
+# "Oh, guess I'll have to draw more cards."
+= 
+
+# "I prepared! Ehehe~"
+= 
+
+# "No, no, no~ I'm not going to skip this turn!"
+= 
+
+# "Nope! This time you'll skip a turn~"
+= 
+
+# "Lucky me I have some good cards! Ehehe~"
+= 
+
+# "I was ready~"
+= 
+
+# "It's your turn, honey~"
+= 
+
+# "You're playing first."
+= 
+
+# "Your turn, [player]."
+= 
+
+# "Whoops! You have to skip your turn."
+= 
+
+# "Unlucky!"
+= 
+
+# "Go ahead and draw your cards, ehehe~"
+= 
+
+# "Oops, looks like you have to draw more cards."
+= 
+
+# "I see what you're doing, [player]~"
+= 
+
+# "This is a little embarrassing~"
+= 
+
+# "With you I wouldn't mind doing that for real, [player]~"
+= 
+
+# "I don't think we're already {i}that{/i} far in our relationship~"
+= 
+
+# "Are you trying to cheat again?"
+= 
+
+# "I want [store.mas_nou.game.monika.chosen_color]."
+= 
+
+# "I choose [store.mas_nou.game.monika.chosen_color]."
+= 
+
+# "I'd prefer [store.mas_nou.game.monika.chosen_color]~"
+= 
+
+# "I want [store.mas_nou.game.monika.chosen_color]~"
+= 
+
+# "I choose [store.mas_nou.game.monika.chosen_color]!"
+= 
+
+# "It'll be [store.mas_nou.game.monika.chosen_color]!"
+= 
+
+# "NOU, [player]!"
+= 
+
+# "I have only one card left, [player]! NOU!"
+= 
+
+# "NOU! Keep up, [player]!~"
+= 
+
+# "NOU [player], ehehe~"
+= 
+
+# "NOU, [player]~"
+= 
+
+# "NOU~"
+= 
+
+# "Just one card left! NOU, [player]~"
+= 
+
+# "NOU!"
+= 
+
+# "But [player], I've said 'NOU'!"
+= 
+
+# "I've already said 'NOU,' [player]!"
+= 
+
+# "Silly, I already did that!~"
+= 
+
+# "[player]... How did you miss that? I already said 'NOU'!"
+= 
+
+# "[player], but I have more than one card in my hands!"
+= 
+
+# "Silly, you yell 'NOU' when you have only one card left!"
+= 
+
+# "Ahaha~ A bit too early, [player]!"
+= 
+
+# "It's not the time yet, [player]!"
+= 
+
+# "[player], I have [len(store.mas_nou.game.monika.hand)] more cards to play!"
+= 
+
+# "Ehehe, too late, [player]!"
+= 
+
+# "You're too late, [player]!"
+= 
+
+# "You should've done that before playing your turn!~"
+= 
+
+# "It's too late now that you've started playing your turn!~"
+= 
+
+# "Too late, [player]! This time I can get away for free~"
+= 
+
+# "Oh... You're right!"
+= 
+
+# "Whoops, you got me there!"
+= 
+
+# "Jeez, how did I forget..."
+= 
+
+# "Ehehe, completely unintentional~"
+= 
+
+# "Ehehe, caught me!"
+= 
+
+# "How silly of me! Ahaha!~"
+= 
+
+# "Gotcha!"
+= 
+
+# "Alright!"
+= 
+
+# "I see, I see..."
+= 
+
+# "Okay, [player]..."
+= 
+
+# "Ahaha, I got it, [player]!"
+= 
+
+# "You've already said it, silly~"
+= 
+
+# "I heard you, [player]!"
+= 
+
+# "No need to repeat it each turn, silly~"
+= 
+
+# "Silly, you still have a lot of cards to play!"
+= 
+
+# "Silly, you yell 'NOU' when you have only one card left!"
+= 
+
+# "I think you still have more than one card, [player]."
+= 
+
+# "You have too many cards to say 'NOU' now."
+= 
+
+# "A bit early for yelling 'NOU,' [player]!"
+= 
+
+# "You should say 'NOU' before playing your second last card, [player]."
+= 
+
+# "You forgot to say 'NOU,' [player]!"
+= 
+
+# "Thought I wouldn't notice huh?~ You should've said 'NOU'!"
+= 
+
+# "Sounds like a certain someone forgot to yell 'NOU'~"
+= 
+
+# "I caught you! You didn't say 'NOU'!"
+= 
+
+# "You should say 'NOU' only if you're going to play a card, [player]."
+= 
+
+# "Why didn't you play a card?"
+= 
+
+# "Eh, [player]? You should play a card after saying 'NOU'!"
+= 
+
+# "Don't say 'NOU' if you're not going to play a card."
+= 
+
+# "[player], don't yell 'NOU' for no reason..."
+= 
+
+# "Nope!"
+= 
+
+# "I don't think so, [player]~"
+= 
+
+# "But were you ready for this, huh?"
+= 
+
+# "Still nope!"
+= 
+
+# "Ehehe~ I was ready!"
+= 
+
+# "Not this time, [player]!"
+= 
+
+# "Peace was never an option!"
+= 
+
+# "I read you as an open book."), _("Ahaha~"
+= 
+
+# "I won't give up so easily~"
+= 
+
+# "Thought you could catch me off guard?"), _("I saw that coming a mile away! Ehehe~"
+= 
+
+# "Not so fast, [player]~"
+= 
+
+# "Ehehe~ No way, [player]~"
+= 
+
+# "You {i}really{/i} want me to take this, huh?~"
+= 
+
+# "What about this one?~"
+= 
+
+# "I have more in store for you~"
+= 
+
+# "Sorry, [player] but..."), _("This isn't the color I want right now~"
+= 
+
+# "No-no-no!"
+= 
+
+# "Ehehe~"), _("I have another in store!~"
+= 
+
+# "No-no-no!"
+= 
+
+# "You can't reflect this!"
+= 
+
+# "No way you can reflect this one!"
+= 
+
+# "I want [store.mas_nou.game.monika.chosen_color]."
+= 
+
+# "I choose [store.mas_nou.game.monika.chosen_color]."
+= 
+
+# "That's a lot of cards for you, ehehe~"
+= 
+
+# "Ehehe~ Good thing I'm not drawing all those cards!"
+= 
+
+# "A deck that big suits you~"
+= 
+
+# "Ahaha~"), _("Nope, [player]!"
+= 
+
+# "No, I think you're going to skip this turn too~"
+= 
+
+# "Let me choose the best color~"
+= 
+
+# "Aw, I wasn't expecting that!"
+= 
+
+# "Just once, [player]...once!~"
+= 
+
+# "You're pretty lucky!"
+= 
+
+# "No way!"
+= 
+
+# "Rigged deck!"
+= 
+
+# "Aww, what a shame!"
+= 
+
+# "That's unfortunate..."
+= 
+
+# "Jeez, I can't believe you had another card!"
+= 
+
+# "Jeez, you're really trying to win!"
+= 
+
+# "Can't let go, huh?"
+= 
+
+# "Ehehe~ I thought this was a simple game between lovers, not a competition..."), _("Guess I was wrong~"
+= 
+
+# "Mmmm!"
+= 
+
+# "Alright, alright!~"), _("You win this time~"
+= 
+
+# "Oh jeez!"
+= 
+
+# "Hmm, I wasn't prepared for that!"
+= 
+
+# "I'll remember this~"), _("Watch out, [player]!~"
+= 
+
+# "Oh, good, now I'm holding the whole deck in my hands."), _("Thanks, love!"
+= 
+
+# "Skip"
+= 
+
+# "Draw Two"
+= 
+
+# "Wild"
+= 
+
+# "Monika"
+= 
+
+# "Player"
+= 
+
+# "Wild"
+= 
+
+# "Wild Draw Four"
+= 
+
+# "Wild Draw Four"
+= 
+
+# "Draw Two"
+= 
+
+# "Wild Draw Four"
+= 
+
+# "Draw Two"
+= 
+
+# "Draw Two"
+= 
+
+# "Wild Draw Four"
+= 
+
+# "Skip"
+= 
+
+# "Skip"
+= 
+
+# "Reverse"
+= 
+
+# "Reverse"
+= 
+
+# "Draw Two"
+= 
+
+# "Wild Draw Four"
+= 
+
+# "Wild Draw Four"
+= 
+
+# "Wild"
+= 
+
+# "Draw Two"
+= 
+
+# "Wild"
+= 
+
+# "Sorry, I'm not sure, [player]..."
+= 
+
+# "The give up button is right below~"
+= 
+
+# "Find a better deck, this one is rigged..."
+= 
+
+# "Just git gud, [player]! Ahaha~"
+= 
+
+# "Play anything but {i}Draw Two{/i} and {i}Draw Four{/i}, darling. I don't have anything to counter those~"
+= 
+
+# "Just draw more cards, always works~"
+= 
+
+# "You need to play a{} '{}' or any {} card."
+= 
+
+# " Since you drew a card, you can try to play it or skip your turn."
+= 
+
+# " If you don't have an appropriate card, then you'll have to skip this turn."
+= 
+
+# " If you don't have an appropriate card, you should draw a card and then either play it or skip your turn."
+= 
+
+# "You have to skip this turn"
+= 
+
+# "Skip"
+= 
+
+# "Draw Two"
+= 
+
+# "Draw Two"
+= 
+
+# "Draw Two{/i} or {i}Draw Four"
+= 
+
+# "Draw Two{/i} or {i}Draw Four"
+= 
+
+# " If you have a {}{}{{i}}{}{{/i}}, you could {{i}}try{{/i}} to reflect {} card."
+= 
+
+# " Can't promise I won't reflect it back to you~"
+= 
+
+# ".. If you're brave enough~"
+= 
+
+# "You need to play a {{i}}{}{{/i}} or any {} card."
+= 
+
+# "You need to choose a color before we can continue."
+= 
+
+# "You need to play any {} card."
+= 
+
+# " Otherwise you'll have to skip your turn~"
+= 
+
+# " Otherwise draw a card and try to play it."
+= 
+
+# "Sorry, I'm not sure, [player]..."
+= 
+
+# "Draw Two"
+= 
+
+# "<_NOUCard {}>"
+= 
+
+# "<_NOUReaction (type_={}, turn={}, monika_card={}, player_card={}, tier={}, shown={})>"
+= 
+
+# "<_NOUPlayerAI 'Monika'>"
+= 
+
+# "num", "act"], values_sort_order=["value", "amount"
+= 
+
+# "Wild Draw Four"
+= 
+
+# "Skip"
+= 
+
+# "Draw Two"
+= 
+
+# "Reverse"
+= 
+
+# "Skip"
+= 
+
+# "Draw Two"
+= 
+
+# "Reverse"
+= 
+
+# "Skip"
+= 
+
+# "Draw Two"
+= 
+
+# "Reverse"
+= 
+
+# "played_card"].label == "Wild Draw Four"
+= 
+
+# "Draw Two"
+= 
+
+# "played_card"].label == "Wild Draw Four"
+= 
+
+# "played_card"].label == "Wild Draw Four"
+= 
+
+# "played_card"].label == "Draw Two"
+= 
+
+# "played_card"].label == "Wild"
+= 
+
+# "played_card"].label == "Wild"
+= 
+
+# "played_card"].label == "Wild"
+= 
+
+# "Player"
+= 
+
+# "Monika"
+= 
+
+# "Draw Two"
+= 
+
+# "Draw Two"
+= 
+
+# "Draw Two"
+= 
+
+# "Unknown name for a house rule: {}"
+= 
+
+# "Unknown name for a house rule: {}"
+= 
+
+# "Monika", "Surrendered"
+= 
+
+# "Monika"
+= 
+
+# "Player"
+= 
+
+# "Player"
+= 
+
+# "Monika"
+= 
+
+# "Player"
+= 
+
+# "Oh [player], I almost forgot!"
+= 
+
+# "monika_change_nou_house_rules", "EVE"
+= 
+
+# "Let's change our house rules for NOU"
+= 
+
+# "Monika"
+= 
+
+# "Player"
+= 
+
+# "If you want to play with new rules, then we'll have to start a new game next time."
+= 
+
+# "Of course."
+= 
+
+# "I'd like to change the number of points required to win"
+= 
+
+# "I'd like to change the number of cards we start each round with"
+= 
+
+# "I'd like to play Reflect Chaos") if not mas_nou.get_house_rule("reflect_chaos") else _("I'd like to play with classic reflects"
+= 
+
+# "I'd like to go back to the classic rules."), "restore"
+= 
+
+# "Can you explain these house rules?"), "explain"
+= 
+
+# "Done" if has_changed_rules else "Nevermind"
+= 
+
+# "Would you like to change anything else?"
+= 
+
+# "What kind of rule would you like to change?"
+= 
+
+# "Alright!"
+= 
+
+# "Alright!"
+= 
+
+# "Okay, but I must warn you that that might go against you~"
+= 
+
+# "Afraid that I'll make you draw all the cards?~"
+= 
+
+# "Ahaha~ I'm just kidding!"
+= 
+
+# "That sounds fun."
+= 
+
+# "Back to the classic, I see."
+= 
+
+# "Oh, you better be ready for this one, [player]~"
+= 
+
+# "Was it too chaotic?~"
+= 
+
+# "Okay! Then settled!"
+= 
+
+# "Sure!"
+= 
+
+# "Victory points is the number of points you need to reach to win the game."
+= 
+
+# "We can also start each round with a different number of cards in our hands."
+= 
+
+# "That also applies to {i}Wild Draw Four{/i}'s, since you use {i}Draw Two{/i}'s to reflect them."
+= 
+
+# "Sounds fun, huh~"
+= 
+
+# "There's also a rule in the official set that allows you to play a {i}Wild Draw Four{/i} only if you have no cards of the current color."
+= 
+
+# "It allows to reflect {i}Wild Draw Four{/i}'s and {i}Draw Two{/i}'s using a {i}Wild Draw Four{/i}."
+= 
+
+# "As well as reflect {i}Skip{/i}s with any other {i}Skip{/i}."
+= 
+
+# "And that's it!"
+= 
+
+# "Oh, alright."
+= 
+
+# "Let's play together soon~"
+= 
+
+# "Maybe we could play now?{nw}"
+= 
+
+# "Maybe we could play now?{fast}"
+= 
+
+# "Sure."
+= 
+
+# "Maybe later."
+= 
+
+# "Alright, let's play together soon~"
+= 
+
+# "How many points would you like it to be?"
+= 
+
+# "Try again, silly!"
+= 
+
+# "Oh, you just want to have quick games?"
+= 
+
+# "Alright! But don't expect me to go easy on you~"
+= 
+
+# "Hmm, It doesn't make sense to play with a point total {i}that{/i} small."
+= 
+
+# "We can play without points if you wish.{nw}"
+= 
+
+# "We can play without points if you wish.{fast}"
+= 
+
+# "I'd like that."
+= 
+
+# "Oh, alright!"
+= 
+
+# "Nah."
+= 
+
+# "Then choose again."
+= 
+
+# "Oh it's too much I think..."
+= 
+
+# "Alright."
+= 
+
+# "Settled."
+= 
+
+# "Nah."
+= 
+
+# "Then choose again."
+= 
+
+# "Okay, from now on, whoever reaches [points_cap] points, wins!"
+= 
+
+# "How many cards would you like to start the game with?"
+= 
+
+# "We can't play cards without cards, [player]!"
+= 
+
+# "Try again, silly~"
+= 
+
+# "Alright."
+= 
+
+# "Nah."
+= 
+
+# "Then try again."
+= 
+
+# "Ahaha, [player]! Do you expect me to hold [starting_cards] cards?"
+= 
+
+# "Alright."
+= 
+
+# "Nah."
+= 
+
+# "Then try again."
+= 
+
+# "Okay, from now on, we will start each [_round!t] with [starting_cards] cards!"
+= 
+
+# "Can you explain NOU rules to me?"
+= 
+
+# "Of course, [player]."
+= 
+
+# "I'm sure if we play a few more games, you'll get the hang of it."
+= 
+
+# "So since we're playing with house rules, we start the game with [mas_nou.get_house_rule('starting_cards')] cards."
+= 
+
+# "Your goal is to play all your cards before I play all of mine."
+= 
+
+# "To play a card you need to match it by the color or the text with the top card on the discard pile."
+= 
+
+# "If you can't play a card in your turn, you must draw one from the draw pile."
+= 
+
+# "You don't {i}have{/i} to play it, though."
+= 
+
+# "After you played a card or skipped your turn, my turn begins. And so on until someone wins the round."
+= 
+
+# "The winner is awarded with the points equal to the remaining cards in the opponent's hand."
+= 
+
+# "Then we play more rounds until one of us reaches the goal - [mas_nou.get_house_rule('points_to_win')] points."
+= 
+
+# "Such scoring makes the game more competitive and strategic."
+= 
+
+# "After you play a card or skip your turn, my turn begins and so on until someone wins the game."
+= 
+
+# "Such scoring makes the game quicker and more casual."
+= 
+
+# "you should yell 'NOU' so I can know that you're close to victory!"
+= 
+
+# "Well, I guess yelling won't work in our case..."
+= 
+
+# "But you can press a button to let me know!"
+= 
+
+# "Besides the {i}Number{/i} cards, there are also special cards known as {i}Action{/i} and {i}Wild{/i} cards."
+= 
+
+# "You can distinguish an {i}Action{/i} card by its symbol, and a {i}Wild{/i} card by its black color."
+= 
+
+# "These cards can make your opponent skip their turn or even draw more cards."
+= 
+
+# "{i}Wild{/i} cards don't have a color which means they can be placed on any card."
+= 
+
+# "If you have no other cards with the color of the discard pile, that is."
+= 
+
+# "Usually, you can only play them if you have no other cards of the same color as the discard pile, but we're playing with our own rules."
+= 
+
+# "When you play any {i}Wild{/i} card, you should choose what color you want to set for it."
+= 
+
+# "As powerful as {i}Wild{/i} and {i}Action{/i} cards may look, you can still save yourself from them."
+= 
+
+# "For example you can mirror a {i}Wild Draw Four{/i} by playing a {i}Draw Two{/i} with the new color."
+= 
+
+# "...Or you can play any {i}Draw Two{/i} to mirror another {i}Draw Two{/i} back to your opponent. The color won't matter in that case."
+= 
+
+# "I hope all that will give you a better understanding of the game."
+= 
+
+# "But I don't think it's really about winning anyway."
+= 
+
+# "Ehehe~"
+= 
+
+# "I'm sure you'll win this time!"
+= 
+
+# "You better be ready, I'm not going easy on you this time~"
+= 
+
+# "Monika"
+= 
+
+# "Player"
+= 
+
+# "Let's continue~"
+= 
+
+# "Want to finish our game?"
+= 
+
+# "Let me deal our cards~"
+= 
+
+# "Surrendered"
+= 
+
+# "Player"
+= 
+
+# "Player"] >= mas_nou.get_house_rule("points_to_win"
+= 
+
+# "Would you like to play some more?{nw}"
+= 
+
+# "Would you like to play some more?{fast}"
+= 
+
+# "Sure."
+= 
+
+# "Yay!"
+= 
+
+# "I'd like to change some house rules."
+= 
+
+# "Not right now."
+= 
+
+# "Okay, just let me know when you want to play again~"
+= 
+
+# "Monika"
+= 
+
+# "Monika"] >= mas_nou.get_house_rule("points_to_win"
+= 
+
+# "Would you like to play some more?{nw}"
+= 
+
+# "Would you like to play some more?{fast}"
+= 
+
+# "Sure."
+= 
+
+# "Yay!"
+= 
+
+# "I'd like to change some house rules."
+= 
+
+# "Not right now."
+= 
+
+# "Okay, just let me know when you want to play again~"
+= 
+
+# "Monika"] >= mas_nou.get_house_rule("points_to_win"
+= 
+
+# "Would you like to play another [_round!t]?{nw}"
+= 
+
+# "Would you like to play another [_round!t]?{fast}"
+= 
+
+# "Sure."
+= 
+
+# "I'd like to change some house rules." if not mas_nou.get_house_rule("points_to_win"
+= 
+
+# "Not right now."
+= 
+
+# "Alright, let's play again soon~"
+= 
+
+# "Ready to continue?{nw}"
+= 
+
+# "Ready to continue?{fast}"
+= 
+
+# "Yep."
+= 
+
+# "Let's play later."
+= 
+
+# "Aww, alright."
+= 
+
+# "Oh, alright."
+= 
+
+# "I'm glad you won this time..."
+= 
+
+# "Good job, [player]!"
+= 
+
+# "I have no chance against you!"
+= 
+
+# "Give me a chance at least~"
+= 
+
+# "And another [_round!t]!"
+= 
+
+# "Incredible, [player]!"
+= 
+
+# "Wow! You won again!"
+= 
+
+# "Will you tell me your secret, [player]?"
+= 
+
+# "I want to win too~"
+= 
+
+# "And you won another [_round!t]!"
+= 
+
+# "You're really good!"
+= 
+
+# "Amazing, you won again!"
+= 
+
+# "But I'm sure I'll win next [_round!t]."
+= 
+
+# "Incredible! Another win for you!"
+= 
+
+# "I'm sure I'll win next time!"
+= 
+
+# "You're lucky today."
+= 
+
+# "Ahaha~ Good job, [player]!"
+= 
+
+# "I'm really glad you won this time~"
+= 
+
+# "I had a feeling you'd win~"
+= 
+
+# "Ehehe~ Good job!"
+= 
+
+# "Your luck must be back~"
+= 
+
+# "Well played! Ehehe~"
+= 
+
+# "Yay, you won!~"
+= 
+
+# "Oh, you started playing seriously?"
+= 
+
+# "Ahaha~"
+= 
+
+# "Ah... I almost won this one too!"
+= 
+
+# "Well played, [player]."
+= 
+
+# "You won, [player]!"
+= 
+
+# "That was amazing!"
+= 
+
+# "You were really trying this time!"
+= 
+
+# "Great job, [player]!"
+= 
+
+# "And you won! Nice~"
+= 
+
+# "Another quick win for you!"
+= 
+
+# "But you better not relax, [player]~"
+= 
+
+# "Wow, [player]!"
+= 
+
+# "I can't keep up with you!"
+= 
+
+# "Maybe I should try a bit harder?~"
+= 
+
+# "Ehehe, you keep finishing [_round!t]s before I can do anything."
+= 
+
+# "Good job, [player]!"
+= 
+
+# "That was quick!"
+= 
+
+# "Well played!"
+= 
+
+# "Impressive, [player]!"
+= 
+
+# "That was a quick [_round!t] for you!"
+= 
+
+# "Quite a long [_round!t], [player]."
+= 
+
+# "And I almost won this time!"
+= 
+
+# "And I almost won!"
+= 
+
+# "Ahaha~ Well played!"
+= 
+
+# "Well played!"
+= 
+
+# "Well played!"
+= 
+
+# "That was intense!"
+= 
+
+# "You're really good!"
+= 
+
+# "You won again!"
+= 
+
+# "You won!~"
+= 
+
+# "This [_round!t] is yours!"
+= 
+
+# "And you won! Good job!"
+= 
+
+# "But don't expect to win everytime~"
+= 
+
+# "I'm glad you won this time~"
+= 
+
+# "Good job, [player]!"
+= 
+
+# "Actually you won this game!"
+= 
+
+# "I didn't notice you were so close to victory."
+= 
+
+# "Good job, ehehe~"
+= 
+
+# "Oh, and you won this game too!"
+= 
+
+# "Congratulations! Ehehe~"
+= 
+
+# "Oh, [player]! You won this game!"
+= 
+
+# "I would give you a big hug if I were near you~"
+= 
+
+# "Ehehe~"
+= 
+
+# "That was fun!"
+= 
+
+# "...And you're the first who reached [mas_nou.get_house_rule('points_to_win')] points!"
+= 
+
+# "Congrats, [player]~"
+= 
+
+# "I won!~"
+= 
+
+# "I'm sure you'll win next time!"
+= 
+
+# "I won!"
+= 
+
+# "..."
+= 
+
+# "Not without your help, I guess. Ehehe~"
+= 
+
+# "Told you I'd win!"
+= 
+
+# "Now it's time for you to draw cards."
+= 
+
+# "Ahaha! My luck is back~"
+= 
+
+# "There we go!"
+= 
+
+# "I finally won~"
+= 
+
+# "Don't relax, [player]~"
+= 
+
+# "I won!"
+= 
+
+# "Yay I won this time!~"
+= 
+
+# "And another win for me!~"
+= 
+
+# "You almost won this time."
+= 
+
+# "I have a feeling you'll win next [_round!t]~"
+= 
+
+# "Well played, [player]. But the win is mine again~"
+= 
+
+# "That was fun!"
+= 
+
+# "I hope you're enjoying playing with me, [player]~"
+= 
+
+# "Maybe next time you'll win."
+= 
+
+# "Ehehe~ Another win for me~"
+= 
+
+# "You were quite close this time, [player]."
+= 
+
+# "Should I go easier on you?"
+= 
+
+# "Ahaha, just kidding, [player]~"
+= 
+
+# "I won again!"
+= 
+
+# "Another quick win for me!"
+= 
+
+# "Can't keep up with me, huh?~"
+= 
+
+# "Yay, I won again!"
+= 
+
+# "Yay, I won~"
+= 
+
+# "That was quick!"
+= 
+
+# "That was a long [_round!t]!"
+= 
+
+# "You almost won this time."
+= 
+
+# "You almost won."
+= 
+
+# "Ehehe~ Well played!"
+= 
+
+# "Well played!"
+= 
+
+# "That was intense!"
+= 
+
+# "Not bad, [player]."
+= 
+
+# "Ahaha~"
+= 
+
+# "Oh, I won!"
+= 
+
+# "I won again~"
+= 
+
+# "Finally, I won~"
+= 
+
+# "I won~"
+= 
+
+# "And this time I won the game!"
+= 
+
+# "Player"
+= 
+
+# "You were quite close, though!"
+= 
+
+# "I'm sure you'll win next time."
+= 
+
+# "Did you let me win on purpose?"
+= 
+
+# "Ehehe~"
+= 
+
+# "I had a lot of fun!"
+= 
+
+# "I'm sure you'll win next time."
+= 
+
+# "That was really fun!"
+= 
+
+# "Player"
+= 
+
+# "I hope you had fun too."
+= 
+
+# "Monika") > mas_nou.get_wins_for("Player"
+= 
+
+# "I'm sure if we play more games you'll win too."
+= 
+
+# "Maybe next time you'll win~"
+= 
+
+# "I won this game too!"
+= 
+
+# "Ehehe~"
+= 
+
+# "Thanks for playing with me, [player]~"
+= 
+
+# "And I'm the first who reached [mas_nou.get_house_rule('points_to_win')] points!"
+= 
+
+# "I won this time~"
+= 
+
+# "That's alright, [player]..."
+= 
+
+# "you keep giving up on our games..."
+= 
+
+# "I hope you're enjoying playing with me."
+= 
+
+# "I enjoy every moment I'm with you~"
+= 
+
+# "But we just started..."
+= 
+
+# "Let me know when you have some time to play, alright?"
+= 
+
+# "Giving up already, [player]?"
+= 
+
+# "I love to play with you no matter what the outcome is!"
+= 
+
+# "I hope you feel the same way~"
+= 
+
+# "You could at least try..."
+= 
+
+# "It would mean a lot to me."
+= 
+
+# "I'm pretty sure you could win this [_round!t], [player]!"
+= 
+
+# "Actually, I had quite bad cards, [player]."
+= 
+
+# "Actually, I had quite a bad last card, [player]."
+= 
+
+# "I think you could win this [_round!t]."
+= 
+
+# "Don't give up so easily next time."
+= 
+
+# "Our score!"
+= 
+
+# "Monika"
+= 
+
+# "Player"
+= 
+
+# "Monika: [monika_score]"
+= 
+
+# "I'm skipping this turn"
+= 
+
+# "NOU!"
+= 
+
+# "You forgot to say 'NOU'!"
+= 
+
+# "NOU!"
+= 
+
+# "You forgot to say 'NOU'!"
+= 
+
+# "I'm giving up..."
+= 
+
+# "winner", "Surrendered"
+= 
+
+# "Red"
+= 
+
+# "Blue"
+= 
+
+# "Green"
+= 
+
+# "Yellow"
+= 

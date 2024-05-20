@@ -1,0 +1,42 @@
+
+# "Can I read one of your poems again?" 
+= "Можно я еще раз прочту один из твоих стихов?"
+
+# "Save Me" 
+= "Спаси меня"
+
+# "The Lady Who Knows Everything" 
+= "Леди, которая знает все"
+
+# "Happy End" 
+= "Счастливый конец"
+
+# "Nevermind" 
+= "Забудь"
+
+# "Which poem would you like to read?" 
+= "Какой стих ты хотел бы прочитать?"
+
+# "Alright, [player]..." 
+= "Хорошо, [player]..."
+
+# "Alright!" 
+= "Хорошо!"
+
+# "I hope you liked it, [player]." 
+= "Надеюсь, тебе понравилось, [player]."
+
+# "Would you like to read another poem?{nw}" 
+= "Хочешь прочитать еще один стих?{nw}"
+
+# "Would you like to read another poem?{fast}" 
+= "Хочешь прочитать еще один стих?{fast}"
+
+# "Yes." 
+= "Да."
+
+# "No." 
+= "Нет."
+
+# "Alright, [player]." 
+= "Ладно, [player]."

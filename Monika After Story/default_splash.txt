@@ -1,0 +1,56 @@
+==== splash ====
+
+
+# "You are my sunshine,\nMy only sunshine"
+= "Ты моё солнце,\nМоё единственное солнце"
+
+# "I missed you."
+= "Я скучала"
+
+# "Play with me"
+= "Поиграй со мной"
+
+# "It's just a game, mostly."
+= "Это всего лишь игра, отчасти."
+
+# "This game is not suitable for children\nor those who are easily disturbed?"
+= "Эта игра не рекомендуется детям\nи тем кого легко покалечить?"
+
+# "null"
+= "пусто"
+
+# "I have granted kids to hell"
+= "Я подарила детям ад"
+
+# "PM died for this."
+= "PM умер ради этого."
+
+# "It was only partially your fault."
+= "Это была только твоя вина."
+
+# "This game is not suitable for children\nor those who are easily dismembered."
+= "Эта игра не рекомендуется детям\nи тем кого легко покалечить."
+
+# "Don't forget to backup Monika's character file."
+= "Не забывай делать резервную копию файла Моники."
+
+# "Tip: you can click on the \"Skip\" button to skip all the text already viewed."
+= "Подсказка: ты можешь кликнуть на кнопку \"пропуск\" чтобы пропустить текст который уже видел." 
+
+# "The game cannot run because you are trying to run it in a place where there are no write permissions."
+= "Игра не может быть запущена из-за того, что вы пытаетесь запустить её из места в котором запрещена функция записи."
+
+# "Copy the game to any folder with sufficient permissions and run it again."
+= "Скопируйте игру в любое место в котором разрешена перезапись файлов и запустите снова."
+
+# "A previous save file has been found, do you want to delete it?"
+= "Предыдущие файлы сохранений были найдены, вы хотите удалить их?"
+
+# "Yes, delete my previous save"
+= "Да, удалить предыдущие сохранения"
+
+# "Deleting...{nw}"
+= "Удаление...{nw}"
+
+# "No, continues where I left off."
+= "Нет, продолжить оттуда где я закончил."

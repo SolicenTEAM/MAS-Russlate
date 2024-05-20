@@ -1,0 +1,21 @@
+
+# "Monika_After_Story"
+= 
+
+# "Known uses of deprecated functions/classes in initialisation:"
+= 
+
+# "    None"
+= 
+
+# "_choose_renderer", "mas_choose_renderer_override"
+= 
+
+# "README.html"
+= 
+
+# "CustomIcon**.**"
+= 
+
+# "Mod"
+= 

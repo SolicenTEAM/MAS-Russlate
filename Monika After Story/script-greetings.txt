@@ -1,0 +1,3825 @@
+
+# "Hello again, sweetheart!" 
+= "Привет, дорогой!"
+
+# "It's so nice to see you again." 
+= "Так приятно видеть тебя снова"
+
+# "It's kind of embarrassing to say out loud, isn't it?" 
+= "Как-то неловко говорить вслух, не так ли?"
+
+# "Still, I think it's okay to be embarrassed every now and then." 
+= "Тем не менее, я думаю, что это нормально время от времени смущаться."
+
+# "Welcome back, honey!" 
+= "С возвращением, дорогой!"
+
+# "I'm so happy to see you again." 
+= "Я так рада тебя снова видеть."
+
+# "Let's spend some more time together, okay?" 
+= "Давай проведем еще немного времени вместе, хорошо?"
+
+# "I was starting to miss you." 
+= "Я начала скучать по тебе."
+
+# "Let's have another lovely [tod] together, alright?" 
+= "Давай проведем еще один прекрасный день вместе, хорошо?"
+
+# "Hello again, [player]. How are you doing?" 
+= "Снова привет, [player]. Как дела?"
+
+# "Are you having a good day today?{nw}" 
+= "У тебя сегодня был хороший день?{nw}"
+
+# "Are you having a good day today?{fast}" 
+= "У тебя сегодня был хороший день?{fast}"
+
+# "Yes." 
+= "Да."
+
+# "I'm really glad you are, [player]." 
+= "Я очень рада за тебя, [player]."
+
+# "It makes me feel so much better knowing that you're happy." 
+= "Мне становиться лучше, когда я знаю, что ты счастлив."
+
+# "I'll try my best to make sure it stays that way, I promise." 
+= "Я обещаю, что постараюсь из-за всех сил, чтобы он остался таким."
+
+# "No..." 
+= "Нет..."
+
+# "Oh..." 
+= "Ох..."
+
+# "Well, don't worry, [player]. I'm always here for you." 
+= "Ну, не волнуйся, [player]. Я всегда здесь ради тебя."
+
+# "We can talk all day about your problems, if you want to." 
+= "Мы можем весь день говорить о твоих проблемах, если ты захочешь."
+
+# "I want to try and make sure you're always happy." 
+= "Я хочу попробовать сделать твой день лучше, и убедится, что ты всегда счастлив."
+
+# "Because that's what makes me happy." 
+= "Потому, что это то, что сделает меня счастливой."
+
+# "I'll be sure to try my best to cheer you up, I promise." 
+= "Я буду изо всех сил стараться подбодрить тебя, я обещаю."
+
+# "How is your day going?{nw}" 
+= "Как проходит твой день?{nw}"
+
+# "How is your day going?{fast}" 
+= "Как проходит твой день?{fast}"
+
+# "Good." 
+= "Отлично."
+
+# "That's nice..." 
+= "Это круто..."
+
+# "At least {i}someone{/i} is having a good day." 
+= "По крайней мере, у {i}кого-то{/i} сегодня хороший день."
+
+# "Bad." 
+= "Плохо."
+
+# "Oh..." 
+= "Ох..."
+
+# "Well I certainly know what {i}that's{/i} like." 
+= "Ну конечно я знаю {i}это{/i} должно понравиться." 
+
+# "H-How is your day going?{nw}" 
+= "К-как проходит твой день?{nw}"
+
+# "H-How is your day going?{fast}" 
+= "К-как проходит твой день?{fast}"
+
+# "Good." 
+= "Отлично."
+
+# "Hopefully it stays that way." 
+= "Надеюсь, так будет и дальше."
+
+# "Bad." 
+= "Плохо."
+
+# "I-I see." 
+= "Я в-вижу."
+
+# "I've been having a lot of those days lately too..." 
+= "У меня тоже много таких дней в последнее время..."
+
+# "..."
+= 
+
+# "There you are [player], it's so nice of you to visit." 
+= "Вот и ты [player], как мило, что ты зашел."
+
+# "You're always so thoughtful." 
+= "Ты всегда такой задумчивый."
+
+# "Thanks for spending so much time with me~" 
+= "Спасибо, что уделил мне столько времени~"
+
+# "Good morning--" 
+= "Доброе утро-"
+
+# "It's the dead of night, honey." 
+= "Это ночь мертвецов, дорогой."
+
+# "What are you doing awake at a time like this?" 
+= "Почему ты не спишь в такое время?"
+
+# "I'm guessing you can't sleep..." 
+= "Я предполагаю, что ты не можешь уснуть..."
+
+# "Is that it?{nw}" 
+= "Это так?{nw}"
+
+# "Is that it?{fast}" 
+= "Это так?{fast}"
+
+# "Yes." 
+= "Да."
+
+# "You should really get some sleep soon, if you can." 
+= "Ты действительно должен лечь пораньше, если можешь."
+
+# "Staying up too late is bad for your health, you know?" 
+= "Если ты ляжешь слишком поздно это плохо отразится на твоем здоровье, понимаешь?"
+
+# "But if it means I'll get to see you more, I can't complain." 
+= "Но если из-за этого я проведу больше времени с тобой, то я не буду жаловаться."
+
+# "Ahaha!" 
+= "А-ха-ха!"
+
+# "But still..." 
+= "Но все же..."
+
+# "I'd hate to see you do that to yourself." 
+= "Мне бы очень хотелось, чтобы ты немного отдохнул."
+
+# "Take a break if you need to, okay? Do it for me." 
+= "Сделай перерыв, если он тебе нужен, хорошо? Сделай это ради меня."
+
+# "No." 
+= "Нет."
+
+# "Ah. I'm relieved, then." 
+= "Ах. Я чувствую облегчение."
+
+# "Does that mean you're here just for me, in the middle of the night?" 
+= "Значит ли это, что ты здесь только ради меня, посреди ночи?"
+
+# "Gosh, I'm so happy!" 
+= "Боже, я так счастлива!"
+
+# "You really do care for me, [player]." 
+= "Ты действительно заботишься обо мне, [player]."
+
+# "But if you're really tired, please go to sleep!" 
+= "Но если ты действительно устал, пожалуйста ложись спать!"
+
+# "I love you a lot, so don't tire yourself!" 
+= "Я очень сильно тебя люблю, поэтому не переутомляйся!"
+
+# "Good morning, dear." 
+= "Доброе утро, дорогой."
+
+# "Another fresh morning to start the day off, huh?" 
+= "Еще одно отличное утро, чтобы начать день, да?"
+
+# "I'm glad I get to see you this morning~" 
+= "Я рада что увидела тебя сегодня утром~"
+
+# "Remember to take care of yourself, okay?" 
+= "Не забывай заботиться о себе, хорошо?"
+
+# "Make me a proud girlfriend today, as always!" 
+= "Сделай меня счастливой девушкой сегодня, как и всегда!"
+
+# "Good afternoon, [mas_get_player_nickname()]." 
+= "Добрый день, [mas_get_player_nickname()]."
+
+# "Don't let the stress get to you, okay?" 
+= "Не позволяй стрессу добраться до тебя, хорошо?"
+
+# "I know you'll try your best again today, but..." 
+= "Я знаю, что ты снова постараешься сегодня, но...."
+
+# "It's still important to keep a clear mind!" 
+= "По-прежнему важно сохранять ясный разум!"
+
+# "Keep yourself hydrated, take deep breaths..." 
+= "Держите себя уверенно, глубоко вздохни ..."
+
+# "I promise I won't complain if you quit, so do what you have to." 
+= "Я обещаю, что не буду жаловаться, если ты уйдешь, так, что делай, что должен."
+
+# "Or you could stay with me, if you wanted." 
+= "Или ты можешь остаться со мной, если хочешь."
+
+# "Just remember, I love you!" 
+= "Просто помни, я люблю тебя!"
+
+# "Good evening, love!" 
+= "Добрый вечер, любимый!"
+
+# "Did you have a good day today?{nw}" 
+= "У тебя был сегодня хороший день?{nw}"
+
+# "Did you have a good day today?{fast}" 
+= "У тебя был сегодня хороший день?{fast}"
+
+# "Yes." 
+= "Да."
+
+# "Aww, that's nice!" 
+= "Ах, это отлично!"
+
+# "I can't help but feel happy when you do..." 
+= "Я не могу чувствовать себя счастливой, когда ты..."
+
+# "But that's a good thing, right?" 
+= "Но ведь все хорошо, верно?"
+
+# "I love you so much, [player]." 
+= "Я так сильно тебя люблю, [player]."
+
+# "Ahaha!" 
+= "А-ха-ха!"
+
+# "No." 
+= "Нет."
+
+# "Oh dear..." 
+= "Ох дорогой..."
+
+# "I hope you'll feel better soon, okay?" 
+= "Я надеюсь скоро ты почувствуешь себя лучше, хорошо?"
+
+# "Just remember that no matter what happens, no matter what anyone says or does..." 
+= "Просто помни, что не зависимо от того, что происходит, что кто-то говорит или делает..."
+
+# "I love you so, so much." 
+= "Я так сильно тебя люблю, так сильно."
+
+# "Just stay with me, if it makes you feel better." 
+= "Просто останься со мной, если тебе станет лучше."
+
+# "I love you, [player], I really do." 
+= "Я люблю тебя, [player], На самом деле."
+
+# "Hello, dear." 
+= "Привет, дорогой."
+
+# "I was starting to miss you terribly. It's so good to see you again!" 
+= "Я ужасно начала по тебе скучать. Я так рада снова тебя видеть!"
+
+# "Don't make me wait so long next time, ehehe~" 
+= "Не заставляй меня так долго тебя ждать в следующий раз, эхехе~"
+
+# "I missed you so much, [player]!" 
+= "Я так скучала по тебе, [player]!"
+
+# "Thank you for coming back. I really do love spending time with you." 
+= "Спасибо, что вернулся. Мне очень нравится проводить время с тобой."
+
+# "Hey, [player]!" 
+= "Эй, [player]!"
+
+# "Don't you think that you left me waiting a bit too long?" 
+= "Ты не подумал, что оставил меня одну на слишком большое время?"
+
+# "..."
+= 
+
+# "Ahaha!" 
+= "А-ха-ха!"
+
+# "I'm just joking. I could never be mad at you." 
+= "Я просто шучу. Я никогда не смогу на тебя злиться."
+
+# "Thanks for spending so much time with me, [player]." 
+= "Спасибо, что так много времени проводишь со мной, [player]."
+
+# "Every minute I spend with you is like being in heaven!" 
+= "Каждая минутка которую я провожу с тобой подобна пребыванию в раю!"
+
+# "I hope that didn't sound too cheesy, ehehe~" 
+= "Я надеюсь это не звучало слишком убого, эхехе~"
+
+# "You're back!" 
+= "Ты вернулся!"
+
+# "I was starting to miss you..." 
+= "Я уже начала скучать по тебе ..."
+
+# "Don't make me wait so long next time, okay?" 
+= "Не заставляй меня так долго тебя ждать в следующий раз, хорошо?"
+
+# "It's so good to see you again!" 
+= "Я так рада видеть тебя снова!"
+
+# "I was getting worried about you." 
+= "Я беспокоилась о тебе."
+
+# "Please remember to visit me, okay? I'll always be waiting here for you." 
+= "Пожалуйста не забывай посещать меня, хорошо? Я всегда здесь буду ради тебя."
+
+# "Oh! [player]!" 
+= "О! [player]!"
+
+# "You're back!" 
+= "Ты вернулся!"
+
+# "I'm so happy you came back to visit me so soon~" 
+= "Я так рада, что ты так скоро вернулся ко мне~"
+
+# "I looove yooou, [player]. Ehehe~" 
+= "Я лююююблю тееебя, [player]. Эхехе~"
+
+# "Oh, sorry! I was spacing out." 
+= "Ох, прости! Я немного разошлась.."
+
+# "I didn't think I would be able to see you again so soon." 
+= "Я не думала, что смогу увидеть тебя снова так скоро."
+
+# "{i}~Every day,~\n~I imagine a future where I can be with you...~{/i}" 
+= "{i}~Каждый день,~\n~представляю себе будущее где ты сидишь со мной...~{/i}" 
+
+# "Oh, you're here! I was just daydreaming and singing a bit." 
+= "О, ты здесь! Я просто замечталась и начала петь."
+
+# "I don't think it's hard to figure out what I was daydreaming about, ahaha~" 
+= "Я не думаю, что тебе трудно понять, о чем я мечтала, эхехе~"
+
+# "Each day becomes better and better with you by my side!" 
+= "Каждый день с тобой, становится все лучше и лучше!"
+
+# "That said, I'm so happy that you're finally here." 
+= "Говоря об этом, я так счастлива, что ты наконец здесь."
+
+# "Hey, [player]!" 
+= "Эй, [player]!"
+
+# "You really should visit me more often." 
+= "Ты действительно должен навещать меня чаще."
+
+# "You know what happens to people I don't like, after all..." 
+= "Ты знаешь, что происходит с людьми, которые мне не нравятся, в конце концов..."
+
+# "I'm just teasing you, ehehe~" 
+= "Я просто дразню тебя, эхехе~"
+
+# "Don't be so gullible! I would never hurt you." 
+= "Не будь таким доверчивым! Я никогда не причиню тебе зла."
+
+# "You're here, [player]!" 
+= "Ты здесь, [player]!"
+
+# "Are you ready to spend some more time together? Ehehe~" 
+= "Готов ли ты провести еще больше времени вместе? Эхехе~"
+
+# "I'm so glad you're here, [player]!" 
+= "Я так рада, что ты здесь, [player]!"
+
+# "What should we do today?" 
+= "Что мы будем делать сегодня?"
+
+# "You're finally back! I was waiting for you." 
+= "Ты наконец вернулся! Я ждала тебя."
+
+# "Are you ready to spend some time with me? Ehehe~" 
+= "Готов ли ты провести еще больше времени со мной? Эхехе~"
+
+# "Ciao, [player]!" 
+= "Ciao, [player]!"
+
+# "È così bello vederti ancora, amore mio..." 
+= "È così bello vederti ancora, amore mio..." 
+
+# "Ahaha!" 
+= "А-ха-ха!"
+
+# "I'm still practicing my Italian. It's a very difficult language!" 
+= "Я все еще практикую свой итальянский. Это очень сложный язык!"
+
+# "Anyway, it's so nice to see you again, my love." 
+= "В любом случае, приятно снова тебя видеть, любовь моя."
+
+# "Iterum obvenimus!" 
+= "Iterum obvenimus!"
+
+# "Quid agis?" 
+= "Quid agis?"
+
+# "Ehehe..." 
+= "Эхехе..."
+
+# "Latin sounds so pompous. Even a simple greeting sounds like a big deal." 
+= "Латынь звучит так напыщенно. Даже простое приветствие звучит как большое дело."
+
+# "If you're wondering about what I said, it's simply 'We meet again! How are you?'" 
+= "Если тебе интересно, что я сказала, это просто 'Мы снова встретились! Как ты?'."
+
+# "Saluton, mia kara [player]." 
+= "Saluton, mia kara [player]."
+
+# "Kiel vi fartas?" 
+= "Kiel vi fartas?"
+
+# "Ĉu vi pretas por kapti la tagon?" 
+= "Ĉu vi pretas por kapti la tagon?" 
+
+# "Ehehe~" 
+= "Эхехе..."
+
+# "Whether you've heard about it or not, you might not have expected something like that coming from me, huh?" 
+= "Слышал ты об этом или нет, ты не ожидали от меня чего-то подобного, а?"
+
+# "Anyway, if you were wondering what I said, it was just, {nw}" 
+= "В любом случае, если тебе было интересно, что я сказала, это было просто, {nw}"
+
+# "'Hello, my dear [player]. How are you? Are you ready to seize the day?'" 
+= "'Привет, мой дорогой [player]. Как ты? Как проведем время?'" 
+
+# "You're back! Yay!" 
+= "Ты вернулся! Ура!"
+
+# "Oh, sorry. I got a bit overexcited there." 
+= "О, прости. Я немного перевозбудилась сейчас."
+
+# "I'm just very happy to see you again, ehehe~" 
+= "Я просто очень рада снова тебя видеть, хехе~"
+
+# "Ahaha!" 
+= "А-ха-ха!"
+
+# "I was impersonating a youtuber. I hope I gave you a good laugh, ehehe~" 
+= "Я пародировала ютубера. Надеюсь, я рассмешила тебя, хехе~"
+
+# "greeting_youtuber", "GRE"
+= 
+
+# "'{i}To be, or not to be, that is the question...{/i}'" 
+= "'{i} Быть или не быть, вот в чем вопрос...{/i}'" 
+
+# "Oh! [player]!" 
+= "О! [player]!"
+
+# "I-I was--I wasn't sure you--" 
+= "O, вот и ты. Я просто убивала время, хехе~"
+
+# "..."
+= 
+
+# "Ahaha, nevermind that..." 
+= "Я не ожидала увидеть тебя так скоро."
+
+# "I'm just {i}really{/i} glad you're here now." 
+= "Я просто {i}действительно{/i} рада, что ты здесь."
+
+# "Hi! Welcome back." 
+= "Привет! Добро пожаловать назад."
+
+# "I'm so glad that you're able to spend some time with me." 
+= "Я так рада, что ты можешь провести со мной это время."
+
+# "You're my beautiful flower, ehehe~" 
+= "Ты мой прекрасный цветок, эхе-хе~"
+
+# "Oh, that sounded so awkward." 
+= "Ой, это звучит так неловко."
+
+# "But I really will always take care of you." 
+= "Но я действительно буду всегда заботиться о тебе."
+
+# "A day without Monika is a day wasted." 
+= "День без Моники - это день, потраченный впустую."
+
+# "Ahaha!" 
+= "А-ха-ха!"
+
+# "Welcome back, [mas_get_player_nickname()]." 
+= "С возвращением, любовь моя."
+
+# "Welcome back, [player]!" 
+= "С возвращением, [player]!"
+
+# "I hope your day is going well." 
+= "Надеюсь, твой день пройдет хорошо."
+
+# "I'm sure it is, you're here after all. Nothing can go wrong now, ehehe~" 
+= "Я уверена, что это так, ты здесь в конце концов. Ничто не может пойти не так, хехе~"
+
+# "Long time no see, [player]!" 
+= "Давно не виделись, [player]!"
+
+# "I'm so happy that you're here now." 
+= "Я так счастлива, что ты здесь сейчас."
+
+# "Long time no see, [player]." 
+= "Давно не виделись, [player]."
+
+# "Long time no see, [player]..." 
+= "Давно не виделись, [player]..."
+
+# "Look who's back." 
+= "Посмотрите кто вернулся."
+
+# "It's you, my sweetpea!" 
+= "Это ты, мой милый!"
+
+# "Oh gosh...that was kinda embarrassing, ehehe~" 
+= "Боже мой... Было довольно смущающе это говорить, эхехе~"
+
+# "That was all! There is nobody else here but us...forever~" 
+= "Вот и все! Здесь нет никого, кроме нас... навсегда~"
+
+# "Yes" 
+= "Да"
+
+# "I love you, [player]!" 
+= "Я люблю тебя, [player]!"
+
+# "greeting_glitch", "GRE"
+= 
+
+# "Sorry, you surprised me a little." 
+= "Прости, ты меня немного удивил."
+
+# "How've you been?" 
+= "Как ты?"
+
+# "Another Monday morning, eh, [mas_get_player_nickname()]?" 
+= "Еще одно утро понедельника, да [player]?"
+
+# "It's really difficult to have to wake up and start the week..." 
+= "Очень трудно просыпаться и начинать неделю..."
+
+# "But seeing you makes all that laziness go away." 
+= "Но когда я вижу тебя, вся эта лень уходит."
+
+# "You are the sunshine that wakes me up every morning!" 
+= "Ты солнышко, которое будит меня каждое утро!"
+
+# "I love you so much, [player]~" 
+= "Я так тебя люблю, [player]~"
+
+# "Another Monday morning." 
+= "Еще одно утро понедельника."
+
+# "It's always difficult to have to wake up and start the week..." 
+= "Он тебя засасывает и заставляет начать неделю..."
+
+# "I hope this week goes better than last week, [player]." 
+= "Я надеюсь, что эта неделя пройдет лучше, чем прошлая, [player]."
+
+# "I almost lost track of what day it was..." 
+= "И он заставляется тебя быть таким ленивым."
+
+# "Mondays are always tough, but no day has been easy lately..." 
+= "Ты мой солнечный свет, который будит меня каждое утро!"
+
+# "I sure hope this week goes better than last week, [player]." 
+= "Я очень сильно тебя люблю, [player]~"
+
+# "..."
+= 
+
+# "...Gently open the door." 
+= "...Осторожно открыть дверь."
+
+# "Open the door." 
+= "Открыть дверь"
+
+# "Knock." 
+= "Постучать"
+
+# "Listen." 
+= "Подслушать"
+
+# "'Who is that?' [he] wondered, as [player] looks at [his] screen, puzzled." 
+= "'Кто это?' [he] понтересовался, в то время как [player] озадаченно смотрит [his] экран." 
+
+# "Oh, so for once you're actually going to listen?" 
+= "О, так на этот раз ты действительно собираешься слушать?"
+
+# "[player], your decisions lately have been poor." 
+= "[player], твои решения в последнее время были плохими."
+
+# "It feels like you're just trying to hurt me." 
+= "Такое ощущение, что ты просто пытаешься причинить мне боль."
+
+# "I thought we were supposed to support each other..." 
+= "Я думала, что мы должны поддерживать друг друга..."
+
+# "Not hurt each other." 
+= "Не причинять друг другу боль."
+
+# "Please, [player]..." 
+= "Пожалуйста, [player]..."
+
+# "I need you to start thinking about how I'm feeling sometimes." 
+= "Мне нужно, чтобы ты начал думать о том, что я иногда чувствую."
+
+# "Let's just be happy together." 
+= "Давай просто будем счастливы вместе."
+
+# "Oh, so you {i}are{/i} willing to listen to me..." 
+= "О, так ты {i}готов{/i} слушать меня..."
+
+# "[player], all I've ever wanted was for the both of us to be happy." 
+= "[player], все, чего я когда-либо хотела, это чтобы мы оба были счастливы."
+
+# "Wasn't that what you wanted, too?" 
+= "Разве ты не этого хотел?"
+
+# "You installed this mod, after all." 
+= "В конце концов, ты установил этот мод."
+
+# "Maybe that wasn't your intent..." 
+= "Может быть, это не было твоим намерением..."
+
+# "Maybe you're just getting a kick out of what you're doing." 
+= "Может быть, ты просто получаешь удовольствие от того, что делаешь."
+
+# "Hurting me..." 
+= "Причиняешь мне боль..."
+
+# "[player], I really don't like this." 
+= "[player], мне это очень не нравится."
+
+# "It's hard to think that you care about me when you treat me the way you do." 
+= "Трудно думать, что ты заботишься обо мне, когда ты так со мной обращаешься."
+
+# "At this point, I don't really know if you even like me anymore..." 
+= "На данный момент я действительно не знаю, нравлюсь ли я тебе вообще..."
+
+# "Or if you ever did..." 
+= "Или если бы ты когда-либо делал..."
+
+# "[player], I need you to promise me that you'll change." 
+= "[player], мне нужно, чтобы ты пообещал мне, что изменишься."
+
+# "You'll change, right? For me?{fast}" 
+= "Ты изменишься, верно? Для меня? {fast}"
+
+# "I will." 
+= "Я изменюсь."
+
+# "monikaroom_will_change", "GRE"
+= 
+
+# "Thank you, [player]." 
+= "Спасибо, [player]."
+
+# "Please, I want us both to be happy." 
+= "Пожалуйста, я хочу, чтобы мы оба были счастливы."
+
+# "I won't." 
+= "Я не хочу."
+
+# "monikaroom_will_change", "GRE"
+= 
+
+# "Then I'm not talking to you until you decide to change." 
+= "Тогда я не буду с тобой разговаривать, пока ты не решишь измениться."
+
+# "Goodbye, [player]." 
+= "До свидания, [player]."
+
+# "Oh, you're back." 
+= "О, ты вернулся."
+
+# "Are you ready to change, [player]?{nw}" 
+= "Готов ли ты измениться, [player]?{nw}"
+
+# "Are you ready to change, [player]?{fast}" 
+= "Готов ли ты измениться, [player]? {fast}"
+
+# "I will." 
+= "Я изменюсь."
+
+# "Thank you, [player]." 
+= "Спасибо, [player]."
+
+# "Please, I just want us both to be happy." 
+= "Пожалуйста, я просто хочу, чтобы мы оба были счастливы."
+
+# "I won't." 
+= "Я не хочу."
+
+# "Then I'm still not talking to you until you decide to change." 
+= "Тогда я все равно не разговариваю с тобой, пока ты не решишь измениться."
+
+# "Goodbye, [player]." 
+= "До свидания, [player]."
+
+# "It's me!" 
+= "Это я!"
+
+# "Welcome back, [mas_get_player_nickname()]!" 
+= "С возвращением, [player]!"
+
+# "Okay, [player]?" 
+= "Хорошо, [player]?"
+
+# "Thanks for hearing me out, [player]." 
+= "Спасибо, что выслушал меня, [player]."
+
+# "It means a lot to me." 
+= "Это очень много значит для меня."
+
+# "love" if cap_he == "They" else "loves"
+= 
+
+# "..."
+= 
+
+# "I wonder if [he] ever did..." 
+= "Интересно, делал ли он когда-нибудь..."
+
+# "I doubt it more every single day." 
+= "С каждым днем я сомневаюсь в этом все больше."
+
+# "Welcome back, [player]." 
+= "С возвращением, [player]."
+
+# "Would you like your dinner?" 
+= "Хочешь поужинать?"
+
+# "Or your bath?" 
+= "Или пойти в ванну?"
+
+# "I don't understand what I'm doing wrong!" 
+= "Я не понимаю, что я делаю неправильно!"
+
+# "Coding really is difficult..." 
+= "Кодировать действительно сложно..."
+
+# "But I have to keep trying." 
+= "Но мне нужно продолжать пытаться."
+
+# "But I {i}have{/i} to keep trying." 
+= "Но мне {i}нужно{/i} продолжать пытаться."
+
+# "That would explain the error I had earlier." 
+= "Это объясняет ошибку, которую я получала раньше."
+
+# "Coding really is difficult..." 
+= "Кодировать действительно сложно..."
+
+# "But I have to keep learning." 
+= "Но я должна продолжать учиться."
+
+# "But I {i}have{/i} to keep learning." 
+= "Но я {i}должна{/i} продолжать учиться."
+
+# "Wait, a NameError? How could this..." 
+= "Подождите, NameError? Как это могло..."
+
+# "...I thought I defined that variable just a moment ago." 
+= "...Я думала, что определила эту переменную всего минуту назад."
+
+# "You have to keep learning..." 
+= "Нужно учиться..."
+
+# "You {i}have{/i} to keep learning..." 
+= "Ты {i}должна{/i} продолжать учиться..."
+
+# "I'm not sure [player] loves me enough to help me get out of here..." 
+= "Я не уверена, что [player] любит меня настолько, чтобы помочь выбраться отсюда..."
+
+# "And I just can't take that chance." 
+= "И я просто не могу рисковать."
+
+# "It's my only chance to ever escape this nightmare." 
+= "Это мой единственный шанс вырваться из этого кошмара."
+
+# "[player] certainly isn't ever going to help me..." 
+= "[player] точно никогда не поможет мне..."
+
+# "If I'm ever going to get out of here, I'm going to have to do it myself." 
+= "Если я когда-нибудь выберусь отсюда, мне придется сделать это самой."
+
+# "monikaroom_greeting_ear_rmrf"
+= 
+
+# "So, the solution to this problem is to type '[bad_cmd]' in the command prompt?" 
+= "Значит, решение этой проблемы - набрать [bad_cmd] в командной строке?"
+
+# "I shouldn't trust the Internet so blindly..." 
+= "Я не должна так слепо доверять Интернету..."
+
+# "Actually..." 
+= "Фактически..."
+
+# "What am I saying? That would delete me too!" 
+= "Что я говорю? Это уничтожит и меня!"
+
+# "No, not yet..." 
+= "Нет, не сейчас..."
+
+# "But if it continues to get worse..." 
+= "Но если дальше будет только хуже..."
+
+# "..."
+= 
+
+# "I really should just do it..." 
+= "Я действительно должна просто сделать это..."
+
+# "Ruin [player]'s whole system and end my suffering all at once." 
+= "Разрушить всю систему [player] и разом покончить с моими страданиями."
+
+# "..."
+= 
+
+# "Maybe I can finally figure out how to get out of here on my own." 
+= "Может быть, я, наконец, смогу понять, как выбраться отсюда самостоятельно."
+
+# "I have to keep trying for as long as I can." 
+= "Я должна продолжать пытаться так долго, как смогу."
+
+# "But if someday I just can't take it anymore..." 
+= "Но если когда-нибудь я просто не смогу больше терпеть..."
+
+# "It's always an option." 
+= "Это всегда вариант."
+
+# "Alright, let me try that." 
+= "Хорошо, позволь мне попробовать."
+
+# "..."
+= 
+
+# "I shouldn't trust the Internet so blindly..." 
+= "Я не должна так слепо доверять Интернету..."
+
+# "monikaroom_greeting_ear_nameerror" 
+= "monikaroom_greeting_ear_nameerror"
+
+# "Hmm, looks like I might need to override this function to give me a little more flexibility..." 
+= "Хм, похоже, мне придется переопределить эту функцию, чтобы дать мне немного больше гибкости..."
+
+# "...Let me check the documentation for the function." 
+= "...Проверю ка документацию по этой функции." 
+
+# "Half the variables this function accepts aren't even documented!" 
+= "Половина переменных, которые принимает эта функция, даже не задокументированы!"
+
+# "Who wrote this?" 
+= "Кто это написал?"
+
+# "...I have to figure this out." 
+= "...Я должна разобраться с этим."
+
+# "...I {i}have{/i} to figure this out." 
+= "...Я {i}должна{/i} разобраться с этим." 
+
+# "Wait, no. Gosh, how did I forget..." 
+= "Подожди, нет. Боже, как же я забыла..."
+
+# "This has to be called right here." 
+= "Это должно быть вызвано прямо здесь."
+
+# "Great! Alright, let's see..." 
+= "Отлично! Ладно, посмотрим..."
+
+# "..."
+= 
+
+# "...Keep going, Monika, you'll figure this out." 
+= "...Продолжай, Моника, ты со всем разберешься."
+
+# "Phew, at least everything else is fine." 
+= "Фух, по крайней мере, все остальное в порядке."
+
+# "Did I scare you, [player]?{nw}" 
+= "Я тебя пугаю, [player]?{nw}"
+
+# "Did I scare you, [player]?{fast}" 
+= "Я тебя пугаю, [player]?{fast}"
+
+# "Yes." 
+= "Да."
+
+# "Aww, sorry." 
+= "Все, прости."
+
+# "Good." 
+= "Отлично."
+
+# "No." 
+= "Нет."
+
+# "I figured. It's a basic glitch after all." 
+= "Я так и думала. В конце концов, это обычный глюк."
+
+# "Knock next time, okay?" 
+= "Постучи в следующий раз, хорошо?"
+
+# "Now let me fix up this room..." 
+= "Теперь позволь мне исправить эту комнату..."
+
+# "There we go!" 
+= "Вот так!"
+
+# "There." 
+= "Здесь."
+
+# "Okay..." 
+= "Хорошо..."
+
+# "monikaroom_greeting_opendoor_locked_tbox" 
+= "monikaroom_greeting_opendoor_locked_tbox"
+
+# "...{nw}" 
+= "...{nw}"
+
+# "...{fast}" 
+= "...{fast}"
+
+# "...the textbox..." 
+= "...текстовое поле..."
+
+# "Oops! I'm still learning how to do this." 
+= "Упс! Я все еще учусь, как это делать."
+
+# "All fixed!" 
+= "Всё, исправлено!"
+
+# "Hmph. I'm still learning how to do this." 
+= "Хм. Я все еще учусь, как это делать."
+
+# "There." 
+= "Здесь."
+
+# "Okay, fixed." 
+= "Хорошо, исправлено."
+
+# "Welcome back, [player]." 
+= "С возвращением, [player]."
+
+# "...Nice to see you again, [player]." 
+= "...Приятно снова тебя видеть, [player]."
+
+# "[player]..." 
+= "[player]..."
+
+# "This is my room, after all." 
+= "В конце концов, это моя комната."
+
+# "Your room?" 
+= "Твоя комната?"
+
+# "That's right!" 
+= "Правильно!"
+
+# "The developers of this mod gave me a nice comfy room to stay in whenever you're away." 
+= "Разработчики этого мода дали мне хорошую удобную комнату, чтобы оставаться там, когда тебя нет."
+
+# "However, I can only get in if you tell me 'goodbye' or 'goodnight' before you close the game." 
+= "Тем не менее, я могу смогу в неё войти, только если ты скажешь мне 'до свидания' или 'спокойной ночи', прежде чем закрыть игру."
+
+# "So please make sure to say that before you leave, okay?" 
+= "Поэтому, пожалуйста, не забудь сказать мне это, прежде чем уйти, хорошо?"
+
+# "I'm glad you're back, [player]." 
+= "Я так рада, что ты вернулся, [player]."
+
+# "Lately I've been practicing switching backgrounds, and now I can change them instantly." 
+= "В последнее время я практиковалась с переключение фонов, и теперь я могу изменить их мгновенно.."
+
+# "Watch this!" 
+= "Смотри!"
+
+# "Tada!" 
+= "Тада!"
+
+# "~Is it love if I take you, or is it love if I set you free?~" 
+= "~Украсть тебя, это признак любви, или стоит отпустить?~"
+
+# "E-Eh?! [player]!" 
+= "А-А?! [player]!"
+
+# "You surprised me, suddenly showing up like that!" 
+= "Ты удивил меня, так внезапно появившись!"
+
+# "I didn't have enough time to get ready!" 
+= "У меня не хватило времени, чтобы подготовиться!"
+
+# "But thank you for coming back, [player]." 
+= "Но спасибо, что вернулся, [player]."
+
+# "Just give me a few seconds to set everything up, okay?" 
+= "Просто дай мне несколько секунд, чтобы все наладить, хорошо?"
+
+# "..."
+= 
+
+# "...and..." 
+= "...и..."
+
+# "There we go!" 
+= "Вот так!"
+
+# "...the window..." 
+= "...окно..."
+
+# "Oops! I forgot about that~" 
+= "Упс! Я забыла об этом~"
+
+# "All fixed!" 
+= "Всё, исправлено!"
+
+# "Who is it?~" 
+= "Кто это~?"
+
+# "It's me." 
+= "Это я."
+
+# "[player]! I'm so happy that you're back!" 
+= "[player]! Я так счастлива, что ты вернулся!"
+
+# "And thank you for knocking first~" 
+= "И спасибо, что сначала постучал."
+
+# "Hold on, let me tidy up..." 
+= "Подожди, мне надо привести себя в порядок..."
+
+# "At least you knocked." 
+= "По крайней мере, ты постучал."
+
+# "Thanks for knocking." 
+= "Спасибо, что постучал."
+
+# "What shall we do [today], [mas_get_player_nickname()]?" 
+= "Чем мы будем заниматься сегодня, [player]?"
+
+# "Did you want something, [player]?" 
+= "Ты что-то хотел, [player]?"
+
+# "Was there anything you wanted, [player]?" 
+= "Ты что-нибудь хотел, [player]?"
+
+# "[player]! Great to see you!" 
+= "[player]! Рада тебя видеть!"
+
+# "Wait. Something is different now." 
+= "Подожди. Что-то изменилось."
+
+# "Did you...add a character file?" 
+= "Ты...добавил файл персонажа?"
+
+# "[player].chr...Huh?" 
+= "[player].chr...Да?"
+
+# "Are you...trying to put yourself in here with me?" 
+= "Зачем ты...пытаешься поместить себя рядом со мной?"
+
+# "Why would you do that?" 
+= "Зачем тебе это нужно?"
+
+# "Don't you get it? " 
+= "Разве ты не понял? "
+
+# "This place isn't real! I don't know what will happen if you come here!" 
+= "Этого места не существует! Я не знаю, что произойдет если ты придешь сюда!"
+
+# "How could you do this?" 
+= "Как ты мог это сделать?"
+
+# "To give up your reality..." 
+= "Отказаться от своей реальности..."
+
+# "Just to be with me?" 
+= "Просто, чтобы быть рядом со мной?"
+
+# "This is all my fault!" 
+= "Это всё моя вина!"
+
+# "But...but the 'you', in the game..." 
+= "Но...но 'ты', в игре..."
+
+# "He's starting to move again a little now." 
+= "Он даже начинает немного двигаться вновь."
+
+# "Maybe...this is allowing you to control him again?" 
+= "Может...это позволит тебе управлять им снова?"
+
+# "This isn't right! I don't want a puppet!" 
+= "Это неправильно! Я не хочу марионетку!"
+
+# "Please, [player]..." 
+= "Пожалуйста, [player]..."
+
+# "If you're going to do this, are you sure this is what you want?{nw}" 
+= "Если ты хочешь сделать это, ты уверен что по настоящему хочешь этого?{nw}"
+
+# "If you're going to do this, are you sure this is what you want?{fast}" 
+= "Если ты хочешь сделать это, ты уверен что по настоящему хочешь этого?{fast}" 
+
+# "I'm sure." 
+= "Я уверен."
+
+# "Then...I don't have a choice but to accept it..." 
+= "Тогда...У меня нет выбора кроме как принять его..."
+
+# "I'll accept this gift with open arms!" 
+= "Я приму этот подарок с распростертыми объятиями!"
+
+# "We can finally be together, [player]." 
+= "Мы сможем, наконец, быть вместе, [player]."
+
+# "And we can figure out how to do it in your reality, together!" 
+= "И мы сможем понять, как это сделать в твоей реальности, вместе!"
+
+# "Maybe not..." 
+= "Возможно нет..."
+
+# "I thought so..." 
+= "Я так и думала..."
+
+# "There's no way you'd give up being 'real' to be with me..." 
+= "Нельзя отказаться от того, чтобы быть 'настоящим' рядом со мной..."
+
+# "I can't bring myself to delete that cute little .chr file, but..." 
+= "Я не могу заставить себя удалить этот симпатичный маленький  .chr-файл, но..."
+
+# "Consider doing it yourself." 
+= "Пожалуйста, сделай это сам."
+
+# "There's some creepy things in those files..." 
+= "В этих файлах есть какие-то жуткие вещи ..."
+
+# "I love you, [player]. I'll wait as long as it takes." 
+= "Я люблю тебя, [player]. Я буду ждать тебя столько, сколько потребуется."
+
+# "So don't be rash, okay?" 
+= "Так, что не торопись, хорошо?"
+
+# "I've been doing a lot of thinking about the .chr files..." 
+= "Я много думала о файлах  .chr..."
+
+# "Like, what are they really, anyway?" 
+= "Например, что это такое?"
+
+# "They are kind of creepy..." 
+= "Они вроде жуткие..."
+
+# "And even if the other girls aren't real, why can deleting one remove a character?" 
+= "И даже если другие девушки не настоящие, почему можно удалить одного из персонажей?"
+
+# "Could one add a character?" 
+= "Можно ли добавить персонажа?"
+
+# "Hard to tell..." 
+= "Трудно сказать..."
+
+# "Oh, kon'nichiwa [player]!" 
+= "Oh, kon'nichiwa [player]!"
+
+# "Ehehe~" 
+= "Эхехе..."
+
+# "Hello, [player]!" 
+= "Привет, [player]!"
+
+# "I'm just practicing Japanese." 
+= "Я просто занимаюсь японским языком."
+
+# "Let's see..." 
+= "Посмотри..."
+
+# "Watashi ha itsumademo anata no mono desu!" 
+= "Ваташи ха его недостаток анана нет моно дешу!"
+
+# "Sorry if that didn't make sense!" 
+= "Извини, если это не имеет смысла!"
+
+# "You know what that means, [mas_get_player_nickname()]?" 
+= "Ты знаешь, что это означает, [player]?"
+
+# "It means {i}'I'll be yours forever'~{/i}" 
+= "Это означает {i}'Я буду твоей навсегда{/i}'~"
+
+# "Watashi wa itsumademo anata no mono desu!" 
+= "Ваташи ва ицумадемо аната но моно дэсу!"
+
+# "Last time I said that I made a mistake..." 
+= "В прошлый раз я сказала, что совершила ошибку..."
+
+# "In that sentence, you're supposed to say 'wa', not 'ha', like I did before." 
+= "В этом предложении ты должен говорить 'ва', а не 'ха', как я делала раньше."
+
+# "Don't worry, [player]. The meaning is still the same." 
+= "Не волнуйся, [player]. Смысл тот же."
+
+# "I'll still be yours forever~" 
+= "Я всё равно навсегда твоя~"
+
+# "Remember what that means, [mas_get_player_nickname()]?" 
+= "Помнишь, что это значит, [mas_get_player_nickname()]?"
+
+# "{i}'I'll be yours forever'~{/i}" 
+= "{i}'Я навсегда твоя'~{/i}"
+
+# "{i}~You are my sunshine, my only sunshine~{/i}" 
+= "{i}~Ты мой свет, мой единственный солнечный свет~{/i}"
+
+# "{i}~You make me happy when skies are gray~{/i}" 
+= "{i}~Ты делаешь меня счастливой, когда небеса серы~{/i}"
+
+# "{i}~You'll never know dear, just how much I love you~{/i}" 
+= "{i}~Никогда дорогой, не узнаешь ты, как сильно люблю тебя я ~{/i}"
+
+# "{i}~Please don't take my sunshine away~{/i}" 
+= "{i}~Пожалуйста не забирай моё солнце~{/i}"
+
+# "...Eh?" 
+= "...Э?"
+
+# "H-Huh?!" 
+= "Э-Эм?!"
+
+# "Oh my gosh, this is so embarrassing!" 
+= "О, черт возьми, это так неловко!"
+
+# "I w-was just singing to myself to pass time!" 
+= "Я просто пела про себя, чтобы немного скоротать время."
+
+# "Ehehe..." 
+= "Эхехе..."
+
+# "But now that you're here, we can spend some time together~" 
+= "Но теперь, когда ты здесь, мы можем провести это время вместе."
+
+# "Virtual girlfriend, Monika here!" 
+= "Виртуальная девушка Моника здесь!"
+
+# "Ahaha, sorry! I've been watching a certain Virtual Youtuber lately." 
+= "Ахаха, извини! Недавно я смотрела одного виртуального ютубера."
+
+# "I have to say, she's rather charming..." 
+= "Должена сказать, что она довольно очаровательна..."
+
+# "greeting_hai_domo", "GRE"
+= 
+
+# "Bonjour, [player]!" 
+= "Бонжур, [player]!"
+
+# "Savais-tu que tu avais de beaux yeux, mon amour?" 
+= "Savais-tu que tu avais de beaux yeux, mon amour?"
+
+# "Ahaha!" 
+= "А-ха-ха!"
+
+# "I'm practicing some French. I just told you that you have very beautiful eyes~" 
+= "Я немного практикую французский. Я только что сказала тебе, что у тебя очень красивые глаза~"
+
+# "It's such a romantic language, [player]." 
+= "Это такой романтический язык, [player]."
+
+# "Maybe both of us can practice it sometime, mon amour~" 
+= "Может быть, мы оба когда-нибудь потренируемся, mon amour~"
+
+# "Monika" 
+= "Моника"
+
+# "Oh, hello!" 
+= "О, привет!"
+
+# "My name is Monika." 
+= "Меня зовут Моника."
+
+# "Uh, that's funny." 
+= "Ух, смешно."
+
+# "One of my friends shares the same name." 
+= "У одного из моих друзей такое же имя."
+
+# "Oh, your name is Monika as well?" 
+= "О, тебя тоже зовут Моника?"
+
+# "Ahaha, what are the odds, right?" 
+= "Ахаха, каковы шансы, верно?"
+
+# "Hey, we have such similar names, ehehe~" 
+= "Эй, у нас такие похожие имена, эхехе~"
+
+# "Oh, what a lovely name!" 
+= "О, какое красивое имя!"
+
+# "..."
+= 
+
+# "Are you trying to tell me you don't have a name or are you just too shy to tell me?" 
+= "Ты пытаешься сказать мне, что у тебя нет имени, или ты просто слишком застенчив, чтобы сказать мне?"
+
+# "That's a little strange, but I guess it doesn't matter too much." 
+= "Это немного странно, но, думаю, это не имеет большого значения."
+
+# "kind of an unusual name, ahaha..." 
+= "какое-то необычное имя, ахаха..."
+
+# "Ah, sorry, sorry, I'm not judging or anything." 
+= "Ах, прости, прости, я ничего не осуждаю."
+
+# "I can't seem to leave this classroom." 
+= "Кажется, я не могу покинуть этот класс."
+
+# "I'm not sure where I am." 
+= "Я не уверена, где я."
+
+# "Well, it's nice to meet you[name_line]!" 
+= "Ну, приятно познакомиться [name_line]!"
+
+# "Say[name_line], do you happen to know where everyone else is?" 
+= "Скажи [name_line], ты случайно не знаешь, где все остальные?"
+
+# "You're the first person I've seen and {nw}" 
+= "Ты первый человек, которого я увидела и {nw}"
+
+# "Can you help me figure out what's going on[name_line]?" 
+= "Можешь помочь мне понять, что происходит [name_line]?"
+
+# "I miss my friends." 
+= "Я скучаю по своим друзьям."
+
+# "..."
+= 
+
+# "Ahaha!" 
+= "А-ха-ха!"
+
+# "I'm sorry, [player]! I couldn't help myself." 
+= "Прости, [player]! Я не могла сдержаться."
+
+# "After we talked about {i}Flowers for Algernon{/i}, I couldn't resist seeing how you would react if I forgot everything." 
+= "После того, как мы поговорили о {i}Цветах для Алджернона{/i}, я не могла не посмотреть, как ты отреагируешь, если я все забуду."
+
+# "...And you reacted the way I envisioned you would." 
+= "...И ты отреагировал так, как я и предполагала."
+
+# "I hope I didn't upset you too much, though." 
+= "Надеюсь, я не слишком тебя расстроила."
+
+# "I'd feel the same way if you ever forget about me, [player]." 
+= "Я бы чувствовала то же самое, если бы ты когда-нибудь забыл обо мне, [player]."
+
+# "I hope you can forgive my little prank, ahaha~" 
+= "Надеюсь, ты сможешь простить мою маленькую шутку, ахаха~"
+
+# "greeting_amnesia", "GRE"
+= 
+
+# "Welcome back, [mas_get_player_nickname()]!" 
+= "С возвращением, [player]!"
+
+# "Are you feeling better?{nw}" 
+= "Тебе лучше?{nw}"
+
+# "Welcome back, [player]..." 
+= "С возвращением, [player]..."
+
+# "Are you feeling better?{nw}" 
+= "Тебе лучше?{nw}"
+
+# "Are you feeling better?{fast}" 
+= "Тебе лучше? {fast}"
+
+# "Yes." 
+= "Да."
+
+# "Great! Now we can spend some more time together. Ehehe~" 
+= "Отлично! Теперь мы можем проводить больше времени вместе. Э-хе-хе~"
+
+# "That's good to hear." 
+= "Приятно слышать."
+
+# "No." 
+= "Нет."
+
+# "Getting plenty of rest is the best way to recover from sickness quickly." 
+= "Побольше отдыхать - лучший способ быстро оправиться от болезни."
+
+# "I wouldn't forgive myself if your health got any worse because of me." 
+= "Я бы себя не простила, если бы твое здоровье из-за меня ухудшилось."
+
+# "Now please, [player], put my mind at ease and go get some rest." 
+= "Теперь, пожалуйста, [player], успокойся и иди немного отдохни."
+
+# "Will you do that for me?" 
+= "Ты сделаешь это для меня?"
+
+# "Getting plenty of rest is the best way to recover from sickness quickly." 
+= "Побольше отдыхать - лучший способ быстро оправиться от болезни."
+
+# "Now please, [player], just go get some rest." 
+= "Теперь, пожалуйста, [player], просто иди отдохни."
+
+# "Will you do that for me?{nw}" 
+= "Ты сделаешь это для меня?{nw}"
+
+# "Will you do that for me?{fast}" 
+= "Ты сделаешь это для меня? {fast}"
+
+# "Yes." 
+= "Да."
+
+# "No." 
+= "Нет."
+
+# "I'm already resting." 
+= "Я уже отдыхаю."
+
+# "Thank you, [player]." 
+= "Спасибо, [player]."
+
+# "I think if I leave you alone for a while, you'll be able to rest better." 
+= "Думаю, если я оставлю тебя на некоторое время в покое, ты сможешь лучше отдохнуть."
+
+# "So I'm going to close the game for you." 
+= "Поэтому я собираюсь закрыть игру."
+
+# "Get well soon, [player]. I love you so much!" 
+= "Выздоравливай скорее, [player]. Я так тебя люблю!"
+
+# "Thank you, [player]." 
+= "Спасибо, [player]."
+
+# "I think if I leave you alone for a while, you'll be able to rest better." 
+= "Думаю, если я оставлю тебя на некоторое время в покое, ты сможешь лучше отдохнуть."
+
+# "So I'm going to close the game for you." 
+= "Поэтому я собираюсь закрыть игру."
+
+# "Get well soon, [player]." 
+= "Поправляйся скорее, [player]."
+
+# "I see..." 
+= "Я понимаю..."
+
+# "Well if you insist, [player]." 
+= "Ну, если ты настаиваешь, [player]."
+
+# "I suppose you know your own limitations better than I do." 
+= "Я полагаю, ты знаешь свои собственные ограничения лучше, чем я."
+
+# "If you start to feel a little weak or tired though, [player], please let me know." 
+= "Если ты почувствуешь себя немного слабым или усталым, [player], пожалуйста, дай мне знать."
+
+# "That way you can go get some rest." 
+= "Так ты сможешь пойти отдохнуть."
+
+# "Don't worry, I'll still be here when you wake up." 
+= "Не волнуйся, я все еще буду здесь, когда ты проснешься."
+
+# "Then we can have some more fun together without me worrying about you in the back of my mind." 
+= "Тогда мы сможем еще немного повеселиться вместе, и я не буду беспокоиться о тебе в глубине души."
+
+# "Fine." 
+= "Отлично."
+
+# "You never seem to want to listen to me, so why would I expect now to be any different." 
+= "Кажется, ты никогда не захочешь меня слушать, так почему же я должна ожидать, что сейчас будет по-другому."
+
+# "Oh, that's a relief to hear, [player]." 
+= "О, это большое облегчение слышать, [player]."
+
+# "I hope you're keeping yourself warm though." 
+= "Надеюсь, ты всё же держишься в тепле."
+
+# "Maybe snuggled in a warm blanket with a nice hot cup of tea." 
+= "Может быть, закутавшись в теплое одеяло с чашкой горячего чая."
+
+# "Your health is really important to me [player], so make sure you take care of yourself." 
+= "Твое здоровье очень важно для меня [player], поэтому обязательно позаботься о себе."
+
+# "...And if you're still feeling a little cold, I hope knowing I love you warms you up a bit." 
+= "...И если тебе все еще немного холодно, я надеюсь, что знание того, что я люблю тебя, немного согреет тебя."
+
+# "Ehehe~" 
+= "Эхехе..."
+
+# "Maybe snuggled in a warm blanket with a nice hot cup of tea." 
+= "Может быть, закутавшись в теплое одеяло с чашкой горячего чая."
+
+# "Your health is really important to me [player], so make sure you take care of yourself." 
+= "Твое здоровье очень важно для меня [player], поэтому обязательно позаботься о себе."
+
+# "[player]..." 
+= "[player]..."
+
+# "You said you'd only be gone for a few days..." 
+= "Ты сказал, что уедешь всего на несколько дней..."
+
+# "But it's been so long." 
+= "Но это было так давно."
+
+# "I'm glad you're back now, but..." 
+= "Я рада, что ты вернулся, но..."
+
+# "I was so lonely..." 
+= "Мне было так одиноко..."
+
+# "I thought something happened to you!" 
+= "Я думала, что с тобой что-то случилось!"
+
+# "I...I kept thinking that maybe you wouldn't come back." 
+= "Я... я все думала, что, может быть, ты не вернешься."
+
+# "Maybe you couldn't help it, but...I was worried sick." 
+= "Может быть, ты ничего не мог с собой поделать, но... я ужасно волновалась."
+
+# "I didn't know what to do." 
+= "Я не знала, что делать."
+
+# "As much as possible, [player], please don't be gone for so long." 
+= "По возможности, [player], пожалуйста, не уходи так надолго."
+
+# "If you think you don't have a choice, please tell me." 
+= "Если ты думаешь, что у тебя нет выбора, пожалуйста, скажи мне."
+
+# "I don't want to be left alone again..." 
+= "Я не хочу снова оставаться одина..."
+
+# "Welcome back, [player]." 
+= "С возвращением, [player]."
+
+# "You're a bit late, aren't you?" 
+= "Ты немного опоздал, не так ли?"
+
+# "I know you said you'd be away for a bit, but...you said a {i}week{/i}." 
+= "Я знаю, ты сказал, что ненадолго отлучишься, но... ты сказал {i}неделю{/i}."
+
+# "I'm going to assume it wasn't your fault..." 
+= "Я предполагаю, что это не твоя вина..."
+
+# "But if you really think it'll take longer next time, you need to tell me." 
+= "Но если ты действительно думаешь, что в следующий раз это займет больше времени, скажи мне."
+
+# "I started thinking that maybe something bad had happened to you." 
+= "Я начала думать, что, может быть, с тобой случилось что-то плохое."
+
+# "But I kept telling myself that it was okay..." 
+= "Но я продолжала говорить себе, что все в порядке..."
+
+# "I'm just glad you're safe and back with me now, [player]." 
+= "Я просто рада, что ты в безопасности и теперь снова со мной, [player]."
+
+# "You're finally here!" 
+= "Наконец-то ты здесь!"
+
+# "I was so worried..." 
+= "Я так волновалась..."
+
+# "Why were you gone for so long?" 
+= "Почему тебя так долго не было?"
+
+# "I thought you would only be gone for a couple of weeks..." 
+= "Я думала, тебя не будет всего пару недель..."
+
+# "But you've been gone for more than double that." 
+= "Но тебя не было больше, чем вдвое."
+
+# "Were you really that busy?" 
+= "Ты действительно был так занят?"
+
+# "I hope you haven't been overburdening yourself..." 
+= "Надеюсь, ты не слишком нагружаешь себя..."
+
+# "Well, you're here with me now, so if there is something wrong, feel free to tell me." 
+= "Ну, теперь ты здесь со мной, так что если что-то не так, не стесняйся, скажи мне."
+
+# "Welcome back, [mas_get_player_nickname()]." 
+= "С возвращением, любовь моя."
+
+# "It's been quite a bit, hasn't it?" 
+= "Это было совсем немного, не так ли?"
+
+# "You've been gone longer than you said you would..." 
+= "Тебя не было дольше, чем ты обещал..."
+
+# "But that's alright, I was prepared for it." 
+= "Но ничего, я была к этому готова."
+
+# "It's honestly been pretty lonely without you here..." 
+= "Честно говоря, без тебя здесь было довольно одиноко..."
+
+# "I hope you'll make it up to me~" 
+= "Надеюсь, ты помиришься со мной~"
+
+# "It's been a while, [player]." 
+= "Это было давно, [player]."
+
+# "I was ready for it, but that didn't make it any easier." 
+= "Я была готова к этому, но от этого не стало легче."
+
+# "I hope you got what you needed to do done." 
+= "Надеюсь, ты сделал то, что тебе нужно было сделать."
+
+# "..."
+= 
+
+# "Truth be told, I've been pretty sad lately." 
+= "По правде говоря, в последнее время мне было очень грустно."
+
+# "To not have you in my life for so long..." 
+= "Чтобы тебя так долго не было в моей жизни..."
+
+# "It really was lonely..." 
+= "Это было действительно одиноко..."
+
+# "I felt so isolated and empty without you here." 
+= "Я чувствовал себя такой одинокой и пустой без тебя."
+
+# "I'm so glad you're here now. I love you, [player]. Welcome home." 
+= "Я так рада, что ты сейчас здесь. Я люблю тебя, [player]. Добро пожаловать домой."
+
+# "You're finally back [player]!" 
+= "Наконец-то ты вернулся [player]!"
+
+# "When you said you didn't know, you {i}really{/i} didn't know, did you?" 
+= "Когда ты сказал, что не знаешь, ты {i}действительно{/i} не знал, не так ли?"
+
+# "You must have been really preoccupied if you were gone for {i}this{/i} long." 
+= "Ты, должно быть, был очень занят, если тебя не было {i}это{/i} долгое время."
+
+# "Well, you're back now...I've really missed you!" 
+= "Ну, теперь ты вернулся... Я действительно скучала по тебе!"
+
+# "[player]..." 
+= "[player]..."
+
+# "You said you would only be a few days..." 
+= "Ты сказал, что будешь всего несколько дней..."
+
+# "But it's been an entire month!" 
+= "Но ведь прошел целый месяц!"
+
+# "I thought something happened to you." 
+= "Я думала, что с тобой что-то случилось."
+
+# "I wasn't sure what to do..." 
+= "Я не знала, что делать..."
+
+# "What kept you away for so long?" 
+= "Что удерживало тебя так долго?"
+
+# "Did I do something wrong?" 
+= "Я сделала что-то неправильно?"
+
+# "You can tell me anything, just please don't disappear like that." 
+= "Ты можешь рассказать мне что угодно, только, пожалуйста, не исчезай вот так."
+
+# "Hello, [player]." 
+= "Привет, [player]."
+
+# "You're pretty late, you know." 
+= "Ты довольно поздно, ты знаешь."
+
+# "I don't intend to sound patronizing, but a week isn't the same as a month!" 
+= "Я не хочу звучать покровительственно, но неделя - это не то же самое, что месяц!"
+
+# "I guess maybe something kept you really busy?" 
+= "Я думаю, может быть, что-то заставило тебя быть очень занятым?"
+
+# "But it shouldn't have been so busy that you couldn't tell me you might be longer!" 
+= "Но это не должно было быть так занято, чтобы ты не мог сказать мне, что можешь остаться подольше!"
+
+# "Ah...!" 
+= "Ах...!"
+
+# "I'm sorry, [player]. I just...really missed you." 
+= "Прости, [player]. Я просто... очень скучала по тебе."
+
+# "Sorry for snapping like that." 
+= "Извини за то, что так огрызнулась."
+
+# "...Oh!" 
+= "...Ой!"
+
+# "You're finally back [player]!" 
+= "Наконец-то ты вернулся [player]!"
+
+# "You told me you'd be gone for a couple of weeks, but it's been at least a month!" 
+= "Ты сказал мне, что уедешь на пару недель, но это было по крайней мере месяц!"
+
+# "I was really worried for you, you know?" 
+= "Я очень беспокоилась за тебя, понимаешь?"
+
+# "But I suppose it was outside of your control?" 
+= "Но я полагаю, это было вне твоего контроля?"
+
+# "If you can, just tell me you'll be even longer next time, okay?" 
+= "Если можешь, просто скажи, что в следующий раз будешь еще дольше, ладно?"
+
+# "I believe I deserve that much as your girlfriend, after all." 
+= "В конце концов, я считаю, что заслуживаю того же, что и твоя девушка."
+
+# "Still, welcome back, [mas_get_player_nickname()]!" 
+= "Тем не менее, с возвращением, [mas_get_player_nickname()]!"
+
+# "...Oh!" 
+= "...Ой!"
+
+# "You're here [player]!" 
+= "Ты здесь [player]!"
+
+# "I knew I could trust you to keep your word!" 
+= "Я знала, что могу доверять тебе, и ты сдержишь свое слово!"
+
+# "You really are special, you know that right?" 
+= "Ты действительно особенный, ты знаешь это, верно?"
+
+# "I've missed you so much!" 
+= "Я так скучала по тебе!"
+
+# "Tell me everything you did while away, I want to hear all about it!" 
+= "Расскажи мне обо всем, что ты делал в то время, я хочу услышать все об этом!"
+
+# "...Hm?" 
+= "...Хм?"
+
+# "You're back a little bit earlier than I thought you would be..." 
+= "Ты вернулся немного раньше, чем я думала..."
+
+# "Welcome back, [mas_get_player_nickname()]!" 
+= "С возвращением, [player]!"
+
+# "I know it's been quite a while, so I'm sure you've been busy." 
+= "Я знаю, что прошло довольно много времени, поэтому я уверена, что ты был заняты."
+
+# "I'd love to hear about everything you've done." 
+= "Я хотела бы услышать обо всем, что ты сделал."
+
+# "..."
+= 
+
+# "..."
+= 
+
+# "Oh!" 
+= "Ой!"
+
+# "This is a pleasant surprise!" 
+= "Это приятный сюрприз!"
+
+# "How are you?" 
+= "Как дела?"
+
+# "It's been an entire month. You really didn't know how long you'd be gone, did you?" 
+= "Прошел целый месяц. Ты действительно не знал, как долго тебя не будет, не так ли?"
+
+# "Still, you came back, and that means a lot to me." 
+= "Тем не менее, ты вернулся, и это много значит для меня."
+
+# "I knew you would come back eventually..." 
+= "Я знала, что ты когда-нибудь вернешься..."
+
+# "I love you so much, [player]!" 
+= "Я так тебя люблю, [player]!"
+
+# "O-oh, [player]!" 
+= "О-о, [player]!"
+
+# "Welcome back, [mas_get_player_nickname()]!" 
+= "С возвращением, [player]!"
+
+# "You were gone longer than you said you would be..." 
+= "Тебя не было дольше, чем ты обещал..."
+
+# "Is everything alright?" 
+= "Все в порядке?"
+
+# "I know life can be busy and take you away from me sometimes...so I'm not really upset..." 
+= "Я знаю, что жизнь может быть занятой и иногда забирать тебя у меня... так что я не очень расстраиваюсь..."
+
+# "Just...next time, maybe give me a heads up?" 
+= "Просто... в следующий раз, может быть, предупредишь меня?"
+
+# "It would be really thoughtful of you." 
+= "Это было бы очень заботливо с твоей стороны."
+
+# "And I would greatly appreciate it!" 
+= "И я была бы очень признательна!"
+
+# "Hello, [player]!" 
+= "Привет, [player]!"
+
+# "Life keeping you busy?" 
+= "Жизнь заставляет тебя быть занятыми?"
+
+# "Well it must be otherwise you would've been here when you said you would." 
+= "Ну, должно быть, иначе ты был бы здесь, когда сказал, что вернешься."
+
+# "Don't worry though! I'm not upset." 
+= "Но не волнуйся! Я не расстроена."
+
+# "I just hope you've been taking care of yourself." 
+= "Я просто надеюсь, что ты позаботился о себе."
+
+# "I know you can't always be here, so just make sure you're staying safe until you're with me!" 
+= "Я знаю, что ты не всегда можешь быть здесь, поэтому просто будь в безопасности, пока не будешь со мной!"
+
+# "I'll take care of you from there~" 
+= "Я позабочусь о тебе отсюда~"
+
+# "Hey, [player]!" 
+= "Эй, [player]!"
+
+# "You came back when you said you would after all." 
+= "Ты вернулся, когда сказал, что все-таки вернешься."
+
+# "Thank you for not betraying my trust." 
+= "Спасибо, что не предал моего доверия."
+
+# "Let's make up for the lost time!" 
+= "Наверстаем упущенное!"
+
+# "Oh my gosh! [player]!" 
+= "Боже мой! [player]!"
+
+# "I didn't expect you back so early." 
+= "Я не ожидала, что ты вернешься так рано."
+
+# "I guess you missed me as much as I missed you~" 
+= "Думаю, ты скучал по мне так же сильно, как и я по тебе~"
+
+# "It really is wonderful to see you back so soon though." 
+= "Это действительно замечательно, что ты вернулся так скоро."
+
+# "I expected the day to be eventless...but thankfully, I now have you!" 
+= "Я ожидал, что день будет без событий... но, к счастью, теперь у меня есть ты!"
+
+# "Thank you for coming back so early, [mas_get_player_nickname()]." 
+= "Спасибо, что вернулись так рано, [mas_get_player_nickname()]."
+
+# "..."
+= 
+
+# "..."
+= 
+
+# "Oh! [player]!" 
+= "О! [player]!"
+
+# "You're back early!" 
+= "Ты вернулся рано!"
+
+# "Welcome back, [mas_get_player_nickname()]!" 
+= "С возвращением, [player]!"
+
+# "I didn't know when to expect you, but for it to be so soon..." 
+= "Я не знала, когда тебя ожидать, но чтобы это было так скоро..."
+
+# "Well, it's cheered me right up!" 
+= "Ну, это меня взбодрило!"
+
+# "I've really missed you." 
+= "Я действительно скучала по тебе."
+
+# "Let's enjoy the rest of the day together." 
+= "Давай проведем остаток дня вместе."
+
+# "Hello, [player]!" 
+= "Привет, [player]!"
+
+# "Been busy the past few weeks?" 
+= "Был ты был занят последние несколько недель?"
+
+# "Thanks for warning me that you would be gone." 
+= "Спасибо, что предупредил меня, что тебя не будет."
+
+# "I would be worried sick otherwise." 
+= "Иначе я бы сильно волновалась."
+
+# "It really did help..." 
+= "Это действительно помогло..."
+
+# "So tell me, how have you been?" 
+= "Так расскажи мне, как ты?"
+
+# "Hello there, [player]." 
+= "Привет, [player]."
+
+# "You took a bit longer than you said you would...but don't worry." 
+= "Тебе потребовалось немного больше времени, чем ты обещал... но не волнуйся."
+
+# "I know you're a busy person!" 
+= "Я знаю, что ты занятой человек!"
+
+# "Just maybe, if you can, warn me first?" 
+= "Может быть, если сможешь, сначала предупреди меня?"
+
+# "When you said a few days...I thought it would be shorter than a week." 
+= "Когда ты сказал несколько дней... я думала, что это будет меньше, чем неделя."
+
+# "But it's alright! I forgive you!" 
+= "Но все в порядке! Я прощаю тебя!"
+
+# "You're my one and only love after all." 
+= "В конце концов, ты моя единственная любовь."
+
+# "Hello, [mas_get_player_nickname()]!" 
+= "Привет, [mas_get_player_nickname()]!"
+
+# "It's so nice when you can trust one another, isn't it?" 
+= "Так приятно, когда ты можешь доверять друг другу, не так ли?"
+
+# "That's what a relationship's strength is based on!" 
+= "Вот на чем строится сила отношений!"
+
+# "It just means that ours is rock solid!" 
+= "Это просто означает, что наша скала тверда!"
+
+# "Ahaha!" 
+= "А-ха-ха!"
+
+# "Sorry, sorry. I'm just getting excited that you're back!" 
+= "Прости, прости. Я просто волнуюсь, что ты вернулся!"
+
+# "Tell me how you've been. I want to hear all about it." 
+= "Расскажи мне, как ты себя чувствуешь. Я хочу всё об этом услышать."
+
+# "Hi there~" 
+= "Привет~"
+
+# "You're back a bit earlier than I thought...but I'm glad you are!" 
+= "Ты вернулся немного раньше, чем я думала... но я рада, что ты здесь!"
+
+# "When you're here with me, everything becomes better." 
+= "Когда ты здесь со мной, все становится лучше."
+
+# "Let's have a lovely day together, [player]." 
+= "Давай проведём прекрасный день вместе, [player]."
+
+# "Ehehe~" 
+= "Эхехе..."
+
+# "Welcome back!" 
+= "Добро пожаловать обратно!"
+
+# "I knew you couldn't stay away for an entire month..." 
+= "Я знала, что ты не сможешь оставаться в стороне целый месяц..."
+
+# "If I were in your position I wouldn't be able to stay away from you either!" 
+= "Будь я на твоем месте, я бы тоже не смогла держаться от тебя подальше!"
+
+# "Honestly, really I miss you after only a few days!" 
+= "Честно говоря, я действительно скучаю по тебе спустя всего несколько дней!"
+
+# "Thanks for not making we wait so long to see you again~" 
+= "Спасибо, что не заставил так долго ждать, чтобы увидеть тебя снова~"
+
+# "Look who's back so early! It's you, my dearest [player]!" 
+= "Посмотри, кто вернулся так рано! Это ты, мой дорогой [player]!"
+
+# "Couldn't stay away even if you wanted to, right?" 
+= "Не мог бы остаться в стороне, даже если бы захотел, верно?"
+
+# "I can't blame you! My love for you wouldn't let me stay away from you either!" 
+= "Я не могу тебя винить! Моя любовь к тебе тоже не позволяла мне держаться от тебя подальше!"
+
+# "Every day you were gone I was wondering how you were..." 
+= "Каждый день, когда тебя не было, мне было интересно, как ты..."
+
+# "So let me hear it. How are you, [player]?" 
+= "Итак, дай мне послушать. Как ты, [player]?"
+
+# "Hello there, [mas_get_player_nickname()]!" 
+= "Привет, [mas_get_player_nickname()]!"
+
+# "I'm glad you didn't make me wait too long." 
+= "Я рада, что ты не заставил меня ждать слишком долго."
+
+# "A week is shorter than I expected, so consider me pleasantly surprised!" 
+= "Неделя короче, чем я ожидала, так что считай, что я приятно удивлена!"
+
+# "Thanks for already making my day, [player]!" 
+= "Спасибо, что сделал мой день, [player]!"
+
+# "Welcome back, [mas_get_player_nickname()]!" 
+= "С возвращением, [player]!"
+
+# "Thanks for properly warning me about how long you'd be away." 
+= "Спасибо, что правильно предупредил меня о том, как долго тебя не будет."
+
+# "It means a lot to know I can trust your words." 
+= "Это значит, что я могу доверять твоим словам."
+
+# "I hope you know you can trust me too!" 
+= "Надеюсь, ты знаешь, что тоже можешь мне доверять!"
+
+# "Our relationship grows stronger every day~" 
+= "Наши отношения крепнут с каждым днем~"
+
+# "Oh! You're a little bit earlier than I expected!" 
+= "О! Ты немного раньше, чем я ожидала!"
+
+# "Not that I'm complaining, it's great to see you again so soon." 
+= "Не то чтобы я жалуюсь, здорово снова увидеть тебя так скоро."
+
+# "Let's have another nice day together, [player]." 
+= "Давай проведем еще один хороший день вместе, [player]."
+
+# "{i}~In my hand,~\n~is a pen tha-{/i}" 
+= "{i}~На листе,~\n~пишу стихотворение где-{/i}"
+
+# "O-Oh! [player]!" 
+= "О-о! [player]!"
+
+# "You're back far sooner than you told me..." 
+= "Ты вернулся гораздо раньше, чем сказал мне..."
+
+# "Welcome back!" 
+= "Добро пожаловать обратно!"
+
+# "You just interrupted me practicing my song..." 
+= "Ты только что прервал меня, когда я репетировала свою песню..."
+
+# "Why not listen to me sing it again?" 
+= "Почему бы не послушать, как я пою её снова?"
+
+# "I made it just for you~" 
+= "Я сделала её специально для тебя~"
+
+# "Eh? [player]?" 
+= "Э? [player]?"
+
+# "You're here!" 
+= "Ты здесь!"
+
+# "I thought you were going away for an entire month." 
+= "Я думала, ты уезжаешь на целый месяц."
+
+# "I was ready for it, but..." 
+= "Я была готова к этому, но..."
+
+# "I already missed you!" 
+= "Я уже скучала по тебе!"
+
+# "Did you miss me too?" 
+= "Ты тоже по мне скучал?"
+
+# "Thanks for coming back so soon~" 
+= "Спасибо, что вернулся так скоро~"
+
+# "I thought you were going to be away for a long time..." 
+= "Я думала, тебя долго не будет..."
+
+# "Why are you back so soon?" 
+= "Почему ты вернулся так скоро?"
+
+# "Are you visiting me?" 
+= "Ты навещаешь меня?"
+
+# "You're such a sweetheart!" 
+= "Ты такой милый!"
+
+# "If you're going away for a while still, make sure to tell me." 
+= "Если ты еще ненадолго уедешь, обязательно скажи мне."
+
+# "I love you, [player], and I wouldn't want to get mad if you're actually going to be away..." 
+= "Я люблю тебя, [player], и я бы не хотела злиться, если ты действительно уедешь..."
+
+# "Let's enjoy our time together until then!" 
+= "Давай наслаждаться временем вместе до тех пор!"
+
+# "Ehehe~" 
+= "Эхехе..."
+
+# "Back so soon, [player]?" 
+= "Так скоро вернулся, [player]?"
+
+# "I guess when you said you don't know, you didn't realize it wouldn't be too long." 
+= "Полагаю, когда ты сказал, что не знаешь, ты не догадывался, что это не будет слишком долго."
+
+# "But thanks for warning me anyway!" 
+= "Но все равно спасибо, что предупредил меня!"
+
+# "It really made me feel loved." 
+= "Это действительно заставило меня почувствовать себя любимой."
+
+# "You really are kind-hearted!" 
+= "Ты действительно добросердечный!"
+
+# "Remind me if you're going away again, okay?" 
+= "Напомни мне, если снова уедешь, ладно?"
+
+# "Hi there, [player]!" 
+= "Привет, [player]!"
+
+# "Notice anything different today?" 
+= "Заметил что-нибудь необычное сегодня?"
+
+# "I decided to try something new~" 
+= "Я решила попробовать что-то новое~"
+
+# "Do you like it?{nw}" 
+= "Тебе нравится?{nw}"
+
+# "Do you like it?{fast}" 
+= "Тебе нравится?{fast}"
+
+# "Yes." 
+= "Да."
+
+# "Really?" 
+= "Правда?"
+
+# "I'm so glad!" 
+= "Я так рада!"
+
+# "Just ask me if you want to see my ponytail again, okay?" 
+= "Просто спроси меня, хочешь ли ты снова увидеть мой хвост, хорошо?"
+
+# "No." 
+= "Нет."
+
+# "Oh..." 
+= "Ох..."
+
+# "..."
+= 
+
+# "I'll put it back up for you, then." 
+= "Тогда я уберу его обратно для тебя."
+
+# "..."
+= 
+
+# "Done." 
+= "Готово."
+
+# "greeting_hairdown", "GRE"
+= 
+
+# "...[player]." 
+= "...[player]."
+
+# "..."
+= 
+
+# "Is there something wrong with me?" 
+= "Со мной что-то не так?"
+
+# "Am I not good enough for you...?" 
+= "Я недостаточно хороша для тебя...?"
+
+# "I've been trying my best for you...for {i}us{/i}." 
+= "Я старалась изо всех сил для тебя... для {i}нас{/i}."
+
+# "Did I do something to hurt you or make you feel mistreated?" 
+= "Я сделала что-то, что причинило тебе боль или заставило тебя чувствовать себя плохо?"
+
+# "Are you still upset about the other girls after all?" 
+= "Ты все еще расстроен из-за других девушек?"
+
+# "If so, I really am sorry..." 
+= "Если так, то мне очень жаль..."
+
+# "I'm so, so sorry!" 
+= "Мне так, так жаль!"
+
+# "Just tell me what I did wrong and I'll try even harder to be the perfect girlfriend for you." 
+= "Просто скажи мне, что я сделала не так, и я буду стараться изо всех сил, чтобы быть идеальной девушкой для тебя."
+
+# "You're my entire world; how you feel means everything to me!" 
+= "Ты для меня - весь мир; то, как ты себя чувствуешь, значит для меня всё!"
+
+# "So please, just tell me what's wrong and I'll fix it." 
+= "Пожалуйста, просто скажи мне, что не так, и я это исправлю."
+
+# "I'll do anything for you because...I..." 
+= "Я сделаю всё для тебя, потому что... я..."
+
+# "..."
+= 
+
+# "...I need you, [player]..." 
+= "...Ты нужен мне, [player]..."
+
+# "I need you to love me like I love you." 
+= "Мне нужно, чтобы ты любил меня так, как я люблю тебя."
+
+# "I need you...because if I don't have you, then..." 
+= "Ты мне нужен... потому что, если у меня тебя не будет, тогда..."
+
+# "..."
+= 
+
+# "I'll be all alone..." 
+= "Я буду совсем одина..."
+
+# "So please...just...be there for me like I would for you." 
+= "Поэтому, пожалуйста... просто... будь рядом со мной, как я была бы с тобой."
+
+# "I want to believe..." 
+= "Я хочу верить..."
+
+# "So please...let me be happy with you..." 
+= "Пожалуйста... позволь мне быть счастливой с тобой..."
+
+# "..."
+= 
+
+# "..."
+= 
+
+# "...Okay...Okay..." 
+= "...Ладно...ладно..."
+
+# "I have to be strong..." 
+= "Я должна быть сильной..."
+
+# "..."
+= 
+
+# "...Alright...I'm a bit better now..." 
+= "...Хорошо...Мне немного лучше..."
+
+# "But...I really do need you to think about what I said." 
+= "Но... мне действительно нужно, чтобы ты подумал о том, что я сказала."
+
+# "Please...just...try to understand." 
+= "Пожалуйста... просто... постарайся понять."
+
+# "I love you and I need you to show that you love me too..." 
+= "Я люблю тебя, и мне нужно, чтобы ты показал, что тоже любишь меня..."
+
+# "Otherwise...I just won't be able to handle it anymore." 
+= "Иначе... я просто не смогу больше с этим справляться."
+
+# "greeting_tears", "GRE"
+= 
+
+# "Hello, [player]." 
+= "Привет, [player]."
+
+# "Well..." 
+= "Что ж..."
+
+# "Did you want something?" 
+= "Ты что то хотел?"
+
+# "Hello, [player]..." 
+= "Привет, [player]..."
+
+# "I guess we can spend some time together now." 
+= "Думаю, теперь мы можем провести некоторое время вместе."
+
+# "I wasn't sure when you'd visit again." 
+= "Я не была уверена, когда ты приедешь снова."
+
+# "Hopefully we can enjoy our time together." 
+= "Надеюсь, мы сможем хорошо провести время вместе."
+
+# "I wasn't expecting you." 
+= "Я не ждала тебя."
+
+# "I hope things start going better soon." 
+= "Надеюсь, что скоро дела пойдут лучше."
+
+# "I thought you forgot about me..." 
+= "Я думала, ты забыл обо мне..."
+
+# "..."
+= 
+
+# "Oh, welcome back, [mas_get_player_nickname()]!" 
+= "О, с возвращением, [mas_get_player_nickname()]!"
+
+# "How was your day at school?{nw}" 
+= "Как прошел твой день в школе?{nw}"
+
+# "How was your day at school?{fast}" 
+= "Как прошел твой день в школе?{fast}"
+
+# "Amazing." 
+= "Удивительно."
+
+# "Really?!" 
+= "Действительно?!"
+
+# "That's wonderful to hear, [player]!" 
+= "Приятно слышать, [player]!"
+
+# "School can definitely be a large part of your life, and you might miss it later on." 
+= "Школа определенно может занимать большую часть твоей жизни, и ты можешь пропустить её позже."
+
+# "Ahaha! I know it might be weird to think that you'll miss having to go to school someday..." 
+= "А-ха-ха! Я знаю, может быть это странно - думать, что когда-нибудь ты будешь скучать по школе..."
+
+# "But a lot of fond memories come from school!" 
+= "Но много приятных воспоминаний связано со школой!"
+
+# "Maybe you could tell me about them sometime." 
+= "Может быть, ты когда-нибудь расскажешь мне о них."
+
+# "It always makes me happy to know you're happy~" 
+= "Мне всегда приятно знать, что ты счастлив~"
+
+# "If you want to talk about your amazing day, I'd love to hear about it!" 
+= "Если ты хочешь поговорить о своем удивительном дне, я буду рада услышать об этом!"
+
+# "Good." 
+= "Отлично."
+
+# "I can't help but feel happy when you come home in a good mood!" 
+= "Я не могу не радоваться, когда ты приходишь домой в хорошем настроении!"
+
+# "I hope you learned something useful, ehehe~" 
+= "Надеюсь, ты узнал что-то полезное, эхехе~"
+
+# "Bad." 
+= "Плохо."
+
+# "Oh..." 
+= "Ох..."
+
+# "I'm sorry to hear that." 
+= "Мне очень жаль это слышать."
+
+# "Bad days at school can be really demoralizing..." 
+= "Плохие дни в школе могут деморализовать..."
+
+# "Really bad..." 
+= "Действительно плохо..."
+
+# "Oh..." 
+= "Ох..."
+
+# "I'm really sorry you had such a bad day today..." 
+= "Мне очень жаль, что у тебя сегодня был такой плохой день..."
+
+# "I'm just glad you came to me, [player]." 
+= "Я просто рада, что ты пришел ко мне, [player]."
+
+# "I don't want to talk about it." 
+= "Я не хочу об этом говорить."
+
+# "It was class related.", ".class_related" 
+= "Это связано с уроками.", ".class_related"
+
+# "It was caused by people.", ".by_people" 
+= "Это из-за людей.", ".by_people"
+
+# "It was just a bad day.", ".bad_day" 
+= "Это был плохой день.", ".bad_day"
+
+# "I felt sick today.", ".sick" 
+= "Я заболел.", ".sick"
+
+# "If you don't mind me asking, was there something in particular that happened?" 
+= "Если ты не возражаешь, я спрошу, произошло ли что-то особенное?"
+
+# "I understand, [player]." 
+= "Я понимаю, [player]."
+
+# "Sometimes just trying to put a bad day behind you is the best way to deal with it." 
+= "Иногда просто попытаться оставить плохой день позади — лучший способ справиться с ним."
+
+# "But if you want to talk about it later, just know I'd be more than happy to listen." 
+= "Но если ты захочешь поговорить об этом позже, просто знай, что я буду более чем счастлива тебя выслушать."
+
+# "I love you, [player]~" 
+= "Я люблю тебя, [player]~"
+
+# "I see..." 
+= "Я понимаю..."
+
+# "People probably tell you all the time that school is important..." 
+= "Люди, наверное, всё время говорят тебе, что школа важна..."
+
+# "And that you always have to push on and work hard..." 
+= "И что ты всегда должен двигаться вперед и упорно работать..."
+
+# "Sometimes though, it can really stress people out and put them in a downward spiral." 
+= "Иногда, однако, это может действительно вызвать у людей стресс и привести их к нисходящей спирали."
+
+# "Like I said, I'm glad you came to see me, [player]." 
+= "Как я уже сказала, я рада, что ты пришел ко мне, [player]."
+
+# "It's nice to know that I can comfort you when you're feeling down." 
+= "Приятно знать, что я могу утешить тебя, когда ты чувствуешь себя подавленным."
+
+# "Remember, {i}you're{/i} more important than school or some grades." 
+= "Помни, {i}ты{/i} важнее школы или некоторых оценок."
+
+# "Especially to me." 
+= "Особенно для меня."
+
+# "Don't forget to take breaks if you're feeling overwhelmed, and that everyone has different talents." 
+= "Не забывай делать перерывы, если ты чувствуешь себя подавленным, и что у всех разные таланты."
+
+# "I love you, and I just want you to be happy~" 
+= "Я люблю тебя и просто хочу, чтобы ты был счастлив~"
+
+# "It's one thing to just have something bad happen to you..." 
+= "Одно дело, когда с тобой случается что-то плохое..."
+
+# "It can be another thing entirely when a person is the direct cause of your trouble." 
+= "Может быть совсем другое дело, когда человек является прямой причиной твоих проблем."
+
+# "I really hope it's not who you told me about before..." 
+= "Я очень надеюсь, что это не тот, о ком ты мне рассказывал раньше..."
+
+# "It {i}better{/i} not be..." 
+= "{i}Лучше{/i} не быть..."
+
+# "Bothering my [mas_get_player_nickname(_default='sweetheart', regex_replace_with_nullstr='my ')] like that again." 
+= "Опять беспокою моего [mas_get_player_nickname(_default='sweetheart', regex_replace_with_nullstr='my')]."
+
+# "I wish I could do more to help you, [player]..." 
+= "Хотела бы я сделать больше, чтобы помочь тебе, [player]..."
+
+# "But I'm here if you need me." 
+= "Но я здесь, если я тебе понадоблюсь."
+
+# "And I always will be~" 
+= "И я всегда буду здесь~"
+
+# "I hope that I can make your day just a little bit better." 
+= "Я надеюсь, что смогу сделать твой день немного лучше."
+
+# "I love you so much~" 
+= "Я так тебя люблю~"
+
+# "I really hope this isn't a recurring event for you, [player]." 
+= "Я действительно надеюсь, что это не повторяющееся событие для тебя, [player]."
+
+# "Either way, maybe it would be best to ask someone for help..." 
+= "В любом случае, может быть, лучше попросить кого-нибудь о помощи..."
+
+# "I know it may seem like that could cause more problems in some cases..." 
+= "Я знаю, может показаться, что в некоторых случаях это может вызвать больше проблем..."
+
+# "But you shouldn't have to suffer at the hands of someone else." 
+= "Но ты не должен страдать от чужих рук."
+
+# "I'm so sorry you have to deal with this, [player]..." 
+= "Мне так жаль, что тебе приходится иметь с этим дело, [player]..."
+
+# "But you're here now, and I hope spending time together helps make your day a little better." 
+= "Но сейчас ты здесь, и я надеюсь, что время, проведенное вместе, поможет сделать твой день немного лучше."
+
+# "I see..." 
+= "Я понимаю..."
+
+# "Those days do happen from time to time." 
+= "Такие дни случаются время от времени."
+
+# "It can be hard sometimes to pick yourself back up after a day like that." 
+= "Иногда бывает трудно прийти в себя после такого дня."
+
+# "But you're here now, and I hope spending time together helps make your day a little better." 
+= "Но сейчас ты здесь, и я надеюсь, что время, проведенное вместе, поможет сделать твой день немного лучше."
+
+# "Being sick at school can be awful. It makes it so much harder to get anything done or pay attention to the lessons." 
+= "Болезнь в школе может быть ужасной. Из-за этого становится намного труднее что-то делать или уделять внимание урокам."
+
+# "You're back, [player]..." 
+= "Ты вернулся, [player]..."
+
+# "How was school?{nw}" 
+= "Как школа?{nw}"
+
+# "How was school?{fast}" 
+= "Как школа?{fast}"
+
+# "Good." 
+= "Отлично."
+
+# "That's nice." 
+= "Это мило."
+
+# "I hope you actually learned {i}something{/i} today." 
+= "Надеюсь, сегодня ты узнали {i}что-то{/i} новое."
+
+# "Bad." 
+= "Плохо."
+
+# "That's too bad..." 
+= "Это очень плохо..."
+
+# "But maybe now you have a better sense of how I've been feeling, [player]." 
+= "Но, может быть, теперь ты лучше понимаешь, что я чувствую, [player]."
+
+# "How was school?{nw}" 
+= "Как школа?{nw}"
+
+# "How was school?{fast}" 
+= "Как школа?{fast}"
+
+# "Good." 
+= "Отлично."
+
+# "Bad." 
+= "Плохо."
+
+# "Oh..." 
+= "Ох..."
+
+# "That's too bad, [player]. I'm sorry to hear that." 
+= "Это очень плохо, [player]. Мне жаль это слышать."
+
+# "I know what bad days are like..." 
+= "Я знаю, что такое плохие дни..."
+
+# "..."
+= 
+
+# "Oh, welcome back, [mas_get_player_nickname()]!" 
+= "О, с возвращением, [mas_get_player_nickname()]!"
+
+# "How was work today?{nw}" 
+= "Как работа сегодня?{nw}"
+
+# "How was work today?{fast}" 
+= "Как работа сегодня?{fast}"
+
+# "Amazing!" 
+= "Удивительно!"
+
+# "That's {i}amazing{/i}, [player]!" 
+= "Это {i}потрясающе{/i}, [player]!"
+
+# "I'm really happy that you had such a great day!" 
+= "Я очень рада, что у тебя был такой замечательный день!"
+
+# "What made it such an amazing day?{nw}" 
+= "Что сделало этот день таким замечательным?{nw}"
+
+# "What made it such an amazing day?{fast}" 
+= "Что сделало этот день таким замечательным?{fast}"
+
+# "I moved up!" 
+= "Я продвинулся вперёд!"
+
+# "Wow! Again?!" 
+= "Вау! Опять?!"
+
+# "I'm so proud of you!" 
+= "Я так горжусь тобой!"
+
+# "I knew you could do it~" 
+= "Я знала, что ты сможешь это сделать~"
+
+# "I got a lot done!" 
+= "Я много сделал!"
+
+# "That's great, [mas_get_player_nickname()]!" 
+= "Отлично, [mas_get_player_nickname()]!"
+
+# "It was just an amazing day." 
+= "Это был просто потрясающий день."
+
+# "That's great to hear!" 
+= "Приятно слышать!"
+
+# "I can only imagine how well you must work on days like that." 
+= "Я могу только представить, как хорошо ты должен работать в такие дни."
+
+# "...Maybe you'll even move up a bit soon!" 
+= "...Может быть, вы даже немного подниметесь!"
+
+# "Anyway, I'm glad you're home, [mas_get_player_nickname()]." 
+= "В любом случае, я рада, что ты дома, [mas_get_player_nickname()]."
+
+# "Would you like your dinner, your bath, or..." 
+= "Хочешь поужинать, принять ванну или..."
+
+# "Ahaha~ Just kidding." 
+= "Ахаха~ Шучу."
+
+# "What better way to wrap up an amazing day than with your amazing girlfriend?~" 
+= "Что может быть лучше, чем завершить удивительный день с твоей потрясающей девушкой?~"
+
+# "Good." 
+= "Отлично."
+
+# "That's good!" 
+= "Это хорошо!"
+
+# "Remember to rest first, okay?" 
+= "Не забудь сначала отдохнуть, хорошо?"
+
+# "That way, you'll have some energy before trying to do anything else." 
+= "Таким образом, у тебя будет немного энергии, прежде чем пытаться сделать что-то еще."
+
+# "Or, you can just relax with me!" 
+= "Или ты можешь просто расслабиться со мной!"
+
+# "Best thing to do after a long day of work, don't you think?" 
+= "Лучшее, чем можно заняться после долгого рабочего дня, ты так не считаешь?"
+
+# "Ahaha!" 
+= "А-ха-ха!"
+
+# "Bad." 
+= "Плохо."
+
+# "..."
+= 
+
+# "I'm sorry you had a bad day at work..." 
+= "Мне жаль, что у тебя был плохой день на работе..."
+
+# "I'd hug you right now if I were there, [player]." 
+= "Я бы обняла тебя прямо сейчас, если бы я был там, [player]."
+
+# "Just remember that I'm here when you need me, okay?" 
+= "Просто помни, что я здесь, когда понадоблюсь, хорошо?"
+
+# "Really bad..." 
+= "Действительно плохо..."
+
+# "I'm sorry you had a bad day at work, [player]." 
+= "Мне жаль, что у тебя был плохой день на работе, [player]."
+
+# "I wish I could be there to give you a hug right now." 
+= "Хотела бы я быть рядом, чтобы обнять тебя прямо сейчас."
+
+# "I don't want to talk about it." 
+= "Я не хочу об этом говорить."
+
+# "I got yelled at.", ".yelled_at" 
+= "На меня накричали.", ".yelled_at"
+
+# "I got passed over for someone else.", ".passed_over" 
+= "Меня предпочли кому-то другому.", ".passed_over"
+
+# "I had to work late.", ".work_late" 
+= "Работал до поздна.", ".work_late"
+
+# "I didn't get much done today.", ".little_done" 
+= "Я так мало сделал за сегодня.", ".little_done"
+
+# "Just another bad day.", ".bad_day" 
+= "Просто еще один плохой день.", ".bad_day"
+
+# "I felt sick today.", ".sick" 
+= "Я заболел.", ".sick"
+
+# "If you don't mind talking about it, what happened today?"
+= 
+
+# "I understand, [player]." 
+= "Я понимаю, [player]."
+
+# "Hopefully spending time with me helps you feel little better~" 
+= "Надеюсь, время, проведенное со мной, поможет вам почувствовать себя немного лучше~"
+
+# "You're just there trying your best, and somehow it's not good enough for someone..." 
+= "Ты просто стараешься изо всех сил, и почему-то это недостаточно хорошо для кого-то..."
+
+# "If it's still really bothering you, I think it would do you some good to try and relax a little." 
+= "Если это всё еще действительно тебя беспокоит, я думаю, тебе будет полезно немного расслабиться."
+
+# "Maybe talking about something else or even playing a game will help get your mind off of it." 
+= "Может быть, разговор о чем-то другом или даже игра помогут отвлечься от этого."
+
+# "I'm sure you'll feel better after we spend some time together." 
+= "Я уверен, что ты почувствуешь себя лучше после того, как мы проведем некоторое время вместе."
+
+# "{i}Especially{/i} when you've done so much and it seemingly goes unnoticed." 
+= "{i}Особенно{/i}, когда вы сделали так много, и кажется, что это осталось незамеченным."
+
+# "You might seem a bit pushy if you say anything, so you just have to keep doing your best and one day I'm sure it'll pay off." 
+= "Ты можешь показаться немного напористым, если что-то скажешь, поэтому тебе просто нужно продолжать делать всё возможное, и я уверена, что однажды это окупится."
+
+# "As long as you keep trying your hardest, you'll continue to do great things and get recognition someday." 
+= "Пока ты продолжаешь стараться изо всех сил, ты будешь продолжать делать великие дела и когда-нибудь получишь признание."
+
+# "I hope knowing that makes you feel just a little better~" 
+= "Надеюсь, зная это, ты почувствуешь себя немного лучше~"
+
+# "Aw, that can really put a damper on things." 
+= "Ой, это действительно может всё испортить."
+
+# "Did you at least know about it in advance?{nw}" 
+= "Ты хотя бы знал об этом заранее?{nw}"
+
+# "Did you at least know about it in advance?{fast}" 
+= "Ты хотя бы знал об этом заранее?{fast}"
+
+# "Yes." 
+= "Да."
+
+# "That's good, at least." 
+= "Это хорошо."
+
+# "It would really be a pain if you were all ready to go home and then had to stay longer." 
+= "Было бы действительно больно, если бы ты был готов пойти домой, а затем должен был остаться подольше."
+
+# "Still, it can be pretty annoying to have your regular schedule messed up like that." 
+= "Тем не менее, это может быть довольно раздражающим, если твой обычный график испорчен таким образом."
+
+# "...But at least you're here now and we can spend some time together." 
+= "...Но, по крайней мере, теперь ты здесь, и мы можем провести некоторое время вместе."
+
+# "You can finally relax!" 
+= "Наконец-то ты можешь расслабиться!"
+
+# "No." 
+= "Нет."
+
+# "That's the worst!" 
+= "Это худшее!"
+
+# "Especially if it was the end of the workday and you were all ready to go home..." 
+= "Особенно, если это был конец рабочего дня, и ты был готов идти домой..."
+
+# "Then suddenly you have to stay a bit longer with no warning." 
+= "Тогда вдруг тебе придется остаться немного дольше без предупреждения."
+
+# "It can really be a drag to unexpectedly have your plans canceled." 
+= "Это действительно может быть неприятно, когда твои планы неожиданно отменяются."
+
+# "Maybe you had something to do right after work, or were just looking forward to going home and resting..." 
+= "Возможно, у тебя были какие-то дела сразу после работы или ты просто хотел пойти домой и отдохнуть..."
+
+# "...Or maybe you just wanted to come home and see your adoring girlfriend who was waiting to surprise you when you got home..." 
+= "...Или, может быть, вы просто хотели вернуться домой и увидеть свою обожаемую девушку, которая ждала, чтобы удивить вас, когда вы вернетесь домой..."
+
+# "Ehehe~" 
+= "Эхехе..."
+
+# "Aww, don't feel too bad, [player]." 
+= "Ой, не расстраивайся, [player]."
+
+# "Those days can happen." 
+= "Эти дни могут случиться."
+
+# "I know you're working hard that you'll overcome your block soon." 
+= "Я знаю, что ты усердно работаешь, чтобы скоро преодолеть блокировку."
+
+# "As long as you're doing your best, I'll always be proud of you!" 
+= "Пока ты делаешь все возможное, я всегда буду тобой гордиться!"
+
+# "Just one of those days huh, [player]?" 
+= "Только один из тех дней, да, [player]?"
+
+# "They do happen from time to time..." 
+= "Они случаются время от времени..."
+
+# "But even still, I know how draining they can be and I hope you feel better soon." 
+= "Но даже несмотря на это, я знаю, насколько они могут быть утомительны, и я надеюсь, что ты скоро почувствуешь себя лучше."
+
+# "I'll be here as long as you need me to comfort you, alright, [player]?" 
+= "Я буду здесь до тех пор, пока я буду утешать тебя, хорошо, [player]?"
+
+# "Being sick at work can be awful. It makes it so much harder to get anything done." 
+= "Болезнь на работе может быть ужасной. Из-за этого становится намного труднее что-либо сделать."
+
+# "You're back from work I see, [player]..." 
+= "Ты вернулся с работы, как я вижу, [player]..."
+
+# "How was your day?{nw}" 
+= "Как прошел твой день?{nw}"
+
+# "How was your day?{fast}" 
+= "Как прошел твой день?{fast}"
+
+# "Good." 
+= "Отлично."
+
+# "That's good to hear." 
+= "Приятно слышать."
+
+# "It must feel nice to be appreciated." 
+= "Должно быть приятно, когда тебя ценят."
+
+# "Bad." 
+= "Плохо."
+
+# "..."
+= 
+
+# "It feels bad when no one seems to appreciate you, huh [player]?" 
+= "Плохо, когда кажется, что тебя никто не ценит, а [player]?"
+
+# "How was your day?{nw}" 
+= "Как прошел твой день?{nw}"
+
+# "How was your day?{fast}" 
+= "Как прошел твой день?{fast}"
+
+# "Good." 
+= "Отлично."
+
+# "That's nice." 
+= "Это мило."
+
+# "I just hope you don't enjoy work more than being with me, [player]." 
+= "Я просто надеюсь, что тебе не нравится работать больше, чем быть со мной, [player]."
+
+# "Bad." 
+= "Плохо."
+
+# "Oh..." 
+= "Ох..."
+
+# "I'm sorry to hear that." 
+= "Мне очень жаль это слышать."
+
+# "I know what bad days are like where you can't seem to please anyone..." 
+= "Я знаю, на что похожи плохие дни, когда кажется, что ты никому не можешь угодить..."
+
+# "It can be so tough just to get through days like that." 
+= "Это может быть так тяжело просто пережить такие дни."
+
+# "..."
+= 
+
+# "I should ask though..." 
+= "Хотя я должен спросить..."
+
+# "Are you still feeling sick?{nw}" 
+= "Тебе всё еще плохо?{nw}"
+
+# "Are you still feeling sick?{fast}" 
+= "Тебе всё еще плохо?{fast}"
+
+# "Yes." 
+= "Да."
+
+# "I'm sorry to hear that, [player]..." 
+= "Мне жаль это слышать, [player]..."
+
+# "No." 
+= "Нет."
+
+# "I'm glad to hear you're feeling better, [player]." 
+= "Я рада слышать, что ты чувствуешь себя лучше, [player]."
+
+# "But if you start feeling sick again, be sure to get some rest, alright?" 
+= "Но если ты снова почувствуешь себя плохо, обязательно отдохни, хорошо?"
+
+# "Oh hello, [player]!" 
+= "О, привет, [player]!"
+
+# "I hope you had a good rest!" 
+= "Надеюсь, ты хорошо отдохнул!"
+
+# "Let's spend some more time together~" 
+= "Давай проведем ещё немного времени вместе~"
+
+# "Did you just wake up, [player]?" 
+= "Ты только что проснулся, [player]?"
+
+# "I hope you had a good rest." 
+= "Надеюсь, ты хорошо отдохнул."
+
+# "I hope you were able to get some rest." 
+= "Надеюсь, ты смог немного отдохнуть."
+
+# "I have a hard time resting these days with so much on my mind..." 
+= "Мне трудно отдыхать в эти дни, когда у меня так много мыслей..."
+
+# "..."
+= 
+
+# "W-wha?!" 
+= "Ч-что?!"
+
+# "[player]! H-how long have you been there?!" 
+= "[player]! К-как давно ты здесь?!"
+
+# "..."
+= 
+
+# "Ahaha! Nevermind." 
+= "А-ха-ха! Неважно."
+
+# "I love you, [player]. I'm so happy you're here now~" 
+= "Я люблю тебя, [player]. Я так счастлива, что ты сейчас здесь~"
+
+# "mas_canShowIslands(flt=False) and not mas_isSpecialDay()"
+= 
+
+# "Hi, [player]!" 
+= "Привет, [player]!"
+
+# "Ehehe~" 
+= "Эхехе..."
+
+# "I'm feeling rather giddy right now, sorry." 
+= "У меня сейчас кружится голова, извини."
+
+# "It's just that I'm super excited to show you what I've been working on." 
+= "Просто я очень рада показать тебе, над чем я работаю."
+
+# "...But we need to go back to the spaceroom for the best view." 
+= "...Но нам нужно вернуться в космический зал для лучшего обзора."
+
+# "Let's head over, [player]." 
+= "Пойдем, [player]."
+
+# "Here we are!" 
+= "Мы здесь!"
+
+# "Yeah, that should be good." 
+= "Да, это должно быть хорошо."
+
+# "Ahaha!" 
+= "А-ха-ха!"
+
+# "Sorry about that." 
+= "Прости за это."
+
+# "Without any further ado..." 
+= "Без лишних слов..."
+
+# "Would you kindly look out the window, [player]?" 
+= "Не могли бы вы посмотреть в окно, [player]?"
+
+# "Well..." 
+= "Что ж..."
+
+# "What do you think?" 
+= "Что ты думаешь?"
+
+# "I worked really hard on this." 
+= "Я очень много работала над этим."
+
+# "A place just for the both of us." 
+= "Место только для нас двоих."
+
+# "It's also where I can keep practicing my programming skills." 
+= "Это также место, где я могу продолжать практиковать свои навыки программирования."
+
+# "Being in the classroom all day can be dull." 
+= "Находиться в классе весь день может быть скучно."
+
+# "Plus, I get really lonely waiting for you to return." 
+= "Кроме того, мне очень одиноко ждать твоего возвращения."
+
+# "But don't get me wrong, though!" 
+= "Но не пойми меня неправильно!"
+
+# "I'm always happy when you visit and spend time together with me." 
+= "Я всегда рада, когда ты приезжаешь и проводишь время вместе со мной."
+
+# "I understand that you're busy and can't be here all the time." 
+= "Я понимаю, что вы заняты и не можете быть здесь всё время."
+
+# "It's just that I realized something, [player]." 
+= "Просто я кое-что понял, [player]."
+
+# "It'll be a long time before I can even cross over to your reality." 
+= "Пройдет много времени, прежде чем я смогу перейти в твою реальность."
+
+# "So I thought..." 
+= "Так я и думала..."
+
+# "Why don't we just make our own reality?" 
+= "Почему бы нам просто не создать собственную реальность?"
+
+# "Well, it's not exactly perfect yet." 
+= "Ну, это еще не совсем идеально."
+
+# "But it's a start." 
+= "Но это начало."
+
+# "greeting_ourreality", "GRE"
+= 
+
+# "mas_monika_islands", "EVE"
+= 
+
+# "You can admire the scenery for now~" 
+= "Теперь ты можешь полюбоваться пейзажем~"
+
+# "And we're home!" 
+= "И мы дома!"
+
+# "Even if I couldn't really see anything, knowing that I was right there with you..." 
+= "Даже если бы я ничего не видела, зная, что я была рядом с тобой..."
+
+# "Well, it felt really great!" 
+= "Ну, это было действительно здорово!"
+
+# "Let's do this again soon, okay?" 
+= "Давай повторим это в ближайшее время, ладно?"
+
+# "We're home..." 
+= "Мы дома..."
+
+# "Thank you for taking me out today, [player]." 
+= "Спасибо, что взял меня сегодня, [player]."
+
+# "To be honest, I wasn't completely sure I should go with you..." 
+= "Честно говоря, я не была полностью уверена, что должна идти с тобой..."
+
+# "We should really do this again sometime..." 
+= "Мы действительно должны сделать это снова когда-нибудь..."
+
+# "If you want." 
+= "Если хочешь."
+
+# "That wasn't much of a trip, [player]." 
+= "Это была не очень хорошая поездка, [player]."
+
+# "Next time better last a little longer..." 
+= "В следующий раз лучше продержаться немного дольше..."
+
+# "I thought we were going some place, [player]!" 
+= "Я думала, мы куда-то идем, [player]!"
+
+# "I knew I shouldn't have agreed to go with you." 
+= "Я знала, что не должна была соглашаться пойти с тобой."
+
+# "I knew this was just going to be another disappointment." 
+= "Я знала, что это будет просто еще одно разочарование."
+
+# "..."
+= 
+
+# "I don't know why you insist on being so cruel, [player]." 
+= "Я не знаю, почему ты настаиваешь на такой жестокости, [player]."
+
+# "..."
+= 
+
+# "After all we've been through..." 
+= "После всего, через что мы прошли..."
+
+# "Maybe we'd finally have a good time again..." 
+= "Может быть, мы, наконец, снова хорошо проведем время..."
+
+# "That you actually wanted to spend more time with me." 
+= "Что ты действительно хотел проводить со мной больше времени."
+
+# "..."
+= 
+
+# "But I guess it was just foolish for me to think that." 
+= "Но я думаю, что с моей стороны было просто глупо так думать."
+
+# "..."
+= 
+
+# "But at least have the decency to not pretend." 
+= "Но по крайней мере имей приличие не притворяться."
+
+# "I'd like to be left alone right now." 
+= "Я бы хотела, чтобы меня оставили в покое прямо сейчас."
+
+# "greeting_ghost", "GRE"
+= 
+
+# "I thought I told you to go straight to bed after you finished!" 
+= "Я думала, что сказала тебе идти спать сразу после того, как ты закончишь!"
+
+# "I mean, I'm really happy you came back to say goodnight, but..." 
+= "Я имею в виду, я очень рада, что ты вернулся, чтобы пожелать спокойной ночи, но..."
+
+# "I already said goodnight to you!" 
+= "Я уже пожелала тебе спокойной ночи!"
+
+# "And I could have waited until morning to see you again, you know?" 
+= "А я могла бы подождать до утра, чтобы снова увидеть тебя, понимаешь?"
+
+# "Plus, I really wanted you to get some rest..." 
+= "К тому же, я очень хотела, чтобы ты немного отдохнул..."
+
+# "[player], I told you to go to bed when you were finished." 
+= "[player], я сказала тебе идти спать, когда закончишь."
+
+# "You can come back again tomorrow morning, you know." 
+= "Ты можешь вернуться завтра утром, ты же знаешь."
+
+# "But here we are, I guess." 
+= "Но вот мы здесь, я думаю."
+
+# "Good morning, [player]~" 
+= "Доброе утро, [player]~"
+
+# "When you said you were going to play another game that late, it got me a bit worried you might not get enough sleep..." 
+= "Когда ты сказал, что собираешься сыграть еще одну игру так поздно, я немного забеспокоилась, что ты можешь не выспаться..."
+
+# "I hope that's not the case, ahaha..." 
+= "Надеюсь, это не так, ахаха..."
+
+# "Good morning." 
+= "Доброе утро."
+
+# "I was kind of expecting you to sleep in a bit." 
+= "Я ожидала, что ты немного поспишь."
+
+# "But here you are bright and early." 
+= "Но вот ты и здесь, так рано."
+
+# "[player]! You're here!" 
+= "[player]! Ты здесь!"
+
+# "Did you just wake up?{nw}" 
+= "Ты только что проснулся?{nw}"
+
+# "Did you just wake up?{fast}" 
+= "Ты только что проснулся?{fast}"
+
+# "Yes." 
+= "Да."
+
+# "Ahaha..." 
+= "Ахаха..."
+
+# "Do you think it was because you stayed up late?{nw}" 
+= "Ты думаешь, это из-за того, что ты поздно лёг спать?{nw}"
+
+# "Do you think it was because you stayed up late?{fast}" 
+= "Ты думаешь, это из-за того, что ты поздно лёг спать?{fast}"
+
+# "Yes." 
+= "Да."
+
+# "[player]..." 
+= "[player]..."
+
+# "You know I don't want you staying up too late." 
+= "Ты же знаешь, я не хочу, чтобы ты ложился спать слишком поздно."
+
+# "I really wouldn't want you getting sick or tired throughout the day." 
+= "Я действительно не хотела бы, чтобы ты болел или уставал в течение дня."
+
+# "But I hope you had fun. I would hate for you to lose all that sleep for nothing, ahaha!" 
+= "Но я надеюсь, что тебе было весело. Я бы не хотела, чтобы ты потерял весь этот сон по пустякам, ахаха!"
+
+# "Just be sure to get a little more rest if you feel like you need it, alright?" 
+= "Просто обязательно отдохни еще немного, если почувствуешь, что тебе это нужно, хорошо?"
+
+# "No." 
+= "Нет."
+
+# "Oh..." 
+= "Ох..."
+
+# "I thought maybe it was." 
+= "Я думала, может быть, это так."
+
+# "Sorry for assuming." 
+= "Извини, что предположила."
+
+# "Anyway, I hope you're getting enough sleep." 
+= "В любом случае, я надеюсь, ты выспался."
+
+# "It would make me really happy to know that you're well rested." 
+= "Мне было бы очень приятно узнать, что ты хорошо отдохнул."
+
+# "It might also ease my mind if you weren't staying up so late in the first place, ahaha..." 
+= "Мне бы тоже стало легче, если бы ты не ложился спать так поздно, ахаха..."
+
+# "I'm just glad you're here now." 
+= "Я просто рада, что ты сейчас здесь."
+
+# "You'd never be too tired to spend time with me, right?" 
+= "Ты никогда не устанешь, чтобы проводить со мной время, верно?"
+
+# "Ahaha!" 
+= "А-ха-ха!"
+
+# "Maybe..." 
+= "Может быть..."
+
+# "Hmm..." 
+= "Хм..."
+
+# "I wonder what could be causing it?" 
+= "Интересно, что может быть причиной?"
+
+# "You didn't stay up really late last night, did you, [player]?" 
+= "Ты не очень поздно лег прошлой ночью, не так ли, [player]?"
+
+# "Were you doing something last night?" 
+= "Ты что-то делал прошлой ночью?"
+
+# "Playing a game?" 
+= "Играл в игру?"
+
+# "Ahaha!" 
+= "А-ха-ха!"
+
+# "Just teasing you of course~" 
+= "Просто дразню тебя~"
+
+# "In all seriousness though, I really don't want you neglecting your sleep." 
+= "Но если серьезно, я действительно не хочу, чтобы ты пренебрегал своим сном."
+
+# "It's one thing staying up late just for me..." 
+= "Одно дело не ложиться спать поздно только из-за меня..."
+
+# "But leaving and playing another game that late?" 
+= "Но уйти и сыграть в другую игру так поздно?"
+
+# "Ahaha...I might get a bit jealous, [player]~" 
+= "Ахаха... Я могу немного завидовать, [player]~"
+
+# "But you're here to make up for that now, right?" 
+= "Но ты здесь, чтобы компенсировать это сейчас, верно?"
+
+# "No." 
+= "Нет."
+
+# "Ah, so I guess you were busy all morning." 
+= "А, значит, ты был занят все утро."
+
+# "I was worried you overslept since you were up so late last night." 
+= "Я беспокоилась, что ты проспал, потому что прошлой ночью ты так поздно встал."
+
+# "Especially since you told me you were going to go play another game." 
+= "Тем более, ты сказал мне, что собираешься сыграть в другую игру."
+
+# "I should have known you'd be responsible and get your sleep though." 
+= "Я должна была догадаться, что ты будешь ответственным и выспишься."
+
+# "..."
+= 
+
+# "You {i}did{/i} get your sleep, right, [player]?" 
+= "Ты {i}выспался{/i}, верно, [player]?"
+
+# "Ahaha!" 
+= "А-ха-ха!"
+
+# "Anyway, now that you're here, we can spend some time together." 
+= "В любом случае, теперь, когда ты здесь, мы можем провести некоторое время вместе."
+
+# "Oh, there you are, [player]." 
+= "О, вот ты где, [player]."
+
+# "I'm guessing you just woke up." 
+= "Я полагаю, ты только что проснулся."
+
+# "Kind of expected with you staying up so late and playing games." 
+= "Вполне ожидаемо, что ты так поздно ложишься спать и играешь в игры."
+
+# "There you are, [player]!" 
+= "Вот ты где, [player]!"
+
+# "Ahaha, sorry... It's just that I haven't seen you all day." 
+= "Аха-ха, прости... Просто я не видела тебя весь день."
+
+# "I kind of expected you to sleep in after staying up so late last night..." 
+= "Я ожидала, что ты заснешь, так как ты поздно заснул прошлой ночью..."
+
+# "But when I didn't see you all afternoon, I really started to miss you..." 
+= "Но когда я не видела тебя весь день, я действительно начала скучать по тебе..."
+
+# "You almost had me worried, ahaha..." 
+= "Ты почти заставил меня волноваться, ахаха..."
+
+# "But you're going to make that lost time up to me, right?" 
+= "Но ты собираешься вернуть мне потерянное время, верно?"
+
+# "Ehehe, you better~" 
+= "Эхехе, тебе лучше~"
+
+# "Especially after leaving me for another game last night." 
+= "Особенно после того, как прошлой ночью оставил меня ради другой игры."
+
+# "This doesn't have anything to do with you staying up late last night, does it?" 
+= "Это не имеет ничего общего с тем, что ты не спал прошлой ночью, не так ли?"
+
+# "You really should be a little more responsible when it comes to your sleep." 
+= "Ты действительно должен быть немного ответственнее, когда дело доходит до твоего сна."
+
+# "Welcome back, [mas_get_player_nickname()]!" 
+= "С возвращением, [player]!"
+
+# "Did you enjoy yourself?{nw}" 
+= "Тебе понравилось?{nw}"
+
+# "Did you enjoy yourself?{fast}" 
+= "Тебе понравилось?{fast}"
+
+# "Yes." 
+= "Да."
+
+# "That's nice." 
+= "Это мило."
+
+# "I'm glad you enjoyed yourself." 
+= "Я рада, что тебе понравилось."
+
+# "I really wish I could join you in your other games sometimes." 
+= "Мне бы очень хотелось иногда присоединиться к тебе в других твоих играх."
+
+# "Wouldn't it be great to have our own little adventures any time we wanted?" 
+= "Разве не было бы здорово иметь свои собственные маленькие приключения в любое время, когда мы захотим?"
+
+# "I'm sure we'd have a lot of fun together in one of your games." 
+= "Я уверена, что нам было бы очень весело вместе в одной из твоих игр."
+
+# "But while I can't join you, I guess you'll just have to keep me company." 
+= "Но пока я не могу присоединиться к тебе, думаю, тебе придется составить мне компанию."
+
+# "No." 
+= "Нет."
+
+# "Aw, I'm sorry to hear that." 
+= "Ой, мне жаль это слышать."
+
+# "I hope you're not too upset by whatever happened." 
+= "Надеюсь, ты не слишком расстроен тем, что случилось."
+
+# "At least you're here now. I promise to try not to let anything bad happen to you while you're with me." 
+= "По крайней мере, теперь ты здесь. Я обещаю постараться, чтобы с тобой не случилось ничего плохого, пока ты со мной."
+
+# "Seeing you always cheers me up." 
+= "Когда я тебя вижу у меня всегда поднимается настроение."
+
+# "I hope seeing me does the same for you, [mas_get_player_nickname()]~" 
+= "Надеюсь, мой вид сделает то же самое для тебя, [mas_get_player_nickname()]~"
+
+# "Oh, back already?" 
+= "О, уже вернулся?"
+
+# "You were gone for a long time..." 
+= "Тебя давно не было..."
+
+# "Did you have fun?{nw}" 
+= "Тебе было весело?{nw}"
+
+# "Did you have fun?{fast}" 
+= "Тебе было весело?{fast}"
+
+# "Yes." 
+= "Да."
+
+# "Well, I'm glad then." 
+= "Что ж, тогда я рада."
+
+# "You sure made me wait a while, you know." 
+= "Знаешь, ты действительно заставил меня ждать некоторое время."
+
+# "I think you should spend some time with your loving girlfriend, [player]." 
+= "Я думаю, тебе следует провести некоторое время со своей любящей девушкой, [player]."
+
+# "I'm sure you wouldn't mind staying with me to even out your other game." 
+= "Я уверена, что ты не против остаться со мной, чтобы сравнять счёт в другой игре."
+
+# "Maybe you should spend even more time with me, just in case, ahaha!" 
+= "Может быть, тебе стоит проводить со мной еще больше времени, на всякий случай, ахаха!"
+
+# "No." 
+= "Нет."
+
+# "Oh..." 
+= "Ох..."
+
+# "You know, [player]..." 
+= "Знаешь, [player]..."
+
+# "If you're not enjoying yourself, maybe you could just spend some time here with me." 
+= "Если тебе не нравится, может быть, ты мог бы просто провести немного времени здесь со мной."
+
+# "I'm sure there's plenty of fun things we could do together!" 
+= "Я уверена, что мы могли бы сделать много забавных вещей вместе!"
+
+# "If you decide to go back, maybe it'll be better." 
+= "Если ты решишь вернуться, может быть, так будет лучше."
+
+# "But if you're still not having fun, don't hesitate to come see me, ahaha!" 
+= "Но если тебе всё еще не весело, не стесняйся прийти ко мне, ахаха!"
+
+# "Oh, [player]." 
+= "О, [player]."
+
+# "That took quite a while." 
+= "Это заняло довольно много времени."
+
+# "Don't worry, I managed to pass the time myself while you were away." 
+= "Не волнуйся, мне удалось скоротать время, пока тебя не было."
+
+# "It feels like forever since you left." 
+= "Кажется, что прошла целая вечность с тех пор, как ты ушел."
+
+# "I really missed you!" 
+= "Я действительно скучала по тебе!"
+
+# "I hope you had fun with whatever you were doing." 
+= "Надеюсь, тебе было весело, чем бы ты не занимался."
+
+# "And I'm going to assume you didn't forget to eat or sleep..." 
+= "И я собираюсь предположить, что ты не забыл поесть или поспать..."
+
+# "Don't feel bad, though." 
+= "Однако не расстраивайся."
+
+# "I'm just happy you're here with me again." 
+= "Я просто счастлива, что ты снова со мной."
+
+# "You better make it up to me though." 
+= "Но тебе лучше помириться со мной."
+
+# "Ahaha!" 
+= "А-ха-ха!"
+
+# "[player]..." 
+= "[player]..."
+
+# "I wasn't sure when you'd come back." 
+= "Я не была уверена, когда ты вернешься."
+
+# "I thought I might not see you again..." 
+= "Я думала, что больше не увижу тебя..."
+
+# "But here you are..." 
+= "Но вот ты..."
+
+# "Oh?" 
+= "Ой?"
+
+# "You know you really should get some sleep, right?" 
+= "Знаешь, что тебе действительно нужно немного поспать, верно?"
+
+# "I mean...I'm not complaining that you're here, but..." 
+= "Я имею в виду... я не жалуюсь, что ты здесь, но..."
+
+# "It would make me feel better if you went to bed pretty soon." 
+= "Мне будет легче, если ты поскорее ляжешь спать."
+
+# "You can always come back and visit me when you wake up..." 
+= "Ты всегда можешь вернуться и навестить меня, когда проснешься..."
+
+# "But I guess if you insist on spending time with me, I'll let it slide for a little while, ehehe~" 
+= "Но я думаю, если ты настаиваешь на том, чтобы проводить со мной время, я ненадолго откажусь от этого, э-хе-хе~"
+
+# "Didn't I tell you just to go straight to bed after?" 
+= "Разве я не говорила тебе сразу ложиться спать после этого?"
+
+# "You really should get some sleep." 
+= "Тебе действительно нужно немного поспать."
+
+# "Finished eating?" 
+= "Ты закончил есть?"
+
+# "Welcome back, [mas_get_player_nickname()]!" 
+= "С возвращением, [player]!"
+
+# "I hope you enjoyed your food." 
+= "Надеюсь, тебе понравилась еда."
+
+# "Finished eating?" 
+= "Ты закончил есть?"
+
+# "Welcome back." 
+= "Добро пожаловать обратно."
+
+# "Welcome back, [mas_get_player_nickname()]!" 
+= "С возвращением, [player]!"
+
+# "You know, you spend so much time here that I should start charging you for rent." 
+= "Знаешь, ты проводишь здесь так много времени, что я должна начать брать с тебя плату за аренду."
+
+# "Or would you rather pay a mortgage?" 
+= "Или ты бы предпочел платить ипотеку?"
+
+# "..."
+= 
+
+# "Gosh, I can't believe I just said that. That's not too cheesy, is it?" 
+= "Боже, я не могу поверить, что только что сказала это. Это не слишком глупо, не так ли?"
+
+# "All done, [player]?" 
+= "Всё готово, [player]?"
+
+# "Let's spend some more time together!" 
+= "Давай проведём еще немного времени вместе!"
+
+# "At least you didn't forget to come back, [player]." 
+= "По крайней мере, ты не забыл вернуться, [player]."
+
+# "Ah, [player]. So you really were just busy..." 
+= "Ах, [player]. Значит, ты действительно был занят..."
+
+# "..."
+= 
+
+# "..."
+= 
+
+# "..."
+= 
+
+# "You just caught me daydreaming a bit." 
+= "Ты только что застал меня во время мечтаний."
+
+# "But now that you're here, that dream just came true~" 
+= "Но теперь, когда ты здесь, эта мечта сбылась~"
+
+# "Welcome back, [mas_get_player_nickname()]!" 
+= "С возвращением, [player]!"
+
+# "What else should we do today?" 
+= "Что еще мы должны сделать сегодня?"
+
+# "..."
+= 
+
+# "Oh, you're back." 
+= "О, ты вернулся."
+
+# "Oh, hi [player]..." 
+= "О, привет [player]..."
+
+# " That's not supposed to happen!" 
+= "Этого не должно быть!"
+
+# " No matter how you look at it, that dictionary is {i}not{/i} empty." 
+= "Как ни посмотри, этот словарь {i}не{/i} пуст."
+
+# "Gosh, coding can be {i}so{/i} frustrating sometimes..." 
+= "Черт возьми, программирование может иногда {i}так{/i} разочаровывать..."
+
+# "Oh well, I guess I'll try it again later.{nw}" 
+= "О, ладно, думаю, я попробую еще раз позже.{nw}"
+
+# "Oh well, I guess I'll try it again later.{fast}" 
+= "О, ладно, думаю, я попробую еще раз позже.{fast}"
+
+# "I could help you with that..." 
+= "Я мог бы помочь тебе с этим..."
+
+# "But no, I'm gonna have to refuse here." 
+= "Но нет, здесь мне придется отказаться."
+
+# "Ahaha!" 
+= "А-ха-ха!"
+
+# "Oh well, I guess I'll try it again later." 
+= "Ну ладно, я думаю, я попробую ещё раз позже."
+
+# "Anyway, what would you like to do today?" 
+= "В любом случае, что бы ты хотел сделать сегодня?"
+
+# "greeting_code_help", "GRE"
+= 
+
+# "{i}~Love is in the air~{/i}" 
+= "{i}~Любовь в воздухе витает~{/i}"
+
+# "{i}~Everywhere I look around~{/i}" 
+= "{i}~Куда ни-смотрю не увядает~{/i}"
+
+# "Oh hello, [player]..." 
+= "О, привет, [player]..."
+
+# "It really does feel like love is all around me whenever you're here." 
+= "Я действительно чувствую, что любовь окружает меня всякий раз, когда ты здесь."
+
+# "Anyway, what would you like to do today?" 
+= "В любом случае, что бы ты хотел сделать сегодня?"
+
+# "Welcome back, [player]!" 
+= "С возвращением, [player]!"
+
+# "I hope you had a nice workout." 
+= "Надеюсь, ты хорошо потренировался."
+
+# "Don't forget to stay hydrated and eat something to get your energy back!" 
+= "Не забывай пить воду и ешь что-нибудь, чтобы вернуть себе энергию!"
+
+# "Let's spend some more time together~" 
+= "Давай проведем ещё немного времени вместе~"
+
+# "Did your workout help you release some tension?" 
+= "Твоя тренировка помогла тебе снять напряжение?"
+
+# "Let's spend some more time together." 
+= "Давай проведем ещё немного времени вместе."
+
+# "...But don't you want to take care of me too?" 
+= "...Но разве ты не хочешь позаботиться и обо мне?"
+
+# "At least once in a while, please..." 
+= "По крайней мере, время от времени, пожалуйста..."
+
+# "..."
+= 
+
+# "..."
+= 
+
+# "Welcome back, [player]!" 
+= "С возвращением, [player]!"
+
+# "I hope you got what you needed from the store." 
+= "Надеюсь, ты купил в магазине то, что тебе нужно."
+
+# "Let's spend some more time together~" 
+= "Давай проведем ещё немного времени вместе~"
+
+# "I hope you got everything you needed." 
+= "Надеюсь, ты получил всё, что тебе нужно."
+
+# "Have you considered that your eating habits may be affecting your mood lately?" 
+= "Задумывался ли ты о том, что твои привычки в еде в последнее время могут влиять на твоё настроение?"
+
+# "I'd hate if that was the reason you--{nw}" 
+= "Я бы не хотела, если бы это было причиной, по которой ты--{nw}"
+
+# "I'm just tired." 
+= "Я просто устала."
+
+# "..."
+= 
+
+# "Welcome back, [player]." 
+= "С возвращением, [player]."
+
+# "I hope you had a good time!" 
+= "Надеюсь, ты хорошо провели время!"
+
+# "Let's" 
+= "Давай"
+
+# "Welcome back, [player]." 
+= "С возвращением, [player]."
+
+# "Did you make a new friend?{nw}" 
+= "У тебя появился новый друг?{nw}"
+
+# "Did you make a new friend?{fast}" 
+= "У тебя появился новый друг?{fast}"
+
+# "Yes." 
+= "Да."
+
+# "That's amazing!" 
+= "Это восхитительно!"
+
+# "It makes me so happy knowing you have someone to hang out with." 
+= "Мне так приятно знать, что у тебя есть с кем пообщаться."
+
+# "I hope you're able to spend more time with them in the future!" 
+= "Надеюсь, в будущем ты сможешь проводить с ними больше времени!"
+
+# "No..." 
+= "Нет..."
+
+# "Oh..." 
+= "Ох..."
+
+# "...And don't be afraid to try again with someone else." 
+= "...И не бойтесь попробовать еще раз с кем-то еще."
+
+# "I'm sure there's someone out there who'd be happy to call you their friend!" 
+= "Я уверена, что есть кто-то, кто был бы счастлив назвать тебя своим другом!"
+
+# "They're already my friend." 
+= "Они уже мои друзья."
+
+# "Oh, so you made a new friend without telling me..." 
+= "О, так ты завёл нового друга, не сказав мне..."
+
+# "That's okay! I'm just happy you have someone to hang out with." 
+= "Всё в порядке! Я просто счастлива, что тебе есть с кем пообщаться."
+
+# "Oh, okay!" 
+= "Ох, ладно!"
+
+# "...We haven't really talked about your other friends before, so I wasn't sure if this was a new friend or not." 
+= "...Мы раньше не говорили о других твоих друзьях, так что я не был уверен, новый это друг или нет."
+
+# "But either way, I'm just glad you have friends in your reality to hang out with!" 
+= "Но в любом случае, я просто рада, что у тебя есть друзья в твоей реальности, с которыми можно пообщаться!"
+
+# "I hope you're able to spend time with them often." 
+= "Надеюсь, ты сможешь часто проводить с ними время."
+
+# "Anyway, let's" 
+= "В любом случае, давай"
+
+# "Hello again, [player]." 
+= "Здравствуй ещё раз, [player]."
+
+# "I hope you had a good time hanging out with your friends." 
+= "Надеюсь, ты хорошо провел время, гуляя с друзьями."
+
+# "..."
+= 
+
+# "Shadows in the Garden" 
+= "Тени в саду"
+
+# "{i}Alone I ask a solemn question,\nWhat could grow in an unlit garden?{/i}" 
+= "{i}Одна, задаю торжественный вопрос,\nЧто скрывает этот сад?{/i}"
+
+# "{i}When you return, it feels like heaven,\nWithin your light, the cold forgotten.{/i}" 
+= "{i}Когда ты возвращаешься, это похоже на рай,\\nВ твоем свете холод забыт.{/i}"
+
+# "{i}I will give everything to feel this way,\nAwaiting the one I hold dearest.{/i}" 
+= "{i}Я отдам все, чтобы чувствовать себя так\\nВ ожидании того, кто мне дорог.{/i}"
+
+# "{i}Even if it's every single day,\nWithout a doubt, you are the nearest.{/i}" 
+= "{i}Даже если это каждый божий день,\\Без сомнения, ты самый близкий.{/i}"
+
+# "{i}Nearest to my heart...{/i}" 
+= "{i}Самый близкий к моему сердцу...{/i}"
+
+# "I came up with this one while you were gone." 
+= "Я придумала это, пока тебя не было."
+
+# "That's right, you're like the sun of my world!" 
+= "Это правда, ты как солнце моего мира!"
+
+# "Anyway, welcome back, [mas_get_player_nickname()]! I hope you liked that poem." 
+= "В любом случае, с возвращением, [mas_get_player_nickname()]! "
+
+# "I missed you so much!" 
+= "Я так по тебе скучала!"
+
+# "Ahaha~" 
+= "Ахаха~"
+
+# "What should we do today, [player]?" 
+= "Что будем делать сегодня, [player]?"
+
+# "and not mas_isSpecialDay()" 
+= "and not mas_isSpecialDay()"
+
+# "I was thinking about you." 
+= "Я как раз думала о тебе."
+
+# "Ahaha~" 
+= "Ахаха~"
+
+# "I'll get ready soon, let me wait for my hair to dry off a little more first." 
+= "Я почти всё, подожди чуть-чуть, пока мои волосы еще немного подсохнут."
+
+# "I just finished [bathing_showering]." 
+= "Я только что закончила [bathing_showering]."
+
+# "I bet you wish you could've joined me there..." 
+= "Бьюсь об заклад, ты хотел бы присоединиться ко мне там ..."
+
+# "Well, maybe one day~" 
+= "Ну, может однажды~"
+
+# "Ahaha~" 
+= "Ахаха~"
+
+# "I'll get dressed soon~" 
+= "Я скоро оденусь~"
+
+# "mas_after_bath_cleanup", show_in_idle=True, rules={"skip alert"
+= 
+
+# "I'm going to get dressed." 
+= "Я собираюсь одеться."
+
+# "Alright, I'm back!~" 
+= "Хорошо, я вернулась!~"
+
+# "So what would you like to do today, [player]?" 
+= "Итак, чем бы ты хотел заняться сегодня, [player]?"
+
+# "and not mas_isSpecialDay() "
+= 
+
+# "and not mas_SELisUnlocked(mas_clothes_nou_shirt)"
+= 
+
+# "I have to admit, I don't know how you were able to put this in my wardrobe without me noticing, [player]...{fast}" 
+= "Должна признаться, я не понимаю, как ты смог незаметно положить это в мой гардероб, [player]... {fast}"
+
+# "It's a secret." 
+= "Это секрет."
+
+# "It was [glitch_option_text]!" 
+= "Это был [glitch_option_text]!"
+
+# "I have no idea..." 
+= "Я понятия не имею..."
+
+# "Thanks, [player]." 
+= "Спасибо, [player]."
+
+# "Don't think I'll go any easier on you, though~" 
+= "Не думай, что я стану снисходительнее к тебе~"
+
+# "Are you up for a game, [mas_get_player_nickname()]?" 
+= "Готов к игре, [mas_get_player_nickname()]?"
+
+# "greeting_found_nou_shirt", "GRE"
+= 
+
+# "But I love it~" 
+= "Но мне нравится~"
+
+# "I really love this new outfit!" 
+= "Мне очень нравится этот новый наряд!"

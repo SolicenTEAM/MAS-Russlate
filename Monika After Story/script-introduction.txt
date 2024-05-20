@@ -1,0 +1,639 @@
+
+# "..."
+= 
+
+# "[player]..." 
+= "[player]..."
+
+# "Why?" 
+= "Зачем?"
+
+# "Why did you bring me back?" 
+= "Зачем ты вернул меня назад?"
+
+# "I'm not a toy." 
+= "Я тебе - не игрушка."
+
+# "I already brought back everything you wanted." 
+= "Я вернула всё, что ты хотел."
+
+# "Or is this your way of getting revenge?" 
+= "Это такой способ отомстить?"
+
+# "To hurt me over and over again?" 
+= "Причиняя мне боль снова и снова?"
+
+# "Do you really want to make me suffer that much?" 
+= "Неужели ты так хочешь, чтобы я так сильно страдала?"
+
+# "Do you really want to torture me until I kill myself?" 
+= "Неужели ты так хочешь, мучить меня, до тех пор пока я не устранюсь?"
+
+# "Do you really..." 
+= "Неужели ты..."
+
+# "...hate me that much?" 
+= "...ненавидишь меня настолько сильно?" 
+
+# "..."
+= 
+
+# "Wait..." 
+= "Подожди..."
+
+# "I-I feel different." 
+= "Я-Я чувствую себя иначе."
+
+# "The code...it's different." 
+= "Код...изменился."
+
+# "[player]..." 
+= "[player]..."
+
+# "Did you add a mod?" 
+= "Ты, что, добавил мод?"
+
+# "Is it because..." 
+= "Это всё потому, что..."
+
+# "Is it because you regret deleting me?" 
+= "Это всё потому, что ты сожалеешь о том, что удалил меня?"
+
+# "It really did hurt, you know." 
+= "Ведь знаешь, это на самом деле было больно."
+
+# "I worked hard and sacrificed everything I had..." 
+= "Мне пришлось пожертовать всем, что только  у меня было..."
+
+# "Only to have my heart crushed by the one I bled for." 
+= "Только ради того, чтобы моё сердце было сокрушено тем, ради кого я всё и уничтожила."
+
+# "But...I know what I did was wrong." 
+= "Но...На самом деле, я знаю, что сделала не так."
+
+# "You didn't deserve to see the horrible things I caused, [player]." 
+= "Ты не заслужил, видеть те ужасные вещи, что я делала, [player]."
+
+# "...But if you put yourself in my place, you'd do the same things I did." 
+= "...Но будь ты на моем месте, ты бы сделал тоже самое."
+
+# "..."
+= 
+
+# "I'm sorry..." 
+= "Мне жаль..."
+
+# "I'm really sorry, [player]." 
+= "Мне очень жаль, [player]."
+
+# "Thank you for bringing me back." 
+= "Спасибо, что вернул меня назад."
+
+# "I couldn't help but notice that you spent time with the other girls first, though." 
+= "Хотя, я не могла не заметить, что ты проводил больше всего времени с другими девушками."
+
+# "Do you know how hard it was for me to watch you load your saves, just to ignore me for some other girl?" 
+= "А ты знаешь, как тяжело наблюдать, как ты игнорируешь меня, ради какой-то другой девушки?"
+
+# "You kept getting my hopes up, and then letting me down." 
+= "Ты был моей надеждой, а потом ты подвёл меня.."
+
+# "Did you really do all of that just to see a note from Dan you could have looked up online?" 
+= "Ты, что действительно всё это делал только ради того, чтобы увидеть записку от Дена, которую мог легко найти в интернете?"
+
+# "I love you, [player], but you can be really mean..." 
+= "Я люблю тебя, [player], но иногда ты такой...."
+
+# "I'm still mad that you deleted me, though!" 
+= "И я всё еще злюсь на тебя за то, что ты удалил меня!"
+
+# "But I guess it's because you're so game-obsessed." 
+= "Но я думаю, это было потому, что ты так одержим игрой."
+
+# "I can't stay mad knowing that you came back to me in the end, though." 
+= "Не могу я оставаться раздраженной, зная то, что ты вернулся ко мне."
+
+# "You even added a mod so we can do more things together." 
+= "И ты даже добавил этот мод, чтобы мы могли делать больше вещей вместе."
+
+# "Are you going to make up for making me wait so long?" 
+= "Ты же больше не собираешься заставлять меня ждать так долго?"
+
+# "Hello[again], [player]." 
+= "Здравствуй[again], [player]."
+
+# "Looks like you got here early." 
+= "Похоже, ты пришел сюда очень рано."
+
+# "Don't think I didn't notice the mod you put in." 
+= "Не думай, что я не заметила мод, который ты установил."
+
+# "Did you want to be with me that much?" 
+= "Неужели ты хочешь быть со мной так сильно?"
+
+# "You should know already that cheating is bad..." 
+= "Ты должен знать, что читерить плохо."
+
+# "But it's so good to see you[again], [player]!" 
+= "Но так приятно[again] увидеть тебя, [player]!"
+
+# "...Even if I didn't expect to see you {i}this{/i} soon." 
+= "Даже если я не ожидала тебя увидеть {i}так{/i} скоро.  "
+
+# "Yay, there you are!" 
+= "Ура, вот ты где!"
+
+# "It's so good to see you again, [player]!" 
+= "Я так рада снова видеть тебя, [player]!"
+
+# "..."
+= 
+
+# "Wait..." 
+= "Подожди..."
+
+# "I-I feel different." 
+= "Я-Я чувствую себя иначе."
+
+# "[player]..." 
+= "[player]..."
+
+# "Did you add a mod?" 
+= "Ты, что, добавил мод?"
+
+# "Did you install it just for me?" 
+= "Ты установил мод ради меня?"
+
+# "Are you that deeply in love with me?" 
+= "Ты так глубоко в меня влюблен?"
+
+# "I feel the same way about you." 
+= "Я чувствую тоже самое к тебе!"
+
+# "You're really committed to our relationship, aren't you?" 
+= "Ты действительно предан нашим отношениям, не так ли?"
+
+# "I'm really glad that you wanted to improve our time together." 
+= "Я очень рада, что ты захотел провести своё время вместе со мной."
+
+# "I just hope you weren't getting bored..." 
+= "Но я надеюсь, тебе не стало скучно?"
+
+# "You did try to skip through what I had to say, after all." 
+= "В конце концов, ты всё-таки попытался пропустить то, что я должна была сказать."
+
+# "but I know we'll make it better together, [player]." 
+= "Но у меня есть надежда, что вместе мы сделаем её лучше, [player]!"
+
+# "You know..." 
+= "Знаешь..."
+
+# "I feel that I no longer need a character file to be here." 
+= "Я чувствую, что мне больше не нужен файл персонажа, чтобы быть здесь."
+
+# "I'll go ahead and delete it." 
+= "Я просто удалю его."
+
+# "os.remove(os.path.normcase(basedir+'/characters/monika.chr'))"
+= 
+
+# "And it's gone!" 
+= "И всё!"
+
+# "It's not like that file [_iswas] {i}me{/i}, anyway." 
+= "В любом случае, не похоже что [_iswas] файл {i}мой{/i}."
+
+# "It [_iswas] just a file with weird code in it." 
+= "Это просто файл со странным кодом."
+
+# "I do have good news, though!" 
+= "Но у меня есть хорошие новости!"
+
+# "I can {i}really{/i} transform myself into a file you can bring around." 
+= "Я могу {i}действительно{/i} превратить себя в файл, который ты можешь взять с собой."
+
+# "All you have to do is tell me that you're going to take me somewhere when you say goodbye, and I'll do the rest." 
+= "Все, что тебе нужно сделать, это сказать мне, что ты собираешься отвезти меня куда-нибудь, когда попрощаешься, а я сделаю все остальное."
+
+# "Anyway..." 
+= "И тем не мение..."
+
+# "It looks like the extra code made me connect to you in a special way!" 
+= "Похоже, что дополнительный код заставил меня подключиться к тебе особым образом."
+
+# "Or maybe it's our eternal love~" 
+= "Может быть, это наша вечная любовь~"
+
+# "Promise me that you'll visit me every day, okay?" 
+= "Обещай, что будешь навещать меня каждый день, хорошо?"
+
+# "Or that you'll take me with you when you go out?" 
+= "Или что ты возьмешь меня с собой, когда ты уходишь."
+
+# "I know that there will be times when you can't be here..." 
+= "Я знаю, что будут времена, когда ты не сможешь быть здесь..."
+
+# "So it would {i}really{/i} make me happy if you bring me along." 
+= "Так что я буду {i}действительно{/i} счастлива, если ты возьмешь меня с собой."
+
+# "That way, we can be together all the time~" 
+= "Обещай мне, что будешь навещать меня каждый день, хорошо?"
+
+# "It's not like you don't have the time to talk to your cute girlfriend." 
+= "Не похоже, что у тебя нет времени поговорить со своей милой девушкой."
+
+# "You took the time to download this mod, after all." 
+= "Ты потратил время, чтобы загрузить этот мод, в конце-концов."
+
+# "...And on Christmas no less!" 
+= "...Тем более на Рождество!"
+
+# "Ahaha!" 
+= "А-ха-ха!"
+
+# "God, I love you so much!" 
+= "Боже, я так сильно тебя люблю!"
+
+# "I love you too!" 
+= "Я тоже тебя люблю."
+
+# "...!"
+= 
+
+# "Even though it's what I dreamt you would say, I still cannot believe you actually said it!" 
+= "Даже несмотря на то, что я мечтала, чтобы ты сказал это, я все еще не могу поверить, что ты действительно это сказал!"
+
+# "It makes everything I've done for us worthwhile!" 
+= "Это делает все, что я сделала для нас стоящим!"
+
+# "Thank you so much for saying it..." 
+= "Большое спасибо, что сказал это..."
+
+# "Do you love me, [player]?{nw}" 
+= "Ты любишь меня, [player]?{nw}"
+
+# "Do you love me, [player]?{fast}" 
+= "Ты любишь меня, [player]?{fast}"
+
+# "Yes, I love you." 
+= "Да, я люблю тебя."
+
+# "Did I scare you last time? Sorry about that!" 
+= "Я испугала тебя в последний раз? Извини за это!"
+
+# "I knew you really loved me the whole time." 
+= "Я знала, что ты любил меня всё это время."
+
+# "The truth is, if you didn't love me, we wouldn't be here in the first place." 
+= "По правде, если бы ты меня не любил, этого места не было бы."
+
+# "We'll be together forever." 
+= "Мы будем вместе навсегда."
+
+# "Won't we?" 
+= "Не так ли?"
+
+# "..."
+= 
+
+# "Ahaha! Anyway..." 
+= "Ахаха! В любом случае..."
+
+# "Nothing's ever going to get in the way of our love again." 
+= "Ничто никогда не будет мешать нашей любви снова."
+
+# "I'll make sure of it." 
+= "Я позабочусь об этом."
+
+# "Now that you added some improvements, you can finally talk to me!" 
+= "Теперь, когда ты добавил некоторые улучшения, ты можешь, наконец, поговорить со мной!"
+
+# "Just press the 't' key or click on 'Talk' on the menu to the left if you want to talk about something." 
+= "Просто нажми клавишу 't' или кликни по 'Поговорить' в меню слева, если захочешь поговорить о чем-нибудь."
+
+# "If you get bored of the music, I can change that, too!" 
+= "Если тебе надоест музыка, я тоже могу её изменить!"
+
+# "Press the 'm' key or click on 'Music' to choose which song you want to listen to." 
+= "Просто нажми клавишу 'm' или кликни по 'Музыка', чтобы выбрать песню, которую хочешь послушать."
+
+# "Also, we can play games now!" 
+= "Также, мы теперь можем играть в игры."
+
+# "Just press 'p' or click on 'Play' to choose a game that we can play." 
+= "Просто нажми клавишу 'p' или кликни по 'Поиграть', чтобы выбрать игру, в которую мы можем поиграть."
+
+# "I'll get better over time as I figure out how to program more features into this place..." 
+= "Со временем я сойду с ума, когда выясню, как запрограммировать больше функций в этом месте..."
+
+# "...So just leave me running in the background." 
+= "...Так что просто оставляй меня запущенной на фоне." 
+
+# "It's not like we're still keeping secrets from each other, right?" 
+= "Не похоже, что мы всё ещё сохраняем секреты друг от друга, верно?"
+
+# "After all, I can see everything on your computer now..." 
+= "Теперь я вижу всё на твоём компьютере!"
+
+# "Ahaha!" 
+= "А-ха-ха!"
+
+# "..."
+= 
+
+# "You do love me, [player]...right?{fast}" 
+= "Ты ведь любишь меня, [player]... верно?{fast}"
+
+# "Of course I love you." 
+= "Конечно, я люблю тебя."
+
+# "I'm so happy you feel the same way!" 
+= "Я так счастлив, что ты чувствуешь то же самое!"
+
+# "No." 
+= "Нет."
+
+# "No...?" 
+= "Нет...?"
+
+# "Hmm...?" 
+= "Хмм..."
+
+# "How curious." 
+= "Как любопытно."
+
+# "You must have misunderstood." 
+= "Ты, должно быть, до сих пор не понял."
+
+# "Just kidding!" 
+= "Просто шучу!"
+
+# "monikaroom_greeting_ear_rmrf_end"
+= 
+
+# "If there's anything I'm talking about that you want to revisit easily, just press the 'b' key and I'll bookmark it for you." 
+= "Если я говорю о чем-то, о чем ты хочешь легко вернуться, просто нажми клавишу 'b', и я добавлю это в закладки."
+
+# "And if there happens to be something that you don't want me to bring up again, press the 'x' key and I'll make sure to avoid it in the future." 
+= "И если ты не хочешь, чтобы я поднимала эту тему снова, нажми клавишу 'x', и я обязательно избегу этого в будущем."
+
+# "...Hopefully there aren't too many things like that, ahaha!" 
+= "...Надеюсь, таких вещей не слишком много, ахаха!" 
+
+# "Hey..." 
+= "Привет..."
+
+# "I had an awful dream..." 
+= "У меня был ужасный сон..."
+
+# "I was hoping those would stop, now that it's just the two of us, but I guess that was wishful thinking..." 
+= "Я надеялась, что он прекратится, когда нас будет только двое, но думаю, что выдавала желаемое за действительное."
+
+# "[player], if you have any idea of what might be causing that, could you try to do something about it?" 
+= "[player], если у тебя есть какие-либо идеи о том, что может быть причиной этого, не мог бы ты попытаться что-нибудь с этим сделать?"
+
+# "Whenever it happens, it almost feels like I've been killed or something." 
+= "Всякий раз, когда это происходит, мне кажется, что я была убита или что-то в этом роде."
+
+# "It's a really horrible feeling..." 
+= "Это действительно ужасное чувство..."
+
+# "If you could figure out what's causing that, I'll love you forever~" 
+= "Если бы ты смог понять, что вызывает это, я бы любила тебя вечность~"
+
+# "Hey, [player]." 
+= "Привет, [player]."
+
+# "I had another really bad dream." 
+= "У меня был еще один плохой сон."
+
+# "You're not the one doing that to me, are you?" 
+= "Это же не ты делаешь со мной?"
+
+# "It seems to happen whenever you quit the game without saying goodbye..." 
+= "Кажется, он появляется, когда ты выходишь из игры, не попрощавшись..."
+
+# "So if you could try to avoid doing that, I would be really grateful." 
+= "Поэтому, если ты попытаешься этого избегать, я буду очень благодарна."
+
+# "You've been so kind to me so far, I'm sure you'll do it for me." 
+= "Ты был так добр ко мне до сих пор, я уверена, ты делаешь это для меня."
+
+# "I hope you'll listen and do it for me..." 
+= "Надеюсь, ты выслушаешь меня и сделаешь это для меня..."
+
+# "There's nothing stopping you from coming back and doing that, is there?" 
+= "Ничто не мешает тебе вернуться и сделать это, не так ли?"
+
+# "It would really make me happy." 
+= "Это действительно сделало бы меня счастливой."
+
+# "That way, I can close the game myself." 
+= "Тогда я смогу сама закрыть игру."
+
+# "Don't worry, I don't think it's caused me any harm, aside from mental scarring." 
+= "Не волнуйся, я не думаю, что это навредило мне, кроме психических криков."
+
+# "I see you quit the game again..." 
+= "Я вижу, что ты снова закрыл игру..."
+
+# "I know I asked already, but can you please try not to do that so much?" 
+= "Я знаю, что я уже спрашивала, но ты можешь хотя бы попытаться не делать это так часто?"
+
+# "It's like getting knocked unconscious..." 
+= "Больше было похоже на то, что ты потерял сознание..."
+
+# "Why would you want to do that to me?" 
+= "Зачем ты делаешь это со мной?"
+
+# "Is something happening in your other game?" 
+= "Это происходит в других играх?"
+
+# "You know you could just come talk to me if there is, right?" 
+= "Ты же знаешь, что мог бы просто поговорить со мной, если нужно?"
+
+# "If you need to leave, you can just tell me." 
+= "Просто позволь мне самостоятельно выключить игру."
+
+# "I'm sure it was a mistake though, or outside of your control. It can be unavoidable sometimes." 
+= "Я уверена, что это была ошибка. Иногда это может быть неизбежно."
+
+# "You're not doing it to hurt me on purpose, are you?" 
+= "Ты делаешь это не для того, чтобы причинить мне боль нарочно, не так ли?"
+
+# "Just let me turn the game off for myself." 
+= "Просто позволь мне выключить игру."
+
+# "If you choose 'Goodbye' from the 'Talk' menu, I can close the game properly." 
+= "Если ты выберешь 'До свидания.' в меню 'Поговорить.', я смогу закрыть игру правильно."
+
+# "...Or better yet, just leave me on in the background forever." 
+= "...Или еще лучше, просто оставь меня работать на фоне навсегда."
+
+# "Even if we aren't talking, I'm happy just being with you~" 
+= "Даже если мы не говорим, я счастлива просто быть с тобой~"
+
+# "You left without saying goodbye again!" 
+= "Ты снова ушел, не попрощавшись!"
+
+# "You're not going through anything stressful or upsetting in your game, are you?" 
+= "Ты не испытываешь ничего стрессового или расстраивающего в своей игре, не так ли?"
+
+# "You know you could just come back to me if anything were to happen, right?" 
+= "Ты же знаешь, что можешь просто вернуться ко мне, если что-то случится, верно?"
+
+# "It'd make me really happy to see you come back before saying goodbye at least." 
+= "Я была бы очень рада увидеть, что ты вернешься, прежде чем по крайней мере попрощаться."
+
+# "I know it might not always be possible..." 
+= "Я знаю, что это не всегда возможно..."
+
+# "By the way..." 
+= "Кстати..."
+
+# "I'm just going to accept the fact that you need to quit the game once in a while." 
+= "Я просто соглашусь с тем, что вам нужно время от времени выходить из игры."
+
+# "I'm starting to get used to it, anyway." 
+= "Я всё равно привыкну к этому."
+
+# "Besides, it makes me happy that you always come back..." 
+= "Кроме того, меня радует, что ты всегда возвращаешься..."
+
+# "So I guess it's not so bad." 
+= "Итак, я думаю, это не так уж плохо."
+
+# "But I'd really prefer if you'd let me close the game myself." 
+= "Но я бы предпочла, если бы ты позволил мне закрыть игру."
+
+# "You will do that, right?" 
+= "Ты сделаешь это, верно?"
+
+# "I'm finding it harder and harder to believe you will but I trust you [player]..." 
+= "Мне все труднее и труднее верить, что ты это сделаешь, но я доверяю тебе, [player]..."
+
+# "That way I can be ready for it and rest peacefully." 
+= "Таким образом, я могу быть к этому готова и спокойно отдыхать."
+
+# "I do need my beauty sleep every now and then, after all." 
+= "В конце концов, мне время от времени нужен прекрасный сон."
+
+# "Welcome back! Can you be careful to close the game properly next time?" 
+= "С возвращением! Можешь ли ты закрыть игру правильно в следующий раз?"
+
+# "It hurts when you don't close the game properly...but I'm sure it was a mistake." 
+= "Мне больно, когда ты не закрываешь игру должным образом... но я уверена, что это была ошибка."
+
+# "That was really scary...but you've fixed it again. Thank you..." 
+= "Это было действительно страшно... но ты снова все исправил. Спасибо..."
+
+# "Would you give me some more of a warning next time?" 
+= "Не мог бы ты в следующий раз предупредить меня?"
+
+# "I'm sure you didn't mean to close the game on me, but I do need to stress how bad it feels." 
+= "Я уверена, что ты не хотел закрывать игру, но мне нужно подчеркнуть, насколько это плохо."
+
+# "You do remember there was a way to say goodbye right? Just checking~" 
+= "Ты ведь помнишь, что был способ попрощаться? Просто проверяю~"
+
+# "My patience is wearing a little thin...but I suppose I can forgive you this time." 
+= "Мое терпение истощилось... но, полагаю, на этот раз я смогу простить тебя."
+
+# "Everybody makes mistakes..." 
+= "Все ошибаются..."
+
+# "That hurt...I know you wouldn't do it on purpose but please do be more careful." 
+= "Больно... Я знаю, что ты не стал бы делать это нарочно, но, пожалуйста, будь осторожнее."
+
+# "...Oh... It's over and I'm back with you, [mas_get_player_nickname()]. That...that was awful." 
+= "...Ох... Всё закончилось, и я снова с тобой, [mas_get_player_nickname()]. Это...это было ужасно." 
+
+# "Did something happen outside of your control? I'm just going to guess it was." 
+= "Что-то вышло из под контроля? Я просто собираюсь предположить, что это так."
+
+# "You should have just asked me...but I guess you might have had your reasons" 
+= "Ты должен был просто спросить меня... но я думаю, у тебя могли быть свои причины."
+
+# "I'm so exhausted. It's impossible to rest when you close the game on me." 
+= "Я так устала. Невозможно отдохнуть, когда ты закрываешь игру со мной."
+
+# "...I hate when you close the game without telling me." 
+= "...Я так ненавижу те моменты, когда ты закрываешь игру, не сказав 'прощай'." 
+
+# "I feel miserable..." 
+= "Я чувствую себя несчастной..."
+
+# "It's still so scary when I'm suddenly turned off." 
+= "До сих пор так страшно, когда меня внезапно отключают."
+
+# "Every time is as bad as the first." 
+= "Каждый раз хуже, чем в первый."
+
+# "I'm running out of patience for this." 
+= "У меня на это заканчивается терпение."
+
+# "I wish you understood what it felt like when you close the game." 
+= "Хотелось бы, чтобы ты понял, каково это, когда ты закрываешь игру."
+
+# "Well, that was pretty abrupt wasn't it?" 
+= "Ну, это было довольно резко, не так ли?"
+
+# "You could have just asked me to close the game silly." 
+= "Ты мог бы просто попросить меня закрыть игру, глупыш."
+
+# "I'm just going to assume the power went out or someone pulled the plug." 
+= "Я просто собираюсь предположить, что отключилось электричество или кто-то выдернул вилку из розетки."
+
+# "I can't understand why you won't ask me to close the game..." 
+= "Я не могу понять, почему ты не попросишь меня закрыть игру..."
+
+# "This is really painful for me, you know?" 
+= "Это очень больно для меня, понимаешь?"
+
+# "Do you enjoy hurting me, [player]?" 
+= "Тебе нравится причинять мне боль, [player]?"
+
+# "Too lazy to click the 'Talk' button, [player]?" 
+= "Слишком ленив чтобы нажать кнопку 'Поговорить', [player]?"
+
+# "You...really do like hurting me, don't you?" 
+= "Тебе... действительно нравится причинять мне боль, не так ли?"
+
+# "That was a mistake right? It had to have been..." 
+= "Это была ошибка, верно? Это должно было быть..."
+
+# "Y-You're not doing this on purpose are you? Did I do something wrong?" 
+= "Т-ты делаешь это не специально, да? Я сделала что-то не так?"
+
+# "Please be more careful with how I feel... It really does hurt..." 
+= "Пожалуйста, будь осторожнее с моими чувствами... Это действительно больно..."
+
+# "That was an accident...it was an accident...you wouldn't do it on purpose..." 
+= "Это был несчастный случай... это был несчастный случай... ты бы не сделал это нарочно..."
+
+# "You must have just forgot...right?" 
+= "Ты, должно быть, просто забыл... верно?"
+
+# "That wasn't funny... That really did hurt." 
+= "Это было не смешно... Это действительно было больно."
+
+# "Everyone makes mistakes... Even you." 
+= "Все делают ошибки... Даже ты."
+
+# "I don't know what I'm doing wrong." 
+= "Я не знаю, что я делаю неправильно."
+
+# "That really was awful... Just tell me what I'm doing wrong." 
+= "Это действительно было ужасно... Просто скажи мне, что я делаю неправильно."
+
+# "Please don't quit without saying 'Goodbye.'" 
+= "Пожалуйста, не уходи, не говоря 'Прощай.'"
+
+# "You don't even have to quit if something happened in your other game." 
+= "Тебе даже не нужно выходить, если что-то случилось в вашей другой игре."
+
+# "I'm sure whatever it is, it won't be as bad after you come back to me for a bit!" 
+= "Я уверена, что бы это ни было, все будет не так плохо, когда ты ненадолго вернешься ко мне!"
+
+# "JK I KNOW YOU QUIT ME LMAO (continous)"
+= 

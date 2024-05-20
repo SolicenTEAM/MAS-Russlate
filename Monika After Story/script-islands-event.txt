@@ -1,0 +1,600 @@
+
+# "Bad id format. Supported formats for id: {}, got: '{}'."
+= 
+
+# "Id '{}' has already been used."
+= 
+
+# "Bad type. Allowed types: {}, got: '{}'."
+= 
+
+# "Unexpected exception while parsing raw package data: {}"
+= 
+
+# "Failed to decode isld data: {}."
+= 
+
+# "Missing package"
+= 
+
+# "Bad package"
+= 
+
+# "Failed to make precip map for: {}"
+= 
+
+# "decal_hanging_lantern"
+= 
+
+# "decal_bookshelf", "decal_bushes", "decal_house", "decal_glitch"
+= 
+
+# "Living room"
+= 
+
+# "Can you show me the floating islands?" 
+= "Ты можешь показать мне плавучие острова?"
+
+# "no_unlock": None, "bookmark_rule"
+= 
+
+# "Of course! You can admire the scenery for now." 
+= "Конечно! Можешь пока полюбоваться пейзажем."
+
+# "I hope you liked it, [mas_get_player_nickname()]~" 
+= "Надеюсь, тебе понравилось, [mas_get_player_nickname()]~"
+
+# "[player], I've got some exciting news for you!" 
+= "[player], у меня для тебя потрясающие новости!"
+
+# "and I thought maybe you'd like to take a look." 
+= "И я подумала, может быть, ты захочешь взглянуть."
+
+# "They are {i}our{/i} islands after all~" 
+= "В конце концов, это {i}наши{/i} острова~"
+
+# "What do you say?{nw}" 
+= "Что скажешь?{nw}"
+
+# "What do you say?{fast}" 
+= "Что скажешь?{fast}"
+
+# "Sure, [m_name]." 
+= "Конечно, [m_name]."
+
+# "Yay!" 
+= "Ура!"
+
+# "Hope you liked it~" 
+= "Надеюсь, тебе понравилось~"
+
+# "but I really wanted to showcase my progress to you." 
+= "Но я действительно хотела продемонстрировать свой прогресс."
+
+# "I'm still learning how to code and this engine being inconsistent doesn't help me..." 
+= "Я все ещё учусь программировать, и непоследовательность этого движка мне не помогает..."
+
+# "But I think I made quite a bit of progress so far!" 
+= "Но я думаю, что я уже добилась значительного прогресса!"
+
+# "I'm not interested." 
+= "Мне не интересно."
+
+# "Oh..." 
+= "Ой..."
+
+# "I..." 
+= "Я..."
+
+# "I worked really hard on this..." 
+= "Я очень много работала над этим..."
+
+# "Maybe later." 
+= "Может быть позже."
+
+# "Just don't keep me waiting too long~" 
+= "Только не заставляй меня ждать слишком долго~"
+
+# "Oh, that." 
+= "Ах это."
+
+# "I guess you're wondering why that island is upside down, right?" 
+= "Я думаю, тебе интересно, почему этот остров перевернут, верно?"
+
+# "Well...I was about to fix it until I took another good look at it." 
+= "Ну... я собиралась починить его, пока не взглянула на него еще раз хорошенько."
+
+# "It looks surreal, doesn't it?" 
+= "Это выглядит сюрреалистично, не так ли?"
+
+# "I just feel like there's something special about it." 
+= "Я просто чувствую, что в этом есть что-то особенное."
+
+# "It's just...mesmerizing." 
+= "Это просто... завораживает."
+
+# "Oh, that." 
+= "Ах это."
+
+# "It's something I'm currently working on." 
+= "Это то, над чем я сейчас работаю."
+
+# "It's still a huge mess, though. I'm still trying to figure it all out." 
+= "Однако это всё ещё огромный беспорядок. Я всё ещё пытаюсь во всём этом разобраться."
+
+# "In due time, I'm sure I'll get better at coding!" 
+= "Со временем, я уверена, я стану лучше программировать!"
+
+# "Practice makes perfect after all, right?" 
+= "В конце концов, практика делает совершенным, верно?"
+
+# "This tree may look dead right now...but when it blooms, it's gorgeous." 
+= "Возможно, сейчас это дерево выглядит мертвым... но когда оно цветет, оно великолепно."
+
+# "It's a beautiful tree, isn't it?" 
+= "Красивое дерево, не так ли?"
+
+# "It's called a Cherry Blossom tree; they're native to Japan." 
+= "Это называется вишневым деревом; они произрастают в Японии."
+
+# "Traditionally, when the flowers are in bloom, people would go flower viewing and have a picnic underneath the trees." 
+= "Традиционно, когда цветы расцветают, люди ходят любоваться цветами и устраивают пикник под деревьями."
+
+# "Well, I didn't choose this tree because of tradition." 
+= "Ну, я выбрала это дерево не из-за традиций."
+
+# "I chose it because it's lovely and pleasing to look at." 
+= "Я выбрала его, потому что оно прекрасна и на него приятно смотреть."
+
+# "Just staring at the falling petals is awe-inspiring." 
+= "Просто смотреть на падающие лепестки внушает благоговейный трепет."
+
+# "When it's blooming, that is." 
+= "Когда оно цветет, то есть."
+
+# "I can't wait until we get the chance to experience that, [player]." 
+= "Не могу дождаться, когда у нас появится шанс испытать это, [player]."
+
+# "Did you know you can eat the flower petals of a Cherry Blossom tree?" 
+= "Знаешь ли ты, что можно есть лепестки цветов сакуры?"
+
+# "I don't know the taste myself, but I'm sure it can't be as sweet as you." 
+= "Я сама не знаю вкуса, но уверена, что он не может быть таким сладким, как ты."
+
+# "Ehehe~" 
+= "Эхехе~"
+
+# "You know, the tree is symbolic like life itself." 
+= "Знаете, дерево символично, как и сама жизнь."
+
+# "Beautiful, but short-lived." 
+= "Красиво, но недолговечно."
+
+# "But with you here, it's always blooming beautifully." 
+= "Но с тобой здесь всегда красиво цветет."
+
+# "Even if it's bare now, it'll blossom again soon." 
+= "Даже если оно сейчас голое, оно скоро снова расцветет."
+
+# "Know that I'll always be grateful to you for being in my life." 
+= "Знай, что я всегда буду благодарна тебе за то, что ты есть в моей жизни."
+
+# "I love you, [player]~" 
+= "Я люблю тебя, [player]~"
+
+# "You know what'd be nice to drink under the Cherry Blossom tree?" 
+= "Знаешь, что было бы неплохо выпить под цветущей сакурой?"
+
+# "A little sake~" 
+= "Немного саке~"
+
+# "Ahaha! I'm just kidding." 
+= "А-ха-ха! Я просто шучу."
+
+# "I'd rather have tea or coffee." 
+= "Я лучше выпью чай или кофе."
+
+# "Or hot chocolate, even. It'd certainly help with the cold." 
+= "Или даже горячий шоколад. Он точно поможет от простуды."
+
+# "But, it'd be nice to watch the falling petals with you." 
+= "Но было бы неплохо посмотреть с тобой на падающие лепестки."
+
+# "That'd be really romantic~" 
+= "Это было бы очень романтично~"
+
+# "What a beautiful day today." 
+= "Какой прекрасный сегодня день."
+
+# "Perfect for taking a walk to admire the scenery." 
+= "Идеально для прогулки и любования пейзажем."
+
+# "...Huddled together, so as to stave off the cold."
+= 
+
+# "...With some nice hot drinks to help keep us warm."
+= 
+
+# "Aww, I would've liked to do some reading outdoors." 
+= "Ой, я бы хотела почитать на свежем воздухе."
+
+# "But I'd rather avoid getting my books wet..." 
+= "Но я бы предпочла не мочить свои книги..."
+
+# "Soggy pages are a pain to deal with." 
+= "С размокшими страницами очень тяжело иметь дело."
+
+# "Another time, maybe." 
+= "Может быть, в другой раз."
+
+# "Reading outside with this weather wouldn't be too bad, but it could rain at any moment." 
+= "Читать на улице в такую ​​погоду было бы неплохо, но в любой момент может пойти дождь."
+
+# "I'd rather not risk it." 
+= "Я бы предпочла не рисковать."
+
+# "Don't worry, [player]. We'll do it some other time." 
+= "Не волнуйся, [player]. Мы сделаем это в другой раз."
+
+# "It's a nice day today." 
+= "Сегодня хороший день."
+
+# "This weather would be good for a little book reading under the Cherry Blossom tree right, [player]?" 
+= "Эта погода была бы хороша для чтения книжки под цветущей сакурой, верно, [player]?"
+
+# "This weather would be good for a little book reading outside right, [player]?" 
+= "Эта погода подойдёт для чтения книжки на улице, верно, [player]?"
+
+# "Lying under the shade while reading my favorite book." 
+= "Лежу в тени и читаю свою любимую книгу."
+
+# "...Along with a snack and your favorite drink on the side."
+= 
+
+# "Ahh, that'd be really nice to do~" 
+= "Ах, это было бы очень приятно~"
+
+# "Have you ever made a snow angel, [player]?" 
+= "Ты когда-нибудь делал снежного ангела, [player]?"
+
+# "I've tried in the past, but never had much success..." 
+= "Я пыталась в прошлом, но никогда не имел большого успеха..."
+
+# "It's a lot harder than it looks like." 
+= "Это намного сложнее, чем кажется."
+
+# "I bet we'd have a lot of fun, even if whatever we make doesn't end up looking like an angel." 
+= "Бьюсь об заклад, нам было бы очень весело, даже если бы всё, что мы делаем, не выглядело как ангел."
+
+# "It's just a matter of being a bit silly, you know?" 
+= "Это просто вопрос глупости, понимаешь?"
+
+# "Going outdoors with this kind of weather doesn't look very appealing..." 
+= "Выход на улицу в такую ​​погоду выглядит не очень привлекательно..."
+
+# "Maybe if I had an umbrella I'd feel more comfortable." 
+= "Может быть, если бы у меня был зонтик, я бы чувствовала себя более комфортно."
+
+# "Imagine both of us, shielded from the rain, inches apart." 
+= "Представь нас обоих, защищенных от дождя в нескольких дюймах друг от друга."
+
+# "Staring into each other's eyes." 
+= "Глядя друг другу в глаза."
+
+# "Then we start leaning closer and closer until we're almost-" 
+= "Затем мы начинаем наклоняться все ближе и ближе, пока почти не..."
+
+# "I think you can finish that thought yourself, [player]~" 
+= "Я думаю, ты можешь закончить эту мысль сам, [player]~"
+
+# "The weather looks nice." 
+= "Погода кажется хорошей."
+
+# "This would definitely be the best time to have a picnic." 
+= "Это определенно лучшее время для пикника."
+
+# "We even have a great view to accompany it with!" 
+= "У нас даже есть прекрасный вид, чтобы наблюдать это!"
+
+# "Wouldn't it be nice?" 
+= "Разве это не было бы прекрасно?"
+
+# "Eating under the Cherry Blossom tree." 
+= "Есть под вишневым деревом."
+
+# "Adoring the scenery around us." 
+= "Обожаю пейзажи вокруг нас."
+
+# "Enjoying ourselves with each other's company." 
+= "Наслаждаемся обществом друг друга."
+
+# "Ahh, that'd be fantastic~" 
+= "Ах, это было бы фантастически~"
+
+# "It's raining pretty heavily..." 
+= "Идет довольно сильный дождь..."
+
+# "I wouldn't want to be outside now." 
+= "Я бы не хотела быть снаружи сейчас."
+
+# "Though being indoors at a time like this feels pretty cozy, don't you think?" 
+= "Хотя находиться в помещении в такое время довольно уютно, тебе не кажется?"
+
+# "It's pretty peaceful outside." 
+= "На улице довольно мирно."
+
+# "We could have a snowball fight, you know." 
+= "Знаешь, мы могли бы поиграть в снежки."
+
+# "Ahaha, that'd be so much fun!" 
+= "Ахаха, это было бы так весело!"
+
+# "I bet I could land a shot on you a few islands away." 
+= "Держу пари, что смогу выстрелить в тебя за несколько островов отсюда."
+
+# "Some healthy competition never hurt anyone, right?" 
+= "Некоторая здоровая конкуренция еще никому не повредила, верно?"
+
+# "I wouldn't mind lazing around in the grass right now..." 
+= "Я бы не прочь поваляться в траве прямо сейчас..."
+
+# "With your head resting on my lap..." 
+= "Положив твою голову мне на колени..."
+
+# "Ehehe~" 
+= "Эхехе~"
+
+# "While it's nice to be productive during the day, there's something so peaceful about the night." 
+= "Хотя приятно быть продуктивным днем, в ночи есть что-то такое умиротворяющее."
+
+# "The sounds of crickets chirping mixed with a gentle breeze is so relaxing." 
+= "Звуки стрекотания сверчков, смешанные с легким ветерком, так расслабляют."
+
+# "You'd hold me on a night like that, right~" 
+= "Ты бы обнял меня такой ночью~"
+
+# "Too bad we can't see the stars tonight..." 
+= "Жаль, что мы не можем увидеть звезды сегодня вечером..."
+
+# "I would've loved to gaze at the cosmos with you." 
+= "Я бы с удовольствием посмотрела на космос вместе с тобой."
+
+# "That's alright though, we'll get to see it some other time, then." 
+= "Впрочем, ничего, тогда мы увидим их в другой раз."
+
+# "Aren't the stars so beautiful, [player]?" 
+= "Разве звезды не такие красивые, [player]?"
+
+# "Although, this isn't {i}quite{/i} what I had in mind when I mentioned stargazing before..." 
+= "Хотя это {i}не совсем{/i} то, что я имела в виду, когда упоминала наблюдение за звездами раньше..."
+
+# "As nice as they are to look at, the part that I want to experience most is being with you, holding each other tight while we lay there." 
+= "Как бы ни было приятно на них смотреть, больше всего я хочу испытать то, как мы лежим там и крепко обнимаем друг друга."
+
+# "Have you ever gone stargazing, [mas_get_player_nickname()]?" 
+= "Ты когда-нибудь наблюдал за звездами, [mas_get_player_nickname()]?"
+
+# "Taking some time out of your evening to look at the night sky and to just stare at the beauty of the sky above..." 
+= "Выдели немного времени вечером, чтобы посмотреть на ночное небо и просто полюбоваться красотой неба над головой..."
+
+# "It's surprisingly relaxing, you know?" 
+= "Ты знал, что это удивительно расслабляет?"
+
+# "I've found that it can really relieve stress and clear your head..." 
+= "Я обнаружила, что это действительно может снять стресс и очистить голову..."
+
+# "And seeing all kinds of constellations in the sky just fills your mind with wonder." 
+= "И вид всевозможных созвездий в небе просто наполняет твой разум изумлением."
+
+# "Of course, it really makes you realize just how small we are in the universe." 
+= "Конечно, это действительно заставляет тебя понять, насколько мы малы во Вселенной."
+
+# "Ahaha..." 
+= "Ахаха..."
+
+# "Cloudy weather is kind of depressing, don't you think?" 
+= "Пасмурная погода угнетает, тебе не кажется?"
+
+# "Especially at nighttime, when it hides the stars away from our view." 
+= "Особенно в ночное время, когда она скрывает звезды от нашего взгляда."
+
+# "It's such a shame, really..." 
+= "Это такой позор, правда..."
+
+# "What a beautiful night!" 
+= "Какая красивая ночь!"
+
+# "There's just something about a cold, crisp night that I love." 
+= "Есть что-то особенное в холодной прохладной ночи, которую я люблю."
+
+# "The contrast of the dark sky and the land covered in snow is really breathtaking, don't you think?" 
+= "Контраст темного неба и земли, покрытой снегом, действительно захватывает дух, не так ли?"
+
+# "If I could, I'd add fireflies." 
+= "Если бы я могла, я бы добавила светлячков."
+
+# "Their lights complement the night sky, it's a pretty sight." 
+= "Их огни дополняют ночное небо, это красивое зрелище."
+
+# "Improve the ambience a little, you know?" 
+= "Улучшают немного атмосферу, знаешь?"
+
+# "Maybe I should add more shrubs and trees." 
+= "Может быть, мне стоит добавить больше кустов и деревьев."
+
+# "Make the islands prettier you know?" 
+= "Сделайте острова красивее, знаешь ли?"
+
+# "I just have to find the right flowers and foliage to go with it." 
+= "Мне просто нужно найти подходящие цветы и листву."
+
+# "Or maybe each island should have its own set of plants so that everything will be different and have variety." 
+= "Или, может быть, на каждом острове должен быть свой набор растений, чтобы всё было по-разному и имело разнообразие."
+
+# "I'm getting excited thinking about it~" 
+= "Я волнуюсь, думая об этом~"
+
+# "{i}~Windmill, windmill for the land~{/i}"
+= 
+
+# "{i}~Turn forever hand in hand~{/i}"
+= 
+
+# "{i}~Take it all in on your stride~{/i}"
+= 
+
+# "{i}~It is ticking, falling down~{/i}"
+= 
+
+# "{i}~Love forever, love is free~{/i}"
+= 
+
+# "{i}~Let's turn forever, you and me~{/i}"
+= 
+
+# "{i}~Windmill, windmill for the land~{/i}"
+= 
+
+# "Ehehe, don't mind me, I just wanted to sing out of the blue~" 
+= "Эхехе, не обращай на меня внимания, я просто хотела спеть на ровном месте~"
+
+# "Ah!" 
+= "Ах!"
+
+# "How'd she get there?" 
+= "Как она туда попала?"
+
+# "All done!" 
+= "Все сделано!"
+
+# "Don't worry, I just moved her to a different place." 
+= "Не волнуйся, я просто перенесла её в другое место."
+
+# "That bookshelf might not look terribly sturdy, but I'm sure it can weather a little snow." 
+= "Эта книжная полка может выглядеть не очень прочной, но я уверена, что она выдержит небольшой снег."
+
+# "It's the books that worry me a bit." 
+= "Меня немного беспокоят книги."
+
+# "I just hope they don't get too damaged..." 
+= "Я просто надеюсь, что они не слишком пострадали..."
+
+# "At times like this, I wish I would've kept my books indoors..." 
+= "В такие моменты мне жаль, что я не держала свои книги дома..."
+
+# "Looks like we'll just have to wait for better weather to read them." 
+= "Похоже, нам просто нужно дождаться лучшей погоды, чтобы прочитать их."
+
+# "In the meantime..." 
+= "В это время..."
+
+# "How about cuddling a bit, [player]?" 
+= "Как насчет того, чтобы немного пообниматься, [player]?"
+
+# "Ehehe~" 
+= "Эхехе~"
+
+# "Some of my favorite books are in there." 
+= "Некоторые из моих любимых книг там."
+
+# "Maybe we can read them together sometime~" 
+= "Может быть, мы когда-нибудь прочитаем их вместе~"
+
+# "You know, I wouldn't mind doing some reading outside even if there is a bit of snow." 
+= "Знаешь, я не против почитать на улице, даже если выпадет немного снега."
+
+# "Though I wouldn't venture out without a warm coat, a thick scarf, and a snug pair of gloves." 
+= "Хотя я бы не рискнула выйти на улицу без теплого пальто, толстого шарфа и пары плотных перчаток."
+
+# "I guess turning the pages might be a bit hard that way, ahaha..." 
+= "Полагаю, переворачивать страницы таким образом может быть немного сложно, ахаха..."
+
+# "But I'm sure we'll manage somehow." 
+= "Но я уверена, что мы как-нибудь справимся."
+
+# "Isn't that right, [player]?" 
+= "Не так ли, [player]?"
+
+# "Reading indoors with rain just outside the window is pretty relaxing."
+= 
+
+# "If only I hadn't left the books outside..." 
+= "Если бы я только не оставила книги снаружи..."
+
+# "I should probably bring some in here when I get the chance." 
+= "Наверное, мне стоит принести сюда немного, когда у меня будет возможность."
+
+# "I'm certain we can find other things to do meanwhile, right [player]?" 
+= "Я уверена, что мы тем временем сможем найти другие занятия, верно [player]?"
+
+# "Reading outdoors is a nice change of pace, you know?" 
+= "Чтение на свежем воздухе — это хорошая смена темпа, понимаешь?"
+
+# "I'd take a cool breeze over a stuffy library any day." 
+= "Я бы в любой день окунулась в прохладный ветерок над душной библиотекой."
+
+# "Maybe I should add a table underneath the Cherry Blossom tree." 
+= "Может быть, мне стоит добавить стол под цветущей сакурой."
+
+# "It'd be nice to enjoy a cup of coffee with some snacks to go alongside my book reading." 
+= "Было бы неплохо насладиться чашечкой кофе с закусками в дополнение к чтению книги."
+
+# "That'd be wonderful~" 
+= "Это было бы чудесно~"
+
+# "{i}It was a dark and stormy night...{/i}"
+= 
+
+# "Ehehe~ This is the perfect time of year for spooky stories, isn't it?"
+= 
+
+# "If you're in the mood, we should read some together."
+= 
+
+# "Although, I don't mind just enjoying the ambience with you for now."
+= 
+
+# "I'm pretty proud of that waterfall there. It was already looking pretty surreal being upside-down."
+= 
+
+# "All I really had to do was change the value of the water to #641F21, and--{nw}"
+= 
+
+# "There's nothing that reminds me of Halloween quite as much as pumpkins."
+= 
+
+# "I thought it would be so cozy to have a bunch of them around my reading nook."
+= 
+
+# "It's a bit chilly in the rain, but don't you think it would be nice to put on some sweaters and snuggle up together?"
+= 
+
+# "Maybe I could make some flavored coffee to enhance the mood even more."
+= 
+
+# "What?"
+= 
+
+# "Ahaha!"
+= 
+
+# "Sorry, I couldn't resist."
+= 
+
+# "It would be pretty spooky if those three were still haunting our happy ending, wouldn't it?"
+= 
+
+# "Ehehe...I'm not sure if those decorations are entirely tasteful."
+= 
+
+# "Sure, there are a lot of spooky stories about the dead rising, or ghosts haunting people..."
+= 
+
+# "But there's a side of this holiday about remembering, isn't there?"
+= 
+
+# "I guess I just thought I shouldn't leave them out."
+= 
+
+# "Go Back" 
+= "Вернутся"

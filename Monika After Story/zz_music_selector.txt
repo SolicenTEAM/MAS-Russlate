@@ -1,0 +1,54 @@
+
+# "Your Reality (Piano Cover)"
+= 
+
+# "Just Monika" 
+= "Лишь Моника "
+
+# "Your Reality" 
+= "Твоя Реальность "
+
+# "I Still Love You" 
+= "Я всё еще люблю тебя "
+
+# "My Feelings" 
+= " Мои чувства"
+
+# "My Confession" 
+= "Моя исповедь "
+
+# "Okay, Everyone! (Monika)" 
+= "Итак, все! (Моника) "
+
+# "Surprise!" 
+= "Сюрприз!"
+
+# "Sayonara" 
+= "Сайонара"
+
+# "Your Reality (Eurobeat ver.)" 
+= "Твоя Реальность (Версия Eurobeat)  "
+
+# "Monika's Lullaby" 
+= "Колыбельная Моники" 
+
+# "No Music" 
+= "Ничего"
+
+# "music"] or getUserVolume("music"
+= 
+
+# "noshift_M"
+= 
+
+# "<<<< Prev"
+= 
+
+# "Next >>>>" 
+= "Дальше >>>>"
+
+# "Return" 
+= "Вернуться"
+
+# "Music Menu" 
+= "Меню музыки"

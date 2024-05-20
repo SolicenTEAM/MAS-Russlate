@@ -1,0 +1,54 @@
+
+# "#000000B2"
+= 
+
+# "auto": "Automatic"
+= 
+
+# "gl": "OpenGL"
+= 
+
+# "angle": "Angle/DirectX"
+= 
+
+# "sw": "Software"
+= 
+
+# "Unknown" 
+= "Неизвестно"
+
+# "#000000B2"
+= 
+
+# "Automatically Choose" 
+= "Автоматический выбор"
+
+# "OpenGL"
+= 
+
+# "Angle/DirectX"
+= 
+
+# "Software"
+= 
+
+# "Return" 
+= "Назад"
+
+# "Select a renderer to use:"
+= 
+
+# "*Changing the renderer requires a restart to take effect"
+= 
+
+# "Current Renderer:"
+= 
+
+# "Switch renderer to " + sel_rend + "?"
+= 
+
+# "Yes" 
+= "Да"
+
+# "No" 
+= "Нет"

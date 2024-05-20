@@ -1,0 +1,237 @@
+
+# "change": "Can you change your choker?"
+= 
+
+# "wear": "Can you wear a choker?"
+= 
+
+# "change": "Can you change your clothes?"
+= 
+
+# "change": "Can you change your earrings?"
+= 
+
+# "wear": "Can you wear earrings?"
+= 
+
+# "change": "Can you change your hairstyle?"
+= 
+
+# "change": "Can you change your hat?"
+= 
+
+# "wear": "Can you wear a hat?"
+= 
+
+# "change": "Can you change your hairclip?"
+= 
+
+# "wear": "Can you wear a hairclip?"
+= 
+
+# "change": "Can you change the flower in your hair?"
+= 
+
+# "wear": "Can you wear a flower in your hair?"
+= 
+
+# "change": "Can you change your necklace?"
+= 
+
+# "wear": "Can you wear a necklace?"
+= 
+
+# "change": "Can you tie your hair with something else?"
+= 
+
+# "wear": "Can you tie your hair with something else?"
+= 
+
+# "..."
+= 
+
+# "Good choice, [player]!" 
+= "Хороший выбор, [player]!"
+
+# "I was thinking the same thing, [player]!" 
+= "Я думала о том же, [player]!"
+
+# "Great choice, [player]!" 
+= "Отличный выбор, [player]!"
+
+# "What do you think, [player]?" 
+= "Что думаешь, [player]?"
+
+# "How do I look, [player]?" 
+= "Как я выгляжу, [player]?"
+
+# "I really like this look, [player]!" 
+= "Мне очень нравится этот образ, [player]!"
+
+# "Just what I was thinking!" 
+= "Как раз то, о чём думала!"
+
+# "Just what I had in mind!" 
+= "Как раз то, что я имел в виду!"
+
+# "That hairstyle doesn't really work with my clothes." 
+= "Эта прическа не очень сочетается с моей одеждой."
+
+# "I don't think this hairstyle really works with this outfit." 
+= "Я не думаю, что эта прическа действительно подходит к этому наряду."
+
+# "That hairstyle doesn't really work with this outfit." 
+= "Эта прическа не очень подходит к этому наряду."
+
+# "I think this hairstyle works better with a different outfit." 
+= "Я думаю, что эта прическа лучше смотрится с другим нарядом."
+
+# "That doesn't really work with my hair." 
+= "Это не очень подходит к моим волосам."
+
+# "I don't think this really works with my hairstyle." 
+= "Я не думаю, что это подходит к моей прическе."
+
+# "This might work with a different hairstyle." 
+= "Это может лучше смотреться с другой прической."
+
+# "I don't really think this goes with my hair." 
+= "Я действительно не думаю, что это идёт с моими волосами."
+
+# "s-type-ribbon": "S-type Ribbon"
+= 
+
+# "Remove"
+= 
+
+# "Remove"
+= 
+
+# "BAD HAIR: "
+= 
+
+# "BAD CLOTHES: "
+= 
+
+# "mas_selector_sidebar", "search_input", "screens"
+= 
+
+# "search_filtered_items"] = flt_items if flt_items is not None else scr.scope["menu_filtered_items"
+= 
+
+# "mod_assets/frames/selector_overlay_disabled.png"
+= 
+
+# "Filter" 
+= "Фильтр"
+
+# "Filter" 
+= "Фильтр"
+
+# "Filter" 
+= "Фильтр"
+
+# "mod_assets/buttons/dropdown/arrow_d.png"
+= 
+
+# "Filter" 
+= "Фильтр"
+
+# "Filter" 
+= "Фильтр"
+
+# "Filter" 
+= "Фильтр"
+
+# "Filter" 
+= "Фильтр"
+
+# "Filter" 
+= "Фильтр"
+
+# "Show All" 
+= "Показать все"
+
+# "Search for..." 
+= "Поиск..."
+
+# "Outfit Mode" 
+= "Режим одежды"
+
+# "Confirm" 
+= "Подтвердить"
+
+# "Confirm" 
+= "Подтвердить"
+
+# "Restore" 
+= "Восстановить"
+
+# "Restore" 
+= "Восстановить"
+
+# "Cancel" 
+= "Отмена"
+
+# "mas_selector_sidebar_select_confirm", "mas_selector_sidebar_select_cancel", "mas_selector_sidebar_select_restore"
+= 
+
+# "Sure [player]!" 
+= "Конечно, [player]!"
+
+# "Oh, alright." 
+= "О, хорошо."
+
+# "Which clothes would you like me to wear?" 
+= "Какую одежду ты бы хотел, чтобы я надела?"
+
+# "Sure!" 
+= "Конечно!"
+
+# "Oh, alright." 
+= "О, хорошо."
+
+# "Do you want me to change?" 
+= "Хочешь, я переоденусь?"
+
+# "Sure!" 
+= "Конечно!"
+
+# "Oh, alright." 
+= "О, хорошо."
+
+# "monika_event_clothes_select", "EVE"
+= 
+
+# "Which hairstyle would you like me to wear?" 
+= "Какую прическу ты бы хотел, чтобы я надела?"
+
+# "Sure!" 
+= "Конечно!"
+
+# "Oh, alright." 
+= "О, хорошо."
+
+# "Basic Hair Band" 
+= "Основная повязка для волос"
+
+# "Which hair tie would you like me to use?" 
+= "Какую резинку для волос ты бы хотел, чтобы я использовала?"
+
+# "Sure [player]!" 
+= "Конечно, [player]!"
+
+# "Oh, alright." 
+= "О, хорошо."
+
+# "left-hair-clip", idle_dlg="Which hairclip would you like me to wear?" 
+= "left-hair-clip", idle_dlg="Какую заколку ты бы хотел, чтобы я надела?"
+
+# "Which flower would you like me to put in my hair?" 
+= "Какой цветок ты хочешь, чтобы я вплела себе в волосы?"
+
+# "Sure [player]!" 
+= "Конечно, [player]!"
+
+# "Oh, alright." 
+= "О, хорошо."

@@ -1,0 +1,195 @@
+
+# "I want to apologize..."
+= 
+
+# "saying I wanted to break up." 
+= "что сказал, что хотел порвать с тобой."
+
+# "entering your room without knocking." 
+= "входил в твою комнату без стука."
+
+# "missing Christmas." 
+= "пропущенное Рождество."
+
+# "mas_apology_generic", prompt="...for something."
+= 
+
+# "...for something." and ev.prompt != "...for something else."
+= 
+
+# "...for something." or generic_ev.prompt == "...for something else."
+= 
+
+# "Nevermind." 
+= "Неважно."
+
+# "[player], if you're feeling guilty about what happened..." 
+= "если ты чувствуешь себя виноватым за то, что произошло, [player]..."
+
+# "You don't have to be afraid of apologizing, we all make mistakes after all." 
+= "Я не кусаюсь, не нужно боятся извинений, в конце-концов, мы все совершаем ошибки."
+
+# "We just have to accept what happened, learn from our mistakes, and move on, together. Okay?" 
+= "Мы просто должны принять, то что произошло, и двигаться дальше, всё таки все учатся на своих ошибках. Ладно?"
+
+# "[player]..." 
+= "[player]..."
+
+# "If you want to apologize, go ahead. It'd mean a lot to me if you did." 
+= "Если ты хочешь извиниться, то прошу. Это многое бы значило для меня, если бы ты сделал это."
+
+# "Oh..." 
+= "А..."
+
+# "I was kind of--" 
+= "Я был вроде как--"
+
+# "Nevermind." 
+= "Неважно."
+
+# "...?"
+= 
+
+# "..."
+= 
+
+# "..."
+= 
+
+# "Did you have something to say, [player]?" 
+= "Хочешь что-то сказать, [player]?"
+
+# "...for something else."
+= 
+
+# "saying you wanted to break up. I knew you didn't mean it..." 
+= "говорил о том что хочешь порвать со мной. Я знаю ты на самом деле не хочешь этого..."
+
+# "joking about having another girlfriend. You nearly gave me a heart attack!" 
+= "подшучивал надо мной говоря, что у тебя есть другая девушка. Ты чуть до сердцечного приступа меня не довел! "
+
+# "calling me a murderer. I hope you don't really see me that way..." 
+= "называл меня убийцей. Надеюсь ты на самом деле не думаешь так..."
+
+# "missing Christmas." 
+= "пропущенное Рождество."
+
+# "the game crashing. I understand it happens sometimes, but don't worry, I'm alright!" 
+= "игра вылетела. Я понимаю, иногда такое случается, поэтому не волнуйся, я в полном порядке."
+
+# "the game crashing. It really was scary, but I'm just glad you came back to me and made things better." 
+= "игры вылетела. Это было страшно, но я просто рада, что ты вернулся назад ко мне, и теперь мне значительно лучше."
+
+# "not listening to my speech. I worked really hard on it." 
+= "не слушал что я говорила.  А я так старалась."
+
+# "calling me evil. I know you don't really think that." 
+= "называл меня злом. Я знаю, на самом деле ты так не думаешь."
+
+# "not taking my questions seriously. I know you'll be honest with me from now on." 
+= "не принимал мои вопросы в серьез. Я надеюсь, что с этого момента ты будешь честен со мной."
+
+# "Okay." 
+= "Ладно."
+
+# "I hope this isn't some joke or trick, [player]." 
+= "Надеюсь это не шутка или какой-то трюк, [player]."
+
+# "..."
+= 
+
+# "...Thank you for the apology."
+= 
+
+# "But please, try to be more mindful about my feelings." 
+= "Пожалуйста, будь более внимательным к моим чувствам."
+
+# "Please." 
+= "Пожалуйста."
+
+# "Thank you, [player]." 
+= "Благодарю, [player]."
+
+# "I know things aren't the best between us, but I know that you're still a good person." 
+= "Знаю, между нами не всё гладко, но я знаю, что ты всё еще хороший человек."
+
+# "So could you be a little more considerate of my feelings?" 
+= "Поэтому...не мог бы ты относиться более внимательно к моим чувствам?"
+
+# "Please?" 
+= "Пожалуйста?"
+
+# "Did something happen?" 
+= "А что-то произошло?"
+
+# "I don't see a reason for you to be sorry." 
+= "Не вижу причин, почему тебе должно быть стыдно."
+
+# "..."
+= 
+
+# "Anyway, thank you for the apology." 
+= "В любом случае, спасибо за извинения."
+
+# "Whatever it is, I know you're doing your best to make things right." 
+= "Чем бы это ни было, я знаю, что ты сделаешь всё возможное, чтобы всё исправить."
+
+# "That's why I love you, [player]!" 
+= "И это то почему я так люблю тебя, [player]!"
+
+# "Thank you for apologizing for [apology_reason]" 
+= "Благодарю что ты извинился за то, что [apology_reason]"
+
+# "I accept your apology, [player]. It means a lot to me." 
+= "Я принимаю твои извинения, [player]. Они многое значат для меня."
+
+# "It'd mean a lot more to me if you would just admit what you did." 
+= "Это значило для меня гораздо большим, если бы ты просто признался в том, что сделал."
+
+# "What you did wasn't funny, [player]." 
+= "То, что ты сделал, было не смешно, [player]."
+
+# "Please be more considerate about my feelings in the future." 
+= "Пожалуйста, будь более внимательным к моим чувствам в будущем."
+
+# "...for calling you a bad name."
+= 
+
+# "Thank you for apologizing for the name you tried to give me." 
+= "Спасибо, что извинился за то, имя которое хотел мне дать."
+
+# "That really hurt, [player]..." 
+= "Это действительно больно, [player]..."
+
+# "I accept your apology, but please don't do that again. Okay?" 
+= "Я принимаю твоё извинение, но пожалуйста не делай так больше. Ладно?"
+
+# "monika_affection_nickname", "EVE"
+= 
+
+# "I can't believe you did that {i}again{/i}." 
+= "Не могу поверить что ты {i}снова{/i} сделал это."
+
+# "Even after I gave you a second chance." 
+= "После того, как я дала тебе еще один шанс."
+
+# "I'm disappointed in you, [player]." 
+= "Я разочарована в тебе, [player]."
+
+# "Don't ever do that again." 
+= "Никогда больше так не делай."
+
+# "monika_affection_nickname", "EVE"
+= 
+
+# "I can't believe you." 
+= "Я не доверяю тебе."
+
+# "I trusted you to give me a good nickname to make me more unique, but you just threw it back in my face..." 
+= "Я доверилась тебе, чтобы ты подобрал мне хорошое прозвище которое будет более уникальное, но ты просто наплевал это."
+
+# "I guess I couldn't trust you for this." 
+= "Не думаю что я могу доверить тебе это."
+
+# "I'd accept your apology, [player], but I don't think you even mean it." 
+= "Я могла бы принять твои извинения, [player], но не думаю, что ты по-настоящему имеешь это в виду."

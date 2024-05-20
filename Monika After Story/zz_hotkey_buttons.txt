@@ -1,0 +1,36 @@
+
+# "Talk" 
+= "{size=-6}Поговорить{/size}"
+
+# "Talk" 
+= "{size=-6}Поговорить{/size}"
+
+# "Extra" 
+= "{size=-6}Доп{/size}."
+
+# "Extra" 
+= "{size=-6}Доп{/size}."
+
+# "Music" 
+= "{size=-6}Музыка{/size}"
+
+# "Music" 
+= "{size=-6}Музыка{/size}"
+
+# "Play" 
+= "{size=-6}Играть{/size}"
+
+# "Play" 
+= "{size=-6}Играть{/size}"
+
+# "Pause") action Jump("mm_movie_pausefilm" 
+= "Пауза") action Jump("mm_movie_pausefilm"
+
+# "Pause") action Jump("mm_movie_pausefilm" 
+= "Пауза") action Jump("mm_movie_pausefilm"
+
+# "Time") action Jump("mm_movie_settime" 
+= "Время") action Jump("mm_movie_settime"
+
+# "Time") action Jump("mm_movie_settime" 
+= "Время") action Jump("mm_movie_settime"

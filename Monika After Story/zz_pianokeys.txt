@@ -1,0 +1,495 @@
+
+# "You want to play the piano?" 
+= "Ты хочешь играть на пианино?"
+
+# "Did you want to play a song or play on your own, [player]?{nw}" 
+= "Ты хотел сыграть песню или играть сам, [player]?{nw}"
+
+# "Did you want to play a song or play on your own, [player]?{fast}" 
+= "Ты хотел сыграть песню или играть сам, [player]?{fast}"
+
+# "Play a song." 
+= "Сыграть песню."
+
+# "Which song would you like to play?" 
+= "Какую песню ты хотел бы сыграть?"
+
+# "I'm so excited to hear you play, [player]!" 
+= "Я так рада слышать, как ты играешь, [player]!"
+
+# "On my own." 
+= "Самостоятельно."
+
+# "Nevermind." 
+= "Забудь."
+
+# "Then play for me, [player]~" 
+= "Тогда сыграй для меня, [player]~"
+
+# "Would you like to play again?{nw}" 
+= "Хочешь сыграть снова?{nw}"
+
+# "Would you like to play again?{fast}" 
+= "Хочешь сыграть снова?{fast}"
+
+# "Yes." 
+= "Да."
+
+# "No." 
+= "Нет."
+
+# "All done, [player]?" 
+= "Всё готово, [player]?"
+
+# "Uhhh [player]..." 
+= "Уххх [player]..."
+
+# "I thought you wanted to play the piano?" 
+= "Я думала, ты хочешь играть на пианино?"
+
+# "I really enjoy hearing you play." 
+= "Мне очень нравится слушать, как ты играешь."
+
+# "Promise to play for me next time?" 
+= "Обещаешь сыграть для меня в следующий раз?"
+
+# "Wow! You almost got it!" 
+= "Вау! У тебя почти получилось!"
+
+# "Good job, [player]." 
+= "Хорошая работа, [player]."
+
+# "..."
+= 
+
+# "You did your best, [player]..." 
+= "Ты сделал всё, что мог, [player]..."
+
+# "Great job!" 
+= "Отличная работа!"
+
+# "Maybe we should play together sometime!" 
+= "Может быть, мы должны сыграть вместе как-нибудь!"
+
+# "That was nice, [player]!" 
+= "Это было мило, [player]!"
+
+# "Make sure to practice often!" 
+= "Обязательно тренируйся!"
+
+# "Wow! You almost got it!" 
+= "Вау! У тебя почти получилось!"
+
+# "That's so cool being able to sing along while you play that on our birthday, [player]!" 
+= "Так здорово иметь возможность подпевать, пока ты играешь это в наш день рождения, [player]!"
+
+# "Thanks for playing that for me on my birthday, [player]." 
+= "Спасибо, что сыграл для меня в мой день рождения, [player]."
+
+# "I'm so happy we can spend this special day sharing our love of music!" 
+= "Я так счастлива, что мы можем провести этот особенный день, разделяя нашу любовь к музыке!"
+
+# "Ahaha! That was really neat, [player]!" 
+= "Аха-ха! Это было действительно здорово, [player]!"
+
+# "It's always nice to have a little music to sing along with!" 
+= "Всёгда приятно иметь немного музыки, чтобы подпевать!"
+
+# "Good job, [player]." 
+= "Хорошая работа, [player]."
+
+# "Make sure you keep practicing. I'm sure you'll play it perfectly next time!" 
+= "Убедись, что ты продолжаешь практиковаться. Я уверена, что в следующий раз ты сыграешь идеально!"
+
+# "Well, if you wanted to play this on [our] birthday..." 
+= "Ну, если бы ты хотел сыграть это на [our] день рождения..."
+
+# "You should have practiced sooner." 
+= "Ты должен был тренироваться раньше."
+
+# "Aw, that's okay, [player]..." 
+= "Ой, всё в порядке, [player]..."
+
+# "It was a neat idea to try to play that on our birthday!" 
+= "Это была отличная идея — попробовать сыграть в наш день рождения!"
+
+# "I'm sure if you keep practicing you'll be able to do it perfectly!" 
+= "Я уверена, что если ты будешь продолжать практиковаться, ты сможешь делать это идеально!"
+
+# "I appreciate the thought, [player]." 
+= "Я ценю эту мысль, [player]."
+
+# "Even if you can't get it by the end of the day, I'm sure you'll do better next year." 
+= "Даже если у тебя не получится к концу дня, я уверена, что в следующем году ты справишься лучше."
+
+# "That's okay, [player]!" 
+= "Всё в порядке, [player]!"
+
+# "It was a neat idea to play that on your birthday while I sung along!" 
+= "Это была отличная идея — сыграть на твой день рождения, пока я подпеваю!"
+
+# "I'm sure if you keep practicing you'll be able to do it perfectly!" 
+= "Я уверена, что если ты будешь продолжать практиковаться, ты сможешь делать это идеально!"
+
+# "..."
+= 
+
+# "You did your best, [player]..." 
+= "Ты сделал всё, что мог, [player]..."
+
+# "Even a simple song takes time to learn." 
+= "Даже простая песня требует времени, чтобы выучить её."
+
+# "Ahaha! That was {i}so{/i} cool!" 
+= "Ахаха! Это было {i}так{/i} круто!"
+
+# "Singing the Birthday Song while you play it on the piano on our birthday..." 
+= "Споём песню ко дню рождения, играя её на пианино в наш день рождения..."
+
+# "I can't imagine a better way of sharing our special day~" 
+= "Я не могу представить лучшего способа разделить наш особенный день~"
+
+# "Ahaha! It feels weird to sing the Birthday Song for myself..." 
+= "Аха-ха! Странно петь для себя Песню дня рождения..."
+
+# "But you did such a great job playing it!" 
+= "Но ты так здорово сыграл её!"
+
+# "You must have practiced really hard for me..." 
+= "Ты, должно быть, очень усердно тренировался для меня..."
+
+# "I'm happy that I got to enjoy this with you~" 
+= "Я счастлива, что получила удовольствие от этого с тобой~"
+
+# "Thanks for this gift, [player]!" 
+= "Спасибо за этот подарок, [player]!"
+
+# "You always make me feel special~" 
+= "Ты всегда заставляешь меня чувствовать себя особенной~"
+
+# "Ahaha! That was really neat, [player]!" 
+= "Аха-ха! Это было действительно здорово, [player]!"
+
+# "It's always nice to have a little music to sing along with!" 
+= "Всёгда приятно иметь немного музыки, чтобы подпевать!"
+
+# "Hehe, great job!" 
+= "Хе-хе, отличная работа!"
+
+# "I know that's an easy one, but you did great." 
+= "Я знаю, что это легко, но ты отлично справился."
+
+# "Are you going to play that for me on my Birthday?" 
+= "Ты сыграешь мне это на мой день рождения?"
+
+# "Aww, you're trying the Birthday Song on our birthday, [player]!" 
+= "Ой, ты попробуешь песню ко дню рождения в наш день рождения, [player]!"
+
+# "Keep trying, I know you can do it!" 
+= "Попробуй, я знаю, ты сможешь!"
+
+# "Thanks for trying to play this one on my birthday!" 
+= "Спасибо, что попытался сыграть в мой день рождения!"
+
+# "I appreciate your effort!" 
+= "Я ценю твои усилия!"
+
+# "Ehehe, trying the Birthday Song on your birthday, [player]?" 
+= "Э-хе-хе, попробуешь Песню дня рождения в свой день рождения, [player]?"
+
+# "Keep trying, I know you can do it!" 
+= "Попробуй, я знаю, ты сможешь!"
+
+# "You're practicing the Birthday Song?" 
+= "Ты репетируешь Песню дня рождения?"
+
+# "I know you can do it, [player]!" 
+= "Я знаю, что ты можешь это сделать, [player]!"
+
+# "That was nice, [player]." 
+= "Это было мило, [player]."
+
+# "But..." 
+= "Но..."
+
+# "You could do better with some more practice..." 
+= "Ты мог бы добиться большего успеха, если бы попрактиковался..."
+
+# "Ehehe~" 
+= "Эхехе~"
+
+# "That was wonderful, [player]!" 
+= "Это было замечательно, [player]!"
+
+# "I didn't know you can play the piano so well." 
+= "Я и не знала, что ты так хорошо играешь на пианино."
+
+# "Maybe we should play together sometime!" 
+= "Может быть, мы должны сыграть вместе как-нибудь!"
+
+# "..."
+= 
+
+# "That's okay, [player]." 
+= "Всё в порядке, [player]."
+
+# "At least you tried your best." 
+= "По крайней мере, ты старался изо всёх сил."
+
+# "That was really cool, [player]!" 
+= "Это было действительно круто, [player]!"
+
+# "With some more practice, you'll be able to play my song perfectly." 
+= "Потренировавшись ещё немного, ты сможешь идеально сыграть мою песню."
+
+# "Make sure to practice every day for me, okay?~" 
+= "Обязательно тренируйся для меня каждый день, ладно?~"
+
+# "Cr"
+= 
+
+# "Pa"
+= 
+
+# "Dl"
+= 
+
+# "K."
+= 
+
+# "K/"
+= 
+
+# "K*"
+= 
+
+# "K-"
+= 
+
+# "K+"
+= 
+
+# "Kr"
+= 
+
+# "K="
+= 
+
+# "Up"
+= 
+
+# "Dn"
+= 
+
+# "Rg"
+= 
+
+# "Lf"
+= 
+
+# "In"
+= 
+
+# "Hm"
+= 
+
+# "En"
+= 
+
+# "F#4"
+= 
+
+# "G#4"
+= 
+
+# "A#4"
+= 
+
+# "C#5"
+= 
+
+# "D#5"
+= 
+
+# "F#5"
+= 
+
+# "G#5"
+= 
+
+# "A#5"
+= 
+
+# "PianoException: "
+= 
+
+# "Notes list must exist"
+= 
+
+# "Verse must be positive number"
+= 
+
+# "say must be of type Text"
+= 
+
+# "I can't believe you've done this." 
+= "Не могу поверить, что ты это сделал."
+
+# "Not bad, though." 
+= "Впрочем, неплохо."
+
+# "I think it's okay to not learn this one..." 
+= "Я думаю, что это нормально - не учить это..."
+
+# "Do you really want to learn this?" 
+= "Ты действительно хочешь этому научиться?"
+
+# "Sí, sabes que ya llevo un rato mirándote"
+= 
+
+# "Tengo que bailar contigo hoy"
+= 
+
+# "Vi que tu mirada ya estaba llamándome"
+= 
+
+# "Muéstrame el camino que yo voy"
+= 
+
+# "Tú"
+= 
+
+# "Tú eres el imán y yo soy el metal"
+= 
+
+# "Me voy acercando y voy armando el plan"
+= 
+
+# "Solo con pensarlo se acelera el pulso"
+= 
+
+# "Ya"
+= 
+
+# "Ya me está gustando más de lo normal"
+= 
+
+# "Todos mis sentidos van pidiendo más"
+= 
+
+# "Esto hay que tomarlo sin ningún apuro"
+= 
+
+# "Des-"
+= 
+
+# "Quiero respirar tu cuello despacito"
+= 
+
+# "D--p-c--o"
+= 
+
+# "Happy Birthday" 
+= "С днем ​​рождения"
+
+# "Your Reality" 
+= "Твоя реальность"
+
+# "Nevermind" 
+= "Не бери в голову"
+
+# "Listening" 
+= "Прослушивание"
+
+# "Just matched" 
+= "Только что совпало"
+
+# "In match"
+= 
+
+# "Missed" 
+= "Пропуск"
+
+# "Failed" 
+= "Не удалось"
+
+# "Just Post" 
+= "Просто пост"
+
+# "In Post" 
+= "В посте"
+
+# "Visual post" 
+= "Визуальный пост"
+
+# "Clean post" 
+= "Чистый пост"
+
+# "Wait post" 
+= "Подожди пост"
+
+# "Cleaning" 
+= "Чистка"
+
+# "Done" 
+= "Готово"
+
+# "Just doned" 
+= "Только что сделано"
+
+# "Done Post" 
+= "Гототый пост"
+
+# "Wait Done" 
+= "Ожидание готовности"
+
+# "Config wait" 
+= "Ожидание конфига"
+
+# "Config change" 
+= "Изменение конфигурации"
+
+# "Config entry" 
+= "Запись конфигурации"
+
+# "#4D4154"
+= 
+
+# "#14001E"
+= 
+
+# "#14001E"
+= 
+
+# "#4D4154"
+= 
+
+# "gui/font/Halogen.ttf"
+= 
+
+# "Done" 
+= "Готово"
+
+# "Cancel" 
+= "Отмена"
+
+# "Reset" 
+= "Перезагрузить"
+
+# "Reset All" 
+= "Сбросить всё"
+
+# "Config" 
+= "Конфигурация"
+
+# "Quit" 
+= "Выход"
+
+# "Click on a pink area to change the keymap for that piano key" 
+= "Нажми на розовую область, чтобы изменить раскладку для этой клавиши"
+
+# "Press the key you'd like to set this piano key to" 
+= "Нажми на кнопку, на которую ты хочешь установить эту клавишу пианино"
+
+# "No state" 
+= "Нет состояния"

@@ -1,0 +1,6 @@
+
+# "Try registering at a later init level." 
+= "Попытка зарегистрироваться на более позднем уровне инициализации."
+
+# "MASFilterWeatherMap"
+= 

@@ -1,0 +1,112 @@
+==== zz_hangman ====
+
+#  "Hangman"  
+=   "Палач"
+
+#  "Hangman"  
+=   "Палач"
+
+#  "Choose a difficulty.{nw}"  
+=   "Выбери сложность.{nw}"
+
+#  "Choose a difficulty.{fast}"  
+=   "Выбери сложность.{fast}"
+
+#  "Easy."  
+=   "Легко."
+
+#  "Normal."  
+=   "Нормально."
+
+#  "Hard."  
+=   "Сложно."
+
+#  "Alright, I've got one."  
+=   "Хорошо, у меня есть одно."
+
+#  "[player]..."  
+=   "[player]..."
+
+#  "You couldn't guess your own name?"  
+=   "Ты не мог угадать свое собственное имя?"
+
+#  "Better luck next time~"  
+=   "Удачи в следующий раз~"
+
+#  "[player]..."  
+=   "[player]..."
+
+#  "I thought you said you wanted to play [store.mas_hangman.game_name]."  
+=   "Я думал, ты сказал, что хочешь сыграть в [store.mas_hangman.game_name]."
+
+#  "You didn't even guess a single letter."  
+=   "Ты даже не угадал ни одной буквы."
+
+#  "I really enjoy playing with you, you know."  
+=   "Знаешь, мне очень нравится играть с тобой."
+
+#  "Don't give up so easily."  
+=   "Не сдавайся так легко."
+
+#  "That was only your first wrong letter!"  
+=   "Это была только твоя первая неправильная буква!"
+
+#  "You still had [chances] more lives left."  
+=   "У тебя всё ещё были [chances] больше жизней."
+
+#  "You still had [chances] more life left."  
+=   "У тебя все еще были [chances] на продолжение жизни."
+
+#  "I know you can do it!"  
+=   "Я знаю ты сможешь!"
+
+#  "It would really mean a lot to me if you just tried a bit harder."  
+=   "Для меня это действительно много значило бы, если бы ты просто немного постарался."
+
+#  "You should at least play to the end..."  
+=   "Ты должен хотя бы играть до конца..."
+
+#  "Giving up so easily is a sign of poor resolve."  
+=   "Так легко сдаться — признак плохой решимости."
+
+#  "I mean, you'd have to miss [chances] more letters to actually lose."  
+=   "Я имею в виду, что тебе придется упустить [chances] больше букв, чтобы действительно проиграть."
+
+#  "I mean, you'd have to miss [chances] more letter to actually lose."  
+=   "Я имею в виду, что тебе придется упустить [chances] больше букв, чтобы действительно проиграть."
+
+#  "Can you play to the end next time, [player]? For me?"  
+=   "Можешь ли ты играть до конца в следующий раз, [player]? Для меня?"
+
+#  "Wow, you guessed [the_word] correctly!"  
+=   "Вау, ты правильно угадал [the_word]!"
+
+#  "Good job, [player]!"  
+=   "Хорошая работа, [player]!"
+
+#  "Would you like to play again?{nw}"  
+=   "Хотите снова сыграть?{nw}"
+
+#  "Would you like to play again?{fast}"  
+=   "Хотите сыграть снова?{fast}"
+
+#  "Yes."  
+=   "Да."
+
+#  "No."  
+=   "Нет."
+
+#  "You need to have a good vocabulary to be able to guess different words."  
+=   "У тебя должен быть хороший словарный запас, чтобы угадывать разные слова."
+
+#  "The best way to improve that is to read more books!"  
+=   "Лучший способ улучшить это — читать больше книг!"
+
+#  "I'd be very happy if you did that for me, [player]."  
+=   "Я была бы очень рада, если бы ты сделал это для меня, [player]."
+
+#  "Let's play again soon, okay?"  
+=   "Давай поиграем еще раз, ладно?"
+
+#  "Okay. Let's play again soon!"  
+=   "Хорошо. Давай поиграем еще раз!"

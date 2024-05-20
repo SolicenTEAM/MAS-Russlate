@@ -1,0 +1,865 @@
+=== chess ===
+
+# "I can't make this decision right now..."
+= "Я не могу сейчас принять это решение..."
+
+# "Result"] != "*"
+= "Результат"] != "*"
+
+# "White"
+= "Белый"
+
+# "Black"
+= "Чёрный"
+
+# "Black"
+= "Чёрный"
+
+# "White"
+= "Белый"
+
+# "Date"].replace(".","-"
+= 
+
+# "Event"
+= 
+
+# "White"
+= "Белый"
+
+# "Let's continue our unfinished game."
+= "Давай продолжим нашу незаконченную игру."
+
+# "Practice", "False"
+= 
+
+# "CasualRules", "False"
+= 
+
+# "Event"
+= 
+
+# "Failed to access quickfile."
+= "Не удалось получить доступ к файлу."
+
+# "Failed to access quickfile."
+= "Не удалось получить доступ к файлу."
+
+# "You removed the save again."
+= "Ты снова удалил сохранение."
+
+# "Let's just play chess at another time, then."
+= "Тогда давай поиграем в шахматы в следующий раз."
+
+# "We still have an unfinished game in progress."
+= "У нас всё ещё есть одна незаконченная игра."
+
+# "Get ready!"
+= "Приготовься!"
+
+# "Practice", "False"
+= 
+
+# "CasualRules", "False"
+= 
+
+# "Normal Chess"
+= "Обычные шахматы"
+
+# "Randomized Chess"
+= "Случайные шахматы"
+
+# "Can you explain these game-modes?", "explain_modes"
+= "Расскажешь о этих режимах?", "explain_modes"
+
+# "Ruleset", "ruleset_select"
+= "Правила", "ruleset_select"
+
+# "Practice or Play", "mode_select"
+= "Практика или Игра", "mode_select"
+
+# "Color", "color_select"
+= "Цвет", "color_select"
+
+# "Let's play!", "confirm"
+= "Сыграем!", "confirm"
+
+# "Nevermind."
+= "Неважно."
+
+# "Casual Rules"
+= "Случайные правила"
+
+# "Traditional Rules"
+= "Традиционные правила"
+
+# "What's the difference?"
+= "Какая разница?"
+
+# "Gamemode", "gamemode_select"
+= "Режим", "gamemode_select"
+
+# "Practice or Play", "mode_select"
+= "Практика или Игра", "mode_select"
+
+# "Color", "color_select"
+= "Цвет", "color_select"
+
+# "Let's play!", "confirm"
+= "Сыграем!", "confirm"
+
+# "Nevermind."
+= "Неважно."
+
+# "Practice"
+= "Тренировка"
+
+# "Play"
+= "Играть"
+
+# "Gamemode", "gamemode_select"
+= "Режим", "gamemode_select"
+
+# "Ruleset", "ruleset_select"
+= "Правила", "ruleset_select"
+
+# "Color", "color_select"
+= "Цвет", "color_select"
+
+# "Let's play!", "confirm"
+= "Сыграем!", "confirm"
+
+# "Nevermind."
+= "Неважно."
+
+# "White"
+= "Белый"
+
+# "Black"
+= "Чёрный"
+
+# "Let's draw lots!"
+= "Давай тянуть жребий!"
+
+# "Gamemode", "gamemode_select"
+= "Режим", "gamemode_select"
+
+# "Ruleset", "ruleset_select"
+= "Правила", "ruleset_select"
+
+# "Practice or Play", "mode_select"
+= "Практика или Игра", "mode_select"
+
+# "Let's play!", "confirm"
+= "Сыграем!", "confirm"
+
+# "Nevermind."
+= "Неважно."
+
+# "How would you like to play?[('{fast}' if loopback else '')]"
+= "Как бы ты хотел сыграть?[('{fast}' if loopback else '')]"
+
+# "We'll play another time though, right?"
+= "Мы сыграем в другой раз, хорошо?"
+
+# "Naturally, {i}Normal Chess{/i} means standard chess."
+= "Буквально, {i}Обычные шахматы{/i} означают стандартные шахматы."
+
+# "Then there's {i}Randomized Chess{/i}, a mode based on {i}Really Bad Chess{/i}."
+= "Тогда как {i}Случайные щахматы{/i}, основаны  на {i}Очень плохих шахматах{/i}."
+
+# "We get completely random pieces which adds the factor of luck to make it fun for players of any skill level."
+= "Каждый получает случайные фигуры, что добавляет фактор удачи и делает игру интересной для игроков любого уровня навыков."
+
+# "In this mode, the pieces in the back row are randomly shuffled while ensuring the bishops are placed on opposite color squares and the king is placed between two rooks."
+= "В этом режиме фигуры в заднем ряду перемешиваются случайным образом, при этом слоны размещаются на полях противоположного цвета, а король - между двумя ладьями."
+
+# "Ahaha~"
+= "Ахаха~"
+
+# "Essentially, the player who is not trapped is declared the winner."
+= "По сути игрок, не попавший в ловушку, объявляется победителем. "
+
+# "Result"
+= "Результат"
+
+# "practice_losses" if practice_mode else "losses"
+= "practice_losses" if practice_mode else "losses"
+
+# "Don't give up so easily..."
+= "Не сдавайся так легко..."
+
+# "I'm sure if you keep trying, you can beat me."
+= "Я уверена, что есди ты продолжишь пытаться, то сможешь победить меня."
+
+# "I hope you don't get frustrated when you play with me."
+= "Я надеюсь, ты не расстраиваешься, когда играешь со мной."
+
+# "It really means a lot to me that you keep playing if you do~"
+= "Для меня действительно очень много значит, что ты продолжаешь играть, если играешь~"
+
+# "Let's play again soon, alright?"
+= "Давай ещё раз, хорошо?"
+
+# "Giving up, [player]?"
+= "Сдаёшься, [player]?"
+
+# "Alright, but even if things aren't going too well, it's more fun to play to the end!"
+= "Хорошо, но даже если дела идут не слишком хорошо, играть до конца куда веселее!"
+
+# "In the end, I'm just happy to be spending time with you~"
+= "В конце концов, я счастлива проводить время с тобой~"
+
+# "Anyway..."
+= "В любом случае..."
+
+# "I won, yay!~"
+= "Я победила, ура!"
+
+# "Anyway..."
+= "В любом случае..."
+
+# "Sure, we'll call this game a draw."
+= "Конечно, мы назовем эту игру ничьёй."
+
+# "That was a pretty long game!"
+= "Это была довольно долгая игра!"
+
+# "Great job though"
+= "Хорошая работа, хотя"
+
+# "Aw, looks like we have a stalemate."
+= "Ой, похоже, у нас тупик."
+
+# "But on the bright side"
+= "Но с яркой стороны"
+
+# "[line_start], you're getting closer and closer to beating me, [player]~"
+= "[line_start], ты все ближе и ближе к победе над мной, [player]~"
+
+# "Nice work on getting this far, [player]~"
+= "Хорошая работа, чтобы зайти так далеко, [player]~"
+
+# "I'm so proud of you, [player]!"
+= "Я так горжусь тобой, [player]!"
+
+# "I'm proud of you, [player]!~"
+= "Я горжусь тобой, [player]!~"
+
+# "Well played, [player]!"
+= "Хорошо сыграно, [player]!"
+
+# "It makes me really happy to see you win~"
+= "Я очень рада видеть тебя победителем~"
+
+# "I'm happy to see you win!"
+= "Я рада видеть видеть тебя победителем!"
+
+# "No matter the outcome, I'll always enjoy playing with you."
+= "Независимо от исхода, я всегда буду наслаждаться игрой с тобой."
+
+# "Congratulations [player], you won!"
+= "Поздравляю [player], ты победил!"
+
+# "UndoCount"
+= "UndoCount"
+
+# "That's amazing!"
+= "Это восхитительно!"
+
+# "Great job!"
+= "Отличная работа!"
+
+# "You only undid [undo_count] times too, great job."
+= "Ты отменил только [undo_count] раз, отличная работа."
+
+# "[undo_count] undos, not bad at all. If we keep practicing together, I'm sure we can lower that~"
+= "[undo_count] отмен, не дурно. Если мы продолжим практиковаться, то сможем уменьшить их~"
+
+# "But I'm sure if we keep practicing, we can get that number lower."
+= "Но я уверен, что если мы будем продолжать тренироваться, мы сможем снизить это число."
+
+# "[renpy.substitute(random.choice(player_win_quips))]"
+= "[renpy.substitute(random.choice(player_win_quips))]"
+
+# "Great job, you won!"
+= "Отличная работа, ты победил!"
+
+# "Anyway..."
+= "В любом случае..."
+
+# "Would you like to save this game?{nw}"
+= "Ты хочешь сохранить эту игру?{nw}"
+
+# "Would you like to save this game?{fast}"
+= "Ты хочешь сохранить эту игру?{fast}"
+
+# "Yes."
+= "Да."
+
+# "No."
+= "Нет."
+
+# "Would you like to play again?{nw}"
+= "Хочешь сыграть снова?{nw}"
+
+# "Would you like to play again?{fast}"
+= "Хочешь сыграть снова?{fast}"
+
+# "Yes."
+= "Да."
+
+# "Yes, but with different rules."
+= "Да, но с другими правилами."
+
+# "No."
+= "Нет."
+
+# "Alright, let's play again soon."
+= "Ладно, скоро поиграем снова."
+
+# "Oh look, I drew black![lets_begin]"
+= "О, смотри, я нарисовала черным![lets_begin]"
+
+# "Oh look, I drew white![lets_begin]"
+= "О, смотри, я нарисовала белым![lets_begin]"
+
+# "Event"] = loaded_game.headers["Event"
+= 
+
+# "Event"
+= 
+
+# "Event"
+= 
+
+# "We already have a game named '[save_name].'"
+= "У нас уже есть игра под названием '[save_name].'"
+
+# "Should I overwrite it?{nw}"
+= "Должна ли я перезаписать его?{nw}"
+
+# "Should I overwrite it?{fast}"
+= "Должна ли я перезаписать его?{fast}"
+
+# "Yes."
+= "Да."
+
+# "No."
+= "Нет."
+
+# "Result"
+= "Результат"
+
+# "I've saved our game in '[display_file_path]'!"
+= "Я сохранила нашу игру в '[display_file_path]'!"
+
+# "You can find PGN analyzers online to open it and see where you made your mistakes."
+= "Ты можешь найти анализаторы PGN в Интернете, чтобы открыть его и посмотреть, где ты допустил ошибки."
+
+# "Whether you win, lose, surrender, or draw, there's always something you could've done better, so loading these games up can really help you improve!"
+= "Выиграешь ли ты, проиграешь, сдашься или сыграешь вничью, всегда есть что-то, что ты мог бы сделать лучше, поэтому загрузка этих игр действительно может помочь тебе стать лучше!"
+
+# "but I'm sure you wouldn't do that."
+= "но я уверена, что ты не сделал бы это."
+
+# "Right, [player]?{nw}"
+= "Верно, [player]?{nw}"
+
+# "Right, [player]?{fast}"
+= "Верно, [player]?{fast}"
+
+# "Of course not."
+= "Конечно нет."
+
+# "Yay~"
+= "Ура~"
+
+# "Let's continue this game soon!"
+= "Давай  продолжим эту игру в ближайшее время!"
+
+# "No thanks, [player]."
+= "Нет, спасибо, [player]."
+
+# "I don't really feel like playing chess right now."
+= "Мне сейчас совсем не хочется играть в шахматы."
+
+# "Well that's embarrassing, it seems I can't actually get chess to work on your system..."
+= "Ну, это смущает, кажется, я не могу заставить шахматы работать на твоей системе..."
+
+# "Sorry about that, [player]."
+= "Извини за это, [player]."
+
+# "Maybe we can do something else instead?"
+= "Может быть, мы можем сделать что-то другое вместо этого?"
+
+# "Sorry you didn't win this time, [player]..."
+= "Жаль, что ты не выиграл в этот раз, [player]..."
+
+# "I hope you'll at least keep trying though."
+= "Я надеюсь, что ты, по крайней мере, продолжишь попытки."
+
+# "Let's play again soon, okay?"
+= "Давайте поиграем еще раз в ближайшее время, хорошо?"
+
+# "You'll beat me someday~"
+= "Когда-нибудь ты меня победишь~"
+
+# "That was really fun, [player]!"
+= "Это было действительно весело, [player]!"
+
+# "No matter the outcome, I always enjoy playing chess with you~"
+= "Независимо от исхода, мне всегда нравится играть с тобой в шахматы~"
+
+# "I bet if you keep practicing, you'll be even better than me someday!"
+= "Бьюсь об заклад, если ты будешь продолжать практиковаться, ты когда-нибудь станешь даже лучше меня!"
+
+# "Until then though, I'll try and go a little easier on you."
+= "А пока я постараюсь относиться к тебе немного проще."
+
+# "You still need to pick a game to keep."
+= "Тебе все еще нужно выбрать игру, чтобы сохранить её."
+
+# "So I've been thinking, [player]..."
+= "Вот я и подумала, [player]..."
+
+# "Most people who leave in the middle of a chess game don't come back to start a new one."
+= "Большинство людей, которые уходят посреди шахматной партии, не возвращаются, чтобы начать новую."
+
+# "...So it makes no sense for me to keep track of more than one unfinished game between us."
+= "...Поэтому мне нет смысла следить за более чем одной незавершенной игрой между нами."
+
+# "And since we have [game_count] games in progress..."
+= "И так как у нас [game_count] игр в процессе..."
+
+# "Pick a game you'd like to keep."
+= "Выбери игру, которую хочешь оставить."
+
+# "I see."
+= "Я поняла."
+
+# "In that case, please take your time."
+= "В таком случае, пожалуйста, не торопись."
+
+# "We'll play chess again once you've made your decision."
+= "Мы снова сыграем в шахматы, как только ты решишься."
+
+# "Alright."
+= "Хорошо."
+
+# "I'm really, really sorry, [player]..."
+= "Мне очень, очень жаль, [player]..."
+
+# "Ahaha~"
+= "Ахаха~"
+
+# "Let's start a new game instead."
+= "Давай начнём новую игру."
+
+# "This has happened [qs_gone_count] times now..."
+= "Это случилось уже [qs_gone_count] раз..."
+
+# "Anyway..."
+= "В любом случае..."
+
+# "Let's start a new game."
+= "Давай начнём новую игру."
+
+# "I'm sorry..."
+= "Мне жаль..."
+
+# "Let's start a new game instead."
+= "Давай начнём новую игру."
+
+# "Well this is embarrassing..."
+= "Как-то неловко..."
+
+# "I could have sworn that we had an unfinished game, but I can't find the save file."
+= "Я могла бы поклясться, что у нас была незаконченная игра, но я не могу найти файл сохранения."
+
+# "Did you mess with the saves, [player]?{nw}"
+= "Ты запутался с сохранениями, [player]?{nw}"
+
+# "Did you mess with the saves, [player]?{fast}"
+= "Ты запутался с сохранениями, [player]?{fast}"
+
+# "I deleted the save."
+= "Я удалила сохранение."
+
+# "It was an accident!"
+= "Это была случайность!"
+
+# "Maybe..."
+= "Возможно..."
+
+# "Of course not!"
+= "Конечно, нет!"
+
+# "Thanks for being honest with me, [player]."
+= "Спасибо, что был честен со мной, [player]."
+
+# "Did you not want to continue that game?{nw}"
+= "Ты не хотел продолжать эту игру?{nw}"
+
+# "Did you not want to continue that game?{fast}"
+= "Ты не хотел продолжать эту игру?{fast}"
+
+# "Yeah."
+= "Да."
+
+# "I understand, [player]."
+= "Я поняла, [player]."
+
+# "Let's start a new game~"
+= "Давай начнем новую игру~"
+
+# "No."
+= "Нет."
+
+# "Oh?"
+= "А?"
+
+# "I guess you just deleted it by mistake then."
+= "Думаю, ты просто удалил его по ошибке."
+
+# "Let's just start a new game."
+= "Давай просто начнем новую игру."
+
+# "Nevermind."
+= "Неважно."
+
+# "Let's play a new game."
+= "Давай сыграем новую игру"
+
+# "I really don't believe you this time."
+= "На этот раз я тебе не верю."
+
+# "I hope you're not messing with me."
+= "Надеюсь, ты меня не разыгрываешь."
+
+# "If you're just going to throw away our chess games like that..."
+= "Если ты собираешься вот так просто выбросить наши шахматные партии..."
+
+# "Then I don't want to play chess with you anymore!"
+= "Тогда я больше не хочу играть с тобой в шахматы!"
+
+# "Ah, yeah. You wouldn't do that to me."
+= "Ах, да. Ты бы так со мной не поступил."
+
+# "I must have misplaced the save file."
+= "Я, должно быть, неправильно сохранила файл сохранения."
+
+# "Sorry, [player]."
+= "Прости, [player]."
+
+# "[player]! That's--"
+= "[player]! Это..."
+
+# "...not a problem at all."
+= "'...вовсе не проблема.'"
+
+# "I knew you were going to do this again..."
+= "Я знала, что ты собираешься сделать это снова..."
+
+# "...so I kept a backup of our save!"
+= "...поэтому я заранее сохранила копию нашего сохранения!"
+
+# "You can't trick me anymore, [player]."
+= "Ты больше не сможешь обмануть меня, [player]."
+
+# "Now let's continue our game."
+= "А теперь продолжим нашу игру."
+
+# "Can you put the save back so we can play?"
+= "Ты можешь вернуть сохранение, чтобы мы могли играть?"
+
+# "I deleted the save..."
+= "Я удалила сохранение..."
+
+# "Now we can continue our game."
+= "Теперь мы можем продолжить нашу игру."
+
+# "[player]..."
+= "[player]..."
+
+# "That's okay. Let's just play a new game."
+= "Ничего страшного. Давай просто сыграем новую игру."
+
+# "Oh!"
+= "О!"
+
+# "Now we can continue our game."
+= "Теперь мы можем продолжить нашу игру."
+
+# "Again? Don't be so clumsy, [player]."
+= "Опять? Не будь таким неуклюжим, [player]."
+
+# "But that's okay."
+= "Но ничего страшного."
+
+# "We'll just play a new game instead."
+= "Вместо этого мы просто сыграем в новую игру."
+
+# "I had a feeling this would happen again."
+= "У меня было предчувствие, что это случится снова."
+
+# "So I kept a backup of our save!"
+= "Поэтому я сохранила резервную копию нашего сохранения!"
+
+# "Now we can continue our game~"
+= "Теперь мы можем продолжить нашу игру~"
+
+# "Let's play a new game instead."
+= "Давайте вместо этого сыграем новую игру."
+
+# "[player]..."
+= "[player]..."
+
+# "Did you edit the save file?{nw}"
+= "Ты изменил файл сохранения?{nw}"
+
+# "Did you edit the save file?{fast}"
+= "Ты изменил файл сохранения?{fast}"
+
+# "Yes."
+= "Да."
+
+# "No."
+= "Нет."
+
+# "I'm disappointed in you."
+= "Я разочарована в тебе."
+
+# "But I'm glad that you were honest with me."
+= "Но я рада, что ты был честен со мной."
+
+# "I'm sorry."
+= "Прости."
+
+# "Apology accepted!"
+= "Извинения приняты!"
+
+# "Luckily, I still remember a little bit of the last game, so we can continue it from there."
+= "К счастью, я еще помню немного из последней игры, так что мы можем продолжить ее оттуда."
+
+# "Since that game's been ruined, let's just play a new game."
+= "Поскольку эта игра была испорчена, давайте просто сыграем в новую игру."
+
+# "I am incredibly disappointed in you..."
+= "Я невероятно разочарована в тебе..."
+
+# "I'm not surprised..."
+= "Я не удивлена..."
+
+# "But I am prepared."
+= "Но я готова."
+
+# "I kept a backup of our game just in case you did this again."
+= "Я сохранила резервную копию нашей игры на случай, если ты сделаешь это снова."
+
+# "Now let's finish this game."
+= "Теперь давай закончим эту игру."
+
+# "Hmm..."
+= "Хмм..."
+
+# "{nw}but maybe that's just my memory failing me..."
+= "'{nw}но, может, это просто моя память подводит меня...'"
+
+# "Let's continue this game."
+= "Давай продолжим эту игру."
+
+# "I see."
+= "Я поняла."
+
+# "Let's just continue this game."
+= "Давай просто продолжим эту игру."
+
+# "[player]..."
+= "[player]..."
+
+# "I just-"
+= "Я просто..."
+
+# "I just{fast} can't believe you would cheat and {i}lie{/i} to me..."
+= "Я просто{fast} не могу поверить, что ты будешь изменять и {i}лгать{/i} мне..."
+
+# "I'm sorry."
+= "Прости."
+
+# "I forgive you, [player], but please don't do this to me again."
+= "Я прощаю тебя, [player], но, пожалуйста, не поступай так со мной больше."
+
+# "[player]..."
+= "[player]..."
+
+# "I see you've edited my backup saves."
+= "Я вижу, что ты отредактировал мои резервные сохранения."
+
+# "If you want to be like that right now, then we'll play chess some other time."
+= "Если ты хочешь быть таким прямо сейчас, то мы сыграем в шахматы в другой раз."
+
+# "I can't trust you anymore."
+= "Я больше не могу тебе доверять."
+
+# "Goodbye, [player].{nw}"
+= "Прощай, [player].{nw}"
+
+# "Yes"
+= "Да"
+
+# "No"
+= "Нет"
+
+# "Select piece to promote to"
+= "Выбери часть для продвижения"
+
+# "Q" if is_player_white else "q"
+= "Q" if is_player_white else "q"
+
+# "R" if is_player_white else "r"
+= "R" if is_player_white else "r"
+
+# "N" if is_player_white else "n"
+= "N" if is_player_white else "n"
+
+# "B" if is_player_white else "b"
+= "B" if is_player_white else "b"
+
+# "mod_assets/games/chess/piece_highlight_red.png"
+= 
+
+# "mod_assets/games/chess/piece_highlight_yellow.png"
+= 
+
+# "CasualRules", "False"
+= 
+
+# "FEN", "None"
+= 
+
+# "Practice", "False"
+= 
+
+# "PracticeLost", "False"
+= 
+
+# "UndoCount"
+= "UndoCount"
+
+# "MoveHist", "[]"
+= 
+
+# "Date"] = datetime.date.today().strftime("%Y.%m.%d"
+= "Date"] = datetime.date.today().strftime("%Y.%m.%d"
+
+# "Function 'check_buttons' was not implemented."
+= 
+
+# "Save"
+= "Сохранить"
+
+# "Surrender"
+= "Сдаться"
+
+# "Call Draw"
+= "Назвать ничьёй"
+
+# "Done"
+= "Готово"
+
+# "Undo"
+= "Отменить"
+
+# "It's your turn, [player]."
+= "Твоя очередь, [player]."
+
+# "Your move, [player]~"
+= "Твой ход, [player]~"
+
+# "What will you do, I wonder..."
+= "Что ты сделаешь, интересно..."
+
+# "Alright, your turn, [player]~"
+= "Хорошо, твоя очередь, [player]~"
+
+# "You got this, [player]!"
+= "У тебя получится, [player]!"
+
+# "Alright, let's see..."
+= "Ладно, давай посмотрим..."
+
+# "Okay, my turn..."
+= "Хорошо, моя очередь..."
+
+# "Let's see what I can do."
+= "Let's see what I can do."
+
+# "I think I'll try this..."
+= "Думаю, я попробую это..."
+
+# "Okay, I'll move this here then."
+= "Хорошо, я передвину это сюда."
+
+# "Hmm, that's odd. It seems some permissions were changed and I can't get chess running on your system."
+= "Хм, это странно. Похоже, что некоторые права доступа были изменены, и я не могу запустить шахматы на твоей системе."
+
+# "Yay! We should be able to play now~"
+= "Ура! Теперь мы сможем играть~"
+
+# "setoption name Ponder value False\n"
+= "setoption name Ponder value False\n"
+
+# "mas_chess_confirm_context", prompt=_("You'd like to continue later?"
+= "mas_chess_confirm_context", prompt=_("Мы можем продолжить позже?"
+
+# "mas_chess_confirm_context", prompt=_("Are you sure you want to give up?"
+= "mas_chess_confirm_context", prompt=_("Ты уверен, что хочешь сдаться?"
+
+# "Result"
+= "Результат"
+
+# "Result"
+= "Результат"
+
+# "DrawRequested"
+= 
+
+# "White"
+= "Белый"
+
+# "Black"
+= "Чёрный"
+
+# "White"
+= "Белый"
+
+# "Black"
+= "Чёрный"
+
+# "Site"] = "MAS"
+= "Site"] = "MAS"
+
+# "Date"] = datetime.date.today().strftime("%Y.%m.%d"
+= "Date"] = datetime.date.today().strftime("%Y.%m.%d"
+
+# "Practice"
+= "Тренировка"
+
+# "CasualRules"
+= "CasualRules"
+
+# "MoveHist"
+= "MoveHist"
+
+# "UndoCount"
+= "UndoCount"
+
+# "PracticeLost"
+= "PracticeLost"
+
+# "Result"
+= "Результат"
+
+# "Result"
+= "Результат"

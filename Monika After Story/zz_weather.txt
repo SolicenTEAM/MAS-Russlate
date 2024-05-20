@@ -1,0 +1,69 @@
+
+# "mod_assets/window/snow_sunset_mask_fb.png"
+= 
+
+# "Nevermind" 
+= "Забудь"
+
+# "MASFilterableWeather"
+= 
+
+# "duplicate weather ID"
+= 
+
+# "Clear" 
+= "Ясно"
+
+# "Rain" 
+= "Дождь"
+
+# "Snow" 
+= "Снег"
+
+# "Thunder/Lightning" 
+= "Гром/Молния"
+
+# "Overcast" 
+= "Облачно"
+
+# "Can you change the weather?" 
+= "Хочешь сменить погоду?"
+
+# "What kind of weather would you like?" 
+= "Какую погоду ты бы хотел?"
+
+# "Progressive", "auto"
+= 
+
+# "Sure!" 
+= "Конечно!"
+
+# "There we go!" 
+= "Ну вот!"
+
+# "That's the current weather, silly." 
+= "Это текущая погода, глупыш."
+
+# "Try again~" 
+= "Попробуй снова~"
+
+# "That's the current weather, silly." 
+= "Это текущая погода, глупыш."
+
+# "Try again~" 
+= "Попробуй снова~"
+
+# "I thought you didn't like rain." 
+= "Я думала, ты не любишь дождь."
+
+# "Maybe you changed your mind?" 
+= "Может, ты передумал?"
+
+# "..."
+= 
+
+# "Alright!" 
+= "Хорошо!"
+
+# "There we go!" 
+= "Ну вот!"

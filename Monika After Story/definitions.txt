@@ -1,0 +1,126 @@
+
+# "With statements may not run while in init phase."
+= 
+
+# "Image '%s' not found."
+= 
+
+# "Image '%s' not found."
+= 
+
+# "MASImageData({})"
+= 
+
+# "'_eventlabel' cannot be None"
+= 
+
+# "'per_eventdb' cannot be None"
+= 
+
+# "False"
+= 
+
+# "no rmallEVL"
+= 
+
+# "Clickzone cannot be built with empty corners"
+= 
+
+# "Glitchtext cannot be added to this MASQuipList"
+= 
+
+# "Labels cannot be added to this MASQuipList"
+= 
+
+# "Lines cannot be added to this MASQuipList"
+= 
+
+# "¡¢£¤¥¦§¨©ª«¬®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝ"
+= 
+
+# "Þßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘę"
+= 
+
+# "ĚěĜĝĞğĠġĢģĤĥĦħĨĩĪīĬĭĮįİıĲĳĴĵĶķĸĹĺĻļĽľĿŀŁłŃńŅņŇňŉŊŋŌōŎŏŐőŒœŔŕŖ"
+= 
+
+# "ŗŘřŚśŜŝŞşŠšŢţŤťŦŧŨũŪūŬŭŮůŰűŲųŴŵŶŷŸŹźŻżŽž"
+= 
+
+# "wmic process get Description"
+= 
+
+# "SOFTWARE\Valve\Steam"
+= 
+
+# "InstallPath"
+= 
+
+# "HOME") + "/Library/Application Support/Steam/SteamApps"
+= 
+
+# "HOME") + "/.steam/Steam/steamapps"
+= 
+
+# "aeiouAEIOU"
+= 
+
+# "An" if should_capitalize else "an"
+= 
+
+# "A" if should_capitalize else "a"
+= 
+
+# "", allow=None, exclude="{}", length=None, with_none=None, pixel_width=None, screen="input"
+= 
+
+# "The '{}' screen does not exist."
+= 
+
+# "natsuki/ghost_blood.png" with ImageDissolve("images/menu/wipedown.png"
+= 
+
+# "', what_suffix='"', ctc="ctc", ctc_position="fixed"
+= 
+
+# "Monika" 
+= "Моника"
+
+# "Sayori" 
+= "Саёри"
+
+# "Natsuki" 
+= "Нацуки"
+
+# "Yuri" 
+= "Юри"
+
+# "Yuri" 
+= "Юри"
+
+# " abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
+= 
+
+# " abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ-_'"
+= 
+
+# "Never" 
+= "Никогда"
+
+# "Rarely" 
+= "Редко"
+
+# "Occasionally" 
+= "Время от времени"
+
+# "Less Often" 
+= "Менее часто"
+
+# "Normal" 
+= "Обычный"
+
+# "Often" 
+= "Часто"
+
+# "Very Often" 
+= "Очень часто"

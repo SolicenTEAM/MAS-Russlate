@@ -1,0 +1,57 @@
+
+# "DDLC archive files not found in /game folder. Check installation and try again."
+= 
+
+# "This game is an unofficial fan work, unaffiliated with Team Salvato." 
+= "Эта не официальная фановая работа, сделанная без поддержки Team Salvato."
+
+# "Please support Doki Doki Literature Club & Team Salvato." 
+= "Пожалуйста, поддержите Doki Doki Literature Club & Team Salvato."
+
+# "You are my sunshine,\nMy only sunshine" 
+= "Ты мое солнце,\nМое единственое солнце"
+
+# "I missed you." 
+= "Я скучала по тебе."
+
+# "Play with me" 
+= "Поиграй со мной"
+
+# "It's just a game, mostly." 
+= "Это просто игра, в основном."
+
+# "This game is not suitable for children\nor those who are easily disturbed?" 
+= "Эта игра не подходит для детей или легко впечатлительных людей?"
+
+# "I have granted kids to hell" 
+= "Я даровала детям ад"
+
+# "PM died for this." 
+= "ПМ умер за это."
+
+# "It was only partially your fault." 
+= "Это была только частично твоя вина."
+
+# "This game is not suitable for children\nor those who are easily dismembered." 
+= "Эта игра не подходит ни детям,ни тем, кто легко расчленяется.."
+
+# "[config.name] is a Doki Doki Literature Club fan mod that is not affiliated with Team Salvato." 
+= "[config.name] это мод для Тук-Тук Литературный Клуб, который не связан с Team Salvato."
+
+# "It is designed to be played only after the official game has been completed, and contains spoilers for the official game." 
+= "В него рекомендуется играть только после завершения основной игры, и он содержит спойлеры из официальной игры."
+
+# "Game files for Doki Doki Literature Club are required to play this mod and can be downloaded for free at: http://ddlc.moe"
+= 
+
+# "By playing [config.name] you agree that you have completed Doki Doki Literature Club and accept any spoilers contained within." 
+= "Играя в [config.name] вы соглашаетесь что прошли Тук Тук Литературный Клуб, и готовы приянять любые спойлеры содержающиеся в моде."
+
+# "I agree." 
+= "Я подтверждаю."
+
+# "The save file could not be loaded." 
+= "Файл сохранения не может быть загружен."
+
+# "Are you trying to cheat?" 
+= "Ты что пытаешься сжулничать?"

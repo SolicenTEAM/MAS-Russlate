@@ -1,0 +1,386 @@
+==== zz_spriteobjects ====
+
+
+# "Ponytail"
+= "Хвостик"
+
+# "Do you like my ponytail, [player]?"
+= "Тебе нравится мой хвостик, [player]?"
+
+# "Down"
+= "Распущенны"
+
+# "Feels nice to let my hair down..."
+= "Как приятно распустить волосы..."
+
+# "Down (Tied strand)"
+= "Вниз (связанная прядь)"
+
+# "Feels nice to let my hair down..."
+= "Как приятно распустить волосы..."
+
+# "Looks cute, don't you think?"
+= "Выглядит мило, тебе не кажется?"
+
+# "Braided"
+= "Заплетенные"
+
+# "Looks cute, don't you think?"
+= "Выглядит мило, тебе не кажется?"
+
+# "School Uniform"
+= "Школьная форма"
+
+# "Ready for school!"
+= "Готова к школе!"
+
+# "Black Dress"
+= "Черное платье"
+
+# "Are we going somewhere special, [player]?"
+= "Мы собираемся в какое-то особенное место, [player]?"
+
+# "Black and Pink Dress"
+= "Черно-розовое платье"
+
+# "Are we going somewhere special, [player]?"
+= "Мы собираемся в какое-то особенное место, [player]?"
+
+# "School Uniform (Blazerless)"
+= "Школьная форма (без блейзера)"
+
+# "Ah, feels nice without the blazer!"
+= "Ах, как хорошо без блейзера!"
+
+# "Witch Costume"
+= "Костюм ведьмы"
+
+# "Just an ordinary costume, ~ze."
+= "Просто обычный костюм, ~зе."
+
+# "Neko Costume"
+= "Костюм Неко"
+
+# "n-nya..."
+= "н-ня..."
+
+# "Nya!"
+= "Ня!"
+
+# "Lingerie (Spider)"
+= "Нижнее белье (Паук)"
+
+# "Caught you in my web~"
+= "Поймала тебя в своей паутине~"
+
+# "Don't be scared~"
+= "Не бойся~"
+
+# "Don't worry, I don't bite..."
+= "Не бойся, я не кусаюсь..."
+
+# "Santa Costume"
+= "Костюм Санты"
+
+# "Merry Christmas!"
+= "С Рождеством!"
+
+# "What kind of {i}presents{/i} do you want?"
+= "Какие {i}подарки{/i} ты хочешь?"
+
+# "Happy holidays!"
+= "Счастливых праздников!"
+
+# "Lingerie (Santa)"
+= "Нижнее белье (Санта)"
+
+# "Would you like to open your present?~"
+= "Хочешь открыть свой подарок?~"
+
+# "What kind of {i}presents{/i} do you want?"
+= "Какие {i}подарки{/i} ты хочешь?"
+
+# "Open your present, ehehe~"
+= "Открой свой подарок, эхехе~"
+
+# "All I want for Christmas is you~"
+= "Все, что я хочу на Рождество, это ты~"
+
+# "Santa baby~"
+= "Санта, детка~"
+
+# "What {i}else{/i} do you want to unwrap?~"
+= "Что {i}еще{/i} ты хочешь развернуть?~"
+
+# "Dress (New Years)"
+= "Платье (Новогоднее)"
+
+# "Are we going somewhere special, [player]?"
+= "Мы собираемся в какое-то особенное место, [player]?"
+
+# "Very formal!"
+= "Очень официально!"
+
+# "Any special occasion, [player]?"
+= "Какой-нибудь особый случай, [player]?"
+
+# "Sundress (White)"
+= "Сарафан (Белый)"
+
+# "Are we going anywhere special today, [player]?"
+= "Мы собираемся сегодня на что-то особенное, [player]?"
+
+# "I've always loved this outfit..."
+= "Мне всегда нравился этот наряд..."
+
+# "Lingerie (Pink Lace)"
+= "Нижнее белье (Розовое кружево)"
+
+# "Ehehe~"
+= "Эхехе~"
+
+# "Do you like what you see, [player]?"
+= "Тебе нравится то, что ты видишь, [player]?"
+
+# "Thermos (Just Monika)"
+= "Термос (Только Моника)"
+
+# "Rose"
+= "Роза"
+
+# "TALE AS OLD AS TIME"
+= "СКАЗКА СТАРА КАК МИР"
+
+# "TRUE AS IT CAN BE"
+= "ПРАВДА, КАК ЭТО МОЖЕТ БЫТЬ"
+
+# "Golden Music Note"
+= "Золотая музыкальная нота"
+
+# "Pink Diamond"
+= "Розовый бриллиант"
+
+# "Witch Hat"
+= "Шляпа ведьмы"
+
+# "Ze~"
+= "Зе~"
+
+# "Tea time, tea time. Even if we have coffee, it's tea time. Ehehe~"
+= "Время чая, время чая. Даже если мы выпьем кофе, сейчас время чая. Эхе-хе~"
+
+# "Eye of newt, toe of frog..."
+= "Глаз тритона, палец лягушки..."
+
+# "Now where did I leave that broom..."
+= "Где же я оставила эту метлу..."
+
+# "Hairclip (Gray hearts)"
+= "Заколка (Серые сердца)"
+
+# "My heart beats for you, [player]~"
+= "Мое сердце бьется за тебя, [player]~"
+
+# "Full of love, just like you~"
+= "Полна любви, как и ты~"
+
+# "Hairclip (Pink diamonds)"
+= "Заколка (Розовые бриллианты)"
+
+# "Cute!"
+= "Мило!"
+
+# "Hairclip (Holly)"
+= "Заколка (Холли)"
+
+# "Ready to deck the halls, [player]?"
+= "Готов украсить залы, [player]?"
+
+# "Ribbon (Black)"
+= "Лента (черная)"
+
+# "That's pretty formal, [player]."
+= "Это довольно формально, [player]."
+
+# "Are we going somewhere special, [player]?"
+= "Мы собираемся в какое-то особенное место, [player]?"
+
+# "Ribbon (Black/gray)"
+= "Лента (черная/серая)"
+
+# "Very versatile."
+= "Очень универсально."
+
+# "This goes with so many different outfits!"
+= "Это сочетается со столькими разными нарядами!"
+
+# "Ribbon (Black/pink)"
+= "Лента (черная/розовая)"
+
+# "So cute!"
+= "Такая милая!"
+
+# "Ribbon (Blue)"
+= "Лента (Синяя)"
+
+# "Like the ocean..."
+= "Как океан..."
+
+# "Great choice, [player]!"
+= "Отличный выбор, [player]!"
+
+# "Ribbon (Dark Purple)"
+= "Лента (темно-фиолетовая)"
+
+# "I love that color!"
+= "Я люблю этот цвет!"
+
+# "Lavender is a nice change of pace."
+= "Лаванда — хорошая смена темпа."
+
+# "Ribbon (Emerald)"
+= "Лента (Изумруд)"
+
+# "I've always loved this color..."
+= "Мне всегда нравился этот цвет..."
+
+# "It's just like my eyes!"
+= "Это прямо как мои глаза!"
+
+# "Ribbon (White)"
+= "Лента (белая)"
+
+# "Do you miss my old ribbon, [player]?"
+= "Ты скучаешь по моей старой ленте, [player]?"
+
+# "Back to the classics!"
+= "Назад к классике!"
+
+# "Ribbon (Gray)"
+= "Лента (Серая)"
+
+# "Like a warm, rainy day..."
+= "Как теплый, дождливый день..."
+
+# "That's a really unique color, [player]."
+= "Это действительно уникальный цвет, [player]."
+
+# "Ribbon (Green)"
+= "Лента (зеленая)"
+
+# "That's a lovely color!"
+= "Это прекрасный цвет!"
+
+# "Green, just like my eyes!"
+= "Зеленый, прямо как мои глаза!"
+
+# "Ribbon (Light Purple)"
+= "Лента (светло-фиолетовая)"
+
+# "This purple looks pretty nice, right [player]?"
+= "Этот фиолетовый выглядит довольно мило, верно [player]?"
+
+# "Really has a spring feel to it."
+= "Действительно есть ощущение весны."
+
+# "Ribbon (Peach)"
+= "Лента (Персик)"
+
+# "That's beautiful!"
+= "Это красиво!"
+
+# "Just like autumn leaves..."
+= "Как осенние листья..."
+
+# "Ribbon (Pink)"
+= "Лента (Розовая)"
+
+# "Looks cute, right?"
+= "Выглядит мило, правда?"
+
+# "Good choice!"
+= "Хороший выбор!"
+
+# "Ribbon (Platinum)"
+= "Лента (Платина)"
+
+# "That's an interesting color, [player]."
+= "Это интересный цвет, [player]."
+
+# "I'm quite fond of it, actually."
+= "На самом деле мне это очень нравится."
+
+# "Ribbon (Red)"
+= "Лента (красная)"
+
+# "Red is a beautiful color!"
+= "Красный — красивый цвет!"
+
+# "Just like roses~"
+= "Как розы~"
+
+# "Ribbon (Ruby)"
+= "Лента (Рубин)"
+
+# "That's a beautiful shade of red."
+= "Это красивый оттенок красного."
+
+# "Doesn't it look pretty?"
+= "Разве это не выглядит красиво?"
+
+# "Ribbon (Sapphire)"
+= "Лента (Сапфир)"
+
+# "Like a clear summer sky..."
+= "Как ясное летнее небо..."
+
+# "Nice choice, [player]!"
+= "Хороший выбор, [player]!"
+
+# "Ribbon (Silver)"
+= "Лента (Серебро)"
+
+# "I like the look of this one."
+= "Мне нравится, как она выглядит."
+
+# "I've always loved silver."
+= "Я всегда любила серебро."
+
+# "Nice choice, [player]."
+= "Хороший выбор, [player]."
+
+# "Ribbon (Teal)"
+= "Лента (бирюзовая)"
+
+# "Looks really summer-y, right?"
+= "Выглядит действительно по-летнему, правда?"
+
+# "Just like a summer sky."
+= "Как летнее небо."
+
+# "Ribbon (Wine)"
+= "Лента (Вино)"
+
+# "That's a great color!"
+= "Это отличный цвет!"
+
+# "Formal! Are you taking me somewhere special, [player]?"
+= "Официально! Ты ведешь меня на что-то особенное, [player]?"
+
+# "Ribbon (Yellow)"
+= "Лента (желтая)"
+
+# "This color reminds me of a nice summer day!"
+= "Этот цвет напоминает мне о хорошем летнем дне!"
+
+# "Great choice, [player]!"
+= "Отличный выбор, [player]!"
+
+# "Earrings (Pink Diamond)"
+= "Серьги (Розовый бриллиант)"
+
+# "Pretty in pink!"
+= "Милашка в розовом!"
+
+# "I'm shining like a diamond~"
+= "Я сияю как бриллиант~"

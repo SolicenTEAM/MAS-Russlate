@@ -1,0 +1,442 @@
+==== pong ====
+
+# "Monika"
+= "Моника"
+
+# "Click to Begin!"
+= "Нажми чтобы начать!"
+
+# "Ready to try again?"
+= "Готов попробывать еще разок?"
+
+# "Give me your best, [mas_get_player_nickname(regex_replace_with_nullstr='my ')]!"
+= "Покажи на что ты способен, [mas_get_player_nickname(regex_replace_with_nullstr='мой ')]!"
+
+# "You want to play pong again?"
+= "Хочешь сыграть в пинг-понг еще раз?"
+
+# "I'm ready when you are~"
+= "Я готова, когда готов ты~"
+
+# "Okay, Everyone! (Monika)"
+= "Okay, Everyone! (Monika)"
+
+# "Would you like to play again?{nw}"
+= "Хочешь снова сыграть?{nw}"
+
+# "Would you like to play again?{fast}"
+= "Хочешь снова сыграть?{fast}"
+
+# "Yes."
+= "Да"
+
+# "No."
+= "Нет"
+
+# "Ahaha..."
+= "А-ха-ха..."
+
+# "I know I asked you to go easy on me, but this isn't what I had in mind..."
+= "Я знаю, что просила быть со мной помягче, но это не то, что я имела в виду..."
+
+# "I do appreciate the gesture though~"
+= "Хотя я оценила этот жест~"
+
+# "Yay, I won!"
+= "Ура, я победила!"
+
+# "Thanks, [mas_get_player_nickname(regex_replace_with_nullstr='my ')]. I appreciate it~"
+= "Спасибо, [mas_get_player_nickname(regex_replace_with_nullstr='мой ')]. Я оценила это~"
+
+# "Ahaha, that's unfortunate..."
+= "А-ха-ха, это неловко..."
+
+# "Are you letting me win on purpose again?"
+= "Ты что снова нарочно поддаешься мне?"
+
+# "Are you letting me win on purpose?"
+= "Ты что поддаешься мне?"
+
+# "...Maybe."
+= "...Может быть."
+
+# "Ehehe!~"
+= "Э-хе-хе!~"
+
+# "Thank you, [player]~"
+= "Спасибо, [player]~"
+
+# "I like to see you win just as much as you like to see me win~"
+= "Мне также сильно нравится видеть твои победы, как тебе мою~"
+
+# "No."
+= "Нет"
+
+# "Are you {i}sure?{/i}{nw}"
+= "Ты {i}уверен?{/i}{nw}"
+
+# "Are you {i}sure?{/i}{fast}"
+= "Ты {i}уверен?{/i}{fast}"
+
+# "Yes"
+= "Да"
+
+# "No"
+= "Нет"
+
+# "Stop teasing me!"
+= "Не дразнись!"
+
+# "Aren't you getting tired of letting me win, [player]?"
+= "Тебе еще не надоело поддаваться, [player]?"
+
+# "Come on, [mas_get_player_nickname(regex_replace_with_nullstr='my ')]!"
+= "Давай же, [mas_get_player_nickname(regex_replace_with_nullstr='мой ')]!"
+
+# "You can do it, I believe in you!"
+= "Ты сможешь, я в тебя верю!"
+
+# "but I can win by myself!"
+= "но я могу выиграть и сама."
+
+# "Ahaha!"
+= "А-ха-ха!"
+
+# "Ehehe~"
+= "Э-хе-хе~"
+
+# "Didn't I tell you I would win this time?"
+= "Разве я не говорила, что выиграю на этот раз?"
+
+# "I told you I'd win our next match."
+= "Я говорила тебе, что выиграю следущий матч."
+
+# "Ah..."
+= "А..."
+
+# "Try again, [player]!"
+= "Попробуй снова, [player]!"
+
+# "Ahaha..."
+= "А-ха-ха..."
+
+# "I really hoped you'd win this game."
+= "Я так надеялась, что ты выиграешь эту игру."
+
+# "Sorry about that, [mas_get_player_nickname(regex_replace_with_nullstr='my ')]!"
+= "Прости за это, [mas_get_player_nickname(regex_replace_with_nullstr='мой ')]!"
+
+# "Come on, [player], I know you can beat me..."
+= "Ну давай, [player], я знаю ты можешь победить меня..."
+
+# "Keep trying!"
+= "Продолжай пытаться!"
+
+# "I hope you're having fun, [mas_get_player_nickname(regex_replace_with_nullstr='my ')]."
+= "Я надеюсь, тебе весело, [mas_get_player_nickname(regex_replace_with_nullstr='мой ')]."
+
+# "I wouldn't want you to get upset over a game, after all."
+= "Всё таки, я бы не хотела, чтобы ты расстраивался из-за игры."
+
+# "We can always take a break and play again later if you want."
+= "Мы всегда можем сделать перерыв, и сыграть позже, если ты захочешь."
+
+# "Ahaha!"
+= "А-ха-ха!"
+
+# "Now it's my time to shine~"
+= "Теперь моё время сиять~"
+
+# "Ehehe!"
+= "Э-хе-хе!"
+
+# "It looks like your streak is over!"
+= "Похоже, твоя полоса неудач закончилась!"
+
+# "Playing against you is really tough, [player]."
+= "Играть против тебя тяжело, [player]."
+
+# "Keep it up and you'll beat me, I'm sure of it!"
+= "Продолжай в том же духе, и победишь меня, я уверена в этом!"
+
+# "Well played, [player], you're really good!"
+= "Неплохо сыграно, [player], а ты не промах."
+
+# "Another quick win for me~"
+= "Еще одна легкая победа для меня~"
+
+# "I got you with that one!"
+= "Я подловила тебя!"
+
+# "Sorry about that, [player]!"
+= "Прости за это, [player]!"
+
+# "Sorry, [player]!"
+= "Прости, [player]!"
+
+# "I didn't mean for it to bounce around that much..."
+= "Я не хотела чтобы он так сильно подлетел..."
+
+# "You can do it, [mas_get_player_nickname(regex_replace_with_nullstr='my ')]!"
+= "Ты сможешь это, [mas_get_player_nickname(regex_replace_with_nullstr='мой ')]!"
+
+# "I believe in you~"
+= "Я верю в тебя~"
+
+# "Concentrate, [player]."
+= "Сосредоточься, [player]."
+
+# "Keep trying, I know you'll beat me soon!"
+= "Продолжай стараться, я знаю что ты вскоре победишь!"
+
+# "I win another round~"
+= "Еще один раунд в мою копилку~"
+
+# "Looks like I won again~"
+= "Похоже я снова победила~"
+
+# "Looks like I won~"
+= "Похоже я победила~"
+
+# "Ahaha!"
+= "А-ха-ха!"
+
+# "Am I playing too well for you?"
+= "Я играю слишком хорошо, для тебя?"
+
+# "I'm just kidding, [player]."
+= "Я шучу, [player]."
+
+# "You're pretty good!"
+= "Ты очень хорош!"
+
+# "I win again~"
+= "Я снова победила~"
+
+# "I win~"
+= "Я победила~"
+
+# "It feels good to win!"
+= "Приятное чувство победы!"
+
+# "Don't worry, I'm sure you'll win again soon~"
+= "Не волнуйся, я уверена, что ты вскоре победишь снова~"
+
+# "I win another round!"
+= "Еще один раунд за мной!"
+
+# "I win this round!"
+= "Я выиграла в этом раунде!"
+
+# "Not bad, [mas_get_player_nickname(regex_replace_with_nullstr='my ')]."
+= "Не плохо, [mas_get_player_nickname(regex_replace_with_nullstr='мой ')]."
+
+# "I gave it everything I had, so don't feel too bad for losing from time to time."
+= "Я сделала всё что могла, так что я не растраиваюсь, из-за того, что время от времени приходится проигрывать."
+
+# "This time, the win is mine!"
+= "На этот раз, победа будет моей!"
+
+# "Keep up, [player]!"
+= "Продолжай, [player]!"
+
+# "Alright."
+= "Хорошо."
+
+# "I'm sorry for assuming..."
+= "Прости я предположила что..."
+
+# "Would you like to take a break, [player]?{nw}"
+= "Ты хочешь передохнуть, [player]?{nw}"
+
+# "Would you like to take a break, [player]?{fast}"
+= "Ты хочешь передохнуть, [player]?{fast}"
+
+# "Okay."
+= "Ладно."
+
+# "I had fun, thanks for playing Pong with me!"
+= "Было весело, спасибо, что поиграл со мной в пинг-понг!"
+
+# "Let me know when you're ready to play again."
+= "Дай мне знать, когда захочешь снова поиграть."
+
+# "No."
+= "Нет"
+
+# "Alright, [player]. If you're sure."
+= "Хорошо, [player]. Если ты уверен."
+
+# "Keep going, you'll beat me soon!"
+= "Продолжай и вскоре победишь меня!"
+
+# "Ahaha!"
+= "А-ха-ха!"
+
+# "Now we're even, [player]!"
+= "Теперь мы квиты, [player]!"
+
+# "Ahaha..."
+= "А-ха-ха..."
+
+# "Maybe I should try a bit harder..."
+= "Может мне стоит стараться несколько усерднее..."
+
+# "I guess I was a bit too slow there..."
+= "Наверное я была слишком медлительна..."
+
+# "Playing serious now, are we?~"
+= "Играем по серьезному, да?~"
+
+# "Let's find out how good you really are, [player]!"
+= "Давай же узнаем, насколько ты хорош на самом деле, [player]!"
+
+# "I knew you would win a game after enough practice!"
+= "Я знала, что ты выиграешь, после достаточно практики!"
+
+# "Remember, if you train long enough I'm sure you can reach everything you aim for!"
+= "Помни, если ты будешь тренироваться достаточно долго, то я уверена, что ты сможешь достичь всего, к чему стремишься!"
+
+# "I was really trying that time!"
+= "Я дейсвительно пыталась в этот раз!"
+
+# "Way to go, [player]!"
+= "Так держать, [player]!"
+
+# "Ehehe!"
+= "Э-хе-хе!"
+
+# "Good job, [player]!"
+= "Хорошая работа, [player]!"
+
+# "I'm glad you won this time, [player]."
+= "Я рада, что ты выиграл в этот раз, [player]."
+
+# "There's no way I could've hit that!"
+= "Я никак не смогла бы попасть в него!"
+
+# "Wow, that was a great shot!"
+= "Вау, отличный удар!"
+
+# "Wow, [player]..."
+= "Вау, [player]..."
+
+# "You've won three times in a row already..."
+= "Ты выиграл уже три раза подряд..."
+
+# "Maybe it's time I pick up the pace~"
+= "Может быть, мне пора ускорить темп~"
+
+# "You're pretty good!"
+= "Ты очень хорош!"
+
+# "Well played!"
+= "Хорошо сыграно!"
+
+# "That was amazing!"
+= "Это было потрясающе!"
+
+# "That was legendary!"
+= "Это было легендарно!"
+
+# "[mas_get_player_nickname(capitalize=True, regex_replace_with_nullstr='my ')]..."
+= "[mas_get_player_nickname(capitalize=True, regex_replace_with_nullstr='my ')]..."
+
+# "Have you been practicing?"
+= "Ты что практиковался?"
+
+# "I don't know what happened, but I don't stand a chance against you!"
+= "Я не знаю из-за чего, но у меня нет ни единого шанса против тебя!"
+
+# "I would really appreciate it~"
+= "Я была бы очень признательна!~"
+
+# "Amazing, [player]!"
+= "Потрясающе, [player]!"
+
+# "You're really good!"
+= 
+
+# "Ahaha..."
+= "А-ха-ха..."
+
+# "I guess I should try a little harder..."
+= "Может мне стоит усерднее стараться..."
+
+# "I didn't expect to lose this quickly."
+= "Я не ожидала, что проиграю так быстро."
+
+# "You win this round as well."
+= "И этот рауд ты тоже выигрываешь."
+
+# "You won again!"
+= "Я снова победила!"
+
+# "You won!"
+= "Я победила!"
+
+# "It's nice seeing you win, [player]."
+= "Приятно видеть твою победу, [player]."
+
+# "Keep it up~"
+= "Так держать~"
+
+# "Another win for you!"
+= "Еще одна победа за тобой!"
+
+# "Great job, [player]."
+= "Хорошая работа, [player]."
+
+# "But I'm sure I'll beat you sooner or later, [player]."
+= "Но я уверена, что рано или поздно обыграю тебя, [player]."
+
+# "Ahaha!"
+= "А-ха-ха!"
+
+# "You're really good, [player]."
+= "Ты очень хорош, [player]."
+
+# "I love playing Pong with you!"
+= "Мне нравится играть в пинг-понг с тобой!"
+
+# "This is intense!"
+= "Это так захватывающе!"
+
+# "Keep at it, [mas_get_player_nickname(regex_replace_with_nullstr='my ')]!"
+= "Продолжай в том же духе, [mas_get_player_nickname(regex_replace_with_nullstr='my ')]!"
+
+# "Alright, [player]."
+= "Хорошо, [player]."
+
+# "But I'll beat you next time."
+= "Но в следующий раз ты проиграешь."
+
+# "Alright, [player]. Thanks for playing Pong with me."
+= "Хорошо, [player]. Спасибо, что поиграл со мной в пинг-понг."
+
+# "I had a lot of fun! Let's play again sometime soon, okay?"
+= "Мне было очень весело! Давай сыграем еще как нибудь в ближайшее время, хорошо?"
+
+# "Wow, I was really trying that time."
+= "Вау, я дейсвительно пыталась в этот раз."
+
+# "You must have really been practicing to get so good."
+= "Должно быть, ты тренировался, чтобы так хорошо играть."
+
+# "I guess you wanted to impress me, [player]."
+= "Я думаю ты хотел произвести на меня впечатление, [player]."
+
+# "You're so sweet~"
+= "Это так мило~"
+
+# "I can't really get excited for a game this simple..."
+= "Я не могу насладиться такой простой игрой..."
+
+# "But at least it's still fun to play."
+= "Но в неё еще весело играть."
+
+# "Especially with you, [player]."
+= "Особенно с тобой, [player]."
+
+# "Ehehe~"
+= "Э-хе-хе~"

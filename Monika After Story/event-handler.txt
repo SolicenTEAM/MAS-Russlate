@@ -1,0 +1,61 @@
+==== event-handler ====
+
+# "Unknown Event"
+= "Неизвестный ивент"
+
+# "Topic Alerts"
+= "Тематические оповещения"
+
+# "I would like to see 'Unseen' ([unseen_num]) again"
+= "Я хотел бы увидеть 'Неувиденное' ([unseen_num]) снова"
+
+# "{b}Unseen{/b}"), "unseen"
+= "{b}Неувиденное{/b}"), "unseen"
+
+# "Bookmarks"),"bookmarks"
+= "Закладки"), "bookmarks"
+
+# "Hey, [m_name]..."), "prompt"
+= "Эй, [m_name]..."), "prompt"
+
+# "Repeat conversation"), "repeat"
+= "Повторить разговор"), "repeat"
+
+# "I love you too!"),"love_too"
+= "Я тоже тебя люблю!"), "love_too"
+
+# "I love you!"), "love"
+= "Я люблю тебя!"), "love"
+
+# "I feel..."), "moods"
+= "Я чувствую..."), "moods"
+
+# "Goodbye"), "goodbye"
+= "до свидания"), "goodbye"
+
+# "Nevermind"),"nevermind"
+= "ничего"), "nevermind"
+
+# "I don't want to see this menu anymore"), "mas_hide_unseen"
+= "Я больше не хочу видеть это меню"), "mas_hide_unseen"
+
+# "Nevermind"),"nevermind"
+= "ничего"), "nevermind"
+
+# "I'd like to remove a bookmark"), "remove_bookmark"
+= "Я хочу удалить закладку"), "remove_bookmark"
+
+# "Nevermind"), "nevermind"
+= "ничего"), "nevermind"
+
+# "Which bookmarks do you want to remove?"
+= "Какие закладки ты хочешь удалить?"
+
+# "Just select the bookmark if you're sure you want to remove it."
+= "Просто выбери закладку, если ты уверены, что хочешь её удалить."
+
+# "Remove selected"
+= "Удалить выбранное"
+
+# "All done!"
+= "Всё готово!"

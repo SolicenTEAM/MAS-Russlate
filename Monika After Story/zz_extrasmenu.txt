@@ -1,0 +1,69 @@
+
+# "Can you explain the Extras menu?"
+= 
+
+# "Welcome to the Extras menu, [player]!"
+= 
+
+# "This is where I'll add things that aren't games, like special interactions you can do with your mouse."
+= 
+
+# "You can also open this menu by pressing the 'e' key."
+= 
+
+# "Look forward to some neat things in this menu!"
+= 
+
+# "One thing I added is a way for you to adjust your field of view, so now you can sit closer or farther away from me."
+= 
+
+# "You can adjust this using the slider in the 'Zoom' section of the Extras menu."
+= 
+
+# "Can't sit up straight for long?"
+= 
+
+# "Or maybe you just want to see the top of my head?"
+= 
+
+# "Ehehe~"
+= 
+
+# "Sitting a bit closer?"
+= 
+
+# "I don't mind."
+= 
+
+# "When your face is this close..."
+= 
+
+# "I feel..."
+= 
+
+# "Warm..."
+= 
+
+# "#FFFFFF"
+= 
+
+# "gui/slider/horizontal_hover_thumb.png"
+= 
+
+# "e" action Jump("mas_extra_menu_close"
+= 
+
+# "E" action Jump("mas_extra_menu_close"
+= 
+
+# "#0000007F"
+= 
+
+# "Close"
+= 
+
+# "Zoom"
+= 
+
+# "Reset"
+= 

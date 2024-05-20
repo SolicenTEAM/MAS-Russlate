@@ -1,0 +1,75 @@
+
+# "I changed my mind" 
+= "Я передумал"
+
+# "You want to see a movie?" 
+= "Хочешь посмотреть фильм?"
+
+# "Which movie would you like to watch?" 
+= "Какой фильм ты хотел бы посмотреть?"
+
+# "Let's synchronize the start of the film." 
+= "Давай синхронизируем начало фильма."
+
+# "Get ready to start the film, I'll do the countdown!" 
+= "Готовься начинать фильм, я веду обратный отсчет!"
+
+# "Ready?" 
+= "Готов?"
+
+# "Yes." 
+= "Да."
+
+# "Just ended for me! Did you like it?" 
+= "У меня только что закончилось! Тебе понравилось?"
+
+# "No." 
+= "Нет."
+
+# "Oh, okay! I will just wait for you then~" 
+= "О, хорошо! Тогда я просто подожду тебя~"
+
+# "Oh, you just paused the movie, [player]." 
+= "О, ты только что поставил фильм на паузу, [player]."
+
+# "Do want to continue?" 
+= "Хочешь продолжить?"
+
+# "Yes." 
+= "Да."
+
+# "Okay, [player]." 
+= "Хорошо, [player]."
+
+# "No." 
+= "Нет."
+
+# "Oh, alright then, [player]." 
+= "О, тогда хорошо, [player]"
+
+# "You want to synchronize the time?" 
+= "Ты хочешьсинхронизировать время?"
+
+# "Tell me in the format HH:MM:SS, [player]."
+= 
+
+# "Erm..." 
+= "Эм..."
+
+# "Sorry, I can't understand that, [player]." 
+= "Извини, я не могу этого понять, [player]."
+
+# "Remember to set it in the format of HH:MM:SS."
+= 
+
+# "That's 'Hours:Minutes:Seconds.'"
+= 
+
+# "Here's an example for you, [player]." 
+= "Вот тебе пример, [player]."
+
+# "So try again!" 
+= "Так попробуй еще раз!"
+
+# "Done! Let's keep watching it!" 
+= "Готово! Продолжаем смотреть!"

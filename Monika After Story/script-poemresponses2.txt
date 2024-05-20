@@ -1,0 +1,1314 @@
+
+# "Ahaha..."
+= 
+
+# "It doesn't really matter what it's about."
+= 
+
+# "My mind has been a little hyperactive lately, so I had to take it out on your pen."
+= 
+
+# "Ah--"
+= 
+
+# "That is...a-a pen fell out of your backpack yesterday, so I took it home for safekeeping and..."
+= 
+
+# "I, um..."
+= 
+
+# "I just...really like...the way...that it writes."
+= 
+
+# "So I wrote this...poem...with it."
+= 
+
+# "And now you're touching it..."
+= 
+
+# "Ahaha."
+= 
+
+# "I-I'm okay!!"
+= 
+
+# "What did I just..."
+= 
+
+# "..."
+= 
+
+# "...Can we pretend this conversation never happened?"
+= 
+
+# "You can keep the poem, though..."
+= 
+
+# "Do you like it??"
+= 
+
+# "I wrote it for you!"
+= 
+
+# "In case you couldn't tell, the poem is about [gtext]"
+= 
+
+# "More importantly, I've endowed it with my scent."
+= 
+
+# "See, aren't I the most thoughtful person in the club?"
+= 
+
+# "..."
+= 
+
+# "I..."
+= 
+
+# "I think I'm...going to vomit."
+= 
+
+# "Not bad, right?"
+= 
+
+# "It's quite a bit longer than yesterday's."
+= 
+
+# "Yesterday's was way too short..."
+= 
+
+# "I was just warming up!"
+= 
+
+# "I hope you didn't think that was the best I could do."
+= 
+
+# "No, of course not..."
+= 
+
+# "Anyway, the message is pretty straightforward in this poem."
+= 
+
+# "I doubt I have to explain it."
+= 
+
+# "Like, anyone would agree that the subject of this poem is an ignorant jerk..."
+= 
+
+# "Everyone has some kind of weird hobby, or a guilty pleasure."
+= 
+
+# "Something that you're afraid if people find out, they'd make fun of you or think less of you."
+= 
+
+# "...But that just makes people stupid!"
+= 
+
+# "Who cares what someone likes, as long as they're not hurting anyone, and it makes them happy?"
+= 
+
+# "I think people really need to learn to respect others for liking weird things..."
+= 
+
+# "...Such as two of the girls in this very club, whom I respectfully won't name."
+= 
+
+# "Kind of ironic that even in my one place of comfort, I can't even have people respect me..."
+= 
+
+# "...Jeez, now you're making me complain too much!"
+= 
+
+# "{i}(...What did I do?){/i}"
+= 
+
+# "For what it's worth, I respect you..."
+= 
+
+# "Well--"
+= 
+
+# "I guess thanks..."
+= 
+
+# "...But it's kind of obvious that you 'respect' Yuri more, so..."
+= 
+
+# "Whatever... We're done sharing, so you can leave now."
+= 
+
+# "[player]..."
+= 
+
+# "Why didn't you come read with me today?"
+= 
+
+# "I was waiting for you."
+= 
+
+# "I was waiting for a long time."
+= 
+
+# "It was the only thing I had to look forward to today."
+= 
+
+# "Why did you ruin it?"
+= 
+
+# "Do you like Yuri more?"
+= 
+
+# "I think you're better off not associating with her."
+= 
+
+# "Are you listening to me?"
+= 
+
+# "Yuri is a sick freak."
+= 
+
+# "That should be obvious by now."
+= 
+
+# "So just play with me instead."
+= 
+
+# "Okay?"
+= 
+
+# "You don't hate me, [player], do you?"
+= 
+
+# "Do you hate me?"
+= 
+
+# "Do you want to make me go home crying?"
+= 
+
+# "The club is the only place I feel safe."
+= 
+
+# "Don't ruin that for me."
+= 
+
+# "Don't ruin it."
+= 
+
+# "Please."
+= 
+
+# "Just stop talking to Yuri."
+= 
+
+# "Play with me instead."
+= 
+
+# "It's all I have..."
+= 
+
+# "Play with me."
+= 
+
+# "PLAY WITH ME!!!"
+= 
+
+# "I changed my mind."
+= 
+
+# "Ignore everything you just read."
+= 
+
+# "There's no point in trying to do anything."
+= 
+
+# "It's Yuri's own fault that she's so unlikable."
+= 
+
+# "Can you hear me, [player]?"
+= 
+
+# "If you would just spend more time with Monika, all these problems would go away."
+= 
+
+# "Yuri and I are too messed up for someone as wonderful as you."
+= 
+
+# "Just think of Monika from now on."
+= 
+
+# "Just Monika."
+= 
+
+# "Just Monika."
+= 
+
+# "Just Monika."
+= 
+
+# "Just Monika."
+= 
+
+# "dialog", "Just Monika."
+= 
+
+# "Just Monika."
+= 
+
+# "Sorry, I know it's kind of abstract."
+= 
+
+# "I'm just trying to...um..."
+= 
+
+# "Well, never mind."
+= 
+
+# "There's no point in explaining."
+= 
+
+# "Anyway..."
+= 
+
+# "Here's Monika's Writing Tip of the Day!"
+= 
+
+# "Sometimes you'll find yourself facing a difficult decision..."
+= 
+
+# "When that happens, don't forget to save your game!"
+= 
+
+# "You never know when...um..."
+= 
+
+# "...Who am I talking to?"
+= 
+
+# "Can you hear me?"
+= 
+
+# "Tell me you can hear me."
+= 
+
+# "Anything."
+= 
+
+# "dialog", "Please help me."
+= 
+
+# "...That's my advice for today!"
+= 
+
+# "Thanks for listening~"
+= 
+
+# "Jeez! That really startled me!{fast}"
+= 
+
+# "Um..."
+= 
+
+# "Well, I guess I kinda messed up at, uh... 'writing' this poem."
+= 
+
+# "I was just trying to..."
+= 
+
+# "...Never mind."
+= 
+
+# "Let's just move on..."
+= 
+
+# "..."
+= 
+
+# "Yeah, just as I thought..."
+= 
+
+# "...?"
+= 
+
+# "I'm not stupid."
+= 
+
+# "I know how much time you've been spending with Yuri..."
+= 
+
+# "It's obvious that you care more about impressing her than trying to improve your writing."
+= 
+
+# "To put it bluntly, it's kind of pathetic."
+= 
+
+# "Why are you even in this club, [player]?"
+= 
+
+# "Honestly..."
+= 
+
+# "I thought getting a new member would help everyone get more involved together."
+= 
+
+# "Not exclude each other even more."
+= 
+
+# "This is such a stupid activity anyway..."
+= 
+
+# "...Look, I'm not in a good mood today, and I just really don't feel like talking right now."
+= 
+
+# "Please go away."
+= 
+
+# "...Hm."
+= 
+
+# "I liked your last one better."
+= 
+
+# "Eh? Really?"
+= 
+
+# "Well yeah. I can tell you were a little more daring with this one."
+= 
+
+# "But you're really not good enough for that yet. It fell flat."
+= 
+
+# "That may be true, but I just wanted to try something different."
+= 
+
+# "I'm still figuring this all out."
+= 
+
+# "...Hm."
+= 
+
+# "Well, I can admit that it's better than the last one."
+= 
+
+# "It's nice to see that you're putting in some effort."
+= 
+
+# "That's good..."
+= 
+
+# "Just make sure you find a little bit of influence from everyone."
+= 
+
+# "I think you're at least being influenced by Yuri a little bit, aren't you?"
+= 
+
+# "I mean, I know you've been, like..."
+= 
+
+# "Spending some time with her, or whatever..."
+= 
+
+# "But you know, Monika and I are just as good as her!"
+= 
+
+# "A-At poems, I mean!"
+= 
+
+# "So you should really try to learn something, or you'll never get better!"
+= 
+
+# "Here's the one I wrote..."
+= 
+
+# "I'll make sure you learn something from it."
+= 
+
+# "...Hm."
+= 
+
+# "Well, it's not really any worse than your last one."
+= 
+
+# "But I can't really say it's any better, either."
+= 
+
+# "Phew..."
+= 
+
+# "Huh? 'Phew' what?"
+= 
+
+# "Ah... Well anything that isn't a trainwreck, I'll take as a win."
+= 
+
+# "And I get the feeling you're probably the most critical."
+= 
+
+# "H-Hey! What makes you--"
+= 
+
+# "{i}(Wait, maybe that was a compliment...?){/i}"
+= 
+
+# "A-Ahah! Glad to see someone recognizes my experience!"
+= 
+
+# "Well then, keep practicing and maybe you'll be as good as me someday!"
+= 
+
+# "That's...uh..."
+= 
+
+# "Something tells me Natsuki completely missed the point."
+= 
+
+# "...Hm."
+= 
+
+# "Well, it's not terrible."
+= 
+
+# "But it's pretty disappointing after your last one."
+= 
+
+# "Then again, if this one was as good as your last one, I would be completely pissed."
+= 
+
+# "Well, I guess I wanted to try something a little different this time."
+= 
+
+# "Fair enough. You're still new to this, so I wouldn't expect you to find your style right away."
+= 
+
+# "I mean, everyone in the club writes really differently from each other..."
+= 
+
+# "Maybe you'll find a little influence from all of us."
+= 
+
+# "For instance..."
+= 
+
+# "I noticed that you were spending some time with Yuri today..."
+= 
+
+# "Not that I care who you spend your time with."
+= 
+
+# "After all, I was taught never to expect anything from anybody."
+= 
+
+# "So it's not like I was waiting for you, or anything."
+= 
+
+# "Still, you should at least look over my poem..."
+= 
+
+# "You'll probably be able to learn something from it."
+= 
+
+# "I'm not going to read another one of your Yuri suck-up poems."
+= 
+
+# "But I'm still going to make you read mine."
+= 
+
+# "There's a reason."
+= 
+
+# "I really wish I didn't have to do this..."
+= 
+
+# "But unfortunately I don't have much of a choice."
+= 
+
+# "Just...read it carefully, okay?"
+= 
+
+# "Then you can go away."
+= 
+
+# "..."
+= 
+
+# "...Meh."
+= 
+
+# "I guess you really haven't learned anything after all."
+= 
+
+# "Honestly, I don't know why I got my hopes up in the first place."
+= 
+
+# "This is clearly Yuri's influence..."
+= 
+
+# "I didn't realize you were so impressionable."
+= 
+
+# "Spending all this time with her in the club..."
+= 
+
+# "Now trying to write like her..."
+= 
+
+# "This is stupid."
+= 
+
+# "At least Monika appreciates my writing..."
+= 
+
+# "...Ugh."
+= 
+
+# "Okay...I guess I'm going to share my poem with you now."
+= 
+
+# "I really hate that I have to do this."
+= 
+
+# "But unfortunately I don't have much of a choice."
+= 
+
+# "Just...read it carefully, okay?"
+= 
+
+# "Then you can go away."
+= 
+
+# "..."
+= 
+
+# "Oh, man."
+= 
+
+# "This is seriously a step backwards."
+= 
+
+# "Eh?"
+= 
+
+# "I liked your last two way better than this one."
+= 
+
+# "..."
+= 
+
+# "...This one's alright."
+= 
+
+# "Alright?"
+= 
+
+# "Yeah, it's at least better than yesterday's."
+= 
+
+# "I still can't really tell how much you actually care about writing, but either way, you're doing alright."
+= 
+
+# "Even though you're not really spending time with anyone but Yuri..."
+= 
+
+# "I still think it's nice to have activities that we all participate in."
+= 
+
+# "So you better keep working hard!"
+= 
+
+# "I mean..."
+= 
+
+# "I know I'm not President or Vice President or anything..."
+= 
+
+# "But that doesn't mean you can let me down, okay?"
+= 
+
+# "So, at least read mine too for now."
+= 
+
+# "But just to be clear..."
+= 
+
+# "This poem...means a lot to me."
+= 
+
+# "So read it carefully, okay?"
+= 
+
+# "..."
+= 
+
+# "...This one's alright."
+= 
+
+# "Alright?"
+= 
+
+# "Well, yeah."
+= 
+
+# "About as good as yesterday's, anyway."
+= 
+
+# "What?"
+= 
+
+# "You gave your poem to Yuri?"
+= 
+
+# "Gross!"
+= 
+
+# "What is with you two?"
+= 
+
+# "Hmph..."
+= 
+
+# "It's not like I wanted to read it anyway."
+= 
+
+# "It's just pissing me off a little bit that you didn't even think to show me at all."
+= 
+
+# "...Ugh."
+= 
+
+# "Okay...I guess I'm going to share my poem with you anyway."
+= 
+
+# "I really hate that I have to do this."
+= 
+
+# "But unfortunately I don't have much of a choice."
+= 
+
+# "Just...read it carefully, okay?"
+= 
+
+# "Then you can go away."
+= 
+
+# "I've been waiting for this..."
+= 
+
+# "Let's see what you've written for today."
+= 
+
+# "..."
+= 
+
+# "Yuri smiles and takes a deep breath."
+= 
+
+# "I like just holding it."
+= 
+
+# "...?"
+= 
+
+# "Ah, I mean--"
+= 
+
+# "The poem turned out good!"
+= 
+
+# "It's, ah..."
+= 
+
+# "...Well, there are some things that you could work on..."
+= 
+
+# "But that doesn't really matter."
+= 
+
+# "It feels like anything written by you is a treasure."
+= 
+
+# "Ahaha..."
+= 
+
+# "That came out a little awkward..."
+= 
+
+# "L-Let's move on..."
+= 
+
+# "Here's the poem I wrote."
+= 
+
+# "You don't have to like it or anything..."
+= 
+
+# "I've been waiting for this..."
+= 
+
+# "Let's see what you've written for today."
+= 
+
+# "..."
+= 
+
+# "......"
+= 
+
+# "Yuri stares at the poem with a surprised expression on her face."
+= 
+
+# "Do you...like it?"
+= 
+
+# "[player]..."
+= 
+
+# "...How did you pick up on this so quickly?"
+= 
+
+# "Just yesterday, I was telling you the kind of techniques worth practicing..."
+= 
+
+# "Maybe that's why..."
+= 
+
+# "You did a good job explaining."
+= 
+
+# "I really wanted to try giving it more imagery."
+= 
+
+# "Yuri visibly swallows."
+= 
+
+# "Even her hands appear sweaty."
+= 
+
+# "A-Ah..."
+= 
+
+# "That makes me so happy..."
+= 
+
+# "It's so amazing to feel like I'm valued, [player]!"
+= 
+
+# "Everything that you write is a treasure to me."
+= 
+
+# "My heart pounds just holding it..."
+= 
+
+# "Ahaha..."
+= 
+
+# "I want to write a poem about this feeling..."
+= 
+
+# "Is that bad, [player]?"
+= 
+
+# "I'm not being weird, right?"
+= 
+
+# "I-I'm having a harder time than usual at concealing my emotions..."
+= 
+
+# "I'm kind of embarrassed."
+= 
+
+# "But right now, I just want you to read my poem, too."
+= 
+
+# "Okay?"
+= 
+
+# "I've been waiting for this..."
+= 
+
+# "Let's see what you've written for today."
+= 
+
+# "..."
+= 
+
+# "......"
+= 
+
+# "Yuri stares at the poem with a surprised expression on her face."
+= 
+
+# "Do you...like it?"
+= 
+
+# "[player]..."
+= 
+
+# "This one might even be better than yesterday's..."
+= 
+
+# "...How did you even pick up on this so quickly?"
+= 
+
+# "Finally..."
+= 
+
+# "Ahaha..."
+= 
+
+# "Yuri holds my poem to her face and takes a deep breath."
+= 
+
+# "I love it."
+= 
+
+# "I love everything about it."
+= 
+
+# "[player], I want to take this home."
+= 
+
+# "Will you let me keep it?"
+= 
+
+# "Please?"
+= 
+
+# "Sure, I don't care..."
+= 
+
+# "Ahaha."
+= 
+
+# "You're too nice to me, [player]..."
+= 
+
+# "I've never met anyone as nice as you."
+= 
+
+# "I could die..."
+= 
+
+# "N-Not really, but--!"
+= 
+
+# "I just don't know how to describe it."
+= 
+
+# "It's okay to be feeling this way, right?"
+= 
+
+# "It's not bad, right?"
+= 
+
+# "Yuri holds my poem to her chest."
+= 
+
+# "I'm going to take this home with me and keep it in my room."
+= 
+
+# "I hope that it makes you feel good when you think about me having it."
+= 
+
+# "I'll take good care of it!"
+= 
+
+# "I'll even touch myself while reading it over and over."
+= 
+
+# "I'll give myself paper cuts so your skin oil enters my bloodstream."
+= 
+
+# "Ahahahahaha."
+= 
+
+# "You can have my poem too."
+= 
+
+# "Besides, after you read it, I know you're really going to want to keep it."
+= 
+
+# "Here, take it. I can't wait any longer."
+= 
+
+# "Hurry! Read it!"
+= 
+
+# "Hi, [player]!"
+= 
+
+# "Having a good time so far?"
+= 
+
+# "Ah...yeah."
+= 
+
+# "Good! Glad to hear it!"
+= 
+
+# "By the way, since you're new and everything..."
+= 
+
+# "If you ever have any suggestions for the club, like new activities, or things we can do better..."
+= 
+
+# "I'm always listening!"
+= 
+
+# "Don't be afraid to bring things up, okay?"
+= 
+
+# "Alright...I'll keep that in mind."
+= 
+
+# "Of course I'll be afraid to bring things up."
+= 
+
+# "I'm much better off just going with the flow until I'm more settled in."
+= 
+
+# "Anyway..."
+= 
+
+# "Want to share your poem with me?"
+= 
+
+# "It's kind of embarrassing, but I guess I have to."
+= 
+
+# "Ahahaha!"
+= 
+
+# "Don't worry, [player]!"
+= 
+
+# "We're all a little embarrassed today, you know?"
+= 
+
+# "But it's that sort of barrier that we'll all learn to get past soon."
+= 
+
+# "Yeah, that's true."
+= 
+
+# "I hand Monika my poem."
+= 
+
+# "...Mhm!"
+= 
+
+# "Anyway, do you want to read my poem now?"
+= 
+
+# "Don't worry, I'm not very good..."
+= 
+
+# "You sound pretty confident for someone who claims to not be very good."
+= 
+
+# "Well...that's 'cause I have to sound confident."
+= 
+
+# "That doesn't mean I always feel that way, you know?"
+= 
+
+# "I see..."
+= 
+
+# "Well, let's read it, then."
+= 
+
+# "Hi again, [player]!"
+= 
+
+# "How's the writing going?"
+= 
+
+# "Alright, I guess..."
+= 
+
+# "I'll take that."
+= 
+
+# "As long as it's not going bad!"
+= 
+
+# "I'm happy that you're applying yourself."
+= 
+
+# "Maybe soon you'll come up with a masterpiece!"
+= 
+
+# "Ahaha, I wouldn't count on that..."
+= 
+
+# "You never know!"
+= 
+
+# "Want to share what you wrote for today?"
+= 
+
+# "Sure... Here you go."
+= 
+
+# "I give my poem to Monika."
+= 
+
+# "..."
+= 
+
+# "...Alright!"
+= 
+
+# "But anyway..."
+= 
+
+# "You want to read my poem now?"
+= 
+
+# "I like the way this one turned out, so I hope you do too~"
+= 
+
+# "Anyway..."
+= 
+
+# "I guess we won't worry about your poem..."
+= 
+
+# "Yuri should have at least had the courtesy of letting you finish sharing it before taking it."
+= 
+
+# "...Well, whatever."
+= 
+
+# "If it makes her happy, I won't stop her."
+= 
+
+# "As for mine..."
+= 
+
+# "I worked really...really hard on this poem, so..."
+= 
+
+# "I hope that it's, uh, effective."
+= 
+
+# "Here goes..."
+= 
+
+# "I like it, [player]!"
+= 
+
+# "Really...?"
+= 
+
+# "It's a lot cuter than I expected."
+= 
+
+# "Ahahaha!"
+= 
+
+# "Oh jeez..."
+= 
+
+# "No, no!"
+= 
+
+# "It kind of makes me think of something Natsuki would write."
+= 
+
+# "And she's a good writer, too."
+= 
+
+# "So take that as a compliment!"
+= 
+
+# "Ahaha..."
+= 
+
+# "If you say so."
+= 
+
+# "Yep!"
+= 
+
+# "If you're interested in Natsuki, then always keep a snack on you."
+= 
+
+# "She'll cling to you like a puppy."
+= 
+
+# "Ahaha!"
+= 
+
+# "Natsuki's dad doesn't give her lunch money or leave her any food in the house, so she's in a fussy mood pretty often..."
+= 
+
+# "But sometimes she just loses all of her strength and shuts down."
+= 
+
+# "Like earlier."
+= 
+
+# "This is just a guess, but I think she's so small because her malnutrition is interfering with her adolescent growth..."
+= 
+
+# "...But hey, some guys are into petite girls too, you know?"
+= 
+
+# "Sorry...just trying to look at the bright side!"
+= 
+
+# "Great job, [player]!"
+= 
+
+# "I was going 'Ooh' in my head while reading it."
+= 
+
+# "It's really metaphorical!"
+= 
+
+# "I'm not sure why, but I didn't expect you to go for something so deep."
+= 
+
+# "I guess I underestimated you!"
+= 
+
+# "It's easiest for me to keep everyone's expectations low."
+= 
+
+# "That way, it always counts when I put in some effort."
+= 
+
+# "Ahaha! That's not very fair!"
+= 
+
+# "Well, I guess it worked, anyway."
+= 
+
+# "You know that Yuri likes this kind of writing, right?"
+= 
+
+# "Writing that's full of imagery and symbolism."
+= 
+
+# "Sometimes I feel like Yuri's mind is just totally detached from reality."
+= 
+
+# "I don't mean that like it's a bad thing, though."
+= 
+
+# "But sometimes I get the impression that she's just totally given up on people."
+= 
+
+# "She spends so much time in her own head that it's probably a much more interesting place for her..."
+= 
+
+# "But that's why she gets so happy when you treat her with a lot of kindness."
+= 
+
+# "I don't think she's used to being indulged like that."
+= 
+
+# "She must be really starved for social interaction, so don't blame her for coming on a little strongly."
+= 
+
+# "Like earlier..."
+= 
+
+# "I think if she gets too stimulated, she ends up withdrawing and looking for alone time."
+= 
+
+# "Suddenly, the door opens."
+= 
+
+# "Yuri!"
+= 
+
+# "I'm back..."
+= 
+
+# "Did I miss anything?"
+= 
+
+# "Not really..."
+= 
+
+# "Well, we all started sharing our poems with each other."
+= 
+
+# "Eh?"
+= 
+
+# "Already?"
+= 
+
+# "I-I'm sorry for being late..."
+= 
+
+# "No need to apologize!"
+= 
+
+# "We still have plenty of time, so I'm more glad that you took all the time you needed."
+= 
+
+# "Alright..."
+= 
+
+# "Thanks, Monika."
+= 
+
+# "I suppose I should go get my poem now."
+= 
+
+# "[player], I think you saw something earlier that you weren't supposed to see."
+= 
+
+# "I didn't want to have to tell you this, but I don't think I have a choice."
+= 
+
+# "It's getting kind of dangerous for you to spend so much time with Yuri."
+= 
+
+# "I don't know why, but she seems pretty easily excitable when she's around you..."
+= 
+
+# "Which shouldn't be a problem in itself."
+= 
+
+# "But when Yuri gets too excited, she finds a place to hide and starts cutting herself with a pocket knife."
+= 
+
+# "Isn't that kind of messed up?"
+= 
+
+# "She even brings a different one to school every day, like she has a collection or something..."
+= 
+
+# "I mean, it's definitely not because she's depressed or anything like that!"
+= 
+
+# "I think she just gets some kind of high from it."
+= 
+
+# "It might even be, like, a sexual thing..."
+= 
+
+# "But the point is, you've kind of been enabling her."
+= 
+
+# "I'm not saying it's your fault, though!"
+= 
+
+# "But I guess that's why I had to explain it all to you..."
+= 
+
+# "So I think if you keep your distance, that would probably be best for her."
+= 
+
+# "While you're at it, don't be shy to spend a little more time with me..."
+= 
+
+# "To put it lightly, I at least have it together in the head...and I know how to treat my club members."
+= 
+
+# "Don't say I didn't warn you, [player]."
+= 

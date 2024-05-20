@@ -1,0 +1,45 @@
+
+# "_mas_pm_meditates": "pm.lifestyle.meditates"
+= 
+
+# "_mas_pm_is_fast_reader": "pm.lifestyle.reads_fast"
+= 
+
+# "_mas_pm_is_trans": "pm.lifestyle.is_trans"
+= 
+
+# "_mas_pm_wearsRing": "pm.lifestyle.ring.wears_one"
+= 
+
+# "_mas_pm_have_fam_sibs": "pm.family.have_siblings"
+= 
+
+# "_mas_pm_has_bullied_people": "pm.actions.bullied_people"
+= 
+
+# "_mas_pm_total_held_monika": "pm.actions.monika.total_held_time"
+= 
+
+# "_mas_pm_prom_monika": "pm.actions.prom.wanted_monika"
+= 
+
+# "_mas_pm_has_rpy": "pm.actions.mas.dev.has_rpy"
+= 
+
+# "_mas_pm_has_contributed_to_mas": "pm.actions.mas.dev.has_contributed"
+= 
+
+# "_mas_pm_gets_snow": "pm.location.snows"
+= 
+
+# "_mas_pm_watch_mangime": "pm.likes.manga_and_anime"
+= 
+
+# "_mas_pm_likes_travelling": "pm.likes.travelling"
+= 
+
+# "_mas_pm_like_other_music": "pm.likes.music.other"
+= 
+
+# "_mas_pm_cares_about_dokis": "pm.likes.dokis.cares_about_them"
+= 

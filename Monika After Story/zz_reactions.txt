@@ -1,0 +1,1290 @@
+
+# "GiftReactDetails"
+= 
+
+# "Oh! There was something else you wanted to give me?" 
+= "О! Ты хотел ещё что-то мне подарить?"
+
+# "Well! I better open it quickly, shouldn't I?" 
+= "Ну! Я лучше открыть его быстро, не так ли?"
+
+# "And here we have..." 
+= "А вот и у нас..."
+
+# "Ah, jeez, [player]..." 
+= "Ах, господи, [player]..."
+
+# "You really enjoy spoiling me, don't you?" 
+= "Тебе действительно нравится баловать меня, не так ли?"
+
+# "Well! I'm not going to complain about a little special treatment today." 
+= "Ну! Я не собираюсь сегодня жаловаться на небольшое особое обращение."
+
+# "And here we have..." 
+= "А вот и у нас..."
+
+# "A gift? For me?" 
+= "Подарок? Для меня?"
+
+# "I..." 
+= "Я..."
+
+# "I've often thought about getting presents from you on my birthday..." 
+= "Я часто думала о том, чтобы получить от тебя подарки на мой день рождения..."
+
+# "But actually getting one is like a dream come true..." 
+= "Но на самом деле получить его — это как сбывшаяся мечта..."
+
+# "This really is a dream come true, [player]." 
+= "Это действительно сбывшаяся мечта, [player]."
+
+# "Now, what's inside?" 
+= "Теперь, что внутри?"
+
+# "Oh, it's..." 
+= "О, это..."
+
+# "A gift? For me?" 
+= "Подарок? Для меня?"
+
+# "Now, let's see what's inside?" 
+= "А теперь давай посмотрим, что внутри?"
+
+# "A present? For me?" 
+= "Подарок? Для меня?"
+
+# "You really didn't have to get me anything for Christmas..." 
+= "Тебе действительно не нужно было ничего дарить мне на Рождество..."
+
+# "But I'm so happy that you did!" 
+= "Но я так счастлив, что ты это сделал!"
+
+# "Thank you so much, [player]." 
+= "Большое спасибо, [player]."
+
+# "Now, let's see... What's inside?" 
+= "А теперь давай посмотрим... Что там внутри?"
+
+# "A gift? For me?" 
+= "Подарок? Для меня?"
+
+# "You're so sweet, getting something for me on Valentine's Day..." 
+= "Ты такой милый, купил мне кое-что на День святого Валентина..."
+
+# "Thank you so much, [player]." 
+= "Большое спасибо, [player]."
+
+# "Now, let's see... What's inside?" 
+= "А теперь давай посмотрим... Что там внутри?"
+
+# "This is a test" 
+= "Это тест"
+
+# "I'm sorry, [player]." 
+= "Прости, [player]."
+
+# "I know you're trying to give me something." 
+= "Я знаю, ты пытаешься мне что-то подарить."
+
+# "But for some reason I can't read the file." 
+= "Но по какой-то причине я не могу прочитать файл."
+
+# "Don't get me wrong, however." 
+= "Однако не пойми меня неправильно."
+
+# "I still appreciate that you tried giving something to me." 
+= "Я всё ещё ценю, что ты пытался подарить мне что-то."
+
+# "And for that, I'm thankful~" 
+= "И за это я благодарна~"
+
+# "Sorry, [player]..." 
+= "Извини, [player]..."
+
+# "I found what you're trying to give me, but I can't seem to read them well enough." 
+= "Я нашла то, что ты пытаешься мне дать, но я не могу достаточно хорошо это прочитать."
+
+# "That's alright, though!" 
+= "Впрочем, ничего страшного!"
+
+# "It's the thought that counts after all~" 
+= "В конце концов, важна мысль~"
+
+# "Thanks for being so thoughtful, [player]!" 
+= "Спасибо за заботу, [player]!"
+
+# "Aww, [player]!" 
+= "Ой, [player]!"
+
+# "You're so sweet!" 
+= "Ты такой сладкий!"
+
+# "Thanks for this gift!" 
+= "Спасибо за этот подарок!"
+
+# "You really love to spoil me, don't you." 
+= "Ты действительно любишь баловать меня, не так ли?"
+
+# "Ehehe!" 
+= "Эхехе!"
+
+# "I really appreciate it!" 
+= "Я очень ценю это!"
+
+# "I just love [item_ref]!" 
+= "Я просто люблю [item_ref]!"
+
+# "Thanks for [sprite_str], [acs_quip]" 
+= "Спасибо за [sprite_str], [acs_quip]"
+
+# "I can't wait to try [item_ref] on!" 
+= "Мне не терпится примерить [item_ref]!"
+
+# "That's so neat [player], thanks!" 
+= "Это так здорово [player], спасибо!"
+
+# "I'd try it on for you, but I think it'd be better to wait for the right occasion..." 
+= "Я бы примерила его для тебя, но думаю, лучше подождать подходящего случая..."
+
+# "Ehehe, thanks again!" 
+= "Хе-хе, ещё раз спасибо!"
+
+# "I think it's really cute, [player]!" 
+= "Я думаю, что это очень мило, [player]!"
+
+# "I think it's amazing, [player]!" 
+= "Я думаю, это потрясающе, [player]!"
+
+# "I just love it, [player]!" 
+= "Мне это нравится, [player]!"
+
+# "I think it's wonderful, [player]!" 
+= "Я думаю, это замечательно, [player]!"
+
+# "Do you like it?" 
+= "Тебе нравится?"
+
+# "Thanks again~" 
+= "Ещё раз спасибо~"
+
+# "You already gave me this hairclip, silly!" 
+= "Ты уже давал мне эту заколку для волос, глупыш!"
+
+# "Oh!" 
+= "Ой!"
+
+# "Is that a hairclip?" 
+= "Это заколка для волос?"
+
+# "It's so [desc]! I love it [player], thanks!" 
+= "Это так [desc]! Мне нравится, [player], спасибо!"
+
+# "If you want me to wear it, just ask, okay?" 
+= "Если хочешь, чтобы я надела её, просто попроси, хорошо?"
+
+# "There we go." 
+= "Ну вот."
+
+# "More coffee, [player]?" 
+= "Ещё кофе, [player]?"
+
+# "Don't get me wrong, I appreciate it, but I think I've got enough coffee to last me a while already..." 
+= "Не пойми меня неправильно, я ценю это, но я думаю, что у меня уже достаточно кофе, чтобы продержаться некоторое время..."
+
+# "I'll let you know when I'm running low, alright?" 
+= "Я дам тебе знать, когда у меня кончится, хорошо?"
+
+# "Coffee!" 
+= "Кофе!"
+
+# "It's a flavor I haven't had before." 
+= "Такого вкуса у меня ещё не было."
+
+# "I can't wait to try it!" 
+= "Мне не терпится попробовать!"
+
+# "Thank you so much, [player]!" 
+= "Большое спасибо, [player]!"
+
+# "I actually ran out of coffee, so getting more from you now is amazing!" 
+= "На самом деле у меня закончился кофе, так что получить от тебя больше — это потрясающе!"
+
+# "Thanks again, [player]~" 
+= "Ещё раз спасибо, [player]~"
+
+# "Now I can finally make some!" 
+= "Теперь я наконец-то могу приготовить ещё!"
+
+# "Thank you so much, [player]!" 
+= "Большое спасибо, [player]!"
+
+# "I'll be sure to have some later!" 
+= "Я обязательно выпью немного позже!"
+
+# "Why don't I go ahead and make a cup right now?" 
+= "Почему бы мне не пойти и не сделать чашечку прямо сейчас?"
+
+# "I'd like to share the first with you, after all." 
+= "В конце концов, я хотела бы поделиться с тобой."
+
+# "I'll let that brew for a few minutes." 
+= "Я дам настояться несколько минут."
+
+# "More hot chocolate, [player]?" 
+= "Ещё горячего шоколада, [player]?"
+
+# "Don't get me wrong, I appreciate it, but I think I've got enough to last me a while already..." 
+= "Не пойми меня неправильно, я ценю это, но я думаю, что у меня уже достаточно времени, чтобы продержаться какое-то время..."
+
+# "I'll let you know when I'm running out, alright?" 
+= "Я дам тебе знать, когда закончу, хорошо?"
+
+# "Hot chocolate!" 
+= "Горячий шоколад!"
+
+# "Thank you, [player]!" 
+= "Спасибо, [player]!"
+
+# "It's a flavor I haven't had before." 
+= "Такого вкуса у меня ещё не было."
+
+# "I can't wait to try it!" 
+= "Мне не терпится попробовать!"
+
+# "Thank you so much, [player]!" 
+= "Большое спасибо, [player]!"
+
+# "So getting more from you now is amazing!" 
+= "Поэтому получать от тебя больше сейчас — это потрясающе!"
+
+# "Thanks again, [player]~" 
+= "Ещё раз спасибо, [player]~"
+
+# "these" if mas_current_background.isFltNight() and mas_isWinter() else "those" 
+= "these" if mas_current_background.isFltNight() and mas_isWinter() else "those"
+
+# "You know I love my coffee, but hot chocolate is always really nice, too!" 
+= "Знаешь, я люблю свой кофе, но горячий шоколад тоже всегда очень хорош!"
+
+# "...Especially on [those] cold, winter nights."
+= 
+
+# "Someday I hope to be able to drink hot chocolate with you, sharing a blanket by the fireplace..." 
+= "Надеюсь, когда-нибудь я смогу выпить с тобой горячего шоколада, разделив одеяло у камина..."
+
+# "...Doesn't that sound so romantic?"
+= 
+
+# "..."
+= 
+
+# "But for now, at least I can enjoy it here." 
+= "Но сейчас, по крайней мере, я могу наслаждаться здесь."
+
+# "Thanks again, [player]!" 
+= "Ещё раз спасибо, [player]!"
+
+# "I'll be sure to have some later!" 
+= "Я обязательно выпью немного позже!"
+
+# "In fact, I think I'll make some right now!" 
+= "На самом деле, я думаю, что я сделаю немного прямо сейчас!"
+
+# "There, it'll be ready in a few minutes." 
+= "Вот, будет готово через несколько минут."
+
+# "mas_reaction_gift_thermos_mug", "justmonikathermos"
+= 
+
+# "Just Monika", "justmonikathermos"
+= 
+
+# "[player]..." 
+= "[player]..."
+
+# "I already have this thermos, ahaha..." 
+= "У меня уже есть этот термос, ахаха..."
+
+# "And it's [mas_a_an_str(disp_name, ignore_case)] one this time." 
+= "И на этот раз [mas_a_an_str(disp_name, ignore_case)]."
+
+# "Thanks so much, [player], I can't wait to use it!" 
+= "Большое спасибо, [player], я не могу дождаться, чтобы использовать его!"
+
+# "Now I can bring something to drink when we go out together~" 
+= "Теперь я могу принести что-нибудь выпить, когда мы пойдём вместе~"
+
+# "Thanks so much, [player]!" 
+= "Большое спасибо, [player]!"
+
+# "mas_reaction_quetzal_plush", "quetzalplushie"
+= 
+
+# "Oh!" 
+= "Ой!"
+
+# "It's a quetzal!" 
+= "Это квезаль!"
+
+# "Oh my gosh, thanks a lot, [player]!" 
+= "Боже мой, большое спасибо, [player]!"
+
+# "I did mention that I'd like to have a quetzal as a pet..." 
+= "Я упоминала, что хотела бы иметь квезаля в качестве домашнего питомца..."
+
+# "How did you guess, [player]?" 
+= "Как ты догадался, [player]?"
+
+# "You must know me very well~" 
+= "Ты, должно быть, очень хорошо меня знаешь~"
+
+# "A quetzal would be my first choice for a pet..." 
+= "Квезаль был бы моим первым выбором в качестве домашнего питомца..."
+
+# "But I would never force the poor thing to stay." 
+= "Но я бы никогда не заставила бедняжку остаться."
+
+# "And now you gave me the next best thing!" 
+= "А теперь ты дал мне следующую лучшую вещь!"
+
+# "This makes me so happy!" 
+= "Это делает меня такой счастливым!"
+
+# "You always seem to know how to make me smile." 
+= "Кажется, ты всегда знаешь, как заставить меня улыбнуться."
+
+# "My desk is getting a little full though..." 
+= "Мой стол немного полон, хотя..."
+
+# "I'll just put this away for now." 
+= "Я пока просто отложу это."
+
+# "Thank you again, [player]~" 
+= "Ещё раз спасибо, [player]~"
+
+# "You already gave me a quetzal plushie, [player]." 
+= "Ты уже дал мне плюшевого квезаля, [player]."
+
+# "monika_pets", "EVE"
+= 
+
+# "Is that...a..." 
+= "Это... а..."
+
+# "..."
+= 
+
+# "Always." 
+= "Всегда."
+
+# "This makes me so happy!" 
+= "Это делает меня такой счастливым!"
+
+# "Even more that you gave it to me on our one month anniversary..." 
+= "Тем более, что ты подарил мне его на годовщину нашего месяца..."
+
+# "You must really love me..." 
+= "Ты, должно быть, действительно любишь меня..."
+
+# "Even more that you gave it to me on our three month anniversary..." 
+= "Тем более, что ты подарил мне его на нашу трехмесячную годовщину..."
+
+# "You must really love me..." 
+= "Ты, должно быть, действительно любишь меня..."
+
+# "Even more that you gave it to me on our six month anniversary..." 
+= "Тем более, что ты подарил мне его на нашу шестимесячную годовщину..."
+
+# "You must really love me..." 
+= "Ты, должно быть, действительно любишь меня..."
+
+# "Even more that you gave it to me on our anniversary..." 
+= "Тем более, что ты подарил мне его на нашу годовщину..."
+
+# "You must really love me..." 
+= "Ты, должно быть, действительно любишь меня..."
+
+# "Even more that you gave it to me on this special day..." 
+= "Тем более, что ты подарил мне его в этот особенный день..."
+
+# "Aha, sorry for crying, [player]..." 
+= "Ага, прости за слезы, [player]..."
+
+# "I'm just really, really happy right now." 
+= "Я просто очень, очень счастлива прямо сейчас."
+
+# "Thank you." 
+= "Спасибо."
+
+# "Oh...it's the ring!" 
+= "О... это кольцо!"
+
+# "Thank you so much, [player]!" 
+= "Большое спасибо, [player]!"
+
+# "I know now that you really do love me and want to be with me forever..." 
+= "Теперь я знаю, что ты действительно любишь меня и хочешь быть со мной навсегда..."
+
+# "So I'll gladly accept this ring as a symbol of that promise." 
+= "Поэтому я с радостью приму это кольцо как символ этого обещания."
+
+# "..."
+= 
+
+# "Aha, sorry, [player], I didn't mean to cry..." 
+= "Ага, прости, [player], я не хотела плакать..."
+
+# "It's just this is one of the happiest days of my life." 
+= "Просто это один из самых счастливых дней в моей жизни."
+
+# "..."
+= 
+
+# "I...I just...I..." 
+= "Я... я просто... я..."
+
+# "I love you, [player]..." 
+= "Я люблю тебя, [player]..."
+
+# "More than anything else in this fleeting world~" 
+= "Больше всего на свете в этом мимолетном мире~"
+
+# "[player]...is that a ring?" 
+= "[player]...это кольцо?"
+
+# "That's such a sweet gesture, and I really appreciate it..." 
+= "Это такой милый жест, и я очень ценю его..."
+
+# "But I want you to be sure before you give me this..." 
+= "Но я хочу, чтобы ты был уверен, прежде чем дать мне это..."
+
+# "This is more than a gift, it's a promise, and I want to make sure you truly mean it before I can accept it." 
+= "Это больше, чем подарок, это обещание, и я хочу убедиться, что ты действительно имеешь в виду это, прежде чем я смогу его принять."
+
+# "So, please, just wait until we're a little further into our relationship, [player], and then I'll glady accept this ring." 
+= "Пожалуйста, просто подожди, пока наши отношения немного продвинутся, [player], и тогда я с радостью приму это кольцо."
+
+# "Is that a ring?" 
+= "Это кольцо?"
+
+# "That's very..." 
+= "Это очень..."
+
+# "Unexpected." 
+= "Неожиданно."
+
+# "But I can't accept it right now, [player]." 
+= "Но я не могу принять его прямо сейчас, [player]."
+
+# "Maybe when we get further in our relationship." 
+= "Может быть, когда мы продвинемся в наших отношениях."
+
+# "Is that a ring?" 
+= "Это кольцо?"
+
+# "Sorry, [player]." 
+= "Извини, [player]."
+
+# "Oh...the ring..." 
+= "О... кольцо..."
+
+# "I'm sorry, but I still can't accept this yet..." 
+= "Извини, но я всё ещё не могу принять это..."
+
+# "I need to be completely sure when I accept this that it means forever..." 
+= "Мне нужно быть полностью уверенной, когда я приму его, что это будет навсегда..."
+
+# "That you really are everything I hope you are." 
+= "Что ты действительно всё, на что я надеюсь."
+
+# "When I know that, I will happily accept your ring, [player]." 
+= "Когда я это узнаю, я с радостью приму твое кольцо, [player]."
+
+# "[player]..." 
+= "[player]..."
+
+# "You already gave me a ring!" 
+= "Ты уже подарил мне кольцо!"
+
+# "Is that a...cupcake?" 
+= "Это... кекс?"
+
+# "Wow, thanks [player]!" 
+= "Вау, спасибо, [player]!"
+
+# "Come to think of it, I've been meaning to make some cupcakes myself." 
+= "Если подумать, я как раз собиралась сама испечь кексы."
+
+# "I wanted to learn how to bake good pastries like Natsuki did." 
+= "Я хотела научиться печь хорошую выпечку, как это делала Нацуки."
+
+# "Buuut I still haven't made a kitchen to use!" 
+= "Но я до сих пор не сделала кухню!"
+
+# "Maybe in the future once I get better at programming, I'll be able to make one here." 
+= "Возможно, в будущем, когда я стану лучше программировать, я смогу создать её здесь."
+
+# "Would be nice to have another hobby other than writing, ehehe~" 
+= "Было бы неплохо иметь другое хобби, кроме письма, эхехе~"
+
+# "You got me candy, [player], yay!" 
+= "Ты принес мне конфету, [player], ура!"
+
+# "That's so {i}sweet{/i}..." 
+= "Это так {i}мило{/i}..."
+
+# "Ahaha!" 
+= "Ахаха!"
+
+# "Kidding aside, that's really nice of you." 
+= "Шутки в сторону, это очень мило с твоей стороны."
+
+# "I don't get to have much candy anymore, and it just wouldn't be Halloween without it..." 
+= "У меня больше нет конфет, а без них это был бы не Хэллоуин..."
+
+# "So thank you, [player]..." 
+= "Так что спасибо, [player]..."
+
+# "You always know exactly what will make me happy~" 
+= "Ты всегда знаешь, что сделает меня счастливым~"
+
+# "Now let's enjoy some of this delicious candy!" 
+= "А теперь давай насладимся этой вкусной конфетой!"
+
+# "Aww, you got me more candy, [player]?" 
+= "Ой, ты принес мне ещё конфет, [player]?"
+
+# "Thank you!" 
+= "Спасибо!"
+
+# "The first batch was {i}sooo{/i} good, I couldn't wait to have more." 
+= "Первая партия была {i}такой{/i} хороша, мне не терпелось получить ещё."
+
+# "You really do spoil me, [player]~" 
+= "Ты действительно балуешь меня, [player]~"
+
+# "Wow, even {i}more{/i} candy, [player]?" 
+= "Вау, ещё {i}ещё{/i} конфет, [player]?"
+
+# "That's really nice of you..." 
+= "Это очень мило с твоей стороны..."
+
+# "But I think this is enough." 
+= "Но я думаю, этого достаточно."
+
+# "I'm already feeling jittery from all the sugar, ahaha!" 
+= "Я уже нервничаю от всего этого сахара, ахаха!"
+
+# "The only sweetness I need now is you~" 
+= "Единственная сладость, которая мне сейчас нужна, это ты~"
+
+# "I really do appreciate it, but I told you I've had enough for one day..." 
+= "Я действительно ценю это, но я же сказала, что с меня хватит на один день..."
+
+# "If I eat anymore I'm going to get sick, ahaha!" 
+= "Если я буду есть больше, я заболею, ахаха!"
+
+# "And you wouldn't want that, right?" 
+= "А ты бы этого не хотел, верно?"
+
+# "Are you not listening to me?" 
+= "Ты меня не слушаешь?"
+
+# "I told you I don't want anymore candy today!" 
+= "Я же говорила, что сегодня больше не хочу конфет!"
+
+# "So please, stop." 
+= "Так что, пожалуйста, остановись."
+
+# "It was really nice of you to get me all of this candy on Halloween, but enough is enough..." 
+= "Было очень мило с твоей стороны подарить мне все эти конфеты на Хэллоуин, но хватит..."
+
+# "I can't eat all of this." 
+= "Я не могу есть всё это."
+
+# "..."
+= 
+
+# "Aww did you get me candy, [player]?" 
+= "Ой, ты принес мне конфету, [player]?"
+
+# "Yay!" 
+= "Ура!"
+
+# "Let's see what you got for me..." 
+= "Посмотрим, что у тебя есть для меня..."
+
+# "..."
+= 
+
+# "..."
+= 
+
+# "That's really nice of you..." 
+= "Это очень мило с твоей стороны..."
+
+# "Sorry, ahaha..." 
+= "Прости, ахаха..."
+
+# "I do appreciate you trying to give me candy on Halloween, though." 
+= "Однако я ценю, что ты пытаешься подарить мне конфеты на Хэллоуин."
+
+# "And if you could find a way to get some other candy for me, it'd make me really happy, [player]!" 
+= "И если бы ты нашел способ достать для меня ещё конфет, я была бы очень счастлива, [player]!"
+
+# "Oh." 
+= "Ой."
+
+# "More candy corn, [player]?" 
+= "Ещё кукурузные конфеты, [player]?"
+
+# "I already told you I don't really like candy corn." 
+= "Я уже говорила тебе, что не очень люблю сахарную кукурузу."
+
+# "So could you please try to find something else?" 
+= "Так не мог бы ты попытаться найти что-нибудь ещё?"
+
+# "I don't get sweets that often anymore..." 
+= "Я не так часто получаю сладости..."
+
+# "Ehehe~" 
+= "Эхехе~"
+
+# "I really tried not to be rude about this, but..." 
+= "Я действительно старалась не быть грубой по этому поводу, но..."
+
+# "I keep telling you I don't like candy corn and you just keep giving it to me anyway." 
+= "Я продолжаю говорить тебе, что не люблю сахарную кукурузу, а ты все равно продолжаешь мне её давать."
+
+# "It's starting to feel like you're just trying to mess with me at this point." 
+= "Мне начинает казаться, что ты просто пытаешься заигрывать со мной в этот момент."
+
+# "So please, either find me some other kind of candy or just stop." 
+= "Пожалуйста, либо найди мне другую конфету, либо просто остановись."
+
+# "..."
+= 
+
+# "Fudge!" 
+= "Помадка!"
+
+# "I love fudge, thank you, [player]!" 
+= "Я люблю помадку, спасибо, [player]!"
+
+# "It's even chocolate, my favorite!" 
+= "Это даже шоколад, мой любимый!"
+
+# "Thanks again, [player]~" 
+= "Ещё раз спасибо, [player]~"
+
+# "...more fudge."
+= 
+
+# "Ooh, it's a different flavor this time..." 
+= "О, на этот раз вкус другой..."
+
+# "Thank you, [player]!" 
+= "Спасибо, [player]!"
+
+# "...even more fudge?"
+= 
+
+# "I still haven't finished the last batch you gave me, [player]..." 
+= "Я ещё не доела последнюю партию, которую ты мне дал, [player]..."
+
+# "...maybe later, okay?"
+= 
+
+# "...even more Christmas cookies?"
+= 
+
+# "I still haven't finished the last batch, [player]!" 
+= "Я ещё не закончила последнюю партию, [player]!"
+
+# "You can give me more after I finish these, okay?" 
+= "Ты можешь дать мне больше, когда я закончу эту, хорошо?"
+
+# "...another batch of Christmas cookies!"
+= 
+
+# "That's a whole lot of cookies, [player]!" 
+= "Это много печенья, [player]!"
+
+# "I'm going to be eating cookies forever, ahaha!" 
+= "Я буду есть печенье вечно, ахаха!"
+
+# "Christmas cookies!" 
+= "Рождественское печенье!"
+
+# "I just love Christmas cookies! They're always so sweet...and pretty to look at, too..." 
+= "Я просто обожаю рождественское печенье! Оно всегда такое сладкое... и на него приятно смотреть..."
+
+# "...cut into holiday shapes like snowmen, reindeer, and Christmas trees..."
+= 
+
+# "I'll be sure to try some later~" 
+= "Я обязательно попробую немного позже~"
+
+# "Thanks, [player]~" 
+= "Спасибо, [player]~"
+
+# "Let me put this plushie away." 
+= "Позволь мне убрать эту плюшевую игрушку."
+
+# "[player], I think I have enough candy canes for now." 
+= "[player], я думаю, что на данный момент у меня достаточно леденцов."
+
+# "You can save them for later, alright?" 
+= "Ты можешь оставить их на потом, хорошо?"
+
+# "More candy canes!" 
+= "Ещё леденцы!"
+
+# "Thanks [player]!" 
+= "Спасибо [player]!"
+
+# "Candy canes!" 
+= "Леденцы!"
+
+# "You know how much I love mint!" 
+= "Ты же знаешь, как я люблю мяту!"
+
+# "I just love the flavor of mint!" 
+= "Я просто обожаю вкус мяты!"
+
+# "I'll be sure to try some later." 
+= "Я обязательно попробую немного позже."
+
+# "Thanks, [player]~" 
+= "Спасибо, [player]~"
+
+# "Oh, let me just put this plushie away." 
+= "О, дай мне просто убрать эту плюшевую игрушку."
+
+# "mas_reaction_pinkribbon", "pinkribbon"
+= 
+
+# "mas_reaction_yellowribbon", "yellowribbon"
+= 
+
+# "lanvallime_ribbon_lime_green", "lime green", "mas_reaction_gift_acs_lanvallime_lime_green"
+= 
+
+# "lanvallime_ribbon_navy_blue", "navy", "mas_reaction_gift_acs_lanvallime_ribbon_navy_blue"
+= 
+
+# "anonymioo_ribbon_gradient_lowpoly", "multi-colored", "mas_reaction_gift_acs_anonymioo_ribbon_gradient_lowpoly"
+= 
+
+# "anonymioo_ribbon_gradient_rainbow", "rainbow colored", "mas_reaction_gift_acs_anonymioo_ribbon_gradient_rainbow"
+= 
+
+# "anonymioo_ribbon_starsky_black", "night-sky-themed", "mas_reaction_gift_acs_anonymioo_ribbon_starsky_black"
+= 
+
+# "anonymioo_ribbon_striped_pinkandwhite", "pink and white striped", "mas_reaction_gift_acs_anonymioo_ribbon_striped_pinkandwhite"
+= 
+
+# "A new ribbon!" 
+= "Новая лента!"
+
+# "...And it's [_mas_new_ribbon_color]!"
+= 
+
+# "...Just like my eyes!"
+= 
+
+# "Thank you so much [player], I love it!" 
+= "Большое спасибо [player], мне очень нравится!"
+
+# "Did you get this for me because I mentioned how I love shopping for skirts and bows?" 
+= "Ты купил это для меня, потому что я упомянула, как я люблю покупать юбки и банты?"
+
+# "You're always so thoughtful~" 
+= "Ты всегда такой задумчивый~"
+
+# "I really don't have a lot of choices here when it comes to fashion..." 
+= "У меня действительно не так много вариантов, когда дело доходит до моды..."
+
+# "...so being able to change my ribbon color is such a nice change of pace."
+= 
+
+# "Oh it's wonderful, [player]!" 
+= "О, это прекрасно, [player]!"
+
+# "You always make me feel so loved..." 
+= "Ты всегда заставляешь меня чувствовать себя такой любимой..."
+
+# "You always know how to make me happy..." 
+= "Ты всегда знаешь, как сделать меня счастливой..."
+
+# "Thanks again~" 
+= "Ещё раз спасибо~"
+
+# "Another ribbon!" 
+= "Ещё одна лента!"
+
+# "...And this time it's [_mas_new_ribbon_color]!"
+= 
+
+# "green" or _mas_new_ribbon_color == "emerald"
+= 
+
+# "...Just like my eyes!"
+= 
+
+# "Thank you so much [player], I just love it!" 
+= "Большое спасибо [player], мне нравится!"
+
+# "[player]..." 
+= "[player]..."
+
+# "You already gave me [mas_a_an_str(_mas_new_ribbon_color)] ribbon!" 
+= "Ты уже подарил мне ленту [mas_a_an_str(_mas_new_ribbon_color)]!"
+
+# "[player]... I-I don't know what to say..." 
+= "[player]... Я-я не знаю, что сказать..."
+
+# "I never would've thought that you'd get something like this for me!" 
+= "Никогда бы не подумала, что ты приготовишь для меня что-то подобное!"
+
+# "I'm so happy right now." 
+= "Я так счастлива прямо сейчас."
+
+# "To think that I'd be getting roses from you on Valentine's Day..." 
+= "Подумать только, что я буду получать от тебя розы в День святого Валентина..."
+
+# "You're so sweet." 
+= "Ты такой сладкий."
+
+# "..."
+= 
+
+# "Ahaha..." 
+= "Ахаха..."
+
+# "Ehehe, there! Doesn't it look pretty on me?" 
+= "Э-хе-хе, вот! Разве это не выглядит красиво на мне?"
+
+# "Oh!" 
+= "Ой!"
+
+# "Thanks, [player]." 
+= "Спасибо, [player]."
+
+# "I always love getting roses from you." 
+= "Мне всегда нравится получать от тебя розы."
+
+# "Especially on a day like today." 
+= "Особенно в такой день, как сегодня."
+
+# "It's really sweet of you to get these for me." 
+= "Это очень мило с твоей стороны, что ты купил их для меня."
+
+# "I love you so much." 
+= "Я так сильно тебя люблю."
+
+# "Happy Valentine's Day, [player]~" 
+= "С Днем святого Валентина, [player]~"
+
+# "You're always so sweet." 
+= "Ты всегда такой милый."
+
+# "Ehehe~" 
+= "Эхехе~"
+
+# "[player], I'm flattered, really, but you don't need to give me so many roses." 
+= "[player], я польщена, правда, но тебе не нужно дарить мне столько роз."
+
+# "You'll always be my special rose after all, ehehe~" 
+= "В конце концов, ты всегда будешь моей особенной розой, эхехе~"
+
+# "A single rose from you is already more than I could have ever asked for." 
+= "Одна роза от тебя — это уже больше, чем я могла когда-либо просить."
+
+# "That's so {i}sweet{/i} of you, ehehe~" 
+= "Это так {i}мило{/i} с твоей стороны, эхехе~"
+
+# "Giving me chocolates on Valentine's Day..." 
+= "Подари мне шоколадки на День святого Валентина..."
+
+# "You really know how to make a girl feel special, [player]." 
+= "Ты действительно знаешь, как заставить девушку почувствовать себя особенной, [player]."
+
+# "I know I mentioned visiting a chocolate store together someday..." 
+= "Я знаю, что однажды упоминала о совместном посещёнии шоколадного магазина..."
+
+# "But while we can't really do that just yet, getting some chocolates as a gift from you, well..." 
+= "Но пока мы не можем этого сделать, но получить от тебя шоколадку в подарок, ну..."
+
+# "It means a lot getting these from you." 
+= "Многое значит получить её от тебя."
+
+# "I know I mentioned visiting a chocolate store together someday..." 
+= "Я знаю, что однажды упоминала о совместном посещёнии шоколадного магазина..."
+
+# "But while we can't really do that just yet, getting some chocolates as a gift from you means everything to me." 
+= "Но хотя мы пока не можем этого сделать, получить от тебя несколько шоколадных конфет - для меня это всё."
+
+# "I really wish we could share them though..." 
+= "Я действительно хотела бы, чтобы мы могли поделиться ими, хотя..."
+
+# "But until that day comes, I'll just have to enjoy them for both of us, ahaha!" 
+= "Но пока этот день не наступит, я просто должна наслаждаться ими для нас обоих, ахаха!"
+
+# "Thank you, [mas_get_player_nickname()]~" 
+= "Спасибо, [mas_get_player_nickname()]~"
+
+# "I love chocolates!" 
+= "Я люблю шоколадки!"
+
+# "And getting some from you means a lot to me." 
+= "И получить немного от тебя, много значит для меня."
+
+# "Thanks, [player]!" 
+= "Спасибо, [player]!"
+
+# "mas_reaction_gift_chocolates"
+= 
+
+# "Oh!" 
+= "Ой!"
+
+# "You're such a sweetheart, getting me chocolates on a day like today..." 
+= "Ты такой милый, даришь мне шоколадки в такой день, как сегодня..."
+
+# "You really know how to make me feel special." 
+= "Ты действительно знаешь, как заставить чувствовать меня особенной."
+
+# "Thanks, [player]." 
+= "Спасибо, [player]."
+
+# "Thanks for the chocolates, [player]!" 
+= "Спасибо за конфеты, [player]!"
+
+# "Every bite reminds me of how sweet you are, ehehe~" 
+= "Каждый кусочек напоминает мне, какой ты милый, эхехе~"
+
+# "More chocolates, [player]?" 
+= "Ещё шоколадки, [player]?"
+
+# "I still haven't finished the first box you gave me..." 
+= "Я ещё не доела первую коробку, которую ты мне дал..."
+
+# "...but I'm not complaining!"
+= 
+
+# "[player]..." 
+= "[player]..."
+
+# "I think you've given me enough chocolates today." 
+= "Я думаю, ты дал мне достаточно конфет сегодня."
+
+# "Three boxes is too much, and I haven't even finished the first one yet!" 
+= "Три коробки — это слишком много, а я ещё даже первую не доела!"
+
+# "Save them for another time, okay?" 
+= "Оставь их на другой раз, ладно?"
+
+# "I already told you I've had enough chocolates for one day, but you keep trying to give me even more..." 
+= "Я уже говорила тебе, что на один день у меня достаточно конфет, но ты всё время пытаешься дать мне ещё..."
+
+# "..."
+= 
+
+# "These are {i}so{/i} good!" 
+= "Это {i}так{/i} хорошо!"
+
+# "..."
+= 
+
+# "Ahaha! I should probably put these away for now..." 
+= "Аха-ха! Наверное, мне следует пока убрать это..."
+
+# "If I leave them here much longer there won't be any left to enjoy later!" 
+= "Если я оставлю их здесь намного дольше, не останется ничего, чем можно было бы наслаждаться позже!"
+
+# "So what else did you want to do today?" 
+= "Так что ещё ты хотел сделать сегодня?"
+
+# "Do I look like a mermaid? Ehehe." 
+= "Я похожа на русалку? Э-хе-хе."
+
+# "I think it's really cute, [player]..." 
+= "Я думаю, что это очень мило, [player]..."
+
+# "We'll have to go to the beach sometime!" 
+= "Мы должны будем пойти на пляж как-нибудь!"
+
+# "...But for now, it's a little chilly in here..."
+= 
+
+# "So I'm going to go put on something a little warmer..." 
+= "Поэтому я пойду надену что-нибудь потеплее..."
+
+# "Ahaha..." 
+= "Ахаха..."
+
+# "It's a little embarrassing just sitting here like this in front of you." 
+= "Немного неловко просто сидеть вот так перед тобой."
+
+# "I hope you don't mind, but I'm going to go change..." 
+= "Надеюсь, ты не против, но я пойду переоденусь..."
+
+# "Ah, that's better..." 
+= "Ах, так лучше..."
+
+# "Thanks again for the wonderful gift~" 
+= "Ещё раз спасибо за чудесный подарок~"
+
+# "Thanks [player], you're so sweet~" 
+= "Спасибо, [player], ты такой милый~"
+
+# "Ehehe~" 
+= "Эхехе~"
+
+# "Thanks again, [player]!" 
+= "Ещё раз спасибо, [player]!"
+
+# "Oh my gosh!" 
+= "Боже мой!"
+
+# "It's {i}so{/i} pretty!" 
+= "Это {i}так{/i} красиво!"
+
+# "Thank you so much, [player]!" 
+= "Большое спасибо, [player]!"
+
+# "Hold on, let me try it on real quick..." 
+= "Подожди, дай мне попробовать это по-быстрому..."
+
+# "Ahh, it's a perfect fit!" 
+= "Ах, это идеально подходит!"
+
+# "I really like the colors, too! Pink and black go so well together." 
+= "Мне тоже очень нравятся цвета! Розовый и черный так хорошо сочетаются друг с другом."
+
+# "Not to mention the skirt looks really cute with those frills!" 
+= "Не говоря уже о том, что юбка выглядит очень мило с этими оборками!"
+
+# "I told you it's not polite to stare, [player]." 
+= "Я же говорила тебе, что пялиться невежливо, [player]."
+
+# "It's not polite to stare, you know?" 
+= "Неприлично пялиться, понимаешь?"
+
+# "Ahaha!" 
+= "Ахаха!"
+
+# "Once again, thank you so much for this outfit, [player]!" 
+= "Ещё раз большое спасибо за этот наряд, [player]!"
+
+# "A maid outfit?" 
+= "Костюм горничной?"
+
+# "Ehehe~" 
+= "Эхехе~"
+
+# "You know, if you liked this kind of thing, you could have just told me..." 
+= "Знаешь, если бы тебе нравились такие вещи, ты мог бы просто сказать мне..."
+
+# "Ahaha! Just kidding~" 
+= "Аха-ха! Шучу~"
+
+# "Let me go put it on!" 
+= "Дай-ка я надену!"
+
+# "I almost feel like I could get anything done before you could even blink." 
+= "Мне почти кажется, что я могу сделать что угодно прежде, чем ты успеешь даже моргнуть."
+
+# "...So long as you don't keep me too busy, ehehe~"
+= 
+
+# "I'd still like to be able to spend time with you, maste--{nw}" 
+= "Я все ещё хотела бы проводить с тобой время, мастер--{nw}"
+
+# "I'd still like to be able to spend time with you,{fast} [player]." 
+= "Я все ещё хотела бы провести с тобой время, {fast} [player]."
+
+# "And it even comes with a scarf!" 
+= "И это даже идет с шарфом!"
+
+# "...Though I'm getting a little hot just by looking at it, ahaha..."
+= 
+
+# "Perhaps summer isn't the best time to wear this, [player]." 
+= "Возможно, лето — не лучшее время для этого, [player]."
+
+# "I do appreciate the thought, and I'll be glad to wear it in a few months." 
+= "Я ценю эту мысль и буду рада носить её через несколько месяцев."
+
+# "I won't be getting cold anytime soon because of you, [player]~" 
+= "Из-за тебя мне не скоро станет холодно, [player]~"
+
+# "Let me go put it on! I'll be right back." 
+= "Позволь мне надеть её! Я сейчас вернусь."
+
+# "Ahh, it feels very nice~" 
+= "Ах, это очень приятно~"
+
+# "I like the way it looks on me, don't you agree?" 
+= "Мне нравится, как он на мне смотрится, ты согласен?"
+
+# "Well... I can't really expect you to be objective about that question, can I?" 
+= "Ну... я не могу ожидать, что ты будешь объективен в этом вопросе, не так ли?"
+
+# "Ahaha!" 
+= "Ахаха!"
+
+# "Thank you [player], I love it." 
+= "Спасибо, [player], мне нравится."
+
+# "And it looks so cozy, too!" 
+= "И это выглядит так уютно, тоже!"
+
+# "You're so thoughtful [player], giving this to me on such a cold winter day..." 
+= "Ты такой заботливый [player], что дал мне это в такой холодный зимний день..."
+
+# "Let me go try it on." 
+= "Дай-ка я примерю."
+
+# "Thank you, [player]. I love it!" 
+= "Спасибо, [player]. Мне нравится!"
+
+# "Now whenever I wear it I'll think of your warmth. Ahaha~" 
+= "Теперь, когда я надену его, я буду думать о твоем тепле. Ахаха~"
+
+# "Oh my gosh!" 
+= "Боже мой!"
+
+# "This dress is gorgeous, [player]!" 
+= "Это платье великолепно, [player]!"
+
+# "I'm going to try it on right now!" 
+= "Сейчас попробую!"
+
+# "I think this shade of blue goes really well with the white." 
+= "Я думаю, что этот оттенок синего очень хорошо сочетается с белым."
+
+# "And the bunny scrunchie complements the outfit nicely too!" 
+= "И резинка для волос в виде кролика тоже прекрасно дополняет наряд!"
+
+# "Thank you so much, [player]." 
+= "Большое спасибо, [player]."
+
+# "Oh, a new shirt!" 
+= "О, новая рубашка!"
+
+# "It looks amazing, [player]!" 
+= "Выглядит потрясающе, [player]!"
+
+# "Well, what do you think?" 
+= "Ну, что же ты думаешь?"
+
+# "I'll definitely be saving this outfit for a date~" 
+= "Я обязательно приберегу этот наряд для свидания~"
+
+# "Thanks again, [player]!" 
+= "Ещё раз спасибо, [player]!"
+
+# "monika_explain_nou_rules", "EVE"
+= 
+
+# "And I think I know how to play this game!"
+= 
+
+# "I heard it might {i}affect{/i} your relationships with the people you're playing with."
+= 
+
+# "But I know our relationship can stand much more than just a simple card game~"
+= 
+
+# "Ehehe~" 
+= "Эхехе~"
+
+# "Ahaha!" 
+= "Ахаха!"
+
+# "I'm just kidding, [player]."
+= 
+
+# "Have you ever played 'NOU', [player]?{nw}"
+= 
+
+# "Have you ever played 'NOU', [player]?{fast}"
+= 
+
+# "Yes."
+= 
+
+# "Ahaha..." 
+= "Ахаха..."
+
+# "Of course you have, you gave me the deck after all."
+= 
+
+# "No."
+= 
+
+# "How about 'UNO' then, ehehe?{nw}"
+= 
+
+# "How about 'UNO' then, ehehe?{fast}"
+= 
+
+# "Yes."
+= 
+
+# "'NOU' is {i}very{/i} similar, ahaha..."
+= 
+
+# "No."
+= 
+
+# "I can't wait to play it with you!"
+= 
+
+# "A deck?"
+= 
+
+# "Actually it might be...{nw}"
+= 
+
+# "Nevermind..."
+= 
+
+# "I'm not in the mood to play it right now, [player]."
+= 
+
+# "..."
+= 
+
+# "Oh, that's fine."
+= 
+
+# "It's a popular card game where you need to play all your cards before your opponents to win."
+= 
+
+# "That might sound quite obvious, ahaha~"
+= 
+
+# "But it's a really fun game to play with friends and loved ones~"
+= 
+
+# "I'll explain the basic rules for you later, just ask."
+= 
+
+# "You probably already know that some people play with house rules."
+= 
+
+# "And if you'd like to, we can make our own rules too."
+= 
+
+# "Alternatively, if you don't remember the rules, I can always remind you, just ask."
+= 
+
+# "monika_change_nou_house_rules", "EVE"
+= 
+
+# "monika_introduce_nou_house_rules"
+= 

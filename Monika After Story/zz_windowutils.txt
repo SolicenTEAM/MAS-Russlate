@@ -1,0 +1,60 @@
+
+# "Topic Alerts"
+= 
+
+# "Window Reactions" 
+= "Реакции на окна"
+
+# "Wayland is not yet supported, disabling notifications." 
+= "Wayland пока не поддерживается, отключаю уведомления."
+
+# "Xlib failed to be imported, disabling notifications: {}"
+= 
+
+# "Cannot detect current session type, disabling notifications." 
+= "Не удается определить текущий тип сеанса, отключаю уведомления."
+
+# "Failed to get active window object: {}"
+= 
+
+# "Failed to get MAS window object: {}"
+= 
+
+# "Failed to get MAS window hwnd"
+= 
+
+# "Failed to get window geometry: {}"
+= 
+
+# "Failed to get active window handle: {}"
+= 
+
+# "[player], I want to talk to you about something." 
+= "[player], я хочу с тобой кое о чем поговорить."
+
+# "Are you there, [player]?" 
+= "Ты здесь, [player]?"
+
+# "Can you come here for a second?" 
+= "Ты можете подойти на секунду?"
+
+# "I have something to tell you, [player]!" 
+= "Мне нужно кое-что тебе сказать, [player]!"
+
+# "Do you have a minute, [player]?" 
+= "У тебя есть минутка, [player]?"
+
+# "I've got something to talk about, [player]!" 
+= "Мне есть о чем поговорить, [player]!"
+
+# "I've got something to talk about, [player]!" 
+= "Мне есть о чем поговорить, [player]!"
+
+# "I have something to tell you, [player]!" 
+= "Мне нужно кое-что тебе сказать, [player]!"
+
+# "Hey [player], I want to tell you something." 
+= "Эй, [player], я хочу тебе кое-что сказать."
+
+# "Do you have a minute, [player]?" 
+= "У тебя есть минутка, [player]?"

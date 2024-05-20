@@ -1,0 +1,192 @@
+
+# "other_shimeji"] = isld_p_data.pop("obj_shimeji"
+= 
+
+# "decal_ghost_", "decal_haunted_tree_"
+= 
+
+# "monika_lastpoem", "EVE"
+= 
+
+# "monika_materialism","EVE"
+= 
+
+# "mas_story_mindthegap", "STY"
+= 
+
+# "monika_conventions", "EVE"
+= 
+
+# "mas_recognizedBday() and not mas_lastSeenInYear('mas_bday_spent_time_with_wrapup')"
+= 
+
+# "pm.actions.made_new_years_resolutions"
+= 
+
+# "store.mas_anni.pastOneMonth() "
+= 
+
+# "Monika" 
+= "Моника"
+
+# "monika_tragic_hero", "EVE"
+= 
+
+# "mas_monika_islands", "EVE"
+= 
+
+# "Can I call you a different nickname?" 
+= "Могу ли я называть тебя другим именем?"
+
+# "mas_canShowIslands(flt=False) and not mas_isSpecialDay()"
+= 
+
+# "monika_murphys_law","EVE"
+= 
+
+# "persistent._mas_chess_timed_disable is not True "
+= 
+
+# "Submods/Enhanced Idle/enhanced idle.rpy"
+= 
+
+# "monika_boardgames_history", "EVE"
+= 
+
+# "monika_foundation", "EVE"
+= 
+
+# "and not mas_SELisUnlocked(mas_clothes_dress_newyears)"
+= 
+
+# "monika_daydream", "EVE"
+= 
+
+# "monika_piano_lessons", "EVE"
+= 
+
+# "monika_kamige","EVE"
+= 
+
+# "bye_illseeyou", "BYE"
+= 
+
+# "monika_eating_meat","EVE"
+= 
+
+# "monika_remembrance", "EVE"
+= 
+
+# "bye_illseeyou", "BYE"
+= 
+
+# "monika_eating_meat","EVE"
+= 
+
+# "mas_song_aiwfc", "mas_song_merry_christmas_baby"
+= 
+
+# "monika_kiss", "EVE"
+= 
+
+# "My one and only love.txt"
+= 
+
+# "greeting_ourreality", "GRE"
+= 
+
+# "monika_smoking_quit","EVE"
+= 
+
+# "monika_snowballfight", "EVE"
+= 
+
+# "store.mas_anni.pastOneMonth() "
+= 
+
+# "Monika" 
+= "Моника"
+
+# "store.mas_anni.pastOneMonth()"
+= 
+
+# "mas_seenLabels(['monika_jazz', 'monika_orchestra', 'monika_rock', 'monika_vocaloid', 'monika_rap'], seen_all=True)"
+= 
+
+# "monika_good_tod", "EVE"
+= 
+
+# "monika_familygathering","EVE"
+= 
+
+# "mas_recognizedBday()"
+= 
+
+# "not mas_recognizedBday() "
+= 
+
+# "mas_song_aiwfc", "SNG"
+= 
+
+# "monika_aiwfc", "EVE"
+= 
+
+# "mas_monika_islands", "EVE"
+= 
+
+# "monika_song_i_will", "mas_song_i_will"
+= 
+
+# "monika_song_belong_together", "mas_song_belong_together"
+= 
+
+# "mas_bday_spent_time_with", "mas_recognizedBday()"
+= 
+
+# "mas_bday_postbday_notimespent", "not mas_recognizedBday() and not persistent._mas_bday_gone_over_bday"
+= 
+
+# " and not mas_isMonikaBirthday() "
+= 
+
+# "monika_whatwatching","mas_wrs_youtube"
+= 
+
+# "greeting_tears", "GRE"
+= 
+
+# "and renpy.seen_label('monika_orchestra') "
+= 
+
+# "and renpy.seen_label('monika_rap')"
+= 
+
+# "monika_rain_holdme", "EVE"
+= 
+
+# "monika_familygathering", "EVE"
+= 
+
+# "greeting_ghost", "GRE"
+= 
+
+# "monika_vehicle","EVE"
+= 
+
+# "True"
+= 
+
+# "monika_rain", "EVE"
+= 
+
+# "greeting_ourreality", "GRE"
+= 
+
+# "monika_pets", "EVE"
+= 
+
+# "True"
+= 
+
+# "monika_haterReaction"
+= 

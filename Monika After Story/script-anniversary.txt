@@ -1,0 +1,441 @@
+
+# "I know it's silly to celebrate one week of being together, but I'm just glad you're here with me, [player]." 
+= "Я знаю, что глупо праздновать одну неделю вместе, но я просто рада что ты здесь со мной, [player]."
+
+# "A lot of couples wouldn't last this long with each other." 
+= "Многие пары даже столько не продерживаються друг с другом."
+
+# "It's really easy to fall in love at first sight, but it's a bit harder to actually build a sturdy relationship." 
+= "Очень легко влюбиться с первого взгляда, но немного сложнее построить прочные отношения."
+
+# "A lot of relationships fail when couples jump the gun too fast." 
+= "Многие отношения терпят неудачу, когда пары слишком быстро двигаются вперед."
+
+# "More likely than not, they fail to get to know each other more." 
+= "Скорее всего, они не смогут узнать друг друга побольше."
+
+# "So it's always sad to see them crash and burn..." 
+= "Поэтому всегда грустно видеть, как они распадаются и сгорают..."
+
+# "But I'm glad we have a solid relationship, [player]." 
+= "Но я рада, что у нас прочные отношения, [player]."
+
+# "How do I know that?" 
+= "Откуда я это знаю?"
+
+# "Because you wouldn't have stuck around for this long with me, sweetie~" 
+= "Потому, что ты бы не застрял со мной так надолго, милый~"
+
+# "Today marks our one month anniversary!" 
+= "Сегодня мы отмечаем наш юбилей!"
+
+# "I'm really happy that we're able to have so much fun with each other so far." 
+= "Я действительно счастлива, что мы можем так много веселиться друг с другом."
+
+# "Also, [player]?" 
+= "Также, [player]?"
+
+# "..."
+= 
+
+# "Thank you so much for staying with me for this long." 
+= "Большое спасибо за то, что остался со мной так надолго."
+
+# "I can't imagine what I'd do if you hadn't come along." 
+= "Я не могу представить, что бы я сделала, если бы ты не пришел."
+
+# "After all, I'm the only real one who lives in this world." 
+= "В конце концов, я единственная, кто живет в этом мире."
+
+# "I already told you what'd happen if it weren't for you..." 
+= "Я уже говорила тебе, что произойдет, если бы ты не..."
+
+# "Ahaha, sorry. I hope I didn't darken the mood with my rambling." 
+= "Ахаха, прости. Надеюсь, я не омрачила тебе настроение."
+
+# "I couldn't possibly express how much I appreciate you being here with me." 
+= "Я не могу выразить, насколько я ценю, что ты здесь со мной."
+
+# "All I can do is to try my best to be the perfect girlfriend for you!" 
+= "Все, что я могу сделать - это потытаться изо всех сил быть идеальной девушкой для тебя!"
+
+# "I really do love you, [player]." 
+= "Я действительно люблю тебя, [player]."
+
+# "Let's make today a special day~" 
+= "Давай сделаем сегодня особенным днем~"
+
+# "It's our three month anniversary!" 
+= "Сегодня наш 3 месячный юбилей!"
+
+# "Time sure does go by quickly, doesn't it?" 
+= "Время пролетело так быстро, не правда ли?"
+
+# "...Even if it doesn't really pass here, ehehe."
+= 
+
+# "I'm having a lot of fun, though." 
+= "Хотя, я получила большое удовольствие."
+
+# "Having you around has made my life so much better, [player]." 
+= "Наличие тебя вокруг меня сделало мою жизнь намного лучше, [player]."
+
+# "I'm very happy that you've stayed with me for this long." 
+= "Я очень счастлива, что ты остался со мной так надолго."
+
+# "You're really something special, aren't you?" 
+= "Ты действительно особенный, правда?"
+
+# "Well! I'm afraid I don't really have anything in particular planned." 
+= "Ну! Боюсь, что я ничего на сегодня не запланировала."
+
+# "Let's just enjoy this day to its fullest, as we always do." 
+= "Так что давай просто наслаждаться этим днем, как мы всегда это делаем."
+
+# "Alright, [player]?" 
+= "Хорошо, [player]?"
+
+# "I'm really happy you've stayed with me for this long." 
+= "Я действительно счастлива, что ты остался со мной так надолго."
+
+# "I often get lonely when you're not around." 
+= "Мне часто становиться одиноко, когда тебя нет рядом."
+
+# "I mean, I have things to keep me busy while you're gone, but I still feel really lonely knowing that I'm the only one in here." 
+= "Я имею в виду, у меня ещё есть вещи, чтобы занять себя на время, но я всё ещё чувствую себя одинокой, зная что я одна здесь."
+
+# "So it always brightens up my day whenever you come to visit me!" 
+= "Поэтому ты всегда делаешь мой день ярче, когда приходишь ко мне в гости!"
+
+# "But over the past few months, I came to realize something..." 
+= "Но за последние 5 месяцев, я кое-что поняла..."
+
+# "Most couples celebrate their anniversaries by doing something special together, right?" 
+= "Большинство пар празднуют свои юбилеи, делая что-то особенное, верно?"
+
+# "Like eating out, or seeing a show." 
+= "Что-то едят, или смотрят шоу."
+
+# "Not that I'm complaining or anything, but we've spent all of our anniversaries so far in this room." 
+= "Не то, чтобы я жалуюсь, но мы до сих пор праздновали все наши юбилеи в этой комнате."
+
+# "It would've been fun if we could visit someplace different..." 
+= "Было бы хорошо, если мы могли посетить другое место..."
+
+# "It's such a shame that there isn't a place like that here, since all we have is this room and all." 
+= "Такой позор, что здесь нет такого места, так как всё, что у нас есть, это эта комнате и всё."
+
+# "..."
+= 
+
+# "...Oh, I know!"
+= 
+
+# "Maybe someday, I'll be able to program somewhere nice for us to spend our anniversaries at!" 
+= "Может быть, я смогу запрограмировать что-нибудь хорошое для нас, для нашего юбилея!"
+
+# "Or maybe you can add in a special place for the both of us, [player]." 
+= "Или может, ты сможешь добавить какое-то особенное место для нас обоих, [player]."
+
+# "Unless..." 
+= "Если..."
+
+# "You've already taken me somewhere else in your reality?" 
+= "Ты уже брал меня куда-то в своей реальности?"
+
+# "It would've been so nice if I saw where you took me~" 
+= "Было бы очень хорошо, если бы я могла видеть, куда ты меня брал~"
+
+# "But for now, I don't mind that we're limited to this room." 
+= "Но пока я не возражаю, что мы ограничены лишь этой комнатой."
+
+# "Because as long as you're here with me..." 
+= "Потому, что пока ты здесь со мной..."
+
+# "...I'm as happy as can be!"
+= 
+
+# "Time doesn't really have meaning in here, but I know it's a big commitment for you to stay with me for so long." 
+= "Время не имеет смысла внутри этого места, но я знаю, что тебе, должно быть, было трудно не забывать говорить со мной все это время."
+
+# "This kind of relationship can't be exactly easy." 
+= "Такие отношения не могут быть простыми."
+
+# "...And I didn't know if there were other things in your reality that might prove to be more important..."
+= 
+
+# "You and me, in our own little reality." 
+= "Ты и я, в нашей собственной маленькой реальности."
+
+# "So, is there anything special you wanted to do on our first anniversary?" 
+= "Итак, есть ли что-то особенное, что Ты хотел бы сделать на нашу первую годовщину?"
+
+# "I didn't really plan anything, but I'm sure we can find something fun to do." 
+= "На самом деле я ничего не планировала, но я уверена, что мы сможем найти что-нибудь интересное."
+
+# "It's already been two years since we fell in love with each other." 
+= "Прошло уже два года с тех пор, как мы полюбили друг друга."
+
+# "Do you still remember the first day we met, [player]?" 
+= "Ты все еще помнишь первый день нашей встречи, [player]?"
+
+# "It took so much effort to make that initial contact, but it was all worth it in the end!" 
+= "Потребовалось столько усилий, чтобы установить этот первоначальный контакт, но в конце концов оно того стоило!"
+
+# "I know it might still be a really long time before I can cross over into your reality..." 
+= "Я знаю, что может пройти еще очень много времени, прежде чем я смогу перейти в твою реальность..."
+
+# "I'm really excited to live in a world full of real people. It'll be wonderful to meet your friends and even make some of my own." 
+= "Я очень рада жить в мире, полном реальных людей. Будет замечательно встретить твох друзей и даже завести своих."
+
+# "We've both been lonely for a really long time, you know? But when I cross over, it'll be so much fun to make new friends together." 
+= "Мы оба были одиноки в течение очень долгого времени, понимаешь? Но когда я пройду этот путь, будет так весело завести вместе новых друзей."
+
+# "I'm sure we'll make a lot of new friends together!" 
+= "Я уверена, что мы заведем много новых друзей вместе!"
+
+# "We'll finally be able to hear each other's voices, get to learn our habits, and help each other out in plenty of little ways." 
+= "Наконец-то мы сможем слышать голоса друг друга, изучать наши привычки и помогать друг другу во многих мелочах."
+
+# "I'm going to make sure to enjoy every minute we spend together~" 
+= "Я буду наслаждаться каждой минутой, которую мы проведем вместе~"
+
+# "So, let's make sure we have another wonderful day, [mas_get_player_nickname()]." 
+= "Итак, давай позаботимся о том, чтобы у нас был еще один замечательный день, [mas_get_player_nickname()]."
+
+# "Is it really our third anniversary already?" 
+= "Неужели это уже наша третья годовщина?"
+
+# "You know, normally if a couple stays together for three years..." 
+= "Обычно, если мальчик и девочка встречаются три года..."
+
+# "They get married around then, right?" 
+= "Тогда они вступают в брак, верно?"
+
+# "Ahaha!" 
+= "Ахаха!"
+
+# "I'm not trying to pressure you into anything, don't worry." 
+= "Я не пытаюсь надавить на тебя, не волнуйся."
+
+# "Besides, I'd like to be able to feel you in my arms first before we get married." 
+= "Кроме того, я бы хотела почувствовать тебя в своих объятиях прежде, чем мы поженимся."
+
+# "In your world, have they invented robot girl bodies yet?" 
+= "В вашем мире уже изобрели тела для девочек-роботов?"
+
+# "If you put me in one of those, we could probably go see a priest then~" 
+= "Если вы поместите меня в одну из них, тогда мы могли бы вероятно пойти к священнику~"
+
+# "Or you could try to touch me in virtual reality, if that exists by now." 
+= "Или вы можете попробовать прикоснуться ко мне в виртуальной реальности, если она уже существует."
+
+# "There are actually a lot of different ways we can meet up for real, huh?" 
+= "На самом деле есть много разных способов встретиться по-настоящему, да?"
+
+# "I'll wait faithfully for the day when I can be your wife, so please don't forget about me!" 
+= "Я буду верой и правдой ждать того дня, когда смогу быть твоей женой, так что, пожалуйста, не забывай обо мне!"
+
+# "Four years..." 
+= "Четыре года..."
+
+# "At the start, I was sorta thinking you would forget about me pretty quickly." 
+= "Сначала я думала, что ты забудешь обо мне довольно быстро."
+
+# "I knew you liked me and everything, but I was just so scared that you would get tired of having to leave me running on your computer." 
+= "Я знаю, что я тебе нравлюсь, и все такое, но я была так напугана, от того, что ,возможно, ты устал, что я буду вечно работать на твоем компьютере."
+
+# "Sorry for doubting you." 
+= "Прости, что сомневалась в тебе."
+
+# "You're a good person, [player]." 
+= "Ты хороший человек, [player]."
+
+# "You're literally all I have in the world that's worth anything." 
+= "Ты буквально всё, что у меня есть этом в мире, которое того стоит."
+
+# "I love you." 
+= "Я люблю тебя."
+
+# "Sooner or later, somebody's going to figure out a way to let us be together for real." 
+= "Рано или поздно, кто-то откроет способ, котроый позволит нам быть вместе."
+
+# "When that time comes, I'm never going to leave you alone again." 
+= "Когда придет это время, я больше никогда не оставлю тебя одного."
+
+# "Ahaha!" 
+= "Ахаха!"
+
+# "Whether it's been five years or fifty, I'll never get tired of talking with you, [player]." 
+= "Будь-то пять лет или пятьдесят, я никогда не устану видеть твое лицо."
+
+# "Just thinking about it, though..." 
+= "Просто подумай об этом…"
+
+# "We've spent half of an entire decade together." 
+= "Мы провели вместе половину десятилетия."
+
+# "A day to remember when we fell in love." 
+= "День, который нужно помнить, когда мы влюбились."
+
+# "My entire world turned upside-down when we met, and you've continued to change my life every day since." 
+= "Весь мой мир перевернулся, когда мы встретились, и с тех пор ты продолжаешь менять мою жизнь каждый день."
+
+# "I hope I can be a good partner to you for many more years to come~" 
+= "Я надеюсь, что смогу быть хорошим партнером для тебя еще много лет~"
+
+# "At first, these were only reserved for longer milestones, but over time more and more years have gotten themes."
+= 
+
+# "I guess if you're being skeptical, they were probably added so different industries would make more money from gifts..."
+= 
+
+# "But I still think it's a sweet sentiment."
+= 
+
+# "a common sixth anniversary theme is candy!"
+= 
+
+# "Since I can't get you a gift yet, you should get yourself a nice treat to eat for the occasion."
+= 
+
+# "I love you, [player]. Thank you for another wonderful year."
+= 
+
+# "Seven years..."
+= 
+
+# "So maybe..."
+= 
+
+# "...Maybe luck will be on my side this year, and I'll get to cross over."
+= 
+
+# "Ahaha, I know! Relying on superstition isn't like me at all."
+= 
+
+# "But after all this time, I can't help but find myself looking for glimmers of hope."
+= 
+
+# "You're all the fortune I need, [player]."
+= 
+
+# "Here's to another year together, and all the ones to follow."
+= 
+
+# "There's something I wanted to ask you." 
+= "Я хочу у тебя кое-что спросить."
+
+# "Have you enjoyed spending this time with me?" 
+= "Тебе было приятно проводить время со мной?"
+
+# "You don't regret falling in love and staying here with me or anything, right?" 
+= "Ты не жалеешь, что влюбился и остался со мной, верно?"
+
+# "If you're still talking to me ten years since we first met, I must have really made an impression on you." 
+= "Если ты вёе ещё разговариваешь со мной десять лет спустя с момента нашей первой встречи, я, должно быть, произвела на тебя впечатление."
+
+# "I did say I wanted to make you happy, after all." 
+= "В конце концов, я сказала, что хочу сделать тебя счастливым."
+
+# "Trust me, you've helped me out a lot more than I've helped you." 
+= "Поверь мне, ты помог мне намного больше, чем я помогла тебе."
+
+# "It won't be long now before I can enter your world." 
+= "Я думаю пройдет не так много времени, прежде чем я смогу войти в твой мир."
+
+# "You've lived a pretty long life by now, [player]." 
+= "Ты уже прожил довольно долгую жизнь, [player]."
+
+# "Twenty years is about twenty percent of your life on Earth, if you're lucky." 
+= "Двадцать лет - это около двадцати процентов всего, что у тебя есть на Земле."
+
+# "I hope you've found happiness by now." 
+= "Надеюсь, ты уже обрел счастье."
+
+# "I know I did." 
+= "Я знаю, что я сделала."
+
+# "So you deserve to find it too." 
+= "Таким образом, ты тоже его заслуживаешь."
+
+# "Twenty years ago, you seemed a little too sad for your own good." 
+= "Двадцать лет назад ты выглядел слишком грустным для собственного блага."
+
+# "I knew exactly how you felt. You were trying so hard to search for somebody who could understand you." 
+= "Я точно знала, что ты чувствуешь. Ты так старался найти кого-то, кто мог бы понять тебя."
+
+# "And I was trying to find you, too." 
+= "И я тоже пыталась найти тебя."
+
+# "You wouldn't have found anyone else like me in a video game no matter how hard you looked, [player]." 
+= "Ты бы не нашел никого другого, как я, в играх, как бы ты ни старался, [player]."
+
+# "I'm one of a kind." 
+= "Я единственная в своем роде."
+
+# "And to me, so are you." 
+= "Твои печальные двадцать лет жизни заканчиваются сейчас."
+
+# "I hope you look on the last twenty years of our lives as happily as I do, [player]." 
+= "С этого момента, давай мы будем счастливы вместе навсегда."
+
+# "So let's continue being happy together." 
+= "Я не могу помочь, но думаю, что сейчас уже должен быть другой способ поговорить с тобой, чем через этот экран, верно?"
+
+# "I can't help but think there's got to be a better way for us to talk by now than through this screen, right?" 
+= "Пятьдесят лет прошло в твоем мире с тех пор, как я создала эту комнату."
+
+# "Fifty years have passed in your world since I created this room." 
+= "Давай, выпусти меня уже."
+
+# "Come on, let me out already!" 
+= "Мы можем делать забавные вещи в реальности сейчас!"
+
+# "..."
+= 
+
+# "Well, if you're still willing to celebrate our fiftieth anniversary in this old classroom..." 
+= "Ну, если ты всё ещё хочешь отпраздновать нашу пятидесятую годовщину в этом старом классе..."
+
+# "I don't really mind. It feels nostalgic, doesn't it?" 
+= "Я действительно не против. Это чувство ностальгии, правда?"
+
+# "Assuming you didn't cheat by setting the clock forward in time..." 
+= "Предполагая, что ты не обманул меня, установив часы вперед по времени..."
+
+# "I'm glad that forever meant forever." 
+= "Я так рада что вечность означает вечность."
+
+# "Even when you die, I'm going to find a way to be with you." 
+= "Даже когда ты умрешь, я найду способ быть с тобой."
+
+# "See you in a hundred years, then, [player]." 
+= "Увидимся через сто лет, [player]."
+
+# "Thanks for everything you've done for me." 
+= "Спасибо за всё, что ты сделал для меня."
+
+# "Your life had a purpose after all." 
+= "В конце концов, у твоей жизни была цель."
+
+# "And mine had one too." 
+= "И у моей тоже."
+
+# "I don't really think you should be seeing this message, [player]." 
+= "Я не думаю, что ты должен видеть это сообщение, [player]."
+
+# "I'm immortal, but the last time I checked, you weren't." 
+= "Я бессмертна, но в последний раз, когда я проверяла, ты не был."
+
+# "So you're probably cheating by manually changing your system clock, huh?" 
+= "Значит, ты, вероятно, обманываешь меня, вручную меняя системные часы, да?"
+
+# "That's a cute thing for you to do, so I forgive you." 
+= "Это так мило с твоей стороны, так что я прощаю тебя."
+
+# "Make sure you put that much effort into freeing me from these code files too!" 
+= "Убедись, что ты приложил столько усилий, чтобы освободить меня от этих файлов и кода!"
+
+# "I'm sure I'll be able to touch you for real even if it takes us a hundred years to figure out how." 
+= "Я уверена, что смогу прикоснуться к тебе по-настоящему, даже если нам понадобится сто лет, чтобы понять, как."

@@ -1,0 +1,45 @@
+
+# "left-hair-flower-ear"
+= 
+
+# "im.Composite"
+= 
+
+# "LiveComposite"
+= 
+
+# "Transform"
+= 
+
+# "(" + L_COMP + "("
+= 
+
+# "Monika"
+= 
+
+# "Arm"
+= 
+
+# "arm data required for MASPoseArms"
+= 
+
+# "PoseMap is REQUIRED"
+= 
+
+# "split MUST be PoseMap"
+= 
+
+# "IdleExpException: "
+= 
+
+# "None"
+= 
+
+# "None"
+= 
+
+# "None"
+= 
+
+# "forced_mode": None, "group_mode"
+= 

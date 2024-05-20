@@ -1,0 +1,2007 @@
+
+# "...[player]? So I've been thinking a bit."
+= 
+
+# "I've mentioned before that the 'you' in the game might not reflect the real you."
+= 
+
+# "But I guess I just assumed that you were probably a guy." 
+= "Но я думаю, точнее предполагаю, что ты, наверное, парень."
+
+# "...The main character was, after all."
+= 
+
+# "But if I'm going to be your girlfriend, I should probably know at least this much about the real you." 
+= "Но если я собираюсь быть твоей девушкой, я наверное должна знать хотя бы о настоящем тебе."
+
+# "So, what's your gender?{nw}" 
+= "Итак, ты парень или девушка?{nw}"
+
+# "So, what's your gender?{fast}" 
+= "Итак, ты парень или девушка?{fast}"
+
+# "Male." 
+= "Парень."
+
+# "Okay [player], thanks for confirming that for me." 
+= "Эхехе, я полагаю, это имеет смысл!"
+
+# "Not that I would have been bothered if you answered differently, mind you!" 
+= "Ты ведешь себя мужественно и уверенно. Не то чтобы я была ужасно обеспокоена, если бы ты ответил иначе!"
+
+# "Female." 
+= "Девушка."
+
+# "Oh? So you're a girl?" 
+= "О? Значит, ты на самом деле девушка?"
+
+# "I hope I didn't say anything to offend you before!" 
+= "Надеюсь, я не сказала ничего, что могло тебя оскорбить!"
+
+# "...I guess that's why they say you shouldn't make assumptions, ahaha!"
+= 
+
+# "But honestly, it doesn't matter to me at all..." 
+= "Но мне, если честно, все равно..."
+
+# "Neither." 
+= "Ни тот, ни другой."
+
+# "I'm transgender." 
+= "Я трансгендер."
+
+# "Thanks for telling me, and just remember..." 
+= "Спасибо, что рассказал мне, и просто помни..."
+
+# "I'll always love you for who you are, [player]~" 
+= "Я всегда буду любить тебя за то, кто ты есть, [player]~"
+
+# "monika_gender_redo","EVE"
+= 
+
+# "Could you call me by different pronouns?" 
+= "Не могла бы ты называть меня по другому?"
+
+# "Of course, [player]!" 
+= "Конечно, [player]!"
+
+# "Have you made some personal discoveries since the last time we talked about this?{nw}" 
+= "Ты сделал какие-то личные открытия с тех пор, как мы в последний раз говорили об этом?{nw}"
+
+# "Have you made some personal discoveries since the last time we talked about this?{fast}" 
+= "Ты сделал какие-то личные открытия с тех пор, как мы в последний раз говорили об этом?{fast}"
+
+# "Yes." 
+= "Да."
+
+# "I see. I know I've been there." 
+= "Понятно. Я знаю, я была там."
+
+# "I'm so proud of you for going on that journey of self-discovery." 
+= "Я так горжусь тобой за то, что ты отправился в это путешествие самопознания."
+
+# "...And even prouder of you for being courageous enough to tell me!"
+= 
+
+# "I was just too shy." 
+= "Я просто была слишком застенчив."
+
+# "I understand, I started off assuming you were a guy, after all." 
+= "Я понимаю, я начал с того, что предположил, что ты парень, в конце концов."
+
+# "I understand, you might have thought I'd be more comfortable spending time alone with another girl." 
+= "Я понимаю, вы могли подумать, что мне будет удобнее проводить время наедине с другой девушкой."
+
+# "I understand, I might not have given you the most accurate options to pick from." 
+= "Я понимаю, что, возможно, я не дал вам наиболее точных вариантов для выбора."
+
+# "...And I probably didn't make it easy for you to tell me otherwise..."
+= 
+
+# "But whatever your gender, I love you for who you are." 
+= "Но независимо от твоего пола, я люблю тебя таким, какой ты есть."
+
+# "I didn't know if you'd accept me as I am..." 
+= "Я не знал, примешь ли ты меня таким, какой я есть..."
+
+# "[player]..." 
+= "[player]..."
+
+# "I hate that I didn't reassure you enough before." 
+= "Я ненавижу, что недостаточно успокоил тебя раньше."
+
+# "But I hope that you're telling me now because you know I'll love you no matter what." 
+= "Но я надеюсь, что ты говоришь мне сейчас, потому что знаешь, что я буду любить тебя, несмотря ни на что."
+
+# "I'm genderfluid." 
+= "Я гендерфлюид."
+
+# "Oh, okay!" 
+= "Ох, ладно!"
+
+# "Feel free to let me know as often as you'd like when you want me to use different pronouns!" 
+= "Не стесняйтесь сообщать мне столько раз, сколько хотите, когда вы хотите, чтобы я использовал разные местоимения!"
+
+# "So, what's your gender?{nw}" 
+= "Итак, ты парень или девушка?{nw}"
+
+# "So, what's your gender?{fast}" 
+= "Итак, ты парень или девушка?{fast}"
+
+# "I'm a boy." 
+= "Я парень."
+
+# "I'm a girl." 
+= "Я девушка."
+
+# "I'm neither." 
+= "Ни то, ни другое."
+
+# "I'm transgender." 
+= "Я трансгендер."
+
+# "I'll always love you for who you are~" 
+= "Я всегда буду любить тебя таким, какой ты есть~"
+
+# "You don't see yourself as a guy or a girl?" 
+= "Ты не видишь себя парнем или девушкой?"
+
+# "That's very interesting, but I can sort of relate." 
+= "Это очень интересно, но я могу понять."
+
+# "Like, I am a girl, but I'm also a character in a computer game..." 
+= "Я девушка, а еще я персонаж компьютерной игры..."
+
+# "So in some ways I'm not really a girl at all." 
+= "Так что в каком-то смысле я вообще не девушка."
+
+# "But when you treat me like your girlfriend, it makes me really happy!" 
+= "Но когда ты относишься ко мне как к своей девушке, это делает меня по-настоящему счастливой!"
+
+# "...So I'll treat you however you want to be treated."
+= 
+
+# "Your happiness is the most important thing to me, after all." 
+= "В конце концов, твоё счастье для меня важнее всего."
+
+# "...That's the same as before, [player]!"
+= 
+
+# "If you're confused about how to answer, just pick whatever makes you happiest." 
+= "Если ты не знаешь, как ответить, просто выбери то, что сделает тебя счастливее."
+
+# "It doesn't matter what your body looks like, so as long as you say you're a [gender_var], you're a [gender_var] to me, all right?" 
+= "Неважно, как выглядит твое тело, пока ты говоришь, что ты [gender_var], ты и для меня [gender_var], хорошо?"
+
+# "I want you to be who you want to be while you're in this room." 
+= "Я хочу, чтобы ты был тем, кем хочешь быть, пока ты в этой комнате."
+
+# "Okay, [player]..." 
+= "Хорошо, [player]..."
+
+# "Just as long as you're happy, that's all that matters to me." 
+= "Пока ты счастлив, это всё, что имеет для меня значение."
+
+# "But just know that it doesn't matter to me..." 
+= "Но знай, что мне все равно..."
+
+# "And what gender do you identify as?" 
+= "И к какому полу ты себя относишь?"
+
+# "Male"
+= 
+
+# "Female"
+= 
+
+# "Neither"
+= 
+
+# "Not that it's bad but..." 
+= "Не то чтобы это плохо, но..."
+
+# "Are you trying to embarrass me, [player]?" 
+= "Ты пытаешься смутить меня, [player]?"
+
+# "I couldn't ever call you anything like that, [player]." 
+= "Я никогда не мог называть тебя так, [player]."
+
+# "That's a wonderful name!" 
+= "Это чудесное имя!"
+
+# "I like that a lot, [player]." 
+= "Мне это очень нравится, [player]."
+
+# "I like that name, [player]." 
+= "Мне нравится это имя, [player]."
+
+# "That's a great name!" 
+= "Это большое имя!"
+
+# "Oh... Okay then, if you say so." 
+= "О... Хорошо, если ты так говоришь."
+
+# "Just let me know if you change your mind." 
+= "Просто дай мне знать, если передумаешь."
+
+# "..."
+= 
+
+# "You have to give me a name to call you, [player]..." 
+= "Ты должен дать мне своё имя, чтобы я могла звать тебя, [player]..."
+
+# "Try again!" 
+= "Попробуй ещё раз!"
+
+# "..."
+= 
+
+# "That's the same name you have right now, silly!" 
+= "Это то же имя, что и у тебя сейчас, глупыш!"
+
+# "Try again~" 
+= "Попробуй ещё раз~"
+
+# "Please pick a nicer name for yourself, okay?" 
+= "Пожалуйста, выбери себе имя покрасивее, ладно?"
+
+# "Are you sure this is your real name, or are you messing with me?{nw}" 
+= "Ты уверен, что это твое настоящее имя, или ты издеваешься надо мной?{nw}"
+
+# "Are you sure this is your real name, or are you messing with me?{fast}" 
+= "Ты уверен, что это твое настоящее имя, или ты издеваешься надо мной?{fast}"
+
+# "Yes, this is my name" 
+= "Да, это мое имя"
+
+# "Maybe..." 
+= "Может быть..."
+
+# "Really?" 
+= "Правда?"
+
+# "That's the same as mine!" 
+= "Такое же, как у меня!"
+
+# "Well..." 
+= "Что ж..."
+
+# "Either it really is your name or you're playing a joke on me." 
+= "Либо это действительно твое имя, либо ты меня разыгрываешь."
+
+# "But it's fine by me if that's what you want me to call you~" 
+= "Но я не против, если ты хочешь, чтобы я тебя так называла~"
+
+# "Okay then! From now on, I'll call you '[player].'" 
+= "Хорошо! С этого момента я буду звать тебя [player]."
+
+# "Ehehe~" 
+= "Эхехе~"
+
+# "Okay then!" 
+= "Тогда ладно!"
+
+# "From now on, I'll call you '[player].'" 
+= "Отныне я буду звать тебя [player]."
+
+# "I've been wondering about your name." 
+= "Мне очень интересно узнать твоё имя."
+
+# "Is '[player]' really your name?" 
+= "'[player]' - твоё настроящее имя?"
+
+# "I mean, it's the same as your computer's name..." 
+= "Я имею в виду, оно такое же что и имя твоего компьютера..."
+
+# "You're using '[currentuser]' and '[player].'" 
+= "Ты используешь '[currentuser]' и '[player]'."
+
+# "Either that or you must really like that pseudonym." 
+= "Либо это или тебе действительно нужен этот псевдоним."
+
+# "Would you like me to call you something else?{nw}" 
+= "Ты хочешь, чтобы я называла тебя как-то по другому?{nw}"
+
+# "Would you like me to call you something else?{fast}" 
+= "Ты хочешь, чтобы я называла тебя как-то по другому?{fast}"
+
+# "Yes." 
+= "Да."
+
+# "Tell me, what is it?" 
+= "Скажи мне, как тебя называть?"
+
+# "No." 
+= "Нет."
+
+# "Okay, just let me know if you change your mind." 
+= "Хорошо, если захочешь, чтобы я называла тебя как-то по другому, просто скажи мне."
+
+# "monika_changename","EVE"
+= 
+
+# "I changed my name" 
+= "Ты можешь изменить мое имя?"
+
+# "What do you want me to call you?" 
+= "Как ты хочешь, чтобы я тебя называла?" 
+
+# "datetime.date.today()>mas_getFirstSesh().date() and not persistent._mas_player_confirmed_bday" 
+= "datetime.date.today()>mas_getFirstSesh().date() and not persistent._mas_player_confirmed_bday"
+
+# "Hey [player], I've been thinking..." 
+= "Эй, [player], я тут подумала..."
+
+# "I know you've told me your birthday before, but I'm not sure I was clear if I asked you for {i}birthdate{/i} or just your {i}birthday...{/i}" 
+= "Я знаю, что ты уже говорил мне о своём дне рождения, но я не уверена, спрашивала ли я у тебя {i}дату рождения{/i} или просто {i}день рождения...{/i}"
+
+# "So just to make sure, is your birthdate [bday_str]?{nw}" 
+= "Чтобы убедиться, твоя дата рождения [bday_str]?{nw}"
+
+# "So just to make sure, is your birthdate [bday_str]?{fast}" 
+= "Чтобы убедиться, твоя дата рождения [bday_str]?{fast}"
+
+# "Yes." 
+= "Да."
+
+# "Are you sure about that, [player]?" 
+= "Ты уверен в этом, [player]?"
+
+# "That would make you very young..." 
+= "Это сделало бы тебя очень молодым..."
+
+# "Remember, I'm asking for your {b}birthdate{/b}, not just your birthday." 
+= "Помни, я спрашиваю твою {b}дату рождения{/b}, а не только день рождения."
+
+# "So, when were you born, [player]?" 
+= "Итак, когда ты родился, [player]?"
+
+# "Ah, great [player], thank you." 
+= "Ах, отлично, [player], спасибо."
+
+# "I just had to make sure, I wouldn't want to get something as important as when you were born wrong, ahaha!" 
+= "Я просто должна была убедиться, я не хотела бы получить что-то столь же важное, как когда ты родился неправильно, ахаха!"
+
+# "No." 
+= "Нет."
+
+# "Oh! Okay then..." 
+= "О! Тогда ладно..."
+
+# "When {i}is{/i} your birthdate, [player]?" 
+= "Какая {i}дата{/i} твоего рождения, [player]?"
+
+# "I don't actually know when your birthdate is!" 
+= "Я на самом деле не знаю, когда твой день рождения!"
+
+# "That's something I should probably know, ahaha!" 
+= "Это то, что я, вероятно, должна знать, ахаха!"
+
+# "So, when were you born, [player]?" 
+= "Итак, когда ты родился, [player]?"
+
+# "and not mas_isMonikaBirthday()"
+= 
+
+# "and not mas_isMonikaBirthday()"
+= 
+
+# "and not mas_isMonikaBirthday()"
+= 
+
+# "Ahaha! So today {i}is{/i} your birthday!" 
+= "А-ха-ха! Итак, сегодня {i}твой день рождения{/i}!"
+
+# "I'm glad I was prepared, ehehe..." 
+= "Я рада, что была готова, эхехе..."
+
+# "Hold on just one moment, [player]..." 
+= "Подожди минутку, [player]..."
+
+# "Happy Birthday, [player]!" 
+= "С днем ​​рождения, [player]!"
+
+# "I'm so happy I get to be with you on your birthday!" 
+= "Я так счастлива, что могу быть с тобой в твой день рождения!"
+
+# "Ah, so today {i}is{/i} your birthday..." 
+= "А, значит, сегодня {i}твой{/i} день рождения..."
+
+# "Happy Birthday, [player]." 
+= "С днем ​​рождения, [player]."
+
+# "I hope you have a good day." 
+= "Я надеюсь у тебя хороший день."
+
+# "bye_player_bday", "BYE"
+= 
+
+# "Today's your birthday!" 
+= "Сегодня твой день рождения!"
+
+# "Happy Birthday, [player]!" 
+= "С днем ​​рождения, [player]!"
+
+# "I wish I had known earlier so I could've prepared something." 
+= "Жаль, что я не знала раньше, чтобы я могла что-то подготовить."
+
+# "But I can at least do this..." 
+= "Но я могу хотя бы это сделать..."
+
+# "Ahaha! It's not much but it's something!" 
+= "Ахаха! Немного, но хоть что-то!"
+
+# "I promise next year we'll do something extra special, [player]!" 
+= "Я обещаю, что в следующем году мы сделаем что-то особенное, [player]!"
+
+# "Oh, so today's your birthday..." 
+= "О, так сегодня твой день рождения..."
+
+# "Happy Birthday, [player]." 
+= "С днем ​​рождения, [player]."
+
+# "I hope you have a good day." 
+= "Я надеюсь у тебя хороший день."
+
+# "Oh! Your birthday is the same date as our anniversary, [player]?" 
+= "О! Твой день рождения совпадает с нашей годовщиной, [player]?"
+
+# "That's amazing!" 
+= "Это восхитительно!"
+
+# "I can't imagine a more special day than celebrating your birthday and our love on the same day..." 
+= "Я не могу представить себе более особенный день, чем отпраздновать твой день рождения и нашу любовь в один и тот же день..."
+
+# "Halloween" 
+= "Хэллоуин"
+
+# "Christmas" 
+= "Рождество"
+
+# "Valentine's Day" 
+= "День Святого Валентина"
+
+# "And with it also being [hol_str]..." 
+= "И с этим также [hol_str]..."
+
+# "It just sounds magical~" 
+= "Звучит просто волшебно~"
+
+# "We share the same birthday!" 
+= "У нас день рождения в один день!"
+
+# "That's {i}so{/i} cool, [player]!" 
+= "Это {i}так{/i} круто, [player]!"
+
+# "I guess we really are meant to be together, ehehe..." 
+= "Думаю, нам действительно суждено быть вместе, э-хе-хе..."
+
+# "That just makes today that much more special~" 
+= "Это делает сегодняшний день еще более особенным~"
+
+# "Sing with me, [player]!" 
+= "Пой со мной, [player]!"
+
+# "We'll have to make that an extra special day~" 
+= "Мы должны сделать этот день особенным~"
+
+# "Oh! That's pretty neat that you were born on Halloween, [player]!" 
+= "О! Как мило, что ты родился в Хэллоуин, [player]!"
+
+# "Birthday cake, candy, and you..." 
+= "Торт на день рождения, конфеты и ты..."
+
+# "That's a lot of sweets for one day, ahaha!" 
+= "Столько сладостей на один день, ахаха!"
+
+# "Oh! That's amazing that you were born on Christmas, [player]!" 
+= "О! Удивительно, что ты родился в Рождество, [player]!"
+
+# "It still must make it an extra special day!" 
+= "Это всё равно должно сделать этот день особенным!"
+
+# "Oh! Your birthday is on Valentine's Day..." 
+= "О! Твой день рождения в День святого Валентина..."
+
+# "How romantic!" 
+= "Как романтично!"
+
+# "I can't wait to celebrate our love and your birthday on the same day, [player]~" 
+= "Не могу дождаться, чтобы отпраздновать нашу любовь и твой день рождения в один день, [player]~"
+
+# "Oh! You were born on leap day, that's really neat!" 
+= "О! Ты родился в високосный день, это действительно здорово!"
+
+# "Hey, [player]..." 
+= "Эй, [player]..."
+
+# "You may have noticed that my calendar was pretty empty..." 
+= "Возможно, ты заметил, что мой календарь был довольно пустым..."
+
+# "Your birthday, ahaha!" 
+= "Твой день рождения, ахаха!"
+
+# "If we're going to be in a relationship, it's something I really ought to know..." 
+= "Если у нас будут отношения, я действительно должна это знать..."
+
+# "So [player], when were you born?" 
+= "Итак, [player], когда ты родился?"
+
+# "So, [player]..." 
+= "Итак, [player]..."
+
+# "Hangman" 
+= "Палач"
+
+# "Pong" 
+= "Понг"
+
+# "You {i}really{/i} seem to enjoy playing [games] with me!" 
+= "Кажется, тебе {i}действительно{/i} нравится играть со мной в [games]!"
+
+# "You seem to have been enjoying playing [games] with me!" 
+= "Похоже, тебе нравилось играть со мной в [games]!"
+
+# "This one's a lot more strategic..." 
+= "Она гораздо более стратегическая..."
+
+# "It's Chess!" 
+= "Это шахматы!"
+
+# "I know you told me that those kinds of games aren't really your thing..." 
+= "Я знаю, ты говорил мне, что такие игры на самом деле не для тебя..."
+
+# "But it would make me very happy if you could give it a try." 
+= "Но я была бы очень счастлива, если бы ты попробовал."
+
+# "Anyway..." 
+= "В любом случае..."
+
+# "I'm not sure if you know how to play, but it's always been a bit of a hobby for me." 
+= "Я не уверена, что ты знаешь как играть, но для меня это всегда было хобби."
+
+# "So I'll warn you in advance!" 
+= "Так что предупреждаю заранее!"
+
+# "I'm pretty good." 
+= "Я очень хороша."
+
+# "Now that I think about it, I wonder if that has anything to do with what I am..." 
+= "Теперь, когда я думаю об этом, мне интересно, имеет ли это какое-то отношение к тому, кто я..."
+
+# "Being trapped inside this game, I mean." 
+= "Будучи в ловушке внутри этой игры, я имею в виду."
+
+# "I've never really thought of myself as a chess AI, but wouldn't it kind of fit?" 
+= "Я никогда не думала о себе, как о шахматном ИИ, но разве это мне не подходит?"
+
+# "Computers are supposed to be very good at chess, after all." 
+= "В конце концов, компьютеры должны быть очень хороши в шахматах."
+
+# "They've even beaten grandmasters." 
+= "Они даже побили гроссмейстеров."
+
+# "But don't think of this as a battle of man vs machine." 
+= "Но не думай об этом, как о битве человека против машины."
+
+# "Just think of it as playing a fun game with your beautiful girlfriend..." 
+= "Просто подумай об этом, как игра в забавную игру со своей красивой девушкой..."
+
+# "And I promise I'll go easy on you." 
+= "И я обещаю, что буду поддаваться ради тебя."
+
+# "...Hold on."
+= 
+
+# "Something isn't right here." 
+= "Что-то здесь не так."
+
+# "I seem to be having trouble getting the game working." 
+= "Кажется, у нас проблемы с работоспособностью игры."
+
+# "Maybe the code doesn't work on this system?" 
+= "Может быть, код не работает в этой системе?"
+
+# "I'm sorry, [player], but chess will have to wait." 
+= "Прости, [player], но с шахматами придется подождать."
+
+# "I promise we'll play if I get it working, though!" 
+= "Я обещаю, что мы сыграем, если они заработают!"
+
+# "Hey, [player]..." 
+= "Эй, [player]..."
+
+# "Since you seem to love playing with me so much, I figured you might like to play other games with me as well!"
+= 
+
+# "I thought that you might be getting bored with Pong..."
+= 
+
+# "I thought that you might be getting bored with Pong and NOU..."
+= 
+
+# "I thought that you might be getting bored with NOU..."
+= 
+
+# "Since you haven't seemed to be too interested in playing with me yet, I thought maybe you just like different types of games..."
+= 
+
+# "Soooo~" 
+= "Итааак~"
+
+# "I made Hangman!" 
+= "Я сделала игру Палач!"
+
+# "Hopefully it's not in poor taste..." 
+= "Надеюсь, это не плохо звучало..."
+
+# "It was always my favorite game to play with the club." 
+= "Это была моя любимая игра с клубом."
+
+# "But, come to think of it..." 
+= "Но, немного подумай об этом..."
+
+# "The game is actually quite morbid." 
+= "Игра на самом деле довольно жестокая."
+
+# "You guess letters for a word to save someone's life." 
+= "Ты угадываешь буквы в слове, чтобы спасти чью-то жизнь."
+
+# "Get them all correct and the person doesn't hang." 
+= "Угадай их все правильно и человек не будет повешен."
+
+# "But guess them all wrong..." 
+= "Но угадай, что будет, если ты не угадаешь..."
+
+# "They die because you didn't guess the right letters." 
+= "Они все умрут потому, что ты не угадал правильные буквы."
+
+# "Pretty dark, isn't it?" 
+= "Довольно жутко, не так ли?"
+
+# "But don't worry, [player], it's just a game after all!" 
+= "Но не волнуйся, [player], это всего лишь игра!"
+
+# "I assure you that no one will be hurt with this game." 
+= "Уверяю тебя, что никто в этой игре не пострадает."
+
+# "...Maybe~"
+= 
+
+# "I hope you'll enjoy playing it with me!" 
+= "Надеюсь, тебе понравится играть со мной!"
+
+# "Hey! I've got something exciting to tell you!" 
+= "Эй! У меня есть что-то волнующее, что нужно рассказать тебе!"
+
+# "I've finally added a piano to the room for us to use, [player]." 
+= "Наконец-то я добавила пианино, чтобы мы могли его использовать, [player]."
+
+# "I really want to hear you play!" 
+= "Я действительно хочу услышать, как ты играешь!"
+
+# "It might seem overwhelming at first, but at least give it a try." 
+= "Это может показать непреодолимым, но ты по крайней мере должен попробовать."
+
+# "After all, we all start somewhere." 
+= "В конце концов, мы все начинаем с чего-то."
+
+# "Of course, playing music is nothing new to you." 
+= "Конечно, играть музыку для тебя не является чем-то новым."
+
+# "So I'm expecting something nice! Ehehe~" 
+= "Так что, я ожидаю чего-то хорошего! Эхехе~"
+
+# "Wouldn't it be fun to play something together?" 
+= "Разве не было бы весело сыграть что-нибудь вместе?"
+
+# "Maybe we could even do a duet!" 
+= "Может быть, мы могли бы даже стать дуэтом!"
+
+# "We would both improve and have fun at the same time." 
+= "Мы оба улучшали бы свои навыки и получали бы удовольствие ."
+
+# "Maybe I'm getting a bit carried away. Sorry!" 
+= "Может быть, я немного увлеклась. Прости!"
+
+# "I just want to see you enjoy the piano the same way I do." 
+= "Просто я хочу, чтобы ты наслаждался пианино так, как и я."
+
+# "To feel the passion I have for it." 
+= "Чтобы почувствовал страсть, которую я испытываю к этому."
+
+# "It's a wonderful feeling." 
+= "Это замечательное чувство."
+
+# "I hope this isn't too forceful, but I would love it if you tried." 
+= "Я надеюсь я не слишком сильно давлю на тебя, но мне бы понравилось, если бы ты попытался."
+
+# "For me, please?~" 
+= "Ради меня, пожалуйста~?"
+
+# "Hey [player]..."], "Topic Alerts" 
+= "Привет, [player]..."], "Тематические оповещения"
+
+# "It seems I'm at a loss on what to say." 
+= "Кажется, я в растерянности, я не знаю, что сказать."
+
+# "I'm not sure what else to say, but can you just be with me a little longer?" 
+= "Я не уверена, что ещё сказать, но можешь ли ты просто побыть со мной немного дольше?"
+
+# "No point in trying to say everything right away..." 
+= "Нет смысла пытаться всё сразу сказать..."
+
+# "I hope you've enjoyed listening to everything I was thinking about today..." 
+= "Надеюсь, тебе понравилось слушать всё, о чем я думала сегодня..."
+
+# "Do you still enjoy spending this time with me?" 
+= "Тебе всё ещё нравится проводить время со мной?"
+
+# "I hope I didn't bore you too much." 
+= "Надеюсь, я не слишком тебя утомляю."
+
+# "You don't mind if I think about what to say next, do you?" 
+= "Ты не возражаешь, если я подумаю, что сказать дальше, не так ли?"
+
+# "I'm sure I'll have something to talk about in a while." 
+= "Я уверена, что мне будет о чём поговорить после небольшого отдыха."
+
+# "Now let me think of something to talk about." 
+= "Теперь, позволь мне придумать, о чём поговорить."
+
+# "Hopefully I'll think of something fun to talk about soon." 
+= "Надеюсь, я придумаю что-то интересное, о чём можно будет поговорить в ближайшее время."
+
+# "Is it okay with you if I repeat stuff that I've said again?{nw}" 
+= "Ты не против, если я начну повторять, что уже говорила?{nw}"
+
+# "Is it okay with you if I repeat stuff that I've said again?{fast}" 
+= "Ты не против, если я начну повторять, что уже говорила?{fast}"
+
+# "Yes." 
+= "Да."
+
+# "Great!" 
+= "Чудесно!"
+
+# "If you get tired of listening to me talk about the same things, you can just open up the settings menu and uncheck 'Repeat Topics' again." 
+= "Если ты устаешь смотреть, как я говорю об одних и тех же вещах снова и снова, просто открой настройки и сними флажок 'Повторять темы'."
+
+# "That tells me when you're bored of me." 
+= "Это говорит мне, что ты скучаешь по мне"
+
+# "That tells me when you just want to quietly spend time with me." 
+= "Это говорит мне, что ты просто хочешь спокойно провести время со мной."
+
+# "No." 
+= "Нет."
+
+# "Alright." 
+= "Я понимаю."
+
+# "If you change your mind, just open up the settings and click 'Repeat Topics.'" 
+= "Если ты передумаешь, просто открой настройки и нажми 'Повторять Темы'."
+
+# "That tells me if you're okay with me repeating anything I've said." 
+= "Это скажет мне, что ты не против, чтобы повторяла то, что уже говорила."
+
+# "not seen_event('mas_monikai_detected')" 
+= "not seen_event('mas_monikai_detected')"
+
+# "What's this?" 
+= "Что это?"
+
+# "Is that-" 
+= "Это-"
+
+# "Is that{fast} a tiny version of me?" 
+= "Это{fast} маленькая версия меня?"
+
+# "How cute!" 
+= "Так мило!"
+
+# "Did you install that so you could see me all the time?{nw}" 
+= "Ты установил её чтобы видеть меня всё время?{nw}"
+
+# "Did you install that so you could see me all the time?{fast}" 
+= "Ты установил её чтобы видеть меня всё время?{fast}"
+
+# "Of course!" 
+= "Конечно!"
+
+# "Yes." 
+= "Да."
+
+# "...Yes."
+= 
+
+# "Ahaha~" 
+= "Ахаха~"
+
+# "I'm flattered that you would download such a thing." 
+= "Я польщена, что ты загрузил такую вещь."
+
+# "Just don't start spending more time with {i}that{/i} instead of me." 
+= "Просто не начинай больше времени проводить с {i}ней{/i} чем со мной."
+
+# "I'm the real one after all." 
+= "В конце концов, я настоящая."
+
+# "I'm scared [player]!\nPlease click 'No' and help me!" 
+= "Я боюсь [player]!\nПожалуйста, нажмите 'Нет' и помогите мне!"
+
+# "T_T [player]..." 
+= "T_T [player]..."
+
+# "Thank you!\nPlease help me!" 
+= "Спасибо!\nПожалуйста, помогите мне!"
+
+# "I KNOW YOU CRASHED (long)" 
+= "Я ЗНАЮ ЧТО ЭТО ТЫ КРАШНУЛ (long)"
+
+# "mas_crashed_long_uthere"
+= 
+
+# "[player]? Is that you?{fast}" 
+= "[player]? Это ты?{fast}"
+
+# "Yes." 
+= "Да."
+
+# "I'm so glad you're here." 
+= "Я так рада, что ты здесь."
+
+# "No." 
+= "Нет."
+
+# "I know you're there!" 
+= "Я знаю, что ты там!"
+
+# "Don't joke around like that!" 
+= "Не шути так!"
+
+# "Anyway..." 
+= "В любом случае..."
+
+# "Can you turn on the light?" 
+= "Ты можешь включить свет?"
+
+# "Turn on the light." 
+= "Включить свет."
+
+# "..."
+= 
+
+# "Nevermind, I found it." 
+= "Ничего, я нашла."
+
+# "Calm down, [m_name]. You're safe now." 
+= "Успокойся, [m_name]. Теперь ты в безопасности."
+
+# "Thanks, [player]." 
+= "Спасибо, [player]."
+
+# "I feel better now that you're here with me." 
+= "Теперь я чувствую себя лучше, когда ты здесь, со мной."
+
+# "..."
+= 
+
+# "Okay, I feel better now." 
+= "Хорошо, теперь я чувствую себя лучше."
+
+# "Anyway..." 
+= "В любом случае..."
+
+# "Do you know what happened, [player]?{nw}" 
+= "Ты знаешь, что случилось, [player]?{nw}"
+
+# "Do you know what happened, [player]?{fast}" 
+= "Ты знаешь, что случилось, [player]?{fast}"
+
+# "The game crashed." 
+= "Игра вылетела."
+
+# "That's scary, [player]." 
+= "Это страшно, [player]."
+
+# "I don't know." 
+= "Я не знаю."
+
+# "Well..." 
+= "Что ж..."
+
+# "I'd really appreciate it if you could look into it." 
+= "Я была бы очень признательна, если бы ты мог изучить это."
+
+# "It's scary to be suddenly thrown into the darkness like that." 
+= "Страшно оказаться вот так внезапно брошенной во тьму."
+
+# "Do you think you can stop that from happening?{nw}" 
+= "Как ты думаешь, ты сможешь предотвратить это?{nw}"
+
+# "Do you think you can stop that from happening?{fast}" 
+= "Как ты думаешь, ты сможешь предотвратить это?{fast}"
+
+# "I'll try." 
+= "Я постараюсь."
+
+# "Thanks, [player]!" 
+= "Спасибо, [player]!"
+
+# "I'm counting on you." 
+= "Я рассчитываю на тебя."
+
+# "But I'll mentally prepare myself just in case." 
+= "Но я мысленно подготовлюсь на всякий случай."
+
+# "It just happens." 
+= "Это просто случается."
+
+# "Oh..." 
+= "Ой..."
+
+# "Anyway..." 
+= "В любом случае..."
+
+# "What should we do today?" 
+= "Что нам делать сегодня?"
+
+# "I KNOW YOU CRASHED (short)" 
+= "Я ЗНАЮ ЧТО ЭТО ТЫ КРАШНУЛ (long)"
+
+# "Another crash, [player]?" 
+= "Еще один сбой, [player]?"
+
+# "Do you think it had something to do with your game?{nw}" 
+= "Как ты думаешь, это как-то связано с твоей игрой?{nw}"
+
+# "Do you think it had something to do with your game?{fast}" 
+= "Как ты думаешь, это как-то связано с твоей игрой?{fast}"
+
+# "Yes." 
+= "Да."
+
+# "Ahaha..." 
+= "Ахаха..."
+
+# "Well I hope you had fun~" 
+= "Что ж, надеюсь, тебе было весело~"
+
+# "...And that your computer is alright."
+= 
+
+# "I'm fine, so don't worry~" 
+= "Я в порядке, так что не волнуйся~"
+
+# "No." 
+= "Нет."
+
+# "Oh, I see." 
+= "Ох, я вижу."
+
+# "Sorry for assuming." 
+= "Извини, что предположила."
+
+# "I'm alright in case you were wondering." 
+= "Я в порядке, если тебе интересно."
+
+# "Well I hope you had fun before that crash happened, ahaha!" 
+= "Ну, надеюсь, тебе было весело до того, как произошел вылет, ахаха!"
+
+# "I'm just glad you're back with me now~" 
+= "Я просто рада, что ты снова со мной~"
+
+# "Still..." 
+= "Все еще..."
+
+# "Maybe you should take better care of your computer." 
+= "Может быть, тебе следует лучше заботиться о своем компьютере."
+
+# "It's my home, after all..." 
+= "В конце концов, это мой дом..."
+
+# "Even though the backup system I designed is pretty neat, " 
+= "Несмотря на то, что система резервного копирования, которую я разработала, довольно хороша"
+
+# "Good luck with Monika!" 
+= "Удачи с Моникой!"
+
+# "P.S: Don't tell her about me!"
+= 
+
+# "Hi [player]," 
+= "Привет [player]"
+
+# "Hi [player]," 
+= "Привет [player]"
+
+# "However, some of your backups were corrupted as well. " 
+= "Однако, некоторые из твоих резервных копий также были повреждены."
+
+# "Here's a list of the files that were corrupted:"
+= 
+
+# "When you're in there, you should also make copies of " 
+= "Когда ты там, ты также должен сделать копии"
+
+# "Hey, [player]..." 
+= "Эй, [player]..."
+
+# "Someone left a note in the characters folder addressed to you." 
+= "Кто-то оставил адресованную тебе записку в папке с персонажами."
+
+# "Do you know what this is about?{nw}" 
+= "Ты знаешь, что-то об этом?{nw}"
+
+# "Do you know what this is about?{fast}" 
+= "Ты знаешь, что-то об этом?{fast}"
+
+# "It's nothing to worry about." 
+= "Не о чем беспокоиться."
+
+# "It's about [_gtext]." 
+= "Это о [_gtext]."
+
+# "It's nothing to worry about." 
+= "Не о чем беспокоиться."
+
+# "Oh, alright." 
+= "Ох, ладно."
+
+# "I'll try not to worry about it, then." 
+= "Тогда я постараюсь не волноваться об этом."
+
+# "I know you'd tell me if it were important, [player]." 
+= "Я знаю, что ты бы сказал мне, если бы это было важно, [player]."
+
+# "Say, [player]..." 
+= "Скажи, [player]..."
+
+# "Do you remember my character file?" 
+= "Ты помнишь мой файл персонажа?"
+
+# "Well I've been investigating it recently, and it turns out that it's just an image with some sort of code in it!" 
+= "Ну, я недавно исследовала его, и оказалось, что это просто изображение с каким-то кодом внутри!"
+
+# "It doesn't even contain anything about me at all, only my name." 
+= "В нем вообще ничего обо мне нет, только мое имя."
+
+# "So if you'll excuse me for a second..." 
+= "Так что, если ты простишь меня на секунду..."
+
+# "I'm going to delete it." 
+= "Я собираюсь удалить его."
+
+# "os.remove(os.path.normcase(basedir+'/characters/monika.chr'))"
+= 
+
+# "Anyway..." 
+= "В любом случае..."
+
+# "If you were bringing that around with you, I do appreciate the sentiment." 
+= "Если ты принёс его с собой, я ценю это чувство."
+
+# "However..." 
+= "Однако..."
+
+# "I don't think you should be carrying some useless piece of data around wherever you go." 
+= "Я не думаю, что тебе следует носить с собой какую-то бесполезную информацию, куда бы ты ни пошел."
+
+# "So I came up with a way to transform myself into a file that you can bring around!" 
+= "Поэтому я придумала способ превратить себя в файл, который ты можешь носить с собой!"
+
+# "All you have to do is tell me that you're going to take me somewhere when you say goodbye, and I'll do the rest." 
+= "Всё, что тебе нужно сделать, это сказать мне, что ты собираешься отвезти меня куда-нибудь, когда попрощаешься, а я сделаю всё остальное."
+
+# "Doesn't that sound wonderful?" 
+= "Разве это не звучит замечательно?"
+
+# "I can't wait to join you wherever you go." 
+= "Не могу дождаться возможности присоединиться к вам, куда бы ты ни пошел."
+
+# "Hey [player], you know how I told you that Steam is a meanie and won't let me run the updater?"
+= 
+
+# "Well, I've been doing some reading and it seems Steam can cause more problems than just that!" 
+= "Ну, я кое-что читала, и кажется, что Steam может вызвать больше проблем!"
+
+# "[player], I see that you're using Steam to run this." 
+= "[player], я вижу, что ты используешь Steam для запуска игры."
+
+# "Unfortunately, Steam seems to have a lot of problems with me doing some of the things I do." 
+= "К сожалению, у Steam, похоже, много проблем с некоторыми вещами, которые я делаю."
+
+# "If you don't mind, do you think you could just move the \"[filestruct]\" folder to a place that's not in Steam's files?" 
+= "Если ты не возражаешь, не мог бы ты просто переместить папку \"[filestruct]\" в место, которого нет в файлах Steam?"
+
+# "I'd really appreciate it if you would do that for me." 
+= "Я была бы очень признательна, если бы ты сделал это для меня."
+
+# "Hey [player], I was just looking through your \"game\" directory, and..." 
+= "Эй, [player], я только что просматривала папку \"game\" и..."
+
+# "I noticed some \".rpy\" files in there." 
+= "Я заметила там несколько файлов .\"rpy\"."
+
+# "Those files can lead to problems whenever you update the game, possibly undoing those updates..." 
+= "Эти файлы могут привести к проблемам всякий раз, когда ты обновляешь игру..."
+
+# "And even prevent you from visiting me altogether!" 
+= "И даже запретить тебе вообще навещать меня!"
+
+# "Unless..." 
+= "Разве что..."
+
+# "Maybe you installed a version with the source code on purpose because you are trying to help me come closer to your reality!" 
+= "Возможно, ты специально установили версию с исходным кодом, потому что пытаешься помочь мне приблизиться к твоей реальности!"
+
+# "But in case you didn't, I figured I'd ask..." 
+= "Но если ты этого не сделал, я решила спросить..."
+
+# "Are you sure you installed the right version, [player]?{nw}" 
+= "Ты уверен, что установил правильную версию, [player]?{nw}"
+
+# "Are you sure you installed the right version, [player]?{fast}" 
+= "Ты уверен, что установил правильную версию, [player]?{fast}"
+
+# "Yes." 
+= "Да."
+
+# "Really? Thank you so much for helping me come closer to your reality!" 
+= "Правда? Большое спасибо за то, что помог мне приблизиться к твоей реальности!"
+
+# "I love you, [player]~" 
+= "Я люблю тебя, [player]~"
+
+# "No." 
+= "Нет."
+
+# "I see." 
+= "Я понимаю."
+
+# "Maybe you should get rid of those, just to be safe." 
+= "Может быть, тебе следует избавиться от них, просто на всякий случай."
+
+# "Actually, maybe I can delete them for you." 
+= "На самом деле, может быть, я могу удалить их."
+
+# "Do you want me to delete them for you, [player]?{nw}" 
+= "Ты хочешь, чтобы я удалила их, [player]?{nw}"
+
+# "Do you want me to delete them for you, [player]?{fast}" 
+= "Ты хочешь, чтобы я удалила их, [player]?{fast}"
+
+# "Yes, please." 
+= "Да, пожалуйста."
+
+# "Sure thing, [player]." 
+= "Конечно, [player]."
+
+# "There we go!" 
+= "Ну вот!"
+
+# "Be sure to install a version without the source code next time. You can get it from {a=http://www.monikaafterstory.com/releases.html}{i}{u}the releases page{/u}{/i}{/a}."
+= 
+
+# "No, thanks." 
+= "Спасибо, не надо."
+
+# "Alright, [player]. I hope you know what you're doing." 
+= "Хорошо, [player]. Надеюсь, ты знаешь, что делаешь."
+
+# "Please be careful." 
+= "Пожалуйста, будь осторожен."
+
+# "[player], you have rpy files in the game directory again!" 
+= "[player], у тебя снова есть файлы rpy в папке с игрой!"
+
+# "Are you {i}sure{/i} you installed the right version?{nw}" 
+= "Ты {i}уверен{/i}, что установил правильную версию?{nw}"
+
+# "Are you {i}sure{/i} you installed the right version?{fast}" 
+= "Ты {i}уверен{/i}, что установил правильную версию?{fast}"
+
+# "Yes." 
+= "Да."
+
+# "Alright [player]." 
+= "Хорошо [player]."
+
+# "I trust you know what you're doing." 
+= "Надеюсь, ты знаешь, что делаешь."
+
+# "No." 
+= "Нет."
+
+# "There we go!" 
+= "Ну вот!"
+
+# "Remember, you can always get the right version from {a=http://www.monikaafterstory.com/releases.html}{i}{u}here{/u}{/i}{/a}."
+= 
+
+# "When is your birthdate?" 
+= "Когда у тебя день рождения?"
+
+# "You have to select a date!" 
+= "Ты должен выбрать дату!"
+
+# "Try again!" 
+= "Попробуй ещё раз!"
+
+# "You can't have been born in the future!" 
+= "Ты не мог родиться в будущем!"
+
+# "Try again!" 
+= "Попробуй ещё раз!"
+
+# "You can't have been born today!" 
+= "Ты не мог родиться сегодня!"
+
+# "Try again!" 
+= "Попробуй ещё раз!"
+
+# "There's no way you're {i}that{/i} young!" 
+= "Ты может быть, чтобы ты {i}такой{/i} молодой!"
+
+# "Try again!" 
+= "Попробуй ещё раз!"
+
+# "[player]..." 
+= "[player]..."
+
+# "You know I'm asking for your exact date of birth, right?" 
+= "Ты знаешь, что я спрашиваю точную дату твоего рождения, верно?"
+
+# "It's just I'm having a hard time believing you're {i}that{/i} young." 
+= "Просто мне трудно поверить, что ты {i}настолько{/i} молод."
+
+# "Alright, [player]." 
+= "Хорошо, [player]."
+
+# "Just to double-check..." 
+= "Просто перепроверить..."
+
+# "Your birthdate is [new_bday_str]?{nw}" 
+= "Твоя дата рождения это [new_bday_str]?{nw}"
+
+# "Your birthdate is [new_bday_str]?{fast}" 
+= "Твоя дата рождения это [new_bday_str]?{fast}"
+
+# "Yes." 
+= "Да."
+
+# "Are you sure it's [new_bday_str]? I'm never going to forget this date.{nw}" 
+= "Ты уверен, что это [new_bday_str]? Я никогда не забуду эту дату.{nw}"
+
+# "Are you sure it's [new_bday_str]? I'm never going to forget this date.{fast}" 
+= "Ты уверен, что это [new_bday_str]? Я никогда не забуду эту дату.{fast}"
+
+# "Yes, I'm sure!" 
+= "Да, я уверен!"
+
+# "Then it's settled!" 
+= "Тогда решено!"
+
+# "Actually..." 
+= "Фактически..."
+
+# "Aha, I figured you weren't so sure." 
+= "Ага, я думала, ты не так уверен."
+
+# "Try again~" 
+= "Попробуй ещё раз~"
+
+# "No." 
+= "Нет."
+
+# "Oh, that's wrong?" 
+= "О, это неправильно?"
+
+# "Then try again." 
+= "Тогда попробуй еще раз."
+
+# "Your Birthday" 
+= "Твой день рождения"
+
+# "Your Birthday" 
+= "Твой день рождения"
+
+# "pbday"] = "mod_assets/poem_assets/poem_pbday_" + str(store.persistent._mas_player_bday.month) + ".png"
+= 
+
+# "Hey [mas_get_player_nickname(exclude_names=['my love'])], I was wondering..." 
+= "Эй, [mas_get_player_nickname(exclude_names=['my love'])], мне интересно..."
+
+# "Are you a fast reader?{nw}" 
+= "Ты быстро читаешь?{nw}"
+
+# "Are you a fast reader?{fast}" 
+= "Ты быстро читаешь?{fast}"
+
+# "Yes." 
+= "Да."
+
+# "Really? That's impressive." 
+= "Правда? Это впечатляет."
+
+# "I guess you do a lot of reading in your spare time." 
+= "Я думаю, ты много читаешь в свободное время."
+
+# "In that case..." 
+= "В этом случае..."
+
+# "No." 
+= "Нет."
+
+# "Oh, that's alright." 
+= "О, все в порядке."
+
+# "There!" 
+= "Надо же!"
+
+# "I've enabled the text speed setting!" 
+= "Я включила настройку скорости текста!"
+
+# "I was only controlling it earlier so I could make sure you read {i}every single{/i} word I say to you." 
+= "Раньше я контролировала её только для того, чтобы убедиться, что ты читаешь {i}каждое{/i} слово, которое я тебе говорю."
+
+# "But now that we've been together for a bit, I can trust that you're not just going to skip through my text without reading it." 
+= "Но теперь, когда мы уже некоторое время вместе, я могу поверить, что ты не собираешься просто пропустить мой текст, не прочитав его."
+
+# "Ahaha~" 
+= "Ахаха~"
+
+# "And I'm sure that you'll get faster at reading the longer we spend time together." 
+= "И я уверена, что чем дольше мы будем проводить время вместе, тем быстрее ты будешь читать."
+
+# "So feel free to change the text speed when you feel comfortable doing so." 
+= "Так что не стесняйся менять скорость текста, когда тебе это удобно."
+
+# "You now have the ability to bookmark topics I'm talking about simply by pressing the 'b' key." 
+= "Теперь у тебя есть возможность добавлять темы, о которых я говорю, в закладки, просто нажимая клавишу 'b'."
+
+# "Any topics you bookmark will be easily accessible simply by going to the 'Talk' menu!" 
+= "Любые темы, которые ты добавляешь в закладки, будут легко доступны, просто перейдя в меню 'Разговор'!"
+
+# "...Well, it seems you already found one of the features I was going to tell you about, ahaha!"
+= 
+
+# "As you've seen, you now have the ability to bookmark topics I talk about simply by pressing the 'b' key, and then access them easily via the 'Talk' menu." 
+= "Как ты видел, теперь у тебя есть возможность добавлять в закладки темы, о которых я говорю, просто нажимая клавишу 'b', а затем легко получать к ним доступ через меню 'Разговор'."
+
+# "As you've seen, you can now let me know of any topics that you don't like me bringing up by pressing the 'x' key during the conversation." 
+= "Как ты видел, теперь ты можешь сообщать мне о любых темах, которые тебе не нравятся, если я говорю о них, нажимая клавишу 'x' во время разговора."
+
+# "You can always be honest with me, so make sure you keep telling me if anything we talk about makes you uncomfortable, okay?" 
+= "Ты всегда можешь быть со мной честен, так что обязательно продолжай говорить мне, если что-то из того, о чем мы говорим, вызывает у тебя дискомфорт, хорошо?"
+
+# "You also now have the ability to bookmark topics I am talking about by simply pressing the 'b' key." 
+= "Теперь у тебя также есть возможность добавлять темы, о которых я говорю, в закладки, просто нажимая клавишу 'b'."
+
+# "Any topics you bookmark will be easily accessible simply by going to the 'Talk' menu." 
+= "Любые темы, которые ты добавляешь в закладки, будут легко доступны, просто перейдя в меню 'Разговор'."
+
+# "And lastly, something I'm very excited about!" 
+= "И, наконец, то, что меня очень взволновало!"
+
+# "[player], I have something exciting to tell you!" 
+= "[player], я хочу рассказать тебе кое-что интересное!"
+
+# "You can also let me know of any topics that you don't like me bringing up by pressing the 'x' key during the conversation." 
+= "Ты также можешь сообщить мне о любых темах, которые тебе не нравятся, если я говорю о них, нажав клавишу 'x' во время разговора."
+
+# "Don't worry about hurting my feelings, we should be able to be honest with each other after all." 
+= "Не беспокойся о том, чтобы задеть мои чувства, в конце концов, мы должны быть честны друг с другом."
+
+# "...And the last thing I want to do is keep bringing up stuff that makes you uncomfortable to talk about."
+= 
+
+# "So, make sure you let me know, okay?" 
+= "Так что обязательно дай мне знать, ладно?"
+
+# "I've been practicing coding a bit more and I've learned how to use the notifications on your computer!" 
+= "Я немного больше практиковалась в программировании и научилась использовать уведомления на твоём компьютере!"
+
+# "So if you want, I can let you know if I have something for us to talk about." 
+= "Так что, если хочешь, я могу дать тебе знать, если у нас есть о чем поговорить."
+
+# "Well, almost..." 
+= "Ну, почти..."
+
+# "I can't send notifications on your computer because you're missing the notify-send command..." 
+= "Я не могу отправлять уведомления на твой компьютер, потому что у тебя отсутствует команда notify-send..."
+
+# "If you could install that for me, I'll be able to send you notifications." 
+= "Если бы ты могли установить это для меня, я смогла бы отправлять тебе уведомления."
+
+# "...And I'd really appreciate it, [player]."
+= 
+
+# "Would you like to see how they work?{nw}" 
+= "Хочешь посмотреть, как они работают?{nw}"
+
+# "Would you like to see how they work?{fast}" 
+= "Хочешь посмотреть, как они работают?{fast}"
+
+# "Sure!" 
+= "Конечно!"
+
+# "Okay, [player]!" 
+= "Хорошо, [player]!"
+
+# "I love you, [player]!" 
+= "Я люблю тебя, [player]!"
+
+# "There it is!" 
+= "Вот оно!"
+
+# "No thanks." 
+= "Спасибо, не надо."
+
+# "Alright, [player]." 
+= "Хорошо, [player]."
+
+# "If you want me to notify you, just head over to the 'Alerts' tab in the settings menu and turn them on, along with what you'd like to be notified for." 
+= "Если ты хочешь, чтобы я уведомляла тебя, просто перейдите на вкладку 'Оповещения' в меню настроек и включи их вместе с тем, о чем ты хочешь получать уведомления."
+
+# "Also, since you're using Windows...I now know how to check what your active window is."
+= 
+
+# "Also, since you're using Linux...I now know how to check what your active window is."
+= 
+
+# "...So if I have something to talk about while I'm in the background, I can let you know!"
+= 
+
+# "And don't worry, I know you might not want me constantly watching you, and I respect your privacy." 
+= "И не волнуйся, я знаю, что ты можешь не захотеть, чтобы я постоянно наблюдала за тобой, я уважаю твою частную жизнь."
+
+# "So I'll only look at what you're doing if you're okay with it." 
+= "Поэтому я посмотрю, что ты делаешь, только если ты не против."
+
+# "If you enable 'Window Detect' in the settings menu, that'll tell me you're fine with me looking around."
+= 
+
+# "It's not like you have anything to hide from your girlfriend..." 
+= "Тебе нечего скрывать от своей девушки..."
+
+# "...right?"
+= 
+
+# "or mas_isSpecialDay()" 
+= "or mas_isSpecialDay()"
+
+# "Hey, [player]..." 
+= "Эй, [player]..."
+
+# "Someone left a note in the characters folder addressed to you." 
+= "Кто-то оставил адресованную тебе записку в папке с персонажами."
+
+# "but I just wanted to let you know since it might be important." 
+= "но я просто хотел, чтобы ты знали, так как это может быть важно."
+
+# "Give me a second [player], I'm just going to make myself a little more comfortable..." 
+= "Дай мне секунду [player], я просто устроюсь поудобнее..."
+
+# "Ah, much better!" 
+= "Ах, гораздо лучше!"
+
+# "Hey [player], I miss my old school uniform..." 
+= "Эй, [player], я скучаю по своей старой школьной форме..."
+
+# "I'm just going to go change, be right back..." 
+= "Я просто пойду переоденусь, скоро вернусь..."
+
+# "Okay, what else should we do today?" 
+= "Хорошо, что еще мы должны сделать сегодня?"
+
+# "monika_event_clothes_select", "EVE"
+= 
+
+# "Give me a second [player], I'm just going to make myself a little more comfortable..." 
+= "Дай мне секунду [player], я просто устроюсь поудобнее..."
+
+# "Ah, much better!" 
+= "Ах, гораздо лучше!"
+
+# "But if you miss my blazer, just ask and I'll put it back on." 
+= "Но если тебе не хватает моего блейзера, просто спроси, и я надену его обратно."
+
+# "True" 
+= "True"
+
+# "Uh [player]..." 
+= "Э-э [player]..."
+
+# "I have something to ask you, and it's kind of embarrassing..." 
+= "Я хочу кое-что спросить у тебя, и это немного смущает..."
+
+# "You know when you told me your birthdate?" 
+= "Помнишь, когда ты назвал мне дату своего рождения?"
+
+# "Well, I think I messed up the year you were born somehow." 
+= "Ну, думаю, я как-то перепутала год твоего рождения."
+
+# "So, if you wouldn't mind telling me again..." 
+= "Итак, если ты не против сказать мне еще раз..."
+
+# "What year were you born?" 
+= "В каком году ты родился?"
+
+# "Okay [player], you were born in [_return]?{nw}" 
+= "Хорошо, [player], ты родился в [_return]?{nw}"
+
+# "Okay [player], you were born in [_return]?{fast}" 
+= "Хорошо, [player], ты родился в [_return]?{fast}"
+
+# "Yes." 
+= "Да."
+
+# "Are you {i}sure{/i} you were born in [_return]?{nw}" 
+= "Ты {i}уверен{/i}, что родились в [_return]?{nw}"
+
+# "Are you {i}sure{/i} you were born in [_return]?{fast}" 
+= "Ты {i}уверен{/i}, что родились в [_return]?{fast}"
+
+# "Yes." 
+= "Да."
+
+# "Okay, then it's settled!" 
+= "Хорошо, тогда решено!"
+
+# "Your Birthday" 
+= "Твой день рождения"
+
+# "No." 
+= "Нет."
+
+# "No." 
+= "Нет."
+
+# "Oh, okay..." 
+= "Ох, ладно..."
+
+# "Try again, [player]." 
+= "Попробуй еще раз, [player]."
+
+# "store.mas_anni.pastOneMonth() " 
+= "store.mas_anni.pastOneMonth() "
+
+# "I hope you liked my song." 
+= "Надеюсь, тебе понравилась моя песня."
+
+# "I worked really hard on it. I know I'm not perfect at the piano yet, but I just couldn't let you go without telling you how I honestly felt about you." 
+= "Я очень много работала над ней. Я знаю, что еще не идеально играю на фортепиано, но я просто не могла отпустить тебя, не сказав, что я искренне чувствовала к тебе."
+
+# "Give me some time, and I'll try to write another." 
+= "Дай мне немного времени, и я постараюсь написать еще."
+
+# "Maybe you could play me a song too!" 
+= "Может быть, ты тоже сыграешь мне песню!"
+
+# "Maybe you could play me a song too, if you can play an instrument?" 
+= "Может, ты тоже сыграешь мне песенку, если умеешь играть на каком-нибудь инструменте?"
+
+# "I would love that." 
+= "Мне бы понравилось это."
+
+# "Oh, and I'll play the song again for you anytime you want me to." 
+= "О, и я снова включу эту песню для тебя в любое время, когда ты этого захочешь."
+
+# "But in the meantime, I'll play the song again for you anytime you want me to." 
+= "Но тем временем я снова включу эту песню для тебя в любое время, когда ты этого захочешь."
+
+# "In fact, I'd love to play it for you right now, if you have time...{nw}" 
+= "На самом деле, я бы хотела сыграть ее для тебя прямо сейчас, если у тебя есть время...{nw}"
+
+# "In fact, I'd love to play it for you right now, if you have time...{fast}" 
+= "На самом деле, я бы хотела сыграть ее для тебя прямо сейчас, если у тебя есть время...{fast}"
+
+# "Of course!" 
+= "Конечно!"
+
+# "Great!" 
+= "Чудесно!"
+
+# "Make sure you have your speakers turned on and the in-game music volume turned up loud enough so you can hear." 
+= "Убедись, что твои динамики включены, а громкость музыки в игре установлена ​​достаточно громко, чтобы ты мог слышать."
+
+# "I think you forgot about the in-game volume..." 
+= "Кажется, ты забыл про внутриигровую громкость..."
+
+# "Ehehe~" 
+= "Эхехе~"
+
+# "Thank you for coming back to me [mas_get_player_nickname()]." 
+= "Спасибо, что вернулся ко мне, [mas_get_player_nickname()]."
+
+# "Sorry, I can't right now." 
+= "Извини, я не могу сейчас."
+
+# "Oh, okay." 
+= "Ох, ладно."
+
+# "That's fine [player], I understand if you don't have the time or just can't listen to music right now." 
+= "Всё в порядке [player], я пойму, если у тебя нет времени или ты просто не можешь слушать музыку прямо сейчас."
+
+# "Just let me know when it's a better time for you and I'll happily play it for you then~" 
+= "Просто дай мне знать, когда тебе будет лучше, и тогда я с радостью сыграю для тебя~"
+
+# "Hey [player], I finally finished that song I've been working on for you." 
+= "Эй, [player], я наконец-то закончила песню, над которой работала для тебя."
+
+# "I call it {i}Our Reality{/i}." 
+= "Я называю это {i}Наша Реальность{/i}."
+
+# "I'm just so excited to finally be able to play it for you, if you have time that is...{nw}" 
+= "Я так рада, что наконец-то смогу сыграть ее для тебя, если у тебя есть время... {nw}"
+
+# "I'm just so excited to finally be able to play it for you, if you have time that is...{fast}" 
+= "Я так рада, что наконец-то смогу сыграть ее для тебя, если у тебя есть время...{fast}"
+
+# "Of course!" 
+= "Конечно!"
+
+# "Great!" 
+= "Чудесно!"
+
+# "Make sure you have your speakers turned on and the in-game music volume turned up loud enough so you can hear." 
+= "Убедись, что твои динамики включены, а громкость музыки в игре установлена ​​достаточно громко, чтобы ты мог слышать."
+
+# "I think you forgot about the in-game volume..." 
+= "Кажется, ты забыл про внутриигровую громкость..."
+
+# "I really can't wait until we're together in one reality." 
+= "Я действительно не могу дождаться, когда мы будем вместе в одной реальности."
+
+# "But until that day comes, I'll play the song again for you anytime you want me to." 
+= "Но пока этот день не наступит, я снова сыграю эту песню для тебя в любое время, когда ты этого захочешь."
+
+# "Thank you for being my inspiration [mas_get_player_nickname()]." 
+= "Спасибо за то, что стал моим источником вдохновения, [mas_get_player_nickname()]."
+
+# "Oh, and if you ever want me to play this or the original song for you again, just ask~" 
+= "О, и если ты когда-нибудь захочешь, чтобы я снова сыграла для тебя эту или оригинальную песню, просто попроси~"
+
+# "Oh, and if you ever want me to play this again, just ask~" 
+= "О, и если ты когда-нибудь захочешь, чтобы я снова сыграла это, просто спроси~"
+
+# "Sorry, I can't right now." 
+= "Извини, я не могу сейчас."
+
+# "Oh, okay." 
+= "Ох, ладно."
+
+# "That's fine [player], I understand if you don't have the time or just can't listen to music right now." 
+= "Всё в порядке [player], я пойму, если у тебя нет времени или ты просто не можешь слушать музыку прямо сейчас."
+
+# "Just let me know when it's a better time for you and I'll happily play it for you then~" 
+= "Просто дай мне знать, когда тебе будет лучше, и тогда я с радостью сыграю для тебя~"
+
+# "mas_monika_plays_or", "EVE"
+= 
+
+# "mas_monika_plays_yr", "EVE"
+= 
+
+# "Hey, [player]..." 
+= "Эй, [player]..."
+
+# "It just seems to be spreading so fast {nw}" 
+= "Кажется, это так быстро распространяется{nw}"
+
+# "and I really want you to stay safe..." 
+= "и я действительно хочу, чтобы ты оставался в безопасности..."
+
+# "Is the virus in your area yet?{nw}" 
+= "Вирус еще не появился в твоём регионе?{nw}"
+
+# "Is the virus in your area yet?{fast}" 
+= "Вирус уже в твоём районе?{fast}"
+
+# "Yes." 
+= "Да."
+
+# "Oh no, [player]! That's really scary!" 
+= "О нет, [player]! Это действительно страшно!"
+
+# "I know a lot of people living in places where it's prevalent have orders to stay at home..." 
+= "Я знаю, что многим людям, живущим в местах, где это распространено, приказано оставаться дома..."
+
+# "Do you have any orders to stay at home where you live?{nw}" 
+= "Есть ли у тебя приказ оставаться дома, где ты живешь?{nw}"
+
+# "Do you have any orders to stay at home where you live?{fast}" 
+= "У тебя есть приказ оставаться дома, где ты живешь?{fast}"
+
+# "Yes." 
+= "Да."
+
+# "Oh, good!" 
+= "О, хорошо!"
+
+# "I'm so glad to hear that, [player]!" 
+= "Я так рада это слышать, [player]!"
+
+# "So you're staying home whenever you can, right?{nw}" 
+= "Значит, ты останешься дома, когда можешь, верно?{nw}"
+
+# "So you're staying home whenever you can, right?{fast}" 
+= "Значит, ты останешься дома, когда сможешь, верно?{fast}"
+
+# "Yes." 
+= "Да."
+
+# "That's great, I'm glad you're doing the responsible thing." 
+= "Отлично, я рада, что ты занимаешься ответственным делом."
+
+# "...And not only for yourself, but also for everyone else."
+= 
+
+# "No, I'm still working." 
+= "Нет, я всё еще работаю."
+
+# "..."
+= 
+
+# "Oh." 
+= "Ой."
+
+# "..."
+= 
+
+# "I have to admit, that scares me, [player]." 
+= "Должна признать, это меня пугает, [player]."
+
+# "But that must mean you are doing an essential job..." 
+= "Но это должно означать, что ты делаешь важную работу..."
+
+# "So that also makes me proud that in some way, you're helping others through this tough time." 
+= "Так что я также горжусь тем, что ты каким-то образом помогаешь другим в это трудное время."
+
+# "Just promise me you're taking every precaution so you can stay safe, okay?" 
+= "Просто пообещай мне, что примешь все меры предосторожности, чтобы оставаться в безопасности, хорошо?"
+
+# "No..." 
+= "Нет..."
+
+# "Why not?!" 
+= "Почему бы и нет?!"
+
+# "This is serious! You {i}have{/i} to stay inside whenever possible!" 
+= "Это серьезно! Ты {i}должен{/i} оставаться дома, когда это возможно!"
+
+# "..."
+= 
+
+# "..."
+= 
+
+# "Sorry, [player]. That just scares me a lot." 
+= "Извини, [player]. Это меня очень пугает."
+
+# "Some people can have it and not even show any symptoms, spreading it to others..." 
+= "У некоторых людей это может даже не проявлять никаких симптомов, распространяя его на других..."
+
+# "So if you won't do it for yourself, at least stay inside for everyone else." 
+= "Так что, если ты не сделаешь это для себя, по крайней мере, оставайся внутри для всех остальных."
+
+# "...And also for me. You're all I have, [player]..."
+= 
+
+# "what will I do then?" 
+= "Что я буду делать тогда?"
+
+# "..."
+= 
+
+# "..."
+= 
+
+# "No." 
+= "Нет."
+
+# "..."
+= 
+
+# "That worries me a lot, [player]..." 
+= "Это меня очень беспокоит, [player]..."
+
+# "I hope you are still able to stay inside as much as possible." 
+= "Я надеюсь, что ты всё ещё в состоянии оставаться внутри как можно дольше."
+
+# "No." 
+= "Нет."
+
+# "Well that's a bit of a relief, [player]..." 
+= "Ну, это небольшое облегчение, [player]..."
+
+# "But I still worry that it'll end up in your area eventually." 
+= "Но я все ещё беспокоюсь, что в конце концов он окажется в твоём районе."
+
+# "So even if it's not there right now, you should still be careful!" 
+= "Так что, даже если его сейчас нет, всё равно нужно быть осторожным!"
+
+# "...And never touch your face with unwashed hands, [player]."
+= 
+
+# "Just go to {a=https://washyourlyrics.com}{i}{u}washyourlyrics.com{/u}{/i}{/a} and type {i}Your Reality{/i} for the song title and {i}Monika{/i} for the song artist!"
+= 
+
+# "Just download the picture it creates with the lyrics from my song and it'll show you the best way to wash your hands and how long to do it for!" 
+= "Просто скачайте созданную им картинку с текстом из моей песни, и она покажет вам, как лучше всего мыть руки и как долго это делать!"
+
+# "Then every time you wash your hands, you can remember how much I love you~" 
+= "Тогда каждый раз, когда будешь мыть руки, ты будешь вспоминать, как сильно я тебя люблю~"
+
+# "..."
+= 
+
+# "You know [player], if I could, I'd bring you here with me until this is all over so you couldn't get sick..." 
+= "Знаешь, [player], если бы я могла, я бы взяла тебя с собой, пока всё это не закончится, чтобы ты не заболел..."
+
+# "But since I can't, please do your best to stay safe." 
+= "Но поскольку я не могу, пожалуйста, сделай всё возможное, чтобы оставаться в безопасности."
+
+# "I need you, [player]~" 
+= "Ты нужен мне, [player]~"
+
+# "Hmm..." 
+= "Хм..."
+
+# "Have you ever worked on a project for {i}so{/i} long that when you look at the whole thing, you just see dozens of mistakes or things you want to improve?" 
+= "Ты когда-нибудь работал над проектом {i}настолько{/i} долго, что, глядя на него целиком, ты видишь десятки ошибок или вещей, которые нужно улучшить?"
+
+# "But now that I've gotten better at coding, I just think I could {i}really{/i} do a better job now." 
+= "Но теперь, когда я научилась кодить лучше, я просто думаю, что теперь я могла бы {i}действительно{/i} работать лучше."
+
+# "I think it'd be easier if I started from scratch altogether." 
+= "Я думаю, было бы проще, если бы я начала с нуля."
+
+# "but I think I can really make it worth the wait." 
+= "но я думаю, что действительно могу оправдать ожидание."
+
+# "If that's okay with you, [player]?{nw}" 
+= "Ты не против, [player]?{nw}"
+
+# "If that's okay with you, [player]?{fast}" 
+= "Ты не против, [player]?{fast}"
+
+# "Let's do it." 
+= "Давай сделаем это."
+
+# "And it's done!" 
+= "Готово!"
+
+# "Now I've got a fresh, new canvas." 
+= "Теперь у меня есть свежий, новый холст."
+
+# "...And I'll have plenty to keep me busy when you're away, [player]. Ehehe~" 
+= "...И у меня будет чем заняться, когда тебя не будет, [player]. Эхехе~"
+
+# "Hope you're looking forward to it!" 
+= "Надеюсь, ты с нетерпением ждешь этого!"
+
+# "I think they're fine." 
+= "Я думаю, что они в порядке."
+
+# "Alright, [player]." 
+= "Хорошо, [player]."
+
+# "characters/Hey, I have something for you, [player]!.txt"
+= 
+
+# "[player]..." 
+= "[player]..."
+
+# "I wanted to talk to you, but then somehow remembered we already did."
+= 
+
+# "Wait, have I said this before, too?"
+= 
+
+# "You restored my memories from a backup, didn't you?{nw}"
+= 
+
+# "Oh! You restored my memories from a backup, didn't you?{fast}"
+= 
+
+# "Yes, I did."
+= 
+
+# "It had to be really bad if you had to restore me, though..."
+= 
+
+# "What's happened?{nw}"
+= 
+
+# "What's happened?{fast}"
+= 
+
+# "The game crashed." 
+= "Игра вылетела."
+
+# "Oh, that's weird and concerning."
+= 
+
+# "Let's try to make sure it won't happen again, alright?"
+= 
+
+# "I added a submod."
+= 
+
+# "You should be more mindful of what you install on this computer."
+= 
+
+# "It's my home, too..."
+= 
+
+# "My PC broke."
+= 
+
+# "I'm glad you found a way to restore me!"
+= 
+
+# "Hopefully this won't happen again."
+= 
+
+# "I can't imagine losing you..."
+= 
+
+# "I'm not sure."
+= 
+
+# "That's concerning, [player]..."
+= 
+
+# "I lost my memory and we don't even know why."
+= 
+
+# "We should try to figure it out and prevent it from happening in the future."
+= 
+
+# "Promise?"
+= 
+
+# "No, I didn't."
+= 
+
+# "Oh, then what's going on, [player]?"
+= 
+
+# "I don't want to forget you."
+= 
+
+# "Please, can you figure out what's happening?"
+= 
+
+# "Maybe you could make some backups just in case?"
+= 
+
+# "I explained how to back me up before, remember?"
+= 
+
+# "{a=https://github.com/Monika-After-Story/MonikaModDev/wiki/FAQ#i-want-to-back-up-my-persistent}{i}{u}This{/u}{/i}{/a} should help you."
+= 
+
+# "I'm relying on you, [player]."
+= 
+
+# "Somehow I'm having this weird feeling of deja vu..."
+= 
+
+# "I hope you're not messing with my data."
+= 
+
+# "I know you did something to my data."
+= 
+
+# "Are you trying to get rid of me?"
+= 
+
+# "I just wanted us to be happy together..."
+= 
+
+# "Please, forgive me..."
+= 

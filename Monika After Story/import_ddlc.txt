@@ -1,0 +1,49 @@
+==== import_ddlc ====
+
+# "Save data from Doki Doki Literature Club has been merged already. Aborting."
+= "Данные сохранения из Doki Doki Literature Club объединены. Отмена."
+
+# "Okay."
+= "Окей."
+
+# "Save data for Doki Doki Literature Club was found at [ddlc_save_path]."
+= "Сохранение DDLC было найдено в [ddlc_save_path]."
+
+# "Would you like to import Doki Doki Literature Club save data into [config.name]?\n(DDLC will not be affected)"
+= "Вы хотите импортировать сохранения Doki Doki Literature Club в [config.name]?\n(DDLC не будет затронут)"
+
+# "Yes, import DDLC save data."
+= "Да, загрузить сохранение."
+
+# "No, do not import."
+= "Нет, не загружать."
+
+# "Save data from Doki Doki Literature Club could not be found."
+= "Сохранение Doki Doki Literature Club не найдено."
+
+# "Save data will not be imported at this time."
+= "Сохранения не могут быть импортированы в это время."
+
+# "Okay."
+= "Окей."
+
+# "Couldn't read/decode save data from Doki Doki Literature Club. Aborting."
+= "Не удалось прочитать/декодировать сохранения из Doki Doki Literature Club. Прерываю"
+
+# "Okay."
+= "Окей."
+
+# "Previous Monika After Story save data has also been found.\nWould you like to merge with DDLC save data?"
+= "Также были найдены предыдущие сохранения Monika After Story.\nВы хотите объединить данные с сохранениями DDLC?"
+
+# "Merge save data."
+= "Объединить сохранения."
+
+# "Cancel."
+= "Отмена."
+
+# "DDLC data can be imported later in the Settings menu."
+= "Данные DDLC можно импортировать позже в меню настроек."
+
+# "Player names do not match. Which would you like to keep?"
+= "Имена игроков не совпадают. Какое из них вы хотите оставить?"

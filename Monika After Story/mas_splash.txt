@@ -1,0 +1,52 @@
+==== splash ====
+
+# "DDLC archive files not found in /game folder. Check installation and try again."
+= "Файлы от DDLC не найдены в папке /game. Проверьте установку, повторите попытку."
+
+# "This game is an unofficial fan work, unaffiliated with Team Salvato."
+= "Этот мод это фанатская игра на основе Тук-Тук Литературный Клуб, \n которая ничем не связана с Team Salvato."
+
+# "I can remember it, just like it was yesterday."
+= "Я помню это, как будто это было вчера."
+
+# "I hate the cold."
+= "Ненавижу мороз."
+
+# "I can't feel my fingers."
+= "Я не чувствую своих пальцев."
+
+# "Will you remember me?"
+= "Помнишь ли ты еще обо мне?"
+
+# "A previous save file has been found. Would you like to delete your save data and start over?"
+= "Предыдущие сохранения найдены. Вы желаете удалить их и начать заново?"
+
+# "Yes, delete my existing data."
+= "Да, удалить данные."
+
+# "Deleting save data...{nw}"
+= "Удаление сохранений...{nw}"
+
+# "No, continue where I left off."
+= "Нет, продолжить с ними."
+
+# "[config.name] is a Doki Doki Literature Club fan mod that is not affiliated with Team Salvato."
+= "[config.name] это мод для Тук-Тук Литературный Клуб, который не связан с Team Salvato."
+
+# "It is designed to be played only after the official game has been completed, and contains spoilers for the official game."
+= "В него рекомендуется играть только после завершения основной игры, он содержит ненормативную лексику и спойлеры из официальной игры."
+
+# "Game files for Doki Doki Literature Club are required to play this mod and can be downloaded for free at: http://ddlc.moe"
+= "Файлы для игры Тук-Тук Литературный Клуб обязательно требуются, чтобы работал данный мод, их можно скачать по адресу: http://ddlc.moe"
+
+# "By playing [config.name] you agree that you have completed Doki Doki Literature Club and accept any spoilers contained within."
+= "Играя в [config.name], вы соглашаетесь с тем, что прошли Тук-Тук Литературный Клуб, и готовы на любые спойлеры."
+
+# "I agree."
+= "Я согласен."
+
+# "The save file could not be loaded."
+= "Сохранение не может быть загружено."
+
+# "Are you trying to cheat?"
+= "Ты пытаешься сжульничать?"

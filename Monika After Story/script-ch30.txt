@@ -1,0 +1,102 @@
+
+# "Unstable mode files in install on first session. This can cause issues.\n" 
+= "Файлы нестабильного режима, обнаружены при первом включении. Это может вызвать проблемы\n"
+
+# "Please reinstall the latest stable version of Monika After Story to ensure that there will be no data issues." 
+= "Пожалуйста, переустановите последнюю стабильную версию Monika After Story, чтобы убедится, что проблем с данными не возникнет."
+
+# "his": {"M": "his", "F": "her", "X": "their"
+= 
+
+# "he": {"M": "he", "F": "she", "X": "they"
+= 
+
+# "hes": {"M": "he's", "F": "she's", "X": "they're"
+= 
+
+# "heis": {"M": "he is", "F": "she is", "X": "they are"
+= 
+
+# "bf": {"M": "boyfriend", "F": "girlfriend", "X": "partner"
+= 
+
+# "man": {"M": "man", "F": "woman", "X": "person"
+= 
+
+# "boy": {"M": "boy", "F": "girl", "X": "person"
+= 
+
+# "guy": {"M": "guy", "F": "girl", "X": "person"
+= 
+
+# "him": {"M": "him", "F": "her", "X": "them"
+= 
+
+# "himself": {"M": "himself", "F": "herself", "X": "themselves"
+= 
+
+# "hero": {"M": "hero", "F": "heroine", "X": "hero"
+= 
+
+# "wmic process get Description", shell=True).lower().replace("\r", "").replace(" ", "").split("\n"
+= 
+
+# "mas_isDayNow"
+= 
+
+# "It is his pen."
+= 
+
+# "It is her pen."
+= 
+
+# "It is their pen."
+= 
+
+# "M", "F", "X"
+= 
+
+# "monika_event_clothes_select", "EVE"
+= 
+
+# "monika_gender_redo","EVE"
+= 
+
+# "monika_changename","EVE"
+= 
+
+# "Detected a restored backup"
+= 
+
+# "Now, where was I..." 
+= "Так, и где же я остановилась..."
+
+# "...Are you trying to fast-forward?"
+= 
+
+# "I'm not boring you, am I?" 
+= "Я же не утомила тебя, да?"
+
+# "Oh gosh..." 
+= "О, боже..."
+
+# "...Well, just so you know, there's nothing to fast-forward to, [player]."
+= 
+
+# "It's just the two of us, after all..." 
+= "В конце-концов, здесь только мы вдвоем..."
+
+# "But aside from that, time doesn't really exist anymore, so it's not even going to work." 
+= "Но и кроме прочего, времени на самом деле больше не существует, так что, это даже не сработало бы."
+
+# "Here, I'll go ahead and turn that off for you..." 
+= "Такс, пожалуй я пойду и выключу это ради тебя..."
+
+# "There we go!" 
+= "Ну вот и всё!"
+
+# "You'll be a sweetheart and listen to me from now on, right?" 
+= "С этого момента ты мой хороший, будешь слушать меня, хорошо?"
+
+# "Thanks~" 
+= "Спасибо~"

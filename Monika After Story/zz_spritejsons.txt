@@ -1,0 +1,60 @@
+
+# "loading Highlight object..."
+= 
+
+# "Highlight object loaded successfully!"
+= 
+
+# "loading Highlight Split object..."
+= 
+
+# "Highlight Split object loaded successfully!"
+= 
+
+# "loading mapping..."
+= 
+
+# "No data in Highlight object, ignoring"
+= 
+
+# "No data in Highlight Split object, ignoring"
+= 
+
+# "No data in Filter object, ignoring"
+= 
+
+# "No Pose Arms data found"
+= 
+
+# "Arm must have valid layers set"
+= 
+
+# "loading hair_map..."
+= 
+
+# "hair_map does not have key 'all' set. Using default for 'all'."
+= 
+
+# "'custom' hair cannot be used in JSON hair maps. "
+= 
+
+# "Outfits using 'custom' hair must be created manually."
+= 
+
+# "verifying hair maps..."
+= 
+
+# "loading ex_props..."
+= 
+
+# "loading select_info..."
+= 
+
+# "creating reactions for gifts..."
+= 
+
+# "loading outfit mode data..."
+= 
+
+# "outfit mode data loaded successfully!"
+= 

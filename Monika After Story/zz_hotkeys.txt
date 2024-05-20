@@ -1,0 +1,27 @@
+
+# "open_dialogue"] = ["t","T"
+= 
+
+# "mas_extra_menu"] = ["e", "E"
+= 
+
+# "change_music"] = ["noshift_m","noshift_M"
+= 
+
+# "play_game"] = ["p","P"
+= 
+
+# "mute_music"] = ["shift_m","shift_M"
+= 
+
+# "shift_K_PLUS","K_EQUALS","K_KP_PLUS"
+= 
+
+# "K_MINUS","shift_K_UNDERSCORE","K_KP_MINUS"
+= 
+
+# "derandom_topic"] = ["x","X"
+= 
+
+# "bookmark_topic"] = ["b","B"
+= 

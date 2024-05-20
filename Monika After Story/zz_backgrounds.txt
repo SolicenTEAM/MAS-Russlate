@@ -1,0 +1,138 @@
+
+# "Day"
+= 
+
+# "Slices:"
+= 
+
+# "No slices found"
+= 
+
+# "No unbounded slice found"
+= 
+
+# "Midnight to Sunrise" 
+= "От полуночи до восхода"
+
+# "| CURRENT CHUNK"
+= 
+
+# "Sunrise to Sunset" 
+= "От восхода до заката"
+
+# "| CURRENT CHUNK"
+= 
+
+# "Sunset to Midnight" 
+= "От заката до полуночи"
+
+# "| CURRENT CHUNK"
+= 
+
+# "MASFilterableBackground"
+= 
+
+# "duplicate background ID"
+= 
+
+# "\nCalled from - bupd"
+= 
+
+# "getDayRooms"
+= 
+
+# "getNightRooms"
+= 
+
+# "\nCalled from - prog"
+= 
+
+# "\nCalled from - upd:"
+= 
+
+# "In background '{}' no images found for filters: {}"
+= 
+
+# "Nevermind" 
+= "Забудь"
+
+# "monika_change_background","EVE"
+= 
+
+# "monika_change_background", "EVE"
+= 
+
+# "mas_monika_islands", "EVE"
+= 
+
+# "greeting_ourreality", "GRE"
+= 
+
+# "mas_monika_islands", "EVE"
+= 
+
+# "greeting_ourreality", "GRE"
+= 
+
+# "mas_monika_islands", "EVE"
+= 
+
+# "monika_change_weather", "EVE"
+= 
+
+# "monika_why_spaceroom", "unlock_date"
+= 
+
+# "monika_why_spaceroom", "EVE"
+= 
+
+# "mas_monika_islands", "EVE"
+= 
+
+# "monika_why_spaceroom", "EVE"
+= 
+
+# "monika_change_weather", "EVE"
+= 
+
+# "Spaceroom" 
+= "Космическая комната"
+
+# "mod_assets/location/spaceroom/spaceroom_snow.png"
+= 
+
+# "Can we go somewhere else?" 
+= "Мы можем пойти куда-нибудь еще?"
+
+# "Sure!" 
+= "Конечно!"
+
+# "def_predicate", "predicate", "backgrounds", "final_item"
+= 
+
+# "Where would you like to go?" 
+= "Куда бы ты хотел пойти?"
+
+# "We're here right now, silly." 
+= "Мы здесь прямо сейчас, глупышка."
+
+# "Try again~" 
+= "Попробуй еще раз~"
+
+# "Alright!" 
+= "Хорошо!"
+
+# "Let's go, [player]!" 
+= "Пошли, [player]!"
+
+# "monika_change_weather", "EVE"
+= 
+
+# "monika_change_weather", "EVE"
+= 
+
+# "Here we are!" 
+= "Мы здесь!"
+
+# "Let me know if you want to go somewhere else, okay?" 
+= "Дай мне знать, если захочешь пойти куда-нибудь еще, хорошо?"

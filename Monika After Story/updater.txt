@@ -1,0 +1,90 @@
+
+# "#000000B2"
+= 
+
+# "Ok" 
+= "Ок"
+
+# "Cancel" 
+= "Отмена"
+
+# "Update" 
+= "Обновить"
+
+# "Retry" 
+= "Повторить"
+
+# "Checking for updates..." 
+= "Проверка обновлений..."
+
+# "New update available!" 
+= "Доступно новое обновление!"
+
+# "No update found." 
+= "Нет доступных обновлений."
+
+# "Connection timed out." 
+= "Время ожидания соединения истекло."
+
+# "Server returned bad response." 
+= "Сервер вернул неверный ответ."
+
+# "Server returned bad JSON." 
+= "Сервер вернул bad JSON."
+
+# "GET", "/"
+= 
+
+# "Mod"
+= 
+
+# "Unfortunately..." 
+= "К сожалению..."
+
+# "I can't run the updater because Steam is a meanie!"
+= 
+
+# "Make sure to say goodbye to me first before installing the update." 
+= "Не забудь сначала попрощаться, прежде чем устанавливать обновление."
+
+# "[player]...I see you have some rpy files in your game directory." 
+= "[player]...Я вижу несколько rpy файлов в папке с игрой."
+
+# "I'm sure you remember when I mentioned that those files can cause problems when you update..." 
+= "Я уверена, что ты помнил о том, что я говорила, что эти файлы могут вызвать проблемы при обновлении..."
+
+# "Those files can cause some problems when you update..." 
+= "Эти файлы могут вызвать некоторые проблемы при обновлении..."
+
+# "So I can't run the updater while those are in there."
+= 
+
+# "I can delete those for you and run the updater if you want though!"
+= 
+
+# "Would you like me to delete them?{nw}" 
+= "Хочешь, чтобы я удалила их?{nw]"
+
+# "Would you like me to delete them?{fast}" 
+= "Хочешь, чтобы я удалила их?{fast]"
+
+# "Yes, please." 
+= "Да, пожалуйста"
+
+# "Sure!" 
+= "Конечно!"
+
+# "There we go!" 
+= "Вот так!"
+
+# "No, thanks." 
+= "Нет, спасибо."
+
+# "Alright [player]. If you delete them and then try to update again, I'll run the updater for you."
+= 
+
+# "Error: Failed to move 'update/' folder. Please manually "
+= 
+
+# "move the update folder from 'game/' to the base 'ddlc/' " 
+= "переместите папку 'update' из 'game/' в папку 'ddlc/'"

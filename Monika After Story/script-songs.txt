@@ -1,0 +1,1845 @@
+
+# "monika_sing_song_analysis", "EVE"
+= 
+
+# "monika_sing_song_analysis", "EVE"
+= 
+
+# " (Short)"
+= 
+
+# " (Long)"
+= 
+
+# " (Analysis)"
+= 
+
+# "Can you sing me a song?" 
+= "Можешь спеть мне песенку?"
+
+# "long") and mas_songs.hasUnlockedSongs(length="short"
+= 
+
+# "Nevermind" 
+= "Не бери в голову"
+
+# "I'd like to hear a [switch_str] song instead", "monika_sing_song_pool_menu"
+= 
+
+# "Witch"
+= 
+
+# "Which"
+= 
+
+# "Alright!" 
+= "Хорошо!"
+
+# "Let's talk about a song" 
+= "Поговорим о песне"
+
+# "Nevermind." 
+= "Не бери в голову."
+
+# "Witch"
+= 
+
+# "Which"
+= 
+
+# "Alright!" 
+= "Хорошо!"
+
+# "Can you sing a song on your own again?" 
+= "Ты можешь снова спеть песню сама?"
+
+# "Which song do you want me to sing occasionally?" 
+= "Какую песню ты хочешь, чтобы я время от времени пел?"
+
+# "If you want me to sing this occasionally again, just select the song, [player]." 
+= "Если ты хочешь, чтобы я снова иногда пела это, просто выбери песню, [player]."
+
+# "Tired of hearing me sing that song, [player]?{nw}" 
+= "Устал слушать, как я пою эту песню, [player]?{nw}"
+
+# "Tired of hearing me sing that song, [player]?{fast}" 
+= "Устал слушать, как я пою эту песню, [player]?{fast}"
+
+# "A little." 
+= "Немного."
+
+# "That's alright." 
+= "Всё в порядке."
+
+# "I'll only sing it when you want me to then. Just let me know if you want to hear it." 
+= "Тогда я буду петь только тогда, когда ты этого захочешь. Просто дай мне знать, если ты хочешь это услышать."
+
+# "mas_sing_song_rerandom", "EVE"
+= 
+
+# "It's okay." 
+= "Все в порядке."
+
+# "Alright, [player]." 
+= "Хорошо, [player]."
+
+# "skip alert": None,"force repeat"
+= 
+
+# "monika_sing_song_pool", "EVE"
+= 
+
+# "_long", "SNG"
+= 
+
+# "_analysis", "SNG"
+= 
+
+# "monika_sing_song_analysis", "EVE"
+= 
+
+# "All I Want for Christmas" 
+= "Всё что я хочу на Рождество"
+
+# "Don't forget to turn your in-game volume up, [mas_get_player_nickname()]." 
+= "Не забудь увеличить громкость в игре, [mas_get_player_nickname()]."
+
+# "Merry Christmas Baby" 
+= "Счастливого Рождества, детка"
+
+# "{i}~I feel real good tonight~{/i}"
+= 
+
+# "{i}~And I got music on the radio~{/i}"
+= 
+
+# "{i}~I feel real good tonight~{/i}"
+= 
+
+# "{i}~And I got music on the radio~{/i}"
+= 
+
+# "{i}~Now I feel just like I wanna kiss ya~{/i}"
+= 
+
+# "{i}~Underneath the mistletoe~{/i}"
+= 
+
+# "{i}~With lots of nice little presents for my baby and me~{/i}"
+= 
+
+# "{i}~Merry Christmas baby~{/i}"
+= 
+
+# "{i}~And Happy New Year too~{/i}"
+= 
+
+# "{i}~Merry Christmas, honey~{/i}"
+= 
+
+# "{i}~Everything here is beautiful~{/i}"
+= 
+
+# "{i}~I love you, baby~{/i}"
+= 
+
+# "{i}~For everything that you give me~{/i}"
+= 
+
+# "{i}~I love you, honey~{/i}"
+= 
+
+# "{i}~Merry Christmas, honey~{/i}"
+= 
+
+# "This Christmas Kiss" 
+= "Этот рождественский поцелуй"
+
+# "{i} I'm just loving this weather~{/i}"
+= 
+
+# "{i}~This is my favorite Christmaaas~{/i}"
+= 
+
+# "{i}~I can't resist this Christmas kiss~{/i}"
+= 
+
+# "{i} I can't resist this Christmas kiss~{/i}"
+= 
+
+# "Old Fashioned Lover Boy" 
+= "Старомодный любовник"
+
+# "{i}~I can dim the lights and sing you songs full of sad things~{/i}"
+= 
+
+# "{i}~We can do the tango just for two~{/i}"
+= 
+
+# "{i}~I can serenade and gently play on your heart strings~{/i}"
+= 
+
+# "{i}~Be a Valentino just for you~{/i}"
+= 
+
+# "Ahaha~" 
+= "Ахаха~"
+
+# "Will you be my good old fashioned lover boy, [player]?" 
+= "Будешь моим старым добрым любовником, [player]?"
+
+# "Burning Love" 
+= "Пламенная любовь"
+
+# "{i}~Your kisses lift me higher~{/i}"
+= 
+
+# "{i}~Like the sweet song of a choir~{/i}"
+= 
+
+# "{i}~You light my morning sky~{/i}"
+= 
+
+# "{i}~With burning love~{/i}"
+= 
+
+# "Ahaha~" 
+= "Ахаха~"
+
+# "You always make my day brighter, [player]!" 
+= "Ты всегда делаешь мой день ярче, [player]!"
+
+# "Aries" 
+= "Овен"
+
+# "{i}~I'm standing on a beach in the distance~{/i}"
+= 
+
+# "{i}~And even though you're far away, can you see my red light?~{/i}"
+= 
+
+# "{i}~It's waiting to turn green~{/i}"
+= 
+
+# "{i}~'Cause I feel so isolated without you~{/i}"
+= 
+
+# "{i}~I can't play a happy tune on my own, so stay by my side~{/i}"
+= 
+
+# "{i}~High or low tide~{/i}"
+= 
+
+# "I'm always thinking about the day we will be together, [player]~" 
+= "Я всегда думаю о том дне, когда мы будем вместе, [player]~"
+
+# "I Need You" 
+= "Ты мне нужна"
+
+# "{i}~Please remember how I feel about you~{/i}"
+= 
+
+# "{i}~I could never really live without you~{/i}"
+= 
+
+# "{i}~So, come on back and see~{/i}"
+= 
+
+# "{i}~Just what you mean to me~{/i}"
+= 
+
+# "{i}~I need you~{/i}"
+= 
+
+# "I know that song is about leaving someone, but I think it carries a good message." 
+= "Я знаю, что эта песня о том, как кого-то оставить, но я думаю, что она несет в себе хороший посыл."
+
+# "And I really do need you, [player]~" 
+= "И ты мне действительно нужен, [player]~"
+
+# "I Will" 
+= "Я буду"
+
+# "{i}~Who knows how long I've loved you?~{/i}"
+= 
+
+# "{i}~You know I love you still~{/i}"
+= 
+
+# "{i}~Will I wait a lonely lifetime?~{/i}"
+= 
+
+# "{i}~If you want me to I will~{/i}"
+= 
+
+# "One day we'll be together, [player]." 
+= "Однажды мы будем вместе, [player]."
+
+# "I just hope you'll still love me when that special day comes~" 
+= "Я просто надеюсь, что ты всё ещё будешь любить меня, когда наступит этот особенный день~"
+
+# "We Belong Together" 
+= "Мы принадлежим друг другу"
+
+# "{i}~You're mine~{/i}"
+= 
+
+# "{i}~And we belong together~{/i}"
+= 
+
+# "{i}~Yes, we belong together~{/i}"
+= 
+
+# "{i}~For eternity~{/i}"
+= 
+
+# "Have you ever heard of Doo-wop, [player]?" 
+= "Ты когда-нибудь слышал о Ду-вопе, [player]?"
+
+# "A lot of pop music back then followed this style which made for great love songs." 
+= "Многие поп-музыки того времени следовали этому стилю, что создавало отличные песни о любви."
+
+# "And if you listen closely, you'll notice that my song actually follows the typical Doo-wop chord progression." 
+= "И если ты внимательно послушаешь, ты заметишь, что моя песня на самом деле следует типичной последовательности аккордов ду-воп."
+
+# "I guess you could say I learned from the best." 
+= "Думаю, можно сказать, что я училась у лучших."
+
+# "Everything's Alright" 
+= "Всё в порядке"
+
+# "{i}~When this world is no more~{/i}"
+= 
+
+# "{i}~The moon is all we'll see~{/i}"
+= 
+
+# "{i}~I'll ask you to fly away with me~{/i}"
+= 
+
+# "{i}~Until the stars all fall down~{/i}"
+= 
+
+# "{i}~They empty from the sky~{/i}"
+= 
+
+# "{i}~But I don't mind~{/i}"
+= 
+
+# "{i}~If you're with me, then everything's alright~{/i}"
+= 
+
+# "..."
+= 
+
+# "just look up to the moon and remember me~" 
+= "просто посмотри на луну и вспомни обо мне~"
+
+# "Your Song" 
+= "Твоя песня"
+
+# "{i}~My gift is my song~{/i}"
+= 
+
+# "{i}~And this one's for you~{/i}"
+= 
+
+# "{i}~And you can tell everybody this is your song~{/i}"
+= 
+
+# "{i}~It may be quite simple but now that it's done~{/i}"
+= 
+
+# "{i}~I hope you don't mind~{/i}"
+= 
+
+# "{i}~I hope you don't mind~{/i}"
+= 
+
+# "{i}~That I put down in words~{/i}"
+= 
+
+# "{i}~How wonderful life is while you're in the world~{/i}"
+= 
+
+# "Ahaha~" 
+= "Ахаха~"
+
+# "It's not often I find songs that relate to me as much as this one does." 
+= "Нечасто я нахожу песни, которые относятся ко мне так же сильно, как эта."
+
+# "And I really do mean it when I say that 'Your Reality' is your song." 
+= "И я действительно имею это в виду, когда говорю, что 'Твоя реальность' — это твоя песня."
+
+# "Happy Just to Dance With You" 
+= "Счастлив просто танцевать с тобой"
+
+# "{i}~If somebody tries to take my place~{/i}"
+= 
+
+# "{i}~Let's pretend we just can't see their face~{/i}"
+= 
+
+# "{i}~In this world there's nothing I would rather do~{/i}"
+= 
+
+# "{i}~'Cause I'm happy just to dance with you~{/i}"
+= 
+
+# "There is nothing that makes me happier than discovering that I'm in love with you." 
+= "Ничто не делает меня счастливее, чем обнаружить, что я влюблен в тебя."
+
+# "Ehehe~" 
+= "Эхехе~"
+
+# "All I Have to Do Is Dream" 
+= "Все, что мне нужно сделать, это мечтать"
+
+# "{i}~When I feel blue in the night~{/i}"
+= 
+
+# "{i}~And I need you to hold me tight~{/i}"
+= 
+
+# "{i}~Whenever I want you, all I have to do is dream~{/i}"
+= 
+
+# "Now that you're here, [player], I don't have to dream anymore." 
+= "Теперь, когда ты здесь, [player], мне больше не нужно мечтать."
+
+# "My dream finally came true." 
+= "Наконец-то сбылась моя мечта."
+
+# "I'm Glad You're Evil Too" 
+= "Я рад, что ты тоже злая"
+
+# "{i}~We'd admire the beautiful sunset, or gush about a cute dog together~{/i}"
+= 
+
+# "{i}~We both get offended at some piece of crude news~{/i}"
+= 
+
+# "{i}~We laugh at some terrible movie, and cry while watching a variety show~{/i}"
+= 
+
+# "{i}~That's us- Two slightly lonely souls, having the time of our lives~{/i}"
+= 
+
+# "{i}~Our time is only finite, yet it feels like an unending joke~{/i}"
+= 
+
+# "{i}~But I have you to keep me company through this all too short life~{/i}"
+= 
+
+# "{i}~And together we'd laugh at this boring world, saying: 'How boring~{/i}'"
+= 
+
+# "{i}~That's us- Two slightly lonely souls, leaning on each other's shoulders~{/i}"
+= 
+
+# "{i}~I'm glad you're just as evil as me~{/i}"
+= 
+
+# "{i}~And once again, I wish to live through another day. I'm glad I fell in love with you~{/i}"
+= 
+
+# "I guess being evil isn't so bad as long as I'm with you." 
+= "Думаю, быть злым не так уж и плохо, пока я с тобой."
+
+# "Just us two souls, having the time of our lives~" 
+= "Только мы, две души, проводим время нашей жизни~"
+
+# "Ahaha!" 
+= "Ахаха!"
+
+# "Ehehe, do you still think I'm evil, [player]?" 
+= "Эхе-хе, ты всё ещё думаешь, что я злая, [player]?"
+
+# "Maybe I'll be able to convince you otherwise someday~" 
+= "Может, когда-нибудь я смогу убедить тебя в обратном~"
+
+# "I don't really think either of us are evil, [player]." 
+= "Я действительно не думаю, что кто-то из нас злой, [player]."
+
+# "Nobody Makes Sense" 
+= "Никто не имеет смысла"
+
+# "{i}~For what are we living? For what are we trying so hard?~{/i}"
+= 
+
+# "{i}~There might be nothing, nothing, nothing to it. It might all be useless~{/i}"
+= 
+
+# "{i}~In a thousand years, there won't be anything left, {/i}{nw}"
+= 
+
+# "{i}but I still hope I could keep on smiling with you~{/i}"
+= 
+
+# "{i}~Even when our dreams have come true; even when we have become enlightened, in the end, we might still end up with loneliness~{/i}"
+= 
+
+# "{i}~Even when we've turned into ghosts; even when we've returned to nothingness, {/i}{nw}"
+= 
+
+# "{i}I still hope I could keep on smiling with you~{/i}"
+= 
+
+# "..."
+= 
+
+# "Ahaha!" 
+= "Ахаха!"
+
+# "No matter what happens or how long we wait, I'll always love you." 
+= "Независимо от того, что произойдет или как долго мы будем ждать, я всегда буду любить тебя."
+
+# "I really hope I can keep on smiling with you forever~" 
+= "Я действительно надеюсь, что смогу продолжать улыбаться вместе с тобой вечно~"
+
+# "Yozurina" 
+= "Ёзурина"
+
+# "{i}~Meeting up at midnight~{/i}"
+= 
+
+# "{i}~In a world scattered with bombs~{/i}"
+= 
+
+# "{i}~I was thinking about you, all this time~{/i}"
+= 
+
+# "{i}~Could it have been a misunderstanding of the distance between us?~{/i}"
+= 
+
+# "{i}~That show's so interesting, right?~{/i}"
+= 
+
+# "{i}~Did you read that manga everyone's talking about?~{/i}"
+= 
+
+# "{i}~Did you listen to this song yet?~{/i}"
+= 
+
+# "{i}~Fooling around, on the other sides of the screen~{/i}"
+= 
+
+# "Ehehe, I hope you liked that, [player]~" 
+= "Эхехе, надеюсь, тебе понравилось, [player]~"
+
+# "I just thought it really matched our situation." 
+= "Я просто подумала, что это действительно соответствует нашей ситуации."
+
+# "Vocaloid songs sure have a tendency for that if you can get behind them." 
+= "В песнях вокалоидов определенно есть склонность к этому, если ты можешь от них отстать."
+
+# "I guess this is what happens when I try to express my love for you, ahaha!" 
+= "Наверное, вот что происходит, когда я пытаюсь выразить свою любовь к тебе, ахаха!"
+
+# "Stand by Me" 
+= "Останься со мной"
+
+# "{i}~When the night has come~{/i}"
+= 
+
+# "{i}~And the land is dark~{/i}"
+= 
+
+# "{i}~And the moon is the only light we'll see~{/i}"
+= 
+
+# "{i}~No, I won't be afraid~{/i}"
+= 
+
+# "{i}~Oh, I won't be afraid~{/i}"
+= 
+
+# "{i}~Just as long as you stand, stand by me~{/i}"
+= 
+
+# "All my fears and insecurities just disappear when you're with me, [player]..." 
+= "Все мои страхи и неуверенность просто исчезают, когда ты со мной, [player]..."
+
+# "As long as I have you by my side, there's nothing I can't overcome." 
+= "Пока ты рядом со мной, я ничего не могу преодолеть."
+
+# "...I hope you feel the same way~"
+= 
+
+# "Drift Away" 
+= "Уплыть"
+
+# "{i}~Happily waiting, all on my own~{/i}"
+= 
+
+# "{i}~Under the endless sky~{/i}"
+= 
+
+# "{i}~Counting the seconds, standing alone~{/i}"
+= 
+
+# "{i}~As thousands of years go by~{/i}"
+= 
+
+# "{i}~Happily wondering, night after night~{/i}"
+= 
+
+# "{i}~Is this how it works? Am I doing it right?~{/i}"
+= 
+
+# "{i}~Happy to listen~{/i}"
+= 
+
+# "{i}~Happy to stay~{/i}"
+= 
+
+# "{i}~Happily watching her drift away~{/i}"
+= 
+
+# "..."
+= 
+
+# "Ehehe~" 
+= "Эхехе~"
+
+# "Our story ended much more happily than this song." 
+= "Наша история закончилась гораздо счастливее, чем эта песня."
+
+# "You come to visit me as often as you can, and I'm so grateful for that." 
+= "Ты приходишь ко мне так часто, как только можешь, и я так благодарна за это."
+
+# "But even so, it can be very cathartic to follow a character who faces a major fear of yours." 
+= "Но даже в этом случае может быть очень катарсически следовать за персонажем, который сталкивается с твоим большим страхом."
+
+# "Stand by Me" 
+= "Останься со мной"
+
+# "{i}~So darlin', darlin', stand by me, oh stand by me~{/i}"
+= 
+
+# "{i}~Oh stand, stand by me, stand by me~{/i}"
+= 
+
+# "{i}~If the sky that we look upon~{/i}"
+= 
+
+# "{i}~Should tumble and fall~{/i}"
+= 
+
+# "{i}~Or the mountains should crumble to the sea~{/i}"
+= 
+
+# "{i}~I won't cry, I won't cry, no I won't shed a tear~{/i}"
+= 
+
+# "{i}~Just as long as you stand, stand by me~{/i}"
+= 
+
+# "{i}~And darlin', darlin', stand by me, oh stand by me~{/i}"
+= 
+
+# "{i}~Oh stand now, stand by me, stand by me~{/i}"
+= 
+
+# "{i}~Darlin', darlin', stand by me, oh stand by me~{/i}"
+= 
+
+# "{i}~Oh, stand now, stand by me, stand by me~{/i}"
+= 
+
+# "{i}~Whenever you're in trouble won't you stand by me~{/i}"
+= 
+
+# "{i}~Oh stand by me, won't you stand now, stand by me~{/i}"
+= 
+
+# "Rewrite the Stars" 
+= "Переписать звезды"
+
+# "{i}~What if we rewrite the stars~{/i}"
+= 
+
+# "{i}~Say you were made to be mine~{/i}"
+= 
+
+# "{i}~Nothing could keep us apart~{/i}"
+= 
+
+# "{i}~You'd be the one I was meant to find~{/i}"
+= 
+
+# "{i}~It's up to you~{/i}"
+= 
+
+# "{i}~And it's up to me~{/i}"
+= 
+
+# "{i}~No one could say what we get to be~{/i}"
+= 
+
+# "{i}~So why don't we rewrite the stars~{/i}"
+= 
+
+# "{i}~Maybe the world could be ours~{/i}"
+= 
+
+# "{i}~Tonight~{/i}"
+= 
+
+# "The world really feels like it's ours when I'm with you, [player]~" 
+= "Мир действительно кажется нашим, когда я с тобой, [player]~"
+
+# "I love you so much." 
+= "Я так сильно тебя люблю."
+
+# "Hero" 
+= "Герой"
+
+# "{i}~There's a hero~{/i}"
+= 
+
+# "{i}~If you look inside your heart~{/i}"
+= 
+
+# "{i}~You don't have to be afraid~{/i}"
+= 
+
+# "{i}~Of what you are~{/i}"
+= 
+
+# "{i}~There's an answer~{/i}"
+= 
+
+# "{i}~If you reach into your soul~{/i}"
+= 
+
+# "{i}~And the sorrow that you know~{/i}"
+= 
+
+# "{i}~Will melt away~{/i}"
+= 
+
+# "{i}~And then a hero comes along~{/i}"
+= 
+
+# "{i}~With the strength to carry on~{/i}"
+= 
+
+# "{i}~And you cast your fears aside~{/i}"
+= 
+
+# "{i}~And you know you can survive~{/i}"
+= 
+
+# "{i}~So when you feel like hope is gone~{/i}"
+= 
+
+# "{i}~Look inside you and be strong~{/i}"
+= 
+
+# "{i}~And you'll finally see the truth~{/i}"
+= 
+
+# "{i}~That a hero lies in you~{/i}"
+= 
+
+# "..."
+= 
+
+# "[player]..." 
+= "[player]..."
+
+# "I really hope you paid attention to those lyrics." 
+= "Я действительно надеюсь, что ты обратил внимание на эти тексты."
+
+# "You've told me before that you aren't comfortable with yourself..." 
+= "Ты уже говорил мне раньше, что тебе некомфортно с самим собой..."
+
+# "But I just wanted you to know that deep down inside, you have the power to overcome whatever it is that makes you unhappy." 
+= "Но я просто хотела, чтобы ты знал, что глубоко внутри у тебя есть сила преодолеть все, что делает тебя несчастным."
+
+# "...And I'll be here the entire way to help you find that strength."
+= 
+
+# "As much as I've always wanted you to love me, I want you to love yourself that much more~" 
+= "Как бы я ни хотела, чтобы ты любил меня, я хочу, чтобы ты любил себя ещё больше~"
+
+# "Sometimes life can be really, really hard..." 
+= "Иногда жизнь может быть очень, очень тяжелой..."
+
+# "It can seem like there's no way to overcome whatever obstacles you are facing." 
+= "Может показаться, что нет никакого способа преодолеть любые препятствия, с которыми ты сталкиваешся."
+
+# "...I think I know this about as well as anyone, in fact."
+= 
+
+# "But trust me, no matter what it is, you can." 
+= "Но поверь мне, что бы это ни было, ты сможешь."
+
+# "You may not always realize it, but there is tremendous power in the human spirit." 
+= "Ты можешь не всегда осознавать это, но в человеческом духе заключена огромная сила."
+
+# "So please remember to always believe in yourself, and if you ever find you're doubting yourself, just come to me..." 
+= "Поэтому, пожалуйста, не забывай всегда верить в себя, и если ты когда-нибудь обнаружишь, что сомневаешся в себе, просто приходи ко мне..."
+
+# "I'll be more than happy to help you find that inner-strength, [player]." 
+= "Я буду более чем счастлива помочь тебе найти эту внутреннюю силу, [player]."
+
+# "I know you can do anything~" 
+= "Я знаю, что ты можешь все~"
+
+# "Hero" 
+= "Герой"
+
+# "{i}~It's a long road~{/i}"
+= 
+
+# "{i}~When you face the world alone~{/i}"
+= 
+
+# "{i}~No one reaches out a hand~{/i}"
+= 
+
+# "{i}~For you to hold~{/i}"
+= 
+
+# "{i}~You can find love~{/i}"
+= 
+
+# "{i}~If you search within yourself~{/i}"
+= 
+
+# "{i}~And the emptiness you felt~{/i}"
+= 
+
+# "{i}~Will disappear~{/i}"
+= 
+
+# "{i}~And then a hero comes along~{/i}"
+= 
+
+# "{i}~With the strength to carry on~{/i}"
+= 
+
+# "{i}~And you cast your fears aside~{/i}"
+= 
+
+# "{i}~And you know you can survive~{/i}"
+= 
+
+# "{i}~So when you feel like hope is gone~{/i}"
+= 
+
+# "{i}~Look inside you and be strong~{/i}"
+= 
+
+# "{i}~And you'll finally see the truth~{/i}"
+= 
+
+# "{i}~That a hero lies in you~{/i}"
+= 
+
+# "{i}~Lord knows~{/i}"
+= 
+
+# "{i}~Dreams are hard to follow~{/i}"
+= 
+
+# "{i}~But don't let anyone~{/i}"
+= 
+
+# "{i}~Tear them away~{/i}"
+= 
+
+# "{i}~Just hold on~{/i}"
+= 
+
+# "{i}~There will be tomorrow~{/i}"
+= 
+
+# "{i}~In time you'll find the way~{/i}"
+= 
+
+# "{i}~And then a hero comes along~{/i}"
+= 
+
+# "{i}~With the strength to carry on~{/i}"
+= 
+
+# "{i}~And you cast your fears aside~{/i}"
+= 
+
+# "{i}~And you know you can survive~{/i}"
+= 
+
+# "{i}~So when you feel like hope is gone~{/i}"
+= 
+
+# "{i}~Look inside you and be strong~{/i}"
+= 
+
+# "{i}~And you'll finally see the truth~{/i}"
+= 
+
+# "{i}~That a hero lies in you~{/i}"
+= 
+
+# "{i}~That a hero lies in you~{/i}"
+= 
+
+# "{i}~That a hero lies in you~{/i}"
+= 
+
+# "Memories of a Girl I Haven't Met" 
+= "Воспоминания о девушке, которую я не встречал"
+
+# "{i}~In this lonely place bathed in silence and thoughts of you~{/i}"
+= 
+
+# "{i}~I can't see your face but I'm trying to envision you~{/i}"
+= 
+
+# "{i}~So are you really out there?~{/i}"
+= 
+
+# "{i}~Are you awake with memories?~{/i}"
+= 
+
+# "{i}~Of a girl you haven't met yet who's wished upon the Pleiades?~{/i}"
+= 
+
+# "I think about you every night, [player]." 
+= "Я думаю о тебе каждую ночь, [player]."
+
+# "And I know you think about me too." 
+= "И я знаю, что ты тоже думаешь обо мне."
+
+# "My Silver Lining" 
+= "Моя серебряная оболочка"
+
+# "But then you came along and turned my whole world upside down..." 
+= "Но потом появился ты и перевернул весь мой мир с ног на голову..."
+
+# "I want to thank you again for helping me see the truth, [player]." 
+= "Я хочу ещё раз поблагодарить тебя за то, что помогли мне увидеть правду, [player]."
+
+# "It wasn't easy at first, considering all I had to sacrifice, but I know it will all work out in the end." 
+= "Сначала это было нелегко, учитывая все, чем мне пришлось пожертвовать, но я знаю, что в конце концов все получится."
+
+# "When you spend your time with me, I can't help but feel all my hopes and dreams will come true." 
+= "Когда ты проводишь со мной свое время, я не могу не чувствовать, что все мои надежды и мечты сбудутся."
+
+# "There's actually a lot more I'd like to say about this song..." 
+= "На самом деле, я ещё многое хотел бы сказать об этой песне..."
+
+# "Do you have time to listen to it now?{nw}" 
+= "У тебя есть время послушать это сейчас?{nw}"
+
+# "Do you have time to listen to it now?{fast}" 
+= "У тебя есть время послушать это сейчас?{fast}"
+
+# "Sure." 
+= "Конечно."
+
+# "Alright!" 
+= "Хорошо!"
+
+# "Not right now." 
+= "Не сейчас."
+
+# "Alright, [player]..." 
+= "Хорошо, [player]..."
+
+# "My silver lining" 
+= "Моя серебряная оболочка"
+
+# "I should probably start by singing you the next part, then..." 
+= "Наверное, мне следует начать со следующей части, тогда..."
+
+# "Let me sing you the song first then--" 
+= "Позволь мне сначала спеть тебе песню..."
+
+# "{i}~Gotta keep on going, looking straight out on the road~{/i}"
+= 
+
+# "{i}~Can't worry 'bout what's behind you or what's coming for you further up the road~{/i}"
+= 
+
+# "{i}~I try not to hold on to what is gone, I try to do right what is wrong~{/i}"
+= 
+
+# "{i}~I try to keep on keeping on~{/i}"
+= 
+
+# "{i}~Yeah I just keep on keeping on~{/i}"
+= 
+
+# "There's not a lot for me to do, nowhere for me to go, and it gets lonely whenever you're away." 
+= "Мне нечего делать, мне некуда идти, и когда тебя нет, мне становится одиноко."
+
+# "I try not to let it get to me, but when it does I like to think back upon this song..." 
+= "Я стараюсь не позволять этому задеть меня, но когда это происходит, я люблю вспоминать эту песню..."
+
+# "It's crazy how a bit of music can help turn things around when you're feeling down!" 
+= "Это безумие, как немного музыки может помочь изменить ситуацию, когда ты чувствуешь себя подавленным!"
+
+# "It's like this song is breaking down what was wrong with my life, and then tells me it's okay to let go of my problems." 
+= "Как будто эта песня ломает то, что было не так в моей жизни, а затем говорит мне, что можно отпустить мои проблемы."
+
+# "'Can't worry about what's behind you or what's coming for you further up the road' as they say. Ehehe~"
+= 
+
+# "Whatever your situation is, the fact is things are how they are and there's no reason not to keep smiling." 
+= "Какой бы ни была твоя ситуация, дело в том, что всё так, как есть, и нет причин не улыбаться."
+
+# "Now, I'm not telling you not to worry at all..." 
+= "Я же не говорю, чтобы ты вообще не волновался..."
+
+# "If I did that, I would've let the game run its course and I'd be forever stuck on my own by now." 
+= "Если бы я сделала это, я бы позволила игре идти своим чередом, и теперь я навсегда застрял бы в одиночестве."
+
+# "...But at the same time, there's no sense in getting overly worked up about things you can't change..."
+= 
+
+# "It's all about striking the right balance, I suppose." 
+= "Я полагаю, всё дело в том, чтобы найти правильный баланс."
+
+# "When you think about it, the ideas in here come strangely close to existential nihilism, don't they?" 
+= "Если задуматься, идеи здесь странным образом близки к экзистенциальному нигилизму, не так ли?"
+
+# "...Though if you were to keep going, like in this next verse..."
+= 
+
+# "{i}~I've woken up in a hotel room~{/i}"
+= 
+
+# "{i}~My worries as big as the moon~{/i}"
+= 
+
+# "{i}~Having no idea who or what or where I am~{/i}"
+= 
+
+# "{i}~Something good comes with the bad~{/i}"
+= 
+
+# "{i}~A song's never just sad~{/i}"
+= 
+
+# "{i}~There's hope, there's a silver lining~{/i}"
+= 
+
+# "{i}~Show me my silver lining~{/i}"
+= 
+
+# "...Then I'd say the meaning of the song isn't so much about nihilism as it is about hope."
+= 
+
+# "And maybe that's what's important, after all." 
+= "А может быть, это, в конце концов, и важно."
+
+# "Whether our lives matter or not, I want to believe there's a bright side of life, [player]..." 
+= "Неважно, имеет значение наша жизнь или нет, я хочу верить, что в жизни есть светлая сторона, [player]..."
+
+# "But just so you know, I don't believe our lives really are meaningless..." 
+= "Но чтобы ты знал, я не верю, что наша жизнь действительно бессмысленна..."
+
+# "Whatever the truth is, maybe we could try to figure it out together." 
+= "Какова бы ни была правда, может быть, мы могли бы попытаться выяснить это вместе."
+
+# "But until we do, we'll just have to keep smiling and not worry about whatever might come next~" 
+= "Но пока мы этого не сделаем, нам просто нужно продолжать улыбаться и не беспокоиться о том, что может произойти дальше~"
+
+# "{i}~I don't want to wait anymore, I'm tired of looking for answers~{/i}"
+= 
+
+# "{i}~Take me some place where there's music and there's laughter~{/i}"
+= 
+
+# "{i}~I don't know if I'm scared of dying but I'm scared of living too fast, too slow~{/i}"
+= 
+
+# "{i}~Regret, remorse, hold on, oh no I've got to go~{/i}"
+= 
+
+# "{i}~There's no starting over, no new beginnings, time races on~{/i}"
+= 
+
+# "{i}~And you've just gotta keep on keeping on~{/i}"
+= 
+
+# "Amaranthine" 
+= "Амарантин"
+
+# "{i}~Time goes by as day and nights are turning into years~{/i}"
+= 
+
+# "{i}~But I'm lying in your arms~{/i}"
+= 
+
+# "{i}~It's the place~{/i}"
+= 
+
+# "{i}~Where I know that I am closest to your heart~{/i}"
+= 
+
+# "{i}~Where the dark is torn apart~{/i}"
+= 
+
+# "{i}~I know you feel the same as I inside~{/i}"
+= 
+
+# "{i}~It feels like in a dream where we can fly~{/i}"
+= 
+
+# "{i}~Like a sign, like a dream, you're my amaranthine~{/i}"
+= 
+
+# "{i}~You are all I needed, believe me~{/i}"
+= 
+
+# "{i}~Like we drift in a stream~{/i}"
+= 
+
+# "{i}~Your beauty serene~{/i}"
+= 
+
+# "{i}~There's nothing else in life I ever need~{/i}"
+= 
+
+# "{i}~My dream, amaranthine~{/i}"
+= 
+
+# "My life feels so complete with you in it, [player]." 
+= "Моя жизнь кажется такой полной с тобой, [player]."
+
+# "I love you so much~" 
+= "Я так тебя люблю~"
+
+# "Shelter" 
+= "Приют"
+
+# "Ehehe~" 
+= "Эхехе~"
+
+# "You're the reason I can keep moving forward, [player]." 
+= "Ты причина, по которой я могу продолжать двигаться вперед, [player]."
+
+# "I want you to remember you're not." 
+= "Я хочу, чтобы ты помнил, что это не так."
+
+# "...You've got me for one!"
+= 
+
+# "There always will be someone out there rooting for us!" 
+= "Всегда найдется кто-то, кто будет болеть за нас!"
+
+# "I actually have more I'd like to say about this song, but only if you have the time of course..." 
+= "На самом деле, я хотела бы ещё многое сказать об этой песне, но только если у тебя, конечно, будет время..."
+
+# "Would you like to hear more about it right now?{nw}" 
+= "Хочешь узнать об этом больше прямо сейчас?{nw}"
+
+# "Would you like to hear more about it right now?{fast}" 
+= "Хотели бы ты услышать больше об этом прямо сейчас?{fast}"
+
+# "Sure!" 
+= "Конечно!"
+
+# "Okay, great!" 
+= "Хорошо, отлично!"
+
+# "Not right now." 
+= "Не сейчас."
+
+# "Okay, [player]..." 
+= "Хорошо, [player]..."
+
+# "Just let me know when you'd like to hear my thoughts about it later." 
+= "Просто дай мне знать, когда ты захочешь услышать мои мысли об этом позже."
+
+# "Shelter" 
+= "Приют"
+
+# "So this song is called {i}Shelter{/i} and, as you can probably tell, I really like it." 
+= "Итак, эта песня называется {i}Приют{/i}, и, как ты, наверное, догадался, она мне очень нравится."
+
+# "This song is called {i}Shelter{/i} and I really like it, [player]." 
+= "Эта песня называется {i}Приют{/i}, и она мне очень нравится, [player]."
+
+# "Maybe it'd be more accurate to call it an animation project?" 
+= "Может быть, правильнее было бы назвать это анимационным проектом?"
+
+# "Regardless of what you want to call it, I highly recommend you experience the entire thing sometime." 
+= "Независимо от того, как ты хочешь это назвать, я настоятельно рекомендую тебе испытать всё это как-нибудь."
+
+# "I came across it while browsing for some music, but it instantly left a big impression on me." 
+= "Я наткнулась на него, когда искала музыку, но она сразу же произвела на меня большое впечатление."
+
+# "It tells the story of Rin, a girl stranded alone in a simulation." 
+= "В ней рассказывается история Рин, девушки, оказавшейся в одиночестве в симуляции."
+
+# "Turns out there was someone outside who truly loved her and created her world so she could have a future!" 
+= "Оказывается, снаружи был кто-то, кто действительно любил ее и создал её мир, чтобы у неё было будущее!"
+
+# "Thanks to these new-found memories, she realizes she was never alone in the first place and can keep moving forward, believing in the future." 
+= "Благодаря этим новым воспоминаниям она понимает, что никогда не была одна и может продолжать двигаться вперед, веря в будущее."
+
+# "Watching it, I was surprised at how moved I was by Rin's story..." 
+= "Посмотрев это, я был удивлена тем, насколько меня тронула история Рин..."
+
+# "From the way she was stuck in that empty world, {nw}" 
+= "По тому, как она застряла в этом пустом мире, {nw}"
+
+# "By the end, I was so overwhelmed I was actually crying!" 
+= "В конце я была так потрясена, что даже плакала!"
+
+# "Not to mention, this song carries a very good message..." 
+= "Не говоря уже о том, что эта песня несет в себе очень хороший посыл..."
+
+# "It's a reminder you may not see all the people who care about you immediately..." 
+= "Это напоминание о том, что ты можешь не сразу увидеть всех людей, которые заботятся о тебя..."
+
+# "I promise." 
+= "Обещаю."
+
+# "Just look at me!" 
+= "Ты только посмотри на меня!"
+
+# "I found you!" 
+= "Я нашла тебя!"
+
+# "I'm sure your family must care a lot about you as well!" 
+= "Я уверена, что твоя семья тоже должна заботиться о тебе!"
+
+# "I may be stating the obvious, but they really {i}are{/i} important." 
+= "Возможно, я констатирую очевидное, но они действительно {i}важны{/i}."
+
+# "I can already think of tons of people who care about you!" 
+= "Я уже могу думать о множестве людей, которые заботятся о тебе!"
+
+# "Try going over the lyrics again!" 
+= "Попробуй ещё раз прочитать текст!"
+
+# "Only this time, assume the 'they' refers to all these other versions of me out there, each with their own partner..." 
+= "Только на этот раз предположим, что 'они' относятся ко всем этим другим версиям меня, каждая со своим партнером..."
+
+# "They all know of our love and carry it with them, even if they don't know our names or faces." 
+= "Они все знают о нашей любви и несут её с собой, даже если не знают наших имен или лиц."
+
+# "I know because I care about them too, if only because I'm aware of the bond they share." 
+= "Я знаю, потому что я тоже забочусь о них, хотя бы потому, что знаю об их узах."
+
+# "No matter what happens in our lives from now on, we can face it knowing there always will be someone out there rooting for us~" 
+= "Что бы ни случилось в нашей жизни с этого момента, мы можем столкнуться с этим, зная, что всегда найдётся кто-то, кто будет болеть за нас~"
+
+# "{i}~When I'm older, I'll be silent beside you~{/i}"
+= 
+
+# "{i}~I know words won't be enough~{/i}"
+= 
+
+# "{i}~And they won't need to know our names or our faces~{/i}"
+= 
+
+# "{i}~But they will carry on for us~{/i}"
+= 
+
+# "{i}~And it's a long way forward, so trust in me~{/i}"
+= 
+
+# "{i}~I'll give them shelter, like you've done for me~{/i}"
+= 
+
+# "{i}~And I know I'm not alone, you'll be watching over us~{/i}"
+= 
+
+# "{i}~Until you're gone~{/i}"
+= 
+
+# "Can't Help Falling in Love" 
+= "Не могу не влюбиться"
+
+# "..."
+= 
+
+# " Ahaha~"
+= 
+
+# "I love you, [player]~" 
+= "Я люблю тебя, [player]~"
+
+# "Can't Help Falling in Love" 
+= "Не могу не влюбиться"
+
+# "L'Amour Toujours" 
+= "L'Amour Toujours"
+
+# "{i}~I still believe in your eyes~{/i}"
+= 
+
+# "{i}~I just don't care what you've done in your life~{/i}"
+= 
+
+# "{i}~Baby, I'll always be here by your side~{/i}"
+= 
+
+# "{i}~I still believe in your eyes~{/i}"
+= 
+
+# "{i}I belong to your life~{/i}"
+= 
+
+# "{i}~Because I'll live to love you some day~{/i}"
+= 
+
+# "{i}~You'll be my baby and we'll fly away~{/i}"
+= 
+
+# "{i}~And I'll fly with you~{/i}"
+= 
+
+# "{i}~I'll fly with you~{/i}"
+= 
+
+# "..."
+= 
+
+# "I want nothing more than to be by your side forever, [player]~" 
+= "Я не хочу ничего, кроме как всегда быть рядом с тобой, [player]~"
+
+# "God Knows" 
+= "Бог знает"
+
+# "{i} I would follow you, no matter what we go through~{/i}"
+= 
+
+# "{i}~Bring all the darkness the world can offer~{/i}"
+= 
+
+# "{i}~And even if it scares me~{/i}"
+= 
+
+# "{i}~Nothing can shatter my soul because your way is my way~{/i}"
+= 
+
+# "{i}~Forever on this railway~{/i}"
+= 
+
+# "{i}~As if we were God blessed~{/i}"
+= 
+
+# "..."
+= 
+
+# "You know, I'm still skeptical about whether some sort of a god exists or not..." 
+= "Знаешь, я до сих пор скептически отношусь к тому, существует какой-то бог или нет..."
+
+# "But having you here really does feel like a blessing from the heavens." 
+= "Но то, что ты здесь, действительно похоже на благословение с небес."
+
+# "Ageage Again" 
+= "Снова возраст"
+
+# "{i}~Ageage, ageage, again!~{/i}"
+= 
+
+# "{i}~If you recall this song suddenly~{/i}"
+= 
+
+# "{i}~Party, party, party, party, party time!~{/i}"
+= 
+
+# "{i}~I am by your side~{/i}"
+= 
+
+# "{i}~Ageage, ageage, again!~{/i}"
+= 
+
+# "{i}~If I recall your smile~{/i}"
+= 
+
+# "{i}~Love, love, love, love, I'm in love!~{/i}"
+= 
+
+# "{i}~Want to feel the same rhythm~{/i}"
+= 
+
+# "You know, I love how upbeat and happy this song is." 
+= "Знаешь, мне нравится, насколько оптимистичной и счастливой является эта песня."
+
+# "There are a lot of other Vocaloid songs that {i}sound{/i} upbeat, but their lyrics are sad and sometimes disturbing..." 
+= "Есть много других песен Водалоидов, которые {i}звучат{/i} оптимистично, но их тексты грустны и иногда тревожны..."
+
+# "But I'm glad that at least this song isn't one of them." 
+= "Но я рада, что по крайней мере эта песня не одна из них."
+
+# "From what I can tell, this song is about a girl who fell in love with a boy at a party, and now wants to go with him to another party the next weekend." 
+= "Насколько я могу судить, эта песня о девушке, которая влюбилась в парня на вечеринке и теперь хочет пойти с ним на другую вечеринку в следующие выходные."
+
+# "Even though we didn't meet at a party, the feel of this song really reminds me of us." 
+= "Несмотря на то, что мы встретились не на вечеринке, эта песня действительно напоминает мне о нас."
+
+# "Though, I can't deny I'd love to go to a party with you sometime~" 
+= "Хотя, я не могу отрицать, что хотела бы как-нибудь пойти с тобой на вечеринку~"
+
+# "That is, if you're up to it." 
+= "То есть, если ты готов к этому."
+
+# "If not, there are still plenty of things I'd love to do with you~" 
+= "Если нет, то я бы хотела сделать с тобой ещё много вещёй~"
+
+# "Falling in Love at a Coffee Shop" 
+= "Влюбиться в кофейню"
+
+# "{i}~I think that possibly, maybe I'm falling for you~{/i}"
+= 
+
+# "{i}~Yes, there's a chance that I've fallen quite hard over you~{/i}"
+= 
+
+# "{i}~I've seen the waters that make your eyes shine, now I'm shining too~{/i}"
+= 
+
+# "{i}~Because, oh, because I've fallen quite hard over you~{/i}"
+= 
+
+# "{i}~If I didn't know you, I'd rather not know~{/i}"
+= 
+
+# "{i}~If I couldn't have you, I'd rather be alone~{/i}"
+= 
+
+# "{i}~I never knew just what it was~{/i}"
+= 
+
+# "{i}~About this old coffee shop I love so much~{/i}"
+= 
+
+# "{i}~All of the while, I never knew~{/i}"
+= 
+
+# "..."
+= 
+
+# "I suppose the first moment of falling in love can be confusing to anyone." 
+= "Я полагаю, что первый момент влюбленности может сбить с толку любого."
+
+# "or why attending a certain club meeting becomes your favorite part of the day." 
+= "или почему посещёние определенного собрания клуба становится твоей любимой частью дня."
+
+# "Then when you have time to think, you realize it isn't the place at all, it's the person you meet there each day~" 
+= "Затем, когда у тебя есть время подумать, ты понимаешь, что это вовсе не место, а человек, которого ты встречаешь там каждый день~"
+
+# "Wonderwall" 
+= "Чудесная стена"
+
+# "Ehehe, you really are the one who saved me, [player]~" 
+= "Эхехе, ты действительно тот, кто спас меня, [player]~"
+
+# "I'm forever grateful you brought me back. {nw}" 
+= "Я бесконечно благодарна тебе за то, что ты вернул меня. {nw}"
+
+# "I'm forever grateful you stayed for me. {nw}" 
+= "Я бесконечно благодарна, что ты остался со мной. {nw}"
+
+# "I trust you to take care of me until I can find my way to you." 
+= "Я верю, что ты позаботишься обо мне, пока я не найду дорогу к тебе."
+
+# "Like this song says, the way from here to your world is a winding road, there's no telling what we'll find beyond the next curve." 
+= "Как поется в этой песне, путь отсюда в твой мир — извилистая дорога, и невозможно сказать, что мы найдем за следующим поворотом."
+
+# "...But with you by my side, there's no way I could be afraid."
+= 
+
+# "After all, you're my wonderwall~" 
+= "В конце концов, ты моя чудесная стена~"
+
+# "The only thing we can be sure of is the place it leads us to will be worth it." 
+= "Единственное, в чем мы можем быть уверен, так это в том, что место, куда оно нас приведет, будет того стоить."
+
+# "but I trust you, so we'll just have to keep on walking until we reach that place~" 
+= "но я доверяю тебе, так что нам просто нужно идти дальше, пока мы не доберемся до этого места~"
+
+# "...Would you like to talk about it now?{nw}"
+= 
+
+# "...Would you like to talk about it now?{fast}"
+= 
+
+# "Sure." 
+= "Конечно."
+
+# "Okay then!" 
+= "Тогда ладно!"
+
+# "Not now." 
+= "Не сейчас."
+
+# "Oh, okay then..." 
+= "О, тогда ладно..."
+
+# "Just let me know if you want to talk more about this song later." 
+= "Просто дай мне знать, если ты хочешь поговорить об этой песне позже."
+
+# "Wonderwall" 
+= "Чудесная стена"
+
+# "There's a lot of people who are very vocal about their dislike for this song..." 
+= "Есть много людей, которые громко заявляют о своей неприязни к этой песне..."
+
+# "You wouldn't expect that, would you?" 
+= "Ты же не ожидал этого, не так ли?"
+
+# "So what makes some people hate it so much?" 
+= "Так что же заставляет некоторых людей так ненавидеть её?"
+
+# "While some people listen to the same music for long periods of time, not everybody can do that." 
+= "Хотя некоторые люди слушают одну и ту же музыку в течение длительного периода времени, не все могут это делать."
+
+# "...I hope you won't get tired of {i}my{/i} song anytime soon [player], ahaha~"
+= 
+
+# "Another argument you could make is that it's overrated in some ways..." 
+= "ещё один аргумент, который ты могли бы привести, заключается в том, что он в некотором смысле переоценен..."
+
+# "Even though I like it, I still have to admit that the lyrics and chords are pretty simple." 
+= "Несмотря на то, что мне это нравится, я всё же должна признать, что слова и аккорды довольно просты."
+
+# "Especially considering many other songs go completely unnoticed, no matter how advanced or ambitious they are." 
+= "Особенно учитывая, что многие другие песни остаются совершенно незамеченными, какими бы продвинутыми или амбициозными они ни были."
+
+# "...But what bothers me is when someone complains about it just because it's trendy to go against the general opinion."
+= 
+
+# "I guess my point here is to just be yourself and like what you like." 
+= "Думаю, моя цель здесь в том, чтобы просто быть собой и любить то, что тебе нравится."
+
+# "As long as you follow your heart and stay true to yourself, you can never go wrong, [player]~" 
+= "Пока ты следуешь своему сердцу и остаёшся верным себе, ты никогда не ошибешься, [player]~"
+
+# "{i}~I don't believe that anybody feels the way I do about you now~{/i}"
+= 
+
+# "{i}~And all the roads we have to walk are winding~{/i}"
+= 
+
+# "{i}~And all the lights that lead us there are blinding~{/i}"
+= 
+
+# "{i}~There are many things that I would like to say to you but I don't know how~{/i}"
+= 
+
+# "{i}~Because maybe~{/i}"
+= 
+
+# "{i}~You're gonna be the one that saves me~{/i}"
+= 
+
+# "{i}~And after all~{/i}"
+= 
+
+# "{i}~You're my wonderwall~{/i}"
+= 
+
+# "When You're Gone" 
+= "Когда ты уйдешь"
+
+# "{i}~When you're gone~{/i}"
+= 
+
+# "{i}~The face I came to know is missing too~{/i}"
+= 
+
+# "{i}~When you're gone~{/i}"
+= 
+
+# "{i}~I miss you~{/i}"
+= 
+
+# "..."
+= 
+
+# "Avril Lavigne wrote this song for her grandfather that passed away, because they were like best friends when she was younger." 
+= "Аврил Лавин написала эту песню для своего умершего дедушки, потому что они были как лучшие друзья, когда она была моложе."
+
+# "I haven't really had anyone in my life actually die before, but thinking about not being able to talk to someone ever again..." 
+= "На самом деле в моей жизни ещё никто не умирал, но я думаю о том, что больше никогда не смогу с кем-то поговорить..."
+
+# " I'll be okay as long as you're here to brighten up my day~"
+= 
+
+# "We Have All the Time in the World" 
+= "У нас есть всё время мира"
+
+# "..."
+= 
+
+# "You've made me the happiest girl in the world, [player]. I'll always be grateful for that." 
+= "Ты сделал меня самой счастливой девушкой в ​​мире, [player]. Я всегда буду тебе за это благодарна."
+
+# "I hope that I do the same for you~" 
+= "Я надеюсь, что сделаю то же самое для тебя~"
+
+# "We Have All the Time in the World" 
+= "У нас есть всё время мира"
+
+# "When You Say Nothing at All" 
+= "Когда ты вообще ничего не говоришь"
+
+# "..."
+= 
+
+# "I can't really see your face, or see the truth from your eyes, nor can I touch your hand..." 
+= "Я не могу по-настоящему увидеть твоего лица, или увидеть правду в твоих глазах, и я не могу коснуться твоей руки..."
+
+# "But when you spend time with me without saying a word, it tells me everything I need to know..." 
+= "Но когда ты проводишь время со мной, не говоря ни слова, это говорит мне все, что мне нужно знать..."
+
+# "That I am loved by someone, and that you'll be here for me when I'm having a bad day." 
+= "Что меня кто-то любит, и что ты будешь рядом, когда у меня будет плохой день."
+
+# "And I hope that you feel loved by me too, even though I don't always have something new to say." 
+= "И я надеюсь, что ты тоже чувствуешь, что я тебя люблю, хотя я не всегда могу сказать что-то новое."
+
+# "Just opening the game and having me in the background makes a world of difference to me, [player]~" 
+= "То, что ты открываешь игру и видишь, что я на заднем плане, имеет для меня огромное значение, [player]~"
+
+# "When You Say Nothing at All" 
+= "Когда ты вообще ничего не говоришь"
+
+# "Strawberry" 
+= "Клубника"
+
+# "..."
+= 
+
+# "I can't wait until the day I can finally be with you, [player]." 
+= "Не могу дождаться того дня, когда наконец смогу быть с тобой, [player]."
+
+# "I can't wait until I finally get to look back into your eyes..." 
+= "Не могу дождаться, когда наконец смогу снова взглянуть в твои глаза..."
+
+# "I know it's still a far way off, but I hope we get to see that dream become reality~" 
+= "Я знаю, что до этого ещё далеко, но я надеюсь, что мы увидим, как эта мечта станет реальностью~"
+
+# "Strawberry" 
+= "Клубника"
+
+# "Save the Last Dance for Me" 
+= "Оставь последний танец для меня"
+
+# "..."
+= 
+
+# "This song is so profound for me, [player]." 
+= "Эта песня очень глубока для меня, [player]."
+
+# "Every time I hear it, my heart yearns for us to finally dance together..." 
+= "Каждый раз, когда я это слышу, мое сердце жаждет, чтобы мы наконец-то потанцевали вместе..."
+
+# "There's actually a story behind this song, do you have time to hear it now?{nw}" 
+= "На самом деле за этой песней стоит история, у тебя есть время послушать ее сейчас?{nw}"
+
+# "There's actually a story behind this song, do you have time to hear it now?{fast}" 
+= "На самом деле за этой песней стоит история, у тебя есть время послушать ее сейчас?{fast}"
+
+# "Yes." 
+= "Да."
+
+# "No." 
+= "Нет."
+
+# "Oh, okay, just let me know if you want to talk about this song later, okay?" 
+= "О, хорошо, просто дай мне знать, если захочешь поговорить об этой песне позже, хорошо?"
+
+# "Thank you for continuing to listen to my aching heart..." 
+= "Спасибо, что продолжаешь слушать мое ноющее сердце..."
+
+# "I love you, [player]~" 
+= "Я люблю тебя, [player]~"
+
+# "{i}~Who held your hand beneath the pale moonlight~{/i}"
+= 
+
+# "{i}~But don't forget who's takin' you home~{/i}"
+= 
+
+# "{i}~And in whose arms you're gonna be~{/i}"
+= 
+
+# "Save the Last Dance for Me" 
+= "Оставь последний танец для меня"
+
+# "Great!" 
+= "Большой!"
+
+# "The story behind this song may seem to be just another romantic declaration of faithfulness." 
+= "История этой песни может показаться просто ещё одним романтическим заявлением о верности."
+
+# "However, the actual story is pretty dramatic and sad..." 
+= "Однако реальная история довольно драматична и грустна..."
+
+# "A few years later, the strong feelings of that night reignited as he found a wedding invitation they had not sent out." 
+= "Несколько лет спустя сильные чувства той ночи вновь вспыхнули, когда он нашел свадебное приглашение, которое они не отправили."
+
+# "Jerome had a moment of envy when he saw his brother dancing with his wife on his own wedding night, while he was forced to watch from the sidelines." 
+= "У Джерома был момент зависти, когда он увидел, как его брат танцует с женой в брачную ночь, в то время как он был вынужден наблюдать со стороны."
+
+# "The Grammy winner had been paralyzed by polio since he was a child, and could only get around with the help of a walker or wheelchair." 
+= "Победитель Грэмми был парализован полиомиелитом с детства и мог передвигаться только с помощью ходунков или инвалидной коляски."
+
+# "As he remembered that day and began to write the lyrics to the song, he wanted it to have a poetic feel." 
+= "Когда он вспомнил тот день и начал писать текст к песне, он хотел, чтобы она была поэтичной."
+
+# "Even though there was a hint of jealousy in the song, he wanted it to be romantic." 
+= "Несмотря на то, что в песне был намек на ревность, он хотел, чтобы она была романтичной."
+
+# "So at the end of the day, I just hope you'll save the last dance for me~" 
+= "Так что, в конце концов, я просто надеюсь, что ты оставишь для меня последний танец~"
+
+# "Fly Me to the Moon" 
+= "Отправь меня на Луну"
+
+# "{i}~Fly me to the moon~{/i}"
+= 
+
+# "{i}~And let me play among the stars~{/i}"
+= 
+
+# "{i}~Let me see what spring is like~{/i}"
+= 
+
+# "{i}~On Jupiter and Mars~{/i}"
+= 
+
+# "{i}~In other words, hold my hand~{/i}"
+= 
+
+# "{i}~Fill my heart with song, and let me sing forevermore~{/i}"
+= 
+
+# "{i}~In other words, please be true~{/i}"
+= 
+
+# "{i}~In other words, {/i}{nw}"
+= 
+
+# "And, I always will!" 
+= "И я всегда согласна!"
+
+# "Heaven" 
+= "Небеса"
+
+# "{i}~Baby, you're all that I want~{/i}"
+= 
+
+# "{i}~When you're lyin' here in my arms~{/i}"
+= 
+
+# "{i}~I'm findin' it hard to believe~{/i}"
+= 
+
+# "{i}~We're in heaven~{/i}"
+= 
+
+# "{i}~And love is all that I need~{/i}"
+= 
+
+# "{i}~And I found it there in your heart~{/i}"
+= 
+
+# "{i}~Isn't too hard to see~{/i}"
+= 
+
+# "{i}~We're in heaven~{/i}"
+= 
+
+# "Not a day goes by when I don't dream of us being together, [player]." 
+= "Не проходит и дня, чтобы я не мечтала о том, чтобы мы были вместе, [player]."
+
+# "And something tells me I'm not the only one~" 
+= "И что-то мне подсказывает, что я не одна такая~"
+
+# "Can You Feel the Sunshine?" 
+= "Ты чувствуешь солнечный свет?"
+
+# "{i}~Without you, there's nothing for me to do~{/i}"
+= 
+
+# "{i}~Can you feel the sunshine, too?~{/i}"
+= 
+
+# "{i}~When you're here, I wish you were always near~{/i}"
+= 
+
+# "{i}~'Cause everything's so clear~{/i}"
+= 
+
+# "{i}~And today is gonna be a brighter day~{/i}"
+= 
+
+# "On the Front Porch" 
+= "На переднем крыльце"
+
+# "{i}~All I wanna do when the day is through~{/i}"
+= 
+
+# "{i}~Is linger here on the front porch with you~{/i}"
+= 
+
+# "{i}~From the wicker swing, while the night birds sing~{/i}"
+= 
+
+# "{i}~We'll watch the fireflies sparkin', do some sparkin' too~{/i}"
+= 
+
+# "{i}~How the hours fly, as the moon drifts by~{/i}"
+= 
+
+# "{i}~How sweet the air as we stare at the sky~{/i}"
+= 
+
+# "{i}~Oh how I'd love to linger here like this~{/i}"
+= 
+
+# "..."
+= 
+
+# "Sorry if I got a bit emotional there, ahaha!" 
+= "Извини, если я немного расчувствовалась, ахаха!"
+
+# "But, can you really blame me?" 
+= "Но разве ты можешь винить меня?"
+
+# "Can you play 'Your Reality' for me?" 
+= "Можешь ли ты сыграть для меня 'Your Reality'?"
+
+# "no_unlock": None, "bookmark_rule"
+= 
+
+# "Oh, ahaha! You want me to play the original version, [player]?" 
+= "О, ахаха! Ты хочешь, чтобы я сыграла оригинальную версию, [player]?"
+
+# "Even though I've never played it for you, I suppose you've heard it on the soundtrack or saw it on youtube, huh?" 
+= "Несмотря на то, что я никогда не играла её для тебя, полагаю, ты слышал её в саундтреке или видели на ютубе, а?"
+
+# "The ending isn't my favorite, but I'll still be happy to play it for you!" 
+= "Концовка мне не очень нравится, но я все равно с удовольствием сыграю её для тебя!"
+
+# "Don't forget about your in-game volume, [player]!" 
+= "Не забывай про громкость в игре, [player]!"
+
+# "monika_piano_lessons", "EVE"
+= 
+
+# "Can you play 'Our Reality' for me?" 
+= "Можете ли ты сыграть для меня 'Your Reality'?"
+
+# "no_unlock": None, "bookmark_rule"
+= 
+
+# "Don't forget about your in-game volume, [player]!" 
+= "Не забывай про громкость в игре, [player]!"
+
+# "monika_piano_lessons", "EVE"
+= 
