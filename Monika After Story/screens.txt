@@ -31,13 +31,13 @@
 = "Обновления были установлены. Пожалуйста перезапустите Монику После Истории.\n\n"
 
 # "Get spritepacks {a=http://monikaafterstory.com/releases.html}{i}{u}from our website{/u}{/i}{/a}.\n"
-= 
+= "Загрузите спрайтпаки {a=http://monikaafterstory.com/releases.html}{i}{u}с официального сайта{/u}{/i}{/a}.\n"
 
 # "See the patch notes {a=https://github.com/Monika-After-Story/MonikaModDev/releases/latest}{i}{u}here{/u}{/i}{/a}.\n"
-= 
+= "Подробное описание изменений {a=https://github.com/Monika-After-Story/MonikaModDev/releases/latest}{i}{u}здесь{/u}{/i}{/a}.\n"
 
 # "Confused about some features? Take a look at our {a=https://github.com/Monika-After-Story/MonikaModDev/wiki}{i}{u}wiki page{/u}{/i}{/a}."
-= 
+= "Смущают некоторые особенности? Зайдите на нашу {a=https://github.com/Monika-After-Story/MonikaModDev/wiki}{i}{u}страницу на вики{/u}{/i}{/a}."
 
 # "Please don't close the game on me!" 
 = "Не закрывай игру со мной!"
@@ -49,7 +49,7 @@
 = "Уходишь не попрощавшись, [player]?"
 
 # "WARNING: Enabling unstable mode will download updates from the "
-= 
+= "ПРЕДПРЕЖДЕНИЕ: Включение нестабильного режима загрузит обновления из "
 
 # "THIS IS NOT EASILY REVERSIBLE. " 
 = "ЭТО НЕЛЕГКО ИСПРАВИТЬ. "
@@ -76,7 +76,7 @@
 = "Хороший мальчик"
 
 # "Good. :)"
-= 
+= "Хорошо. :)"
 
 # "Just go." 
 = "Просто уходи"
@@ -88,25 +88,25 @@
 = 
 
 # "Nevermind", return_button_value="cancel_input"
-= 
+= "Неважно", return_button_value="cancel_input"
 
 # "History") action Function(_mas_quick_menu_cb, "history"
-= 
+= "История") action Function(_mas_quick_menu_cb, "history"
 
 # "Skip" 
 = "Пропуск"
 
 # "Auto") action Preference("auto-forward", "toggle"
-= 
+= "Авто") action Preference("auto-forward", "toggle"
 
 # "Save") action Function(_mas_quick_menu_cb, "save"
-= 
+= "Сохранить") action Function(_mas_quick_menu_cb, "save"
 
 # "Load") action Function(_mas_quick_menu_cb, "load"
-= 
+= "Загрузка") action Function(_mas_quick_menu_cb, "load"
 
 # "Settings") action Function(_mas_quick_menu_cb, "preferences"
-= 
+= "Настройки") action Function(_mas_quick_menu_cb, "preferences"
 
 # "#FFEEEB"
 = 
@@ -121,7 +121,7 @@
 = "Я уверен, что вы с Моникой будете прекрасной парой."
 
 # "...But just embarrass her instead."
-= 
+= "...Но вместо этого, будешь лишь смущать её."
 
 # "Why don't you choose something more appropriate." 
 = "Почему бы тебе не выбрать что-то более подходящее."
